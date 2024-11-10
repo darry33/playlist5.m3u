@@ -1,232 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة الفاتحة
-https://server12.mp3quran.net/maher/001.mp3
-#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة البقرة
-https://server12.mp3quran.net/maher/002.mp3
-#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة آل عمران
-http://teledunet.com:8080/tdn/tdn/65221
-#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النساء
-http://teledunet.com:8080/tdn/tdn/65220
-#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المائدة
-http://teledunet.com:8080/tdn/tdn/65219
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأنعام
-http://teledunet.com:8080/tdn/tdn/65218
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأعراف
-http://teledunet.com:8080/tdn/tdn/65217
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأنفال
-http://teledunet.com:8080/tdn/tdn/65216
-#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التوبة
-http://teledunet.com:8080/tdn/tdn/65215
-#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة يونس
-http://teledunet.com:8080/tdn/tdn/65214
-#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة هود
-http://teledunet.com:8080/tdn/tdn/65213
-#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة يوسف
-http://teledunet.com:8080/tdn/tdn/65212
-#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الرعد
-http://teledunet.com:8080/tdn/tdn/65211
-#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة إبراهيم
-http://teledunet.com:8080/tdn/tdn/65210
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحجر
-http://teledunet.com:8080/tdn/tdn/65209
-#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النحل
-http://teledunet.com:8080/tdn/tdn/65208
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الإسراء
-http://teledunet.com:8080/tdn/tdn/65207
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الكهف
-http://teledunet.com:8080/tdn/tdn/65206
-#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة مريم
-http://teledunet.com:8080/tdn/tdn/65205
-#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة طه
-http://teledunet.com:8080/tdn/tdn/65204
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأنبياء
-http://teledunet.com:8080/tdn/tdn/65203
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحج
-http://teledunet.com:8080/tdn/tdn/65202
-#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المؤمنون
-http://teledunet.com:8080/tdn/tdn/65201
-#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النور
-http://teledunet.com:8080/tdn/tdn/65200
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الفرقان
-http://teledunet.com:8080/tdn/tdn/65199
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الشعراء
-http://teledunet.com:8080/tdn/tdn/65198
-#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النمل
-http://teledunet.com:8080/tdn/tdn/65197
-#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القصص
-http://teledunet.com:8080/tdn/tdn/65196
-#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة العنكبوت
-http://teledunet.com:8080/tdn/tdn/65195
-#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الروم
-http://teledunet.com:8080/tdn/tdn/65194
-#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة لقمان
-http://teledunet.com:8080/tdn/tdn/65193
-#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة السجدة
-http://teledunet.com:8080/tdn/tdn/65192
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأحزاب
-http://teledunet.com:8080/tdn/tdn/65191
-#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة سبأ
-http://teledunet.com:8080/tdn/tdn/65190
-#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة فاطر
-http://teledunet.com:8080/tdn/tdn/65189
-#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة يس
-http://teledunet.com:8080/tdn/tdn/65188
-#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الصافات
-http://teledunet.com:8080/tdn/tdn/65187
-#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة ص
-http://teledunet.com:8080/tdn/tdn/65186
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الزمر
-http://teledunet.com:8080/tdn/tdn/65185
-#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة غافر
-http://teledunet.com:8080/tdn/tdn/65184
-#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة فصلت
-http://teledunet.com:8080/tdn/tdn/65183
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الشورى
-http://teledunet.com:8080/tdn/tdn/65182
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الزخرف
-http://teledunet.com:8080/tdn/tdn/65181
-#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الدخان
-http://teledunet.com:8080/tdn/tdn/65180
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الجاثية
-http://teledunet.com:8080/tdn/tdn/65179
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأحقاف
-http://teledunet.com:8080/tdn/tdn/65178
-#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة محمد
-http://teledunet.com:8080/tdn/tdn/65177
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الفتح
-http://teledunet.com:8080/tdn/tdn/65176
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحجرات
-http://teledunet.com:8080/tdn/tdn/65175
-#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة ق
-http://teledunet.com:8080/tdn/tdn/65174
-#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الذاريات
-http://teledunet.com:8080/tdn/tdn/65173
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الطور
-http://teledunet.com:8080/tdn/tdn/65172
-#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النجم
-http://teledunet.com:8080/tdn/tdn/65171
-#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القمر
-http://teledunet.com:8080/tdn/tdn/65170
-#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الرحمن
-http://teledunet.com:8080/tdn/tdn/65169
-#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الواقعة
-http://teledunet.com:8080/tdn/tdn/65168
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحديد
-http://teledunet.com:8080/tdn/tdn/65167
-#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المجادلة
-http://teledunet.com:8080/tdn/tdn/65166
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحشر
-http://teledunet.com:8080/tdn/tdn/65165
-#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الممتحنة
-http://teledunet.com:8080/tdn/tdn/65164
-#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الصف
-http://teledunet.com:8080/tdn/tdn/65163
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الجمعة
-http://teledunet.com:8080/tdn/tdn/65162
-#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المنافقون
-http://teledunet.com:8080/tdn/tdn/65161
-#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التغابن
-http://teledunet.com:8080/tdn/tdn/65160
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الطلاق
-http://teledunet.com:8080/tdn/tdn/65159
-#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التحريم
-http://teledunet.com:8080/tdn/tdn/65158
-#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الملك
-http://teledunet.com:8080/tdn/tdn/65157
-#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القلم
-http://teledunet.com:8080/tdn/tdn/65156
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الحاقة
-http://teledunet.com:8080/tdn/tdn/65155
-#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المعارج
-http://teledunet.com:8080/tdn/tdn/65154
-#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة نوح
-http://teledunet.com:8080/tdn/tdn/65153
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الجن
-http://teledunet.com:8080/tdn/tdn/65152
-#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المزمل
-http://teledunet.com:8080/tdn/tdn/65151
-#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المدثر
-http://teledunet.com:8080/tdn/tdn/65150
-#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القيامة
-http://teledunet.com:8080/tdn/tdn/65149
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الإنسان
-http://teledunet.com:8080/tdn/tdn/65148
-#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المرسلات
-http://teledunet.com:8080/tdn/tdn/65147
-#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النبأ
-http://teledunet.com:8080/tdn/tdn/65146
-#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النازعات
-http://teledunet.com:8080/tdn/tdn/65145
-#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة عبس
-http://teledunet.com:8080/tdn/tdn/65144
-#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التكوير
-http://teledunet.com:8080/tdn/tdn/65143
-#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الانفطار
-http://teledunet.com:8080/tdn/tdn/65142
-#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المطففين
-http://teledunet.com:8080/tdn/tdn/65141
-#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الانشقاق
-http://teledunet.com:8080/tdn/tdn/65140
-#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة البروج
-http://teledunet.com:8080/tdn/tdn/65139
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الطارق
-http://teledunet.com:8080/tdn/tdn/65138
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الأعلى
-http://teledunet.com:8080/tdn/tdn/65137
-#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الغاشية
-http://teledunet.com:8080/tdn/tdn/65136
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الفجر
-http://teledunet.com:8080/tdn/tdn/65135
-#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة البلد
-http://teledunet.com:8080/tdn/tdn/65134
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الشمس
-http://teledunet.com:8080/tdn/tdn/65133
-#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الليل
-http://teledunet.com:8080/tdn/tdn/65132
-#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الضحى
-http://teledunet.com:8080/tdn/tdn/65131
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الشرح
-http://teledunet.com:8080/tdn/tdn/65130
-#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التين
-http://teledunet.com:8080/tdn/tdn/65129
-#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة العلق
-http://teledunet.com:8080/tdn/tdn/65128
-#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القدر
-http://teledunet.com:8080/tdn/tdn/65127
-#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة البينة
-http://teledunet.com:8080/tdn/tdn/65126
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الزلزلة
-http://teledunet.com:8080/tdn/tdn/65125
-#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة العاديات
-http://teledunet.com:8080/tdn/tdn/65124
-#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة القارعة
-http://teledunet.com:8080/tdn/tdn/65123
-#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة التكاثر
-http://teledunet.com:8080/tdn/tdn/65122
-#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة العصر
-http://teledunet.com:8080/tdn/tdn/65121
-#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الهمزة
-http://teledunet.com:8080/tdn/tdn/65120
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الفيل
-http://teledunet.com:8080/tdn/tdn/65119
-#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة قريش
-http://teledunet.com:8080/tdn/tdn/65118
-#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الماعون
-http://teledunet.com:8080/tdn/tdn/65117
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الكوثر
-http://teledunet.com:8080/tdn/tdn/65116
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الكافرون
-http://teledunet.com:8080/tdn/tdn/65115
-#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النصر
-http://teledunet.com:8080/tdn/tdn/65114
-#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة المسد
-http://teledunet.com:8080/tdn/tdn/65113
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الإخلاص
-http://teledunet.com:8080/tdn/tdn/65112
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الفلق
-http://teledunet.com:8080/tdn/tdn/65111
-#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة الناس
-http://teledunet.com:8080/tdn/tdn/65110
+
 #EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة الفاتحة
 https://server12.mp3quran.net/maher/001.mp3
 #EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة البقرة
@@ -841,7 +614,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="🇲🇦 MAROC",Al Maghribia (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🇲🇦 MAROC",Arryadia (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🇲🇦 MAROC;⚽ SPORTS",Arryadia (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="🇲🇦 MAROC",Assadissa (360p)
@@ -932,11 +705,11 @@ http://apontv.net:80/270223522003493/1593574628/196
 http://apontv.net:80/270223522003493/1593574628/64539
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="http://picons.atlaspro.to/pubs/december2020/30-10-21/zahratv.png" group-title="🇩🇿 ALGERIA",DZ | ZAHRA TV
 http://apontv.net:80/270223522003493/1593574628/88593
-#EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="🇩🇿 ALGERIA",DZ | AL HEDDAF TV
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="🇩🇿 ALGERIA;⚽ SPORTS",DZ | AL HEDDAF TV
 http://apontv.net:80/270223522003493/1593574628/174
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/FADJRTV.png" group-title="🇩🇿 ALGERIA",DZ | EL FADJR
 http://apontv.net:80/270223522003493/1593574628/4702
-#EXTINF:-1 tvg-id="" tvg-name="DZ | 4KIDS" tvg-logo="" group-title="🇩🇿 ALGERIA",DZ | 4KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DZ | 4KIDS" tvg-logo="" group-title="🇩🇿 ALGERIA;👶 KIDS",DZ | 4KIDS
 http://apontv.net:80/270223522003493/1593574628/95129
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/watanya.png" group-title="🇩🇿 ALGERIA",DZ | EL WATANIYA TV
 http://apontv.net:80/270223522003493/1593574628/70941
@@ -954,9 +727,9 @@ http://apontv.net:80/270223522003493/1593574628/91281
 http://apontv.net:80/270223522003493/1593574628/124267
 #EXTINF:-1 tvg-id="BerbereTV.ar" tvg-name="DZ | BERBERE TV" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/BERBERETV.png" group-title="🇩🇿 ALGERIA",DZ | BERBERE TV
 http://apontv.net:80/270223522003493/1593574628/180
-#EXTINF:-1 tvg-id="" tvg-name="DZ | ENTV WEB SPORT " tvg-logo="http://aptvpix.net/pubs/2022/dzsport.png" group-title="🇩🇿 ALGERIA",DZ | ENTV WEB SPORT 
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ENTV WEB SPORT " tvg-logo="http://aptvpix.net/pubs/2022/dzsport.png" group-title="🇩🇿 ALGERIA;⚽ SPORTS",DZ | ENTV WEB SPORT 
 http://apontv.net:80/270223522003493/1593574628/98640
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="DZ | ENTV WEB SPORT 2 " tvg-logo="http://aptvpix.net/pubs/2022/dzsport.png" group-title="🇩🇿 ALGERIA",DZ | ENTV WEB SPORT 2 
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="DZ | ENTV WEB SPORT 2 " tvg-logo="http://aptvpix.net/pubs/2022/dzsport.png" group-title="🇩🇿 ALGERIA;⚽ SPORTS",DZ | ENTV WEB SPORT 2 
 http://apontv.net:80/270223522003493/1593574628/77735
 #EXTINF:-1 tvg-id="NessmaElJadida.tn" tvg-logo="https://i.imgur.com/66CJtdz.png" group-title="🇹🇳 TUNISIA",Nessma (1080p)
 https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
@@ -1010,7 +783,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="🇴🇲 OMAN",Oman Mubashir (1080p)
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="🇴🇲 OMAN",Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="🇴🇲 OMAN;⚽ SPORTS",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="🇴🇲 OMAN",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
@@ -1049,17 +822,17 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-logo="https://i.imgur.com/hqEbc49.png" group-title="🇰🇼 KUWAIT",KTV Ethraa (1080p)
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="🇰🇼 KUWAIT",KTV Sport (1080p)
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="🇰🇼 KUWAIT;⚽ SPORTS",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇼 KUWAIT",KTV Sport Plus (1080p)
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇼 KUWAIT;⚽ SPORTS",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="🇰🇼 KUWAIT",Marina TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="🇧🇭 BAHRAIN",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="🇧🇭 BAHRAIN",Bahrain Sports 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="🇧🇭 BAHRAIN;⚽ SPORTS",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="🇧🇭 BAHRAIN",Bahrain Sports 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="🇧🇭 BAHRAIN;⚽ SPORTS",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="🇧🇭 BAHRAIN",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
@@ -1105,9 +878,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="🇦🇪 UAE",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiUnited Arab Emirates1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="🇦🇪 UAE",Abu Dhabi United Arab Emirates 1 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiUnited Arab Emirates1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="🇦🇪 UAE;⚽ SPORTS",Abu Dhabi United Arab Emirates 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiUnited Arab EmiratesChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiUnited Arab Emirates2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="🇦🇪 UAE",Abu Dhabi United Arab Emirates 2 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiUnited Arab Emirates2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="🇦🇪 UAE;⚽ SPORTS",Abu Dhabi United Arab Emirates 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiUnited Arab EmiratesChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪 UAE",Ajman TV (1080p)
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
@@ -1135,17 +908,17 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="🇦🇪 UAE",Dubai One (1080p)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="🇦🇪 UAE",Dubai Racing 2 (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai Racing 2 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="🇦🇪 UAE",Dubai Racing 3 (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai Racing 3 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="🇦🇪 UAE",Dubai Racing (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai Racing (1080p)
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="🇦🇪 UAE",Dubai United Arab Emirates 1 (1080p)
+#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai United Arab Emirates 1 (1080p)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="🇦🇪 UAE",Dubai United Arab Emirates 2 (720p)
+#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai United Arab Emirates 2 (720p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="🇦🇪 UAE",Dubai United Arab Emirates 3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DubaiUnited Arab Emirates3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="🇦🇪 UAE;⚽ SPORTS",Dubai United Arab Emirates 3 (1080p) [Not 24/7]
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪 UAE",Dubai TV (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
@@ -1179,7 +952,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 #EXTINF:-1 tvg-id="SkyUnited Arab EmiratesArabiaVertical.ae" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="🇦🇪 UAE",Sky United Arab Emirates Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="🇦🇪 UAE",Spacetoon (1080p)
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="🇦🇪 UAE;👶 KIDS",Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="UBL.ae" tvg-logo="https://i.imgur.com/pt7gl1T.png" group-title="🇦🇪 UAE",UBL (720p)
 http://150.242.21.81:8088/hls/ubl.m3u8
@@ -1217,7 +990,7 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqSAUDIPortrait.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="🇸🇦 SAUDI ARABIA",Asharq SAUDI Portrait (1280p)
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="🇸🇦 SAUDI ARABIA",Atfal & Mawaheb TV (1080p)
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="🇸🇦 SAUDI ARABIA;👶 KIDS",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="Ayat.sa" tvg-logo="https://i.imgur.com/PUUb1gI.png" group-title="🇸🇦 SAUDI ARABIA",Ayaat (720p)
 https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
@@ -1234,17 +1007,17 @@ https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 https://edge.taghtia.com/sa/15.m3u8
 #EXTINF:-1 tvg-id="KaifTV.sa" tvg-logo="https://i.imgur.com/mkzRTuE.png" group-title="🇸🇦 SAUDI ARABIA",Kaif TV (576p) [Not 24/7]
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-id="KSASAUDI1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="🇸🇦 SAUDI ARABIA",KSA SAUDI 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KSASAUDI1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",KSA SAUDI 1 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="KSASAUDI2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="🇸🇦 SAUDI ARABIA",KSA SAUDI 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KSASAUDI2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",KSA SAUDI 2 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="KSASAUDI3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="🇸🇦 SAUDI ARABIA",KSA SAUDI 3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KSASAUDI3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",KSA SAUDI 3 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="🇸🇦 SAUDI ARABIA",Makkah TV (576p)
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="🇸🇦 SAUDI ARABIA",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="🇸🇦 SAUDI ARABIA",MBC 3 KSA (1080p)
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="🇸🇦 SAUDI ARABIA;👶 KIDS",MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="🇸🇦 SAUDI ARABIA",MBC 4 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
@@ -1272,9 +1045,9 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 https://edge.taghtia.com/sa/11.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="🇸🇦 SAUDI ARABIA",SBC (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="🇸🇦 SAUDI ARABIA",SSC 1 (720p)
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="SSCActionWaleed.sa" tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="🇸🇦 SAUDI ARABIA",SSC Action Waleed (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SSCActionWaleed.sa" tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="🇸🇦 SAUDI ARABIA;⚽ SPORTS",SSC Action Waleed (1080p) [Not 24/7]
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="🇸🇦 SAUDI ARABIA",Thikrayat TV (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/3.m3u8
@@ -1485,7 +1258,7 @@ http://82.212.74.4:8000/live/2105.m3u8
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanTV.jo" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="🇯🇴 JORDAN",Jordan Satellite Channel (1080p)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="JordanSport.jo" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="🇯🇴 JORDAN",Jordan Sport (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="🇯🇴 JORDAN;⚽ SPORTS",Jordan Sport (1080p) [Geo-blocked]
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="🇯🇴 JORDAN",Kaifa TV (576p)
 http://82.212.74.2:8000/live/7311.m3u8
@@ -1513,7 +1286,7 @@ http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="🇯🇴 JORDAN",Roya TV (1080p) [Not 24/7]
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-logo="https://i.imgur.com/5j8z6cc.png" group-title="🇯🇴 JORDAN",Toyor Al-Jannah (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-logo="https://i.imgur.com/5j8z6cc.png" group-title="🇯🇴 JORDAN;👶 KIDS",Toyor Al-Jannah (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸 PALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
@@ -1573,63 +1346,63 @@ http://apontv.net:80/270223522003493/1593574628/47755
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR |  LANA Plus" tvg-logo="" group-title="🇸🇾 SYRIA",AR |  LANA Plus
 http://apontv.net:80/270223522003493/1593574628/38198
-#EXTINF:-1 tvg-id="1",tvg-logo="https://mat4k.com:8080/images/6zqKvJVE4DZ7fSpdgcpeLJN0yAC_big.jpg" group-title="movie" , |AR| Luck
+#EXTINF:-1 tvg-id="1"tvg-logo="https://mat4k.com:8080/images/6zqKvJVE4DZ7fSpdgcpeLJN0yAC_big.jpg" group-title="movie" , |AR| Luck
 http://teledunet.com:8080/movie/tdn/tdn/316283346.mkv  
-#EXTINF:-1 tvg-id="2",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHnKFqciQeaZASXHcr65NKfQp83.jpg" group-title="movie" , |SUBAR| Ainbo: Spirit of the Amazon (2021)
+#EXTINF:-1 tvg-id="2"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHnKFqciQeaZASXHcr65NKfQp83.jpg" group-title="movie" , |SUBAR| Ainbo: Spirit of the Amazon (2021)
 http://teledunet.com:8080/movie/tdn/tdn/316227049.mkv
-#EXTINF:-1 tvg-id="3",tvg-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqRKcVybzM2NXV9p9vvx337HMXy.jpg" group-title="movie" , |SUBAR| Felix and the Treasure of Morgäa (2021)
+#EXTINF:-1 tvg-id="3"tvg-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqRKcVybzM2NXV9p9vvx337HMXy.jpg" group-title="movie" , |SUBAR| Felix and the Treasure of Morgäa (2021)
 http://teledunet.com:8080/movie/tdn/tdn/316227051.mkv
-#EXTINF:-1 tvg-id="4 ",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dExO5G2iaaTxYnLIFKLWofDzyI.jpg"group-title="movie" , |SUBAR| The Boss Baby: Family Business (2021)
+#EXTINF:-1 tvg-id="4 "tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dExO5G2iaaTxYnLIFKLWofDzyI.jpg"group-title="movie" , |SUBAR| The Boss Baby: Family Business (2021)
 http://teledunet.com:8080/movie/tdn/tdn/316227056.mkv
-#EXTINF:-1 tvg-id="5 " ,tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg"       group-title="movie" ,|SUBAR| Peter Rabbit 2: The Runaway (2021)
+#EXTINF:-1 tvg-id="5 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg" group-title="movie" ,|SUBAR| Peter Rabbit 2: The Runaway (2021)
 http://teledunet.com:8080/movie/tdn/tdn/316225187.mkv 
-#EXTINF:-1 tvg-id=" 6" |SUBAR| Luca (2021)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEQ80QLtP3IFR8ZxwdSXWk0WL4e.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 6" |SUBAR| Luca (2021)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEQ80QLtP3IFR8ZxwdSXWk0WL4e.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316224046.mkv 
-#EXTINF:-1 tvg-id=" 7" |AR| (2021) رايا:أخر تنين",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDnumcHRzK9ljWtG5L1zRPhFRJg.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 7" |AR| (2021) رايا:أخر تنين"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDnumcHRzK9ljWtG5L1zRPhFRJg.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316222699.mkv 
-#EXTINF:-1 tvg-id=" 8" |SUBAR| Scooby-Doo! et la légende du roi Arthur (2021)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GoZaaZKwclJaimtZEslVNKflzU.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 8" |SUBAR| Scooby-Doo! et la légende du roi Arthur (2021)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GoZaaZKwclJaimtZEslVNKflzU.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316189525.mkv 
-#EXTINF:-1 tvg-id=" 9" |SUBAR|Sonic, le film (2020)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi6qwClvTfZJiI5GhsKbtkqg28W.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 9" |SUBAR|Sonic, le film (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi6qwClvTfZJiI5GhsKbtkqg28W.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316190325.mkv
-#EXTINF:-1 tvg-id="10 " |AR| Toy Story 2 (1999) حكاية لعبة 2",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDOSztEvyOUdrDO5NVoq4CQ28AL.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="10 " |AR| Toy Story 2 (1999) حكاية لعبة 2"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDOSztEvyOUdrDO5NVoq4CQ28AL.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316178423.mkv
-#EXTINF:-1 tvg-id=" 11" |AR| Toy Story 3 (2010)- حكاية لعبة 3",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlQKyqYpEuFfFhKs1YHg28pyF7e.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 11" |AR| Toy Story 3 (2010)- حكاية لعبة 3"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlQKyqYpEuFfFhKs1YHg28pyF7e.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316178424.mkv
-#EXTINF:-1 tvg-id=" 12" |AR| Toy Story 4 (2019) حكاية لعبة 4",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTTYykZZwYhj9qpAqiFxtUAamLI.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" 12" |AR| Toy Story 4 (2019) حكاية لعبة 4"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTTYykZZwYhj9qpAqiFxtUAamLI.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316178425.mkv 
-#EXTINF:-1 tvg-id="13 " |AR| Toy Story (1995) حكاية لعبة",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="13 " |AR| Toy Story (1995) حكاية لعبة"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316178426.mkv
-#EXTINF:-1 tvg-id="14 " |SUBAR| Soul (2020)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTX5dUlsjgzj5wCnui8QYwhkITG.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="14 " |SUBAR| Soul (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTX5dUlsjgzj5wCnui8QYwhkITG.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316171498.mp4
-#EXTINF:-1 tvg-id="15 " |AR| Kung Fu Panda (2008)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g7Xfl0vDhgPFlx6YGfZiBqbWSm.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="15 " |AR| Kung Fu Panda (2008)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g7Xfl0vDhgPFlx6YGfZiBqbWSm.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316172896.mkv
-#EXTINF:-1 tvg-id="16 " |AR| Kung Fu Panda 2 (2011)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKVBcZn7v7PH7jbjMGtP4Vhd1Rx.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="16 " |AR| Kung Fu Panda 2 (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKVBcZn7v7PH7jbjMGtP4Vhd1Rx.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316172897.mkv 
-#EXTINF:-1 tvg-id="17 " |AR| Kung Fu Panda 3 (2016)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id="17 " |AR| Kung Fu Panda 3 (2016)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316172898.mkv 
-#EXTINF:-1 tvg-id=" " |AR| Le voyage d\'Arlo ",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gypSFtR4Atupw8elu3DDHsYaaOU.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Le voyage d\'Arlo "tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gypSFtR4Atupw8elu3DDHsYaaOU.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316121963.mp4
-#EXTINF:-1 tvg-id=" " |AR| Bilal : La Naissance d\'une légende (2015)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKn93bGFpAuvJMkrzDwRqu0LiT0.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Bilal : La Naissance d\'une légende (2015)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKn93bGFpAuvJMkrzDwRqu0LiT0.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131325.mkv
-#EXTINF:-1 tvg-id=" " |AR| Cars 2 (2011)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibt7SqOLUCGeWVGgFlbzFluk4ES.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Cars 2 (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibt7SqOLUCGeWVGgFlbzFluk4ES.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131326.mkv 
-#EXTINF:-1 tvg-id=" " |AR| Cars 3 (2017)DUB",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kLxLFtfvmg817XcRmnEE4FXLtA.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Cars 3 (2017)DUB"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kLxLFtfvmg817XcRmnEE4FXLtA.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131327.mkv
-#EXTINF:-1 tvg-id=" " |AR| CARS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg"      group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| CARS"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131328.mkv 
-#EXTINF:-1 tvg-id=" " |AR| Cars 2 (2011)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibt7SqOLUCGeWVGgFlbzFluk4ES.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Cars 2 (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibt7SqOLUCGeWVGgFlbzFluk4ES.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131329.mkv
-#EXTINF:-1 tvg-id=" " |AR| Cars 3 (2017)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kLxLFtfvmg817XcRmnEE4FXLtA.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Cars 3 (2017)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kLxLFtfvmg817XcRmnEE4FXLtA.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131330.mkv
-#EXTINF:-1 tvg-id=" " |AR| Cars : Quatre roues (2006)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Cars : Quatre roues (2006)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131331.mkv 
-#EXTINF:-1 tvg-id=" " |AR| Chicken Little (2005)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3MHlaP07JeSHQxsI07zFOkQBmJ.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Chicken Little (2005)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3MHlaP07JeSHQxsI07zFOkQBmJ.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131332.mkv
-#EXTINF:-1 tvg-id=" " |AR| La Bande à Picsou, le film : Le Trésor de la lampe perdue (1990)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RP5z6y3HmYuiEJzVlmJ17sWxTO.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| La Bande à Picsou, le film : Le Trésor de la lampe perdue (1990)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RP5z6y3HmYuiEJzVlmJ17sWxTO.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131333.mkv
-#EXTINF:-1 tvg-id=" " |AR| Ferdinand (2017)",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il0QVflMD6TWKWygCVxSEZpfSgc.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Ferdinand (2017)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il0QVflMD6TWKWygCVxSEZpfSgc.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131334.mp4
-#EXTINF:-1 tvg-id=" " |AR| Le Monde de Dory (2016)SUB ",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBXWl2y6opjVPNwue5lAQR9R4fq.jpg"       group-title="movie" ,
+#EXTINF:-1 tvg-id=" " |AR| Le Monde de Dory (2016)SUB "tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBXWl2y6opjVPNwue5lAQR9R4fq.jpg" group-title="movie" ,
 http://teledunet.com:8080/movie/tdn/tdn/316131335.mkv 
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷 Turkey",TRT 1
