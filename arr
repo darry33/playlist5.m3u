@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة الفاتحة
+https://server12.mp3quran.net/maher/001.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة البقرة
+https://server12.mp3quran.net/maher/002.mp3
 #EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة آل عمران
 http://teledunet.com:8080/tdn/tdn/65221
 #EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="QURAN [VIP]",سورة النساء
