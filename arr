@@ -2826,506 +2826,730 @@ https://z88.ubtvfans.com/live/rx3/2300/087121b3ad451db59e5c5239ca631058/index.m3
 https://z88.ubtvfans.com/live/rx3/2301/01edfb1895f25be00b4c3268caae8f65/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fuji next " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",fuji next
 http://cookies.elementfx.com/ublive/ublive.php?id=2750
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpinternacional.webp",RTP Internacional 🇵🇹
+#EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpinternacional.webp",RTP Internacional 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2022/08/portaltv_b1_w.png" group-title="Portugal 🇵🇹",Tv Portuguesa 🇵🇹🇧🇷
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2022/08/portaltv_b1_w.png" group-title="🇵🇹 Portugal ",Tv Portuguesa 🇧🇷
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="🇵🇹 Portugal ",RTP 1  
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal 🇵🇹",RTP 2 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="🇵🇹 Portugal ",RTP 2  
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.3.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Portugal 🇵🇹",RTP 3 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="RTP.3.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🇵🇹 Portugal ",RTP 3 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.Memória.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="Portugal 🇵🇹",RTP Memoria 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="RTP.Memória.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="🇵🇹 Portugal ",RTP Memoria  
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.Açores.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="Portugal 🇵🇹",RTP Açores 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="RTP.Açores.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="🇵🇹 Portugal ",RTP Açores  
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RTP.Madeira.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="Portugal 🇵🇹",RTP Madeira 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="RTP.Madeira.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="🇵🇹 Portugal ",RTP Madeira  
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
 
-#EXTINF:-1 tvg-name="RTP Africa" tvg-id="RTP.África.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="Portugal 🇵🇹",RTP África 🇵🇹
+#EXTINF:-1 tvg-name="RTP Africa" tvg-id="RTP.África.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="🇵🇹 Portugal ",RTP África 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="ARTV.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ARTV.webp",ARTV 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="ARTV.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ARTV.webp",ARTV  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
 
 
---- 📺  SIC  🔰
 
 
-#EXTINF:-1 tvg-name="" tvg-id="SIC.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC 🇵🇹
+
+#EXTINF:-1 tvg-name="" tvg-id="SIC.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="SIC.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="SIC.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC  
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="SIC.Notícias.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="SIC.Notícias.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias  
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="SIC.Notícias.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="SIC.Notícias.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias  
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
-#EXTINF:-1 tvg-id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" tvg-name="SIC Replay" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICReplay.webp",SIC Replay 🇵🇹
+#EXTINF:-1 tvg-id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" tvg-name="SIC Replay" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICReplay.webp",SIC Replay 
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="549519c3-31fa-42de-a621-15e981082fd9" tvg-name="SIC Alta Definição" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICAltaDefinicao.webp",SIC Alta Definição 🇵🇹
+#EXTINF:-1 tvg-id="549519c3-31fa-42de-a621-15e981082fd9" tvg-name="SIC Alta Definição" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICAltaDefinicao.webp",SIC Alta Definição 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
---- 📺  TVI  🔰
 
-#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
+
+#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNCA0OjQ1OjUwIFBNJmhhc2hfdmFsdWU9R0VMZVhrRElEdk5oRGRBblFSSk9FUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdmYjFmMWE3LWM3OWYtNDZlOS05MGQ1LWU4NzA3ZmQzYmZmMw==/
 
-#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNCA0OjQ1OjQ5IFBNJmhhc2hfdmFsdWU9NXV2UDNPOWE2R2dUVWlzZ2FHWUt4QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEyN2M2M2JlLTZjNTQtNGJkZC04ZTM1LWZjY2M0ZjIwOWNlNA==/
 
-#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 🇵🇹
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 🇵🇹
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNCA0OjQ1OjUwIFBNJmhhc2hfdmFsdWU9QmtpRW9aaWM2RzFHSWp5djFvdXlNZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ2ODQ3YWIzLWI1ZmEtNGMxNC1iZTcyLWM1YjAyMjc0ZjkxNg==/
 
-#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 
 https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="tvi.africa.pt" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi%C3%81frica.webp",TVI África 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="tvi.africa.pt" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi%C3%81frica.webp",TVI África 
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVI.Reality.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp",TVI Reality 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="TVI.Reality.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp",TVI Reality 
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fazenda2023.jpg/revision/latest/scale-to-width-down/1200?cb=20231004235951&path-prefix=pt-br",A Fazenda 🇧🇷
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fazenda2023.jpg/revision/latest/scale-to-width-down/1200?cb=20231004235951&path-prefix=pt-br",A Fazenda 🇧🇷
 http://hzcdn.vood.top/hls/397630_.m3u8
 
-#EXTINF:-1 tvg-id="Mediaset.Extra.HD.it" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_def.png",Grande Fratello 🇮🇹
+#EXTINF:-1 tvg-id="Mediaset.Extra.HD.it" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_def.png",Grande Fratello 🇮🇹
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68344.ts
 
-#EXTINF:-1 tvg-id="655f30c19d5ac4000816e9b3"  tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png",Big Brother 🇨🇦
+#EXTINF:-1 tvg-id="655f30c19d5ac4000816e9b3"  tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png",Big Brother 🇨🇦
 https://is.gd/cUIhZT?655f30c19d5ac4000816e9b3.m3u8
-#EXTINF:-1 tvg-id="FRBC3300008XK" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20231115T012257SQUARE.png_20231115012258.png",Secret Story 🇫🇷
+#EXTINF:-1 tvg-id="FRBC3300008XK" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20231115T012257SQUARE.png_20231115012258.png",Secret Story 🇫🇷
 https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Porto.Canal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/PortoCanal.webp",Porto Canal 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="Porto.Canal.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/PortoCanal.webp",Porto Canal  
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Euronews.pt" group-title="Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/61de96114757070008d33cae/colorLogoPNG.png",Euronews 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="Euronews.pt" group-title="🇵🇹 Portugal " tvg-logo="https://images.pluto.tv/channels/61de96114757070008d33cae/colorLogoPNG.png",Euronews 
 https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-id="Dog.TV.br" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://www.dogtv.com/hs-fs/hubfs/DOGTV_April2023/Images/Logo.png?width=753&height=546&name=Logo.png",Dog tv 🇺🇸
+#EXTINF:-1 tvg-id="Dog.TV.br" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://www.dogtv.com/hs-fs/hubfs/DOGTV_April2023/Images/Logo.png?width=753&height=546&name=Logo.png",Dog tv 🇺🇸
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZafj4H-4wdz5b5onWW-qBzFNUKdhB2T5FRJ2K_7NaydE/ts
 
-#EXTINF:-1 tvg-id="AviaçãoTV.pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/aviaçãotv.png" group-title="Portugal 🇵🇹",AviaçãoTV 🇵🇹 (By thomraider12)
+#EXTINF:-1 tvg-id="AviaçãoTV.pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/aviaçãotv.png" group-title="🇵🇹 Portugal ",AviaçãoTV  (By thomraider12)
 https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="FTV.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Paris 🇺🇸
+#EXTINF:-1 tvg-name="" tvg-id="FTV.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Paris 🇺🇸
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="FTV.HD.pt" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnight 🇺🇸
+#EXTINF:-1 tvg-id="FTV.HD.pt" tvg-name="" group-title="🇵🇹 Portugal " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnight 🇺🇸
 https://bit.ly/3WlaQCx?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Love Wine" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Lovewine.webp",Love Wine 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="Love Wine" group-title="🇵🇹 Portugal " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Lovewine.webp",Love Wine 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Fuel.TV.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png",Fuel tv 🇵🇹 (cc 🇵🇹🇧🇷)
+#EXTINF:-1 tvg-name="" tvg-id="Fuel.TV.HD.pt" group-title="🇵🇹 Portugal " tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png",Fuel tv  (cc 🇧🇷)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="M+ Originales" group-title="ESPAÑA 🇪🇸" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png",M+ Originales 🇪🇸 ⚽️
+#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="M+ Originales" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png",M+ Originales  ⚽️
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56114
 
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Multicine 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Multicine 
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Clasicos 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Clasicos 
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Comedia 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Comedia 
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Mentes Inquietas 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Mentes Inquietas 
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Equipo Investigacion 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Equipo Investigacion 
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
-#EXTINF:-1 tvg-id="Star.TVE.HD.co" tvg-name="Star TVE" group-title="ESPAÑA 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star tve 🇪🇸
+#EXTINF:-1 tvg-id="Star.TVE.HD.co" tvg-name="Star TVE" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star tve 
 http://168.181.122.234:8000/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVE" group-title="ESPAÑA 🇪🇸" tvg-logo="https://i.imgur.com/iODADvi.png",tve Internacional 🇪🇸
+#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVE" group-title="🇪🇸 ESPAÑA " tvg-logo="https://i.imgur.com/iODADvi.png",tve Internacional 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVE.Internacional.(North.and.South.America).(TVE).us" tvg-name="TVE" group-title="ESPAÑA 🇪🇸" tvg-logo="https://i.imgur.com/iODADvi.png",tve Internacional 🇪🇸
+#EXTINF:-1 tvg-id="TVE.Internacional.(North.and.South.America).(TVE).us" tvg-name="TVE" group-title="🇪🇸 ESPAÑA " tvg-logo="https://i.imgur.com/iODADvi.png",tve Internacional 
 http://181.78.11.12:1010/play/a07g/index.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="LA 1" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/la%201.webp",La 1 🇪🇸
+#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="LA 1" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/la%201.webp",La 1 
 https://bit.ly/48Xf5t6?profile=ESBC4100001NZ.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="LA 2" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/la%202.webp",La 2 🇪🇸
+#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="LA 2" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/la%202.webp",La 2 
 https://bit.ly/3u1GriR?profile=ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="TV3.Cat.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png",TV3CAT 🇪🇸
+#EXTINF:-1 tvg-id="TV3.Cat.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png",TV3CAT 
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 
-#EXTINF:-1 tvg-name="3/24" tvg-id="3.24.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://statics.3cat.cat/img/favicons/324-favicon-192x192.png",3/24 🇪🇸
+#EXTINF:-1 tvg-name="3/24" tvg-id="3.24.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://statics.3cat.cat/img/favicons/324-favicon-192x192.png",3/24 
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/CGTNEspanol.webp",CGTN Español 🇪🇸
+#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/CGTNEspanol.webp",CGTN Español 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 🇪🇸
+#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 
 https://tvnoov.com/fadoo/antena3hd.m3u8
-#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 🇪🇸
+#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 
 http://motivatv.club/live/LOLA/1710/1070533.ts
 
-#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png",Cuatro 🇪🇸
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png",Cuatro 
 https://tvnoov.com/fadoo/cuatrohd.m3u8
-#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png",Cuatro 🇪🇸
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png",Cuatro 
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco.es" group-title="ESPAÑA 🇪🇸" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecinco 🇪🇸 
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco.es" group-title="🇪🇸 ESPAÑA " tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecinco  
 https://tvnoov.com/fadoo/telecincohd.m3u8
 
-#EXTINF:-1 tvg-name="LaSexta" tvg-id="La.Sexta.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp",La Sexta 🇪🇸
+#EXTINF:-1 tvg-name="LaSexta" tvg-id="La.Sexta.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp",La Sexta 
 https://tvnoov.com/fadoo/lasextahd.m3u8
 
-#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE.MAD.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BEMAD.webp",BeMad 🇪🇸 
+#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE.MAD.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BEMAD.webp",BeMad  
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56111
-#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE.MAD.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BEMAD.webp",BeMad 🇪🇸 
+#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE.MAD.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BEMAD.webp",BeMad  
 https://tvnoov.com/fadoo/bemadtvhd.m3u8
 
-#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría.de.Ficción.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf 🇪🇸
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría.de.Ficción.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf 
 https://tvnoov.com/fadoo/fdf.m3u8
-#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría.de.Ficción.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf 🇪🇸
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría.de.Ficción.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf 
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/54410
 
-#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp",Divinity 🇪🇸 
+#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp",Divinity  
 https://tvnoov.com/fadoo/divinity.m3u8
-#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp",Divinity 🇪🇸
+#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp",Divinity 
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/54489
 
-#EXTINF:-1 tvg-name="Mega" tvg-id="Mega.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega 🇪🇸 
+#EXTINF:-1 tvg-name="Mega" tvg-id="Mega.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega  
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/203666
 
-#EXTINF:-1 tvg-name="Neox" tvg-id="Neox.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox 🇪🇸
+#EXTINF:-1 tvg-name="Neox" tvg-id="Neox.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox 
 https://tvnoov.com/fadoo/neoxhd.m3u8
 
-#EXTINF:-1 tvg-name="Nova" tvg-id="Nova.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 🇪🇸
+#EXTINF:-1 tvg-name="Nova" tvg-id="Nova.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 
 https://tvnoov.com/fadoo/novahd.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-id="Nova.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 🇪🇸
+#EXTINF:-1 tvg-name="Nova" tvg-id="Nova.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 
 http://motivatv.club/live/LOLA/1710/1070638.ts
 
-#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss 🇪🇸
+#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss 
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59546
-#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss 🇪🇸
+#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss 
 https://nxt.plus:8443/live/olmos/1234guz/56896.ts
 
-#EXTINF:-1 tvg-id="DMAX.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇪🇸🇺🇸
+#EXTINF:-1 tvg-id="DMAX.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇺🇸
 https://tvnoov.com/fadoo/dmax.m3u8
-#EXTINF:-1 tvg-id="DMAX.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇪🇸🇺🇸
+#EXTINF:-1 tvg-id="DMAX.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇺🇸
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/117150
 
-#EXTINF:-1 tvg-id="Betevé.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://play-lh.googleusercontent.com/uYNepd16TsWvHIeRCkYofVSo_txS7c_lenKzMuD2QJnS1fPcDdUWet94kbOznszj22KS",betevé 🇪🇸
+#EXTINF:-1 tvg-id="Betevé.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://play-lh.googleusercontent.com/uYNepd16TsWvHIeRCkYofVSo_txS7c_lenKzMuD2QJnS1fPcDdUWet94kbOznszj22KS",betevé 
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
-#EXTINF:-1 tvg-id="La.Otra.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp",La Otra 🇪🇸
+#EXTINF:-1 tvg-id="La.Otra.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp",La Otra 
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVG.Europa.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia Europa 🇪🇸
+#EXTINF:-1 tvg-name="" tvg-id="TVG.Europa.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia Europa 
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVG.Europa.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia America 🇪🇸
+#EXTINF:-1 tvg-name="" tvg-id="TVG.Europa.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia America 
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVG.2.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia 2 🇪🇸
+#EXTINF:-1 tvg-name="" tvg-id="TVG.2.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico",Galicia 2 
 https://crtvg-events1.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",El Toro TV 🇪🇸
+#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",El Toro TV 
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB.1.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp",ETB 1 🇪🇸
+#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB.1.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp",ETB 1 
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB.1.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp",ETB 1 🇪🇸
+#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB.1.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp",ETB 1 
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:188_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-name="ETB 2" tvg-id="ETB.2.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB2.webp",ETB 2 🇪🇸
+#EXTINF:-1 tvg-name="ETB 2" tvg-id="ETB.2.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB2.webp",ETB 2 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ETB 3" tvg-id="ETB.3.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB3.webp",ETB 3 🇪🇸
+#EXTINF:-1 tvg-name="ETB 3" tvg-id="ETB.3.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB3.webp",ETB 3 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AragonTV.TV" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacional 🇪🇸
+#EXTINF:-1 tvg-id="AragonTV.TV" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacional 
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png",8 La Marina 🇪🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png",8 La Marina 
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.Int..es" tvg-name="Telemadrid" group-title="ESPAÑA 🇪🇸" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 🇪🇸
+#EXTINF:-1 tvg-id="Telemadrid.Int..es" tvg-name="Telemadrid" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía 🇪🇸 
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía  
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
-#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía 🇪🇸 
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía  
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía 🇪🇸 ▶️
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",Canal Sur Andalucía  ▶️
 https://livestream.zazerconer.workers.dev/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
 
-#EXTINF:-1 tvg-id="TV.Canaria.es" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canaria 🇪🇸 ▶️
+#EXTINF:-1 tvg-id="TV.Canaria.es" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canaria  ▶️
 https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
 
-#EXTINF:-1 tvg-name="Extremadura" tvg-id="Canal.Extremadura.Sat.es" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp",Canal Extremadura Sat 🇪🇸
+#EXTINF:-1 tvg-name="Extremadura" tvg-id="Canal.Extremadura.Sat.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp",Canal Extremadura Sat 
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="HuelvaTV.TV" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200",Huelva TV 🇪🇸
+#EXTINF:-1 tvg-id="HuelvaTV.TV" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200",Huelva TV 
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MarbellaTV.TV" tvg-name="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200",Marbella TV 🇪🇸
+#EXTINF:-1 tvg-id="MarbellaTV.TV" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200",Marbella TV 
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
-#EXTINF:-1 tvg-id="TELESUR.(Telesur).pe"  group-title="ESPAÑA 🇪🇸" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesur 🇻🇪
+#EXTINF:-1 tvg-id="TELESUR.(Telesur).pe"  group-title="🇪🇸 ESPAÑA " tvg-logo="https://i.imgur.com/P50VjRX.png",Telesur 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="teleSUR.ch"  group-title="ESPAÑA 🇪🇸" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesur 🇻🇪🇬🇧
+#EXTINF:-1 tvg-id="teleSUR.ch"  group-title="🇪🇸 ESPAÑA " tvg-logo="https://i.imgur.com/P50VjRX.png",Telesur 🇻🇪🇬🇧
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ESPAÑA 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp",Mundo Náutica 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp",Mundo Náutica 
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="" group-title="ESPAÑA" tvg-logo="https://www.dreamworks.com/images/favicon/android-icon-192x192.png",DreamWorks 🇪🇸
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://www.dreamworks.com/images/favicon/android-icon-192x192.png",DreamWorks 
 http://45.175.139.194:8000/play/a00s
 
-#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="" group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan 🇪🇸
+#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan 
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA" tvg-logo="https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png",TVG Xabarin 🇪🇸 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png",TVG Xabarin  
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES900001SH" tvg-name="" group-title="ESPAÑA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp",Mr. Bean 🇪🇸
+#EXTINF:-1 tvg-id="ES900001SH" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp",Mr. Bean 
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Funbox.(FUNBOX).cl" tvg-name="" group-title="ESPAÑA" tvg-logo="https://sck.pm/64sy",FunBox 🇵🇪
+#EXTINF:-1 tvg-id="Funbox.(FUNBOX).cl" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://sck.pm/64sy",FunBox 🇵🇪
 https://live-evg25.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES:.Pocoyó.es" group-title="ESPAÑA" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png",Pocoyó 🇪🇸
+#EXTINF:-1 tvg-id="ES:.Pocoyó.es" group-title="🇪🇸 ESPAÑA " tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png",Pocoyó 
 https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
 
-#EXTINF:-1 tvg-id="Toon.Goggles.en.Español.distro" tvg-name="" group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",Toon Goggles 🇪🇸
+#EXTINF:-1 tvg-id="Toon.Goggles.en.Español.distro" tvg-name="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",Toon Goggles 
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pequeradio" group-title="ESPAÑA" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV 🇪🇸
+#EXTINF:-1 tvg-id="" tvg-name="Pequeradio" group-title="🇪🇸 ESPAÑA " tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV 
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="France.2.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2 🇫🇷 
+#EXTINF:-1 tvg-id="France.2.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2  
 http://51.178.65.238/France2/index.m3u8
-#EXTINF:-1 tvg-id="France.2.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2 🇫🇷 
+#EXTINF:-1 tvg-id="France.2.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2  
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-id="France.2.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2 🇫🇷 
+#EXTINF:-1 tvg-id="France.2.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2  
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202465
 
-#EXTINF:-1 tvg-id="France.3.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp",France 3 🇫🇷
+#EXTINF:-1 tvg-id="France.3.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp",France 3 
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202466
-#EXTINF:-1 tvg-id="France.3.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp",France 3 🇫🇷
+#EXTINF:-1 tvg-id="France.3.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp",France 3 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 
-#EXTINF:-1 tvg-id="France.4.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png",France 4 🇫🇷 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png",France 4  
 http://onrev.xyz:80/live/SPIDER_NjKqYj/UrdiVGcB5A/202467.ts
-#EXTINF:-1 tvg-id="France.4.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png",France 4 🇫🇷 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png",France 4  
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202467
 
-#EXTINF:-1 tvg-id="France.5.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 5" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp",France 5 🇫🇷 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 5" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp",France 5  
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202468
-#EXTINF:-1 tvg-id="France.5.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 5" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp",France 5 🇫🇷 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-name="" group-title="🇫🇷 France " tvg-name="France 5" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp",France 5  
 http://69.64.57.208:8080/france5/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6 🇫🇷 
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6  
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202201
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6 🇫🇷 
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6  
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/187952
 
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://www.tf1info.fr/images/tf1info-logo-144x144.png",LCI 🇫🇷
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://www.tf1info.fr/images/tf1info-logo-144x144.png",LCI 
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/lci.m3u8
 
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷 
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX  
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tfx.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷 
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX  
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202492
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 🇫🇷
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 🇫🇷
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tmc.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 🇫🇷 
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC  
 http://185.59.221.131:8081/live/tmc/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Paris.Première.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 🇫🇷
+#EXTINF:-1 tvg-id="Paris.Première.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
-#EXTINF:-1 tvg-id="Paris.Première.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 🇫🇷
+#EXTINF:-1 tvg-id="Paris.Première.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 
 http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp",6ter 🇫🇷 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp",6ter  
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202632
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp",6ter 🇫🇷 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp",6ter  
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202632
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp",TF1 🇫🇷 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp",TF1  
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp",TF1 🇫🇷 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp",TF1  
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1 🇫🇷
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1 
 http://212.102.60.80/TF1/index.m3u8
 
-#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
+#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films  
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tf1sf.m3u8
-#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
+#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films  
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202627
-#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
+#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films  
 http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202627
 
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8 🇫🇷 
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8  
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8 🇫🇷 
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8  
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalplus/c8.m3u8
 
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp",RTL 9 🇫🇷 
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp",RTL 9  
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/187959
 
-#EXTINF:-1 tvg-id="CStar.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp",CSTAR 
+#EXTINF:-1 tvg-id="CStar.fr" group-title="🇫🇷 France " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp",CSTAR 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 
-#EXTINF:-1 tvg-id="Téva.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png",Téva 🇫🇷
+#EXTINF:-1 tvg-id="Téva.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png",Téva 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 
-#EXTINF:-1 tvg-id="NRJ12.fr" group-title="France 🇫🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png",NRJ12
+#EXTINF:-1 tvg-id="NRJ12.fr" group-title="🇫🇷 France " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 
-#EXTINF:-1 tvg-id="FRBD410000783" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM tv 🇫🇷
+#EXTINF:-1 tvg-id="FRBD410000783" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM tv 
 https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
 
-#EXTINF:-1 tvg-id="BFM.PARIS.ILE-DE-FRANCE.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM Paris 🇫🇷
+#EXTINF:-1 tvg-id="BFM.PARIS.ILE-DE-FRANCE.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM Paris 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.Alsace.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM Alsace 🇫🇷
+#EXTINF:-1 tvg-id="BFM.Alsace.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM Alsace 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.DICI.ALPES.DU.SUD.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALPES DU SUD 🇫🇷
+#EXTINF:-1 tvg-id="BFM.DICI.ALPES.DU.SUD.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALPES DU SUD 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.Grand.Lille.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LILLE 🇫🇷
+#EXTINF:-1 tvg-id="BFM.Grand.Lille.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LILLE 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.Grand.Littoral.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LITTORAL 🇫🇷
+#EXTINF:-1 tvg-id="BFM.Grand.Littoral.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LITTORAL 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM Lyon Métropole.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND Lyon 🇫🇷
+#EXTINF:-1 tvg-id="BFM Lyon Métropole.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND Lyon 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.MARSEILLE.PROVENCE.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND MARSEILLE 🇫🇷
+#EXTINF:-1 tvg-id="BFM.MARSEILLE.PROVENCE.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND MARSEILLE 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.NICE.COTE.D&apos;AZUR.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NICE COTE D AZUR 🇫🇷
+#EXTINF:-1 tvg-id="BFM.NICE.COTE.D&apos;AZUR.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NICE COTE D AZUR 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="" tvg-name="BFM.NORMANDIE.fr" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NORMANDIE 🇫🇷
+#EXTINF:-1 tvg-id="" tvg-name="BFM.NORMANDIE.fr" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NORMANDIE 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TECH AND CO 🇫🇷
+#EXTINF:-1 tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TECH AND CO 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.TOULON.VAR.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON VAR 🇫🇷
+#EXTINF:-1 tvg-id="BFM.TOULON.VAR.fr" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON VAR 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="20240319T052333SQUARE" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png",BFM Grands Reportages 🇫🇷
+#EXTINF:-1 tvg-id="20240319T052333SQUARE" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png",BFM Grands Reportages 
 https://d1mw98f2f3pk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-66e36e9cu2fvd/index.m3u8
 
-#EXTINF:-1 tvg-id="FR30000271" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png",RMC alerte secours 🇫🇷
+#EXTINF:-1 tvg-id="FR30000271" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png",RMC alerte secours 
 https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
 
-#EXTINF:-1 tvg-id="FRBD41000097I" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20240919T105443SQUARE.png",RMC Story 🇫🇷
+#EXTINF:-1 tvg-id="FRBD41000097I" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20240919T105443SQUARE.png",RMC Story 
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 
-#EXTINF:-1 tvg-id="FRBD4100008QS" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20240919T105422SQUARE.png",RMC Découverte 🇫🇷
+#EXTINF:-1 tvg-id="FRBD4100008QS" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20240919T105422SQUARE.png",RMC Découverte 
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png",RMC MECANIC 🇫🇷
+#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png",RMC MECANIC 
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 
-#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png",RMC TALK INFO 🇫🇷
+#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png",RMC TALK INFO 
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
-#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png",RMC TALK SPORT 🇫🇷
+#EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png",RMC TALK SPORT 
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 🇮🇹
+#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
 http://45.65.112.49:8000/play/a078
-#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 🇮🇹
+#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64045.m3u8
 
-#EXTINF:-1 tvg-id="Rai.2.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 🇮🇹
+#EXTINF:-1 tvg-id="Rai.2.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 
 http://45.65.112.49:8000/play/a079
 
-#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 🇮🇹
+#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 
 http://45.65.112.49:8000/play/a07a
-#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 🇮🇹🇩🇪
+#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 🇩🇪
 https://bit.ly/3OyVjNs?profile=inspirationLivetv.m3u8
 
-#EXTINF:-1 tvg-id="Rai.4.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai4.webp",Rai 4 🇮🇹
+#EXTINF:-1 tvg-id="Rai.4.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai4.webp",Rai 4 
 http://45.65.112.49:8000/play/a07b
 
-#EXTINF:-1 tvg-id="Rai.5.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 🇮🇹
+#EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64050.m3u8
-#EXTINF:-1 tvg-id="Rai.5.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 🇮🇹
+#EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
 http://45.65.112.49:8000/play/a0mb
 
-#EXTINF:-1 tvg-id="Rai.Storia.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiStoria.webp",Rai Storia 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Storia.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiStoria.webp",Rai Storia 
 http://45.65.112.49:8000/play/a0m2
 
-#EXTINF:-1 tvg-id="Rai.Italia.pt" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp",RAI Italia 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Italia.pt" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp",RAI Italia 
 http://181.209.114.13:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68346.m3u8
-#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 
 http://45.65.112.49:8000/play/a07c
 
-#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68345.m3u8
-#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 🇮🇹
+#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
 http://45.65.112.49:8000/play/a0m6
 
-#EXTINF:-1 tvg-id="RAI.Sport..it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 🇮🇹
+#EXTINF:-1 tvg-id="RAI.Sport..it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 
 http://45.65.112.49:8000/play/a0ma
 
-#EXTINF:-1 tvg-id="LA7.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 🇮🇹
+#EXTINF:-1 tvg-id="LA7.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="LA7.HD.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 🇮🇹
+#EXTINF:-1 tvg-id="LA7.HD.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 
 http://45.65.112.49:8000/play/a0n2
 
-#EXTINF:-1 tvg-id="LA7D.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 🇮🇹
+#EXTINF:-1 tvg-id="LA7D.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="LA7D.it" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 🇮🇹
+#EXTINF:-1 tvg-id="LA7D.it" group-title="🇮🇹 Italia tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 
 http://45.65.112.49:8000/play/a0n1
 
-#EXTINF:-1 tvg-id="TG.NORBA.24.it" tvg-name="TG Norba24 IT" group-title="Italia 🇮🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",TG Norba24
+#EXTINF:-1 tvg-id="TG.NORBA.24.it" tvg-name="TG Norba24 IT" group-title="🇮🇹 Italia tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",TG Norba24
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Italia 🇮🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpitalia.webp",Rtp Italia 🇮🇹
+#EXTINF:-1 tvg-id="" group-title="🇮🇹Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpitalia.webp",Rtp Italia 
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Italia 🇮🇹" tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 🇮🇹
+#EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision Miami 🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
+
+#EXTINF:-1 tvg-id="Univisión.Network.(East).(UNI).cl" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision East 🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.ts
+
+#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas Miami 🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
+
+#EXTINF:-1 tvg-id="UniMas.(KNIC-CD).San.Antonio,.TX.us" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas West 🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.ts
+
+#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision Miami 🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision West 🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).[9].cr" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo Internacional 🇺🇸
+http://181.78.105.146:8800/play/a04t
+
+#EXTINF:-1 tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 🇵🇷
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/assets/p14357151_b_v13_ad.jpg",Telemundo 51 Florida 🇺🇸
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="65790feacbd0d60008fac87a" group-title="🇲🇽 Mexico " tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png",Telemundo 52 California 🇺🇸
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" group-title="🇲🇽 Mexico " tvg-logo="http://ceoapps.org/logos/azteca7.png",Azteca Internacional 
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",Azteca 7 
+http://181.78.105.146:2000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" group-title="🇲🇽 Mexico " tvg-logo="https://www.lasestrellas.tv/favicon.ico",Las Estrellas 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="🇲🇽 Mexico " tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png",Estrella tv 
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png",Telecine Premium 
+http://15.235.50.113:14009/TCPremium
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png",Telecine Pipoca  
+http://15.235.15.230:14005/TCPipoca
+
+#EXTINF:-1 tvg-id="TELECINECULT" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png",Telecine Cult  
+http://15.235.50.113:14015/TelecineCult
+
+#EXTINF:-1 tvg-id="TELECINEFUN" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png",Telecine Fun  
+http://15.235.50.113:14018/TelecineFun
+
+#EXTINF:-1 tvg-id="TELECINETOUCH" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png",Telecine Touch 
+http://15.235.50.113:14012/TelecineTouch
+
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png",Telecine Action  
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FX.webp",Fx 
+http://200.194.238.229:8000/udp/225.1.1.8:1234
+
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/arte1-br.png",ARTE 1 
+http://xciptv.8888play.one:80/live/228463308/r576049x/2606.ts
+
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",Star Channel 
+http://200.194.238.229:8000/udp/225.1.1.4:1234
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="🇧🇷 Brazil " tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png",AXN 
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="🇧🇷 Brazil " tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png",AXN 
+http://xciptv.8888play.one:80/live/228463308/r576049x/21223.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/AMC.webp",AMC  
+http://xciptv.8888play.one:80/live/228463308/r576049x/671.ts
+
+#EXTINF:-1 tvg-id="CANALSONY" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png",Sony Channel  
+http://motivatv.club/live/LOLA/1710/1072806.ts
+
+#EXTINF:-1 tvg-id="WARNERCHANNEL" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel  
+http://xciptv.8888play.one:80/live/228463308/r576049x/118926.ts
+
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT 
+http://motivatv.club/live/LOLA/1710/1072821.ts
+
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNTSERIES" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series 
+http://200.194.238.229:8000/udp/225.1.1.23:1234
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://i.imgur.com/UUxM3yD.png",TCM 
+http://200.194.238.229:8000/udp/225.1.1.21:1234
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapix  
+http://xciptv.8888play.one:80/live/228463308/r576049x/692.ts
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE"  group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space 
+http://xciptv.8888play.one:80/live/228463308/r576049x/707.ts
+
+#EXTINF:-1 tvg-id="LIFETIME" group-title="🇧🇷 Brazil " tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime 
+http://xciptv.8888play.one:80/live/228463308/r576049x/2488.ts
+#EXTINF:-1 tvg-id="LIFETIME" group-title="🇧🇷 Brazil " tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime 
+http://motivatv.club/live/LOLA/1710/1072793.ts
+
+#EXTINF:-1 tvg-id="OFF" group-title="🇧🇷 Brazil " tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png",Canal Off  
+http://15.235.11.7:14075/OFF
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" group-title="🇧🇷 Brazil " tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj",Viva 
+http://xciptv.8888play.one:80/live/228463308/r576049x/2535.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC 
+http://xciptv.8888play.one:80/live/228463308/r576049x/728.ts
+
+#EXTINF:-1 tvg-id="AE" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+
+#EXTINF:-1 tvg-name="ID" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp",ID 
+http://xciptv.8888play.one:80/live/228463308/r576049x/21323.ts
+
+#EXTINF:-1 tvg-id="HGTV" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV 
+http://xciptv.8888play.one:80/live/228463308/r576049x/21294.ts
+
+#EXTINF:-1 tvg-id="HISTORY" group-title="🇧🇷 Brazil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png",History 
+http://xciptv.8888play.one:80/live/228463308/r576049x/59173.ts
+
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",Nat Geographic 
+http://200.194.238.229:8000/udp/225.1.1.9:1234
+
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DiscoveryIndia.webp",Discovery World 
+http://15.235.50.112:14112/DiscoveryWorld
+
+#EXTINF:-1 tvg-id="ANIMALPLANET" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Animal%20Planet.webp",Animal Planet Disc 
+http://xciptv.8888play.one:80/live/228463308/r576049x/22305.ts
+
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" group-title="🇧🇷 Brazil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png",Discovery Science 
+http://xciptv.8888play.one:80/live/228463308/r576049x/2582.ts
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" group-title="🇧🇷 Brazil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png",Discovery Science 
+https://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERYTHEATER" group-title="🇧🇷 Brazil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png",Discovery Theater 
+http://xciptv.8888play.one:80/live/228463308/r576049x/2587.ts
+#EXTINF:-1 tvg-id="DISCOVERYTHEATER" group-title="🇧🇷 Brazil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png",Discovery Theater 
+https://cdn-2.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW"tvg-name="Multishow" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishow  
+http://xciptv.8888play.one:80/live/228463308/r576049x/377242.ts
+
+#EXTINF:-1 tvg-name="" tvg-id="GLOBOSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",Globo sᴘ  ⚽️
+http://15.235.15.230:14488/GLOBOSP
+#EXTINF:-1 tvg-id="GLOBOSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",Globo sᴘ  ⚽️
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="GLOBOSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",Globo ʙᴀ  ⚽️
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="GLOBOSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",Globo tv Santos 
+http://15.235.15.230:14513/GloboSantos
+
+#EXTINF:-1 tvg-name="" tvg-id="RECORDSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png",Record tv  
+http://streamsy.online:2999//live/happy2024/newyear/2177.ts
+#EXTINF:-1 tvg-id="RECORDSP" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png",Record tv sᴘ 
+http://xciptv.8888play.one:80/live/228463308/r576049x/244073.ts
+
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",BAND   ⚽️ 
+http://15.235.50.115:14522/Band
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",BAND  ⚽️
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="🇧🇷 Brazil " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",BAND  ⚽️
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="🇧🇷 Brazil " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT 
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="🇧🇷 Brazil " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior 
+https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="🇧🇷 Brazil " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-name="curta" tvg-id="CURTA" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/LogosTv/canalcurta.webp",Curta! 
+http://15.235.50.114:19171/Curta
+#EXTINF:-1 tvg-id="CURTA" tvg-name="curta" group-title="🇧🇷 Brazil " tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png",Curta! 
+https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1922194739.m3u8
+
+#EXTINF:-1 tvg-id="GAZETA" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Tv Gazeta 
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8
+
+#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png",RedeTV! 
+https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
+
+#EXTINF:-1 tvg-id="TVBRASIL" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png",TV Brasil 
+https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="🇧🇷 Brazil " tvg-logo="https://i.imgur.com/jCGrjf5.png",Zoom tv 
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/selectall.png",TV Zyn 
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Viva Web" group-title="🇧🇷 Brazil " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/selectall.png",Viva wᴇʙ 
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 tvg-id="TVE" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="http://i.imgur.com/gQ4GDzQ.png",TVE 
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg",Avança Brasil 
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Icon-4por4-100x100-03_UrG9Y2y.png",4POR4 
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://i.imgur.com/yVux2yk.png",Resumo da Ópera 
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PRINCIPAL_PEQUENO_qFeyD6F.png",D+ TV 
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100_V7kHDz6.png",Tv Mais Brasil 
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w2083557685.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇧🇷 Brazil " tvg-logo="https://i.imgur.com/haXHFCT.png",Master show tv 
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1213877706.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇷 Brazil " tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg",Miss Universo 
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
