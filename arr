@@ -4450,3 +4450,459 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="🇵🇪 Peru",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-chno="4" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/ae.png" group-title="🇵🇪 Peru",America Television
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=3389369
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-chno="5" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="🇵🇪 Peru",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png",Canal N
+https://clubtv.link/ag2009/top6219/lista1.php?c=197
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="5" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="🇵🇪 Peru",TV Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-chno="5" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="🇵🇪 Peru",TV Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png",Canal IPe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🇵🇪 Peru",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="🇵🇪 Peru",ATV Sur (720p) [Not 24/7]
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="🇵🇪 Peru",ATV+ Noticias (720p) [Not 24/7]
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="🇵🇪 Peru",PBO Digital (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-chno="12" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="🇵🇪 Peru",Willax TV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=ncghRz9vJiNU5OXdvS_2tDkyByU692NcWQsHKmo58RID9TashiofvObyX0KhzSlx5K4p1LL-s7AB3s2wMaEY7A&dmTs=946123&dmV1st=78e305c6-0b90-42ae-b7e4-458a2e2befcc
+
+#EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="🇵🇪 Peru",RPP (480p) [Not 24/7]
+https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3446449
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="🇵🇪 Peru",Exitosa (720p)
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gxKy7JRwrW.jpg" group-title="🇵🇪 Peru",Capital TV
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/31436
+
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="sv Salvador",Awapa Sports TV
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="sv Salvador",Canal 11 TuTV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="sv Salvador",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="sv Salvador",Canal 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="sv Salvador",Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="sv Salvador",Canal 4
+http://204.157.251.250:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="sv Salvador",Canal 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal65.sv" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious",Canal 65
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="sv Salvador",Canal TRV
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+#EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="sv Salvador",El 15 TV
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="sv Salvador",Megavision Canal 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="sv Salvador",Megavision Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="sv Salvador",Orbita FM
+https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/cPnWSOw.png" group-title="sv Salvador",Orbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="sv Salvador",RTV Canal 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="sv Salvador",SolTV
+http://rtmp.info:1935/soltv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="sv Salvador",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="sv Salvador",Tigo Sports
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/C5vHpd0.png" group-title="sv Salvador",Tribuna TV
+https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="sv Salvador",TVC Network
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/JbxpB6M.png" group-title="sv Salvador",TVX
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="sv Salvador",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="🇨🇱 Chiler", TVN3 | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="🇨🇱 Chiler", UCV | HD | Valparaíso
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="🇨🇱 Chiler", UCV2  | HD | Valparaíso
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="🇨🇱 Chiler", TV+ | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="🇨🇱 Chiler", TVN Chile | HD | Santiago
+https://marine2.miplay.cl/tvnchile/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xT96FzL.png" group-title="🇨🇱 Chiler", Bio Bio TV | FHD | Santiago
+ https://jireh-1-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CVImFf1.png" group-title="🇨🇱 Chiler", Canal 9 Bio Bio | HD | Concepción
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="🇨🇱 Chiler", Mega | SD | Santiago
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="🇨🇱 Chiler", Chilevisión | FHD | Santiago
+https://i.imgur.com/UZDlYdR.mp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png" group-title="🇨🇱 Chiler", Corcubío | HD | Concepción
+http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="🇨🇱 Chiler", Canal 13 (Kodi) | HD | Santiago
+https://m3u.cl/channel/c13.php
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XrwH0ee.png" group-title="🇨🇱 Chiler", Tele 13 Radio | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="🇨🇱 Chiler", Canal 13 Cultura | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5y85xPh.png" group-title="🇨🇱 Chiler", Canal 13 Entretención | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ENlQPXq.png" group-title="🇨🇱 Chiler", Canal 13 Festival | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="🇨🇱 Chiler", Canal 13 Realities | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="🇨🇱 Chiler", Canal 13 Teleseries | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png" group-title="🇨🇱 Chiler", Tele 13 | FHD | Santiago
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xGxNot7.png" group-title="🇨🇱 Chiler", Señal 21 | HD | Coquimbo
+https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dHsteQQ.png" group-title="🇨🇱 Chiler", Santiago TV | FHD | Santiago
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N9VL9Hq.png" group-title="🇨🇱 Chiler", La Red | HD | Santiago
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="🇨🇱 Chiler", Canal 24 Horas | HD | Santiago
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="🇨🇱 Chiler", TV Chile | HD | Santiago
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="🇨🇱 Chiler", NTV | HD | Santiago
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="🇨🇱 Chiler", Meganoticias | HD | Santiago
+https://i.imgur.com/UZDlYdR.mp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png" group-title="🇨🇱 Chiler", Universidad de Chile TV | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="🇨🇱 Chiler", Tevex | HD | Santiago
+https://v4.tustreaming.cl/tevexinter/index.m3u8           
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rGEDlbt.png" group-title="🇨🇱 Chiler", Suyai TV | HD | Santiago
+https://stream.skarnetchile.com:19360/suyai-tv/suyai-tv.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="🇨🇱 Chiler", Tendencias Prime | FHD | Santiago
+https://v4.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png" group-title="🇨🇱 Chiler", TVR | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Lwhe58T.png" group-title="🇨🇱 Chiler", +Cine | HD | Chile
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oLF2n09.png" group-title="🇨🇱 Chiler", Premium TV | HD | Chile
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zQYJ6GI.png" group-title="🇨🇱 Chiler", Origen TV | HD | Chile
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png" group-title="🇨🇱 Chiler", UESTV | FHD | Santiago
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png" group-title="🇨🇱 Chiler", UTalca TV  | HD | Talca
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QnCa8IQ.png" group-title="🇨🇱 Chiler", TVU  | HD | Concepción
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b2dJ5zf.png" group-title="🇨🇱 Chiler", UCT Araucanía | FHD | Temuco
+https://pantera1-100gb-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/V6SjNfS.png" group-title="🇨🇱 Chiler", UATV | FHD | Temuco
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png" group-title="🇨🇱 Chiler", Ufrovisión  | FHD | Temuco
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BEUjEhQ.png" group-title="🇨🇱 Chiler", ULagos TV  | FHD | Osorno
+https://tv.ulagos.cl/web/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kX2DbwS.png" group-title="🇨🇱 Chiler", Umag TV  | HD | Punta Arenas
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a1Y4HnJ.png" group-title="🇨🇱 Chiler", Umag2 TV  | HD | Punta Arenas
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="🇨🇱 Chiler", Retroplus 1 | HD | Chile
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1341680775.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="🇨🇱 Chiler", Retroplus 2 | HD | Chile
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="🇨🇱 Chiler", Retroplus 3 | HD | Chile
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOE8D45.png" group-title="🇨🇱 Chiler", Canal Rex | HD | Chile
+https://v4.tustreaming.cl/canalrex/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PzuteqP.png" group-title="🇨🇱 Chiler", Marga Marga TV  | HD | Valparaíso
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oe76IC2.png" group-title="🇨🇱 Chiler", Estación TV  | HD | Limache
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png" group-title="🇨🇱 Chiler", Raices Árabes TV | HD | Santiago
+https://tv.streaming-chile.com:8081/raicesarabes/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mvMwDGy.png" group-title="🇨🇱 Chiler", Arab TV | HD | Santiago
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/chunklist_w2080660285.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iITF4T6.png" group-title="🇨🇱 Chiler", Arica TV | SD | Arica 
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/chunklist_w475161054.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OLMi5W4.png" group-title="🇨🇱 Chiler", Iquique TV | HD | Iquique
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png" group-title="🇨🇱 Chiler", Antofagasta TV | FHD | Antofagasta
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png" group-title="🇨🇱 Chiler", Atacama  TV | HD | Copiapó
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SpSc0Td.png" group-title="🇨🇱 Chiler", Atacama Noticias | HD | Copiapó
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="🇨🇱 Chiler", Holvoet TV | HD | Copiapó
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dBOZBTX.png" group-title="🇨🇱 Chiler", Caldera Visión | HD | Caldera
+https://us.streaminghd.cl/calderavisiontv/video.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DdBgtNW.gif" group-title="🇨🇱 Chiler", Enfoque Digital | HD | Vallenar
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jK2XA8k.png" group-title="🇨🇱 Chiler", Thema  TV | HD | La Serena
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B1TjJfy.png" group-title="🇨🇱 Chiler", TV Costa | HD | Algarrobo
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NidSIWr.png" group-title="🇨🇱 Chiler", VTV | HD | Valparaíso
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iJcAgMK.png" group-title="🇨🇱 Chiler", Canal Lof | HD | Valparaíso
+https://tv.streaming-chile.com:8081/canallof/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ocZGrm7.png" group-title="🇨🇱 Chiler", Canal 2 | HD | San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wheM0ma.png" group-title="🇨🇱 Chiler", La Granja TV | HD | La Granja
+https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="🇨🇱 Chiler", Buin Somos Todos| HD | Buin
+https://bst.buin.cl/0.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vJorDzd.png" group-title="🇨🇱 Chiler", Sextavisión | HD | Rancagua
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3wWbNli.png" group-title="🇨🇱 Chiler", Pichilemu TV | HD | Pichilemu
+https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" group-title="🇨🇱 Chiler", Telecanal | FHD | Santa Cruz
+https://eu1.servers10.com:8081/8194/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYdbnYt.png" group-title="🇨🇱 Chiler", Santa Cruz | HD | Santa Cruz
+https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/chunklist_w796971303.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1pUzGJ.jpeg" group-title="🇨🇱 Chiler", RTV | HD | Chimbarongo
+https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9iwyRJw.png" group-title="🇨🇱 Chiler", TVO | HD | San Vicente de Tagua Tagua
+https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w79920185.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" group-title="🇨🇱 Chiler", Canal 74 | FHD | Placilla
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png" group-title="🇨🇱 Chiler", El Centro TV  | FHD | Talca
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZGIzBKq.png" group-title="🇨🇱 Chiler", Nativa TV  | FHD | Talca
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/I0ydO43.png" group-title="🇨🇱 Chiler", En Línea | HD | Talca
+https://v1.tustreaming.cl/enlineamauletv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png" group-title="🇨🇱 Chiler", UTV  | FHD | San Clemente
+https://v2.tustreaming.cl/utv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Nu1kY5L.png" group-title="🇨🇱 Chiler", VLTV  | FHD | San Javier
+https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d8ruUWy.png" group-title="🇨🇱 Chiler", Canal 30 | HD | San Javier
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="🇨🇱 Chiler", TV5 | HD | Linares
+https://v1.tustreaming.cl/tv5linares/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" group-title="🇨🇱 Chiler", Tele 2 Web | HD | Retiro
+https://inliveserver.com:1936/11516/11516/chunklist_w1025692689.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png" group-title="🇨🇱 Chiler", Contivisión | HD | Constitución
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPYKyH9.png" group-title="🇨🇱 Chiler", Ñublevisión | HD | Chillán
+http://v1.tustreaming.cl/nubletv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTtjIbB.png" group-title="🇨🇱 Chiler", Televida | HD | Chillán
+https://tls-cl.cdnz.cl/televida/live/chunklist_w525710369.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/J9O6HlB.png" group-title="🇨🇱 Chiler", Canal 21  | HD | Chillán
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGM4Qnp.png" group-title="🇨🇱 Chiler", Tv y TV  | HD | Yungay
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI69ux1.png" group-title="🇨🇱 Chiler", Concepción TV  | FHD | Concepción
+https://stream.blserver.cl/hls/ctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndYTqK9.png" group-title="🇨🇱 Chiler", El 3 de Conce  | HD | Concepción
+https://us.streaminghd.cl/el3deconce/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15gXS7o.png" group-title="🇨🇱 Chiler", TV8  | SD | Concepción
+https://panel.tvstream.cl:1936/8032/8032/chunklist_w465187008.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yjYuZSV.png" group-title="🇨🇱 Chiler", Click TV | HD | Coronel
+https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kOs4AnR.png" group-title="🇨🇱 Chiler", DVC | HD | Coronel
+https://us.streaminghd.cl/dvctelevision/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png" group-title="🇨🇱 Chiler", Club TV | HD | Santa Juana
+https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" group-title="🇨🇱 Chiler", Radio Televisión Araucanía | SD | Los Ángeles
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QMjQhT0.png" group-title="🇨🇱 Chiler", Pacífico Televisión | HD | Los Ángeles
+https://oracle.streaminghd.cl/pacificotelevision/pacificotelevision/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HB1AN2x.png" group-title="🇨🇱 Chiler", Teleangol | SD | Angol
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/teleanhttps://i.imgur.com/3VPIXzN.pnggol/livestream2/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gxu2B5w.png" group-title="🇨🇱 Chiler", Veo TV| HD | Temuco
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="🇨🇱 Chiler", Temuco Televisión | HD | Temuco
+https://mediacp.nnw.cl:19360/temucotelevision/passthru.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hjKvNvU.png" group-title="🇨🇱 Chiler", Pucón TV | FHD | Pucón
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SJHrL1d.png" group-title="🇨🇱 Chiler", Lanco TV | HD | Lanco
+https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8https://i.imgur.com/UZDlYdR.mp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fRzWeUp.png" group-title="🇨🇱 Chiler", ATV | HD | Valdivia
+https://videolatam.com:3871/live/atvvaldivialive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aeNI2G4.png" group-title="🇨🇱 Chiler", Osorno TV+| HD | Osorno
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qdn60PX.png" group-title="🇨🇱 Chiler", T-Vinet | HD | Osorno
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/inet2/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3a8fiYY.png" group-title="🇨🇱 Chiler", Canal Latino | SD | La Unión
+https://videostream.chileservidores.com:8081/latina/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QwHIQcu.png" group-title="🇨🇱 Chiler", Visión TV | HD | Frutillar
+https://tv.streaming-chile.com:8081/8092/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FoCNhh9.png" group-title="🇨🇱 Chiler", TVM | SD | Los Muermos
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zCMamnq.png" group-title="🇨🇱 Chiler", Canal 5 | FHD | Puerto Montt
+https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TUz4zSi.png" group-title="🇨🇱 Chiler", Décima TV | HD | Ancud
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ADRhjOw.png" group-title="🇨🇱 Chiler", Castro TV | HD | Castro
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/w3btzn1.png" group-title="🇨🇱 Chiler", Canal Chilote | HD | Castro
+https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png" group-title="🇨🇱 Chiler", Canal 2 | FHD | Quellón
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VBBBdE6.png" group-title="🇨🇱 Chiler", Hito Cero | HD | Quellón
+https://5e3483cba9114.streamlock.net/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hrwcxab.png" group-title="🇨🇱 Chiler", La Melinkana TV | HD | Puerto Melinka
+https://v1.tustreaming.cl/melinkana/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KuhTW9Q.png" group-title="🇨🇱 Chiler", Santa María TV | HD | Coyhaique
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OBRlKiA.png" group-title="🇨🇱 Chiler", Aysén TV | FHD | Coyhaique
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="🇨🇱 Chiler", Opinión Sur Cine | HD | Puerto Natales
+https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="🇨🇱 Chiler", Opinión Sur Series | HD | Puerto Natales
+https://fl1002.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="🇨🇱 Chiler", Opinión Sur Niños | HD | Puerto Natales
+https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" group-title="🇨🇱 Chiler", Milodón TV | SD | Puerto Natales
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="🇨🇱 Chiler", ITV | FHD | Punta Arenas
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v90G22k.png" group-title="🇨🇱 Chiler", Soberanía TV | HD | Punta Arenas
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rtKSxJX.png" group-title="🇨🇱 Chiler", Classic Channel | HD | Punta Arenas
+https://paneltv.online:1936/8046/8046/chunklist_w1064988520.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg" group-title="🇨🇱 Chiler", El Pingüino  | FHD | Punta Arenas
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
