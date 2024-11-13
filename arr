@@ -2820,3 +2820,9 @@ https://p7s1-live-009-prod.akamaized.net/d9f5c007/t_001/prosieben-de/cenc-defaul
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TVO " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
 https://live.zendzend.com/mpegts/29375_399410/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="fuji one " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS", fuji one
+http://cookies.elementfx.com/ublive/ublive.php?id=2300
+#EXTINF:-1 tvg-id="" tvg-name="fuji two " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS", fuji two
+http://cookies.elementfx.com/ublive/ublive.php?id=2301
+#EXTINF:-1 tvg-id="" tvg-name="fuji next " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",fuji next
+http://cookies.elementfx.com/ublive/ublive.php?id=2750
