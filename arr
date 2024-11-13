@@ -2806,3 +2806,17 @@ https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1731518
 https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzE0NTQyNjUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiZTYyOWRmNC04OThhLTQxMTAtOWNlNy1iYzE2MWJhOTNlNjciLCJpYXQiOjE3MzE0NDcwNjV9.z_bNUjwBEtm5fPY0EERngXHVz2HV2raJsaUboUtzrac
 #EXTINF:-1 tvg-id="" tvg-name="Sbs SPORTS " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
 https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzE0NTQ0MDQsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0NDdiNjhkYS1iMjkyLTQ0MmMtODBiNC1iZGFjNzFmZjIzYTEiLCJpYXQiOjE3MzE0NDcyMDR9.cmUHx4ecCn-zuZTfRxQShB42ezmiO2l4cGrZR0fjKIE
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RTL DE" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 1
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+#EXTINF:-1 tvg-id="" tvg-name="NPO 1 NL" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
+https://nlziet-live.akamaized.net/L4/c8aa2f33/c6c86e9a.isml/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 1
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="PROSIEBEN DE" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
+https://p7s1-live-009-prod.akamaized.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="LA UNE BE" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 1
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVO " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
+https://live.zendzend.com/mpegts/29375_399410/master_mpegts.m3u8
