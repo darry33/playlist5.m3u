@@ -2821,8 +2821,8 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TVO " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",SAUDI SPORTS 2
 https://live.zendzend.com/mpegts/29375_399410/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fuji one " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS", fuji one
-http://cookies.elementfx.com/ublive/ublive.php?id=2300
+https://z88.ubtvfans.com/live/rx3/2300/087121b3ad451db59e5c5239ca631058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fuji two " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS", fuji two
-http://cookies.elementfx.com/ublive/ublive.php?id=2301
+https://z88.ubtvfans.com/live/rx3/2301/01edfb1895f25be00b4c3268caae8f65/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fuji next " live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="⚽ SPORTS",fuji next
 http://cookies.elementfx.com/ublive/ublive.php?id=2750
