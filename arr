@@ -4906,3 +4906,48 @@ https://paneltv.online:1936/8046/8046/chunklist_w1064988520.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg" group-title="🇨🇱 Chiler", El Pingüino  | FHD | Punta Arenas
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="🇦🇷 Argentina ",EL TRECE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="🇦🇷 Argentina ", TELEFE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="🇦🇷 Argentina ",TELEFE NOTICIAS
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="🇦🇷 Argentina ",TN TODO NOTICIAS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="🇦🇷 Argentina ",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0078
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="🇦🇷 Argentina ",LN+
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0079
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="🇦🇷 Argentina ",Canal 26
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="🇦🇷 Argentina ",CRONICA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="🇦🇷 Argentina ",A24
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0094
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="🇦🇷 Argentina ",CANAL 7 MENDOZA
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0273
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" group-title="🇦🇷 Argentina ",CANAL 9 TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="🇦🇷 Argentina ",RAI 3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="🇦🇷 Argentina ",RAI NEWS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="🇦🇷 Argentina ",DW Espanol
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="🇦🇷 Argentina ",FRANCE24
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0041
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEMU.png" group-title="🇦🇷 Argentina ",TELEMUNDO
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="🇦🇷 Argentina ",TELESUR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----RT.png" group-title="🇦🇷 Argentina ",RTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="🇦🇷 Argentina ",GARAGE TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIQMUSIC.png" group-title="🇦🇷 Argentina ",QUIERO MUSICA
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="🇦🇷 Argentina ",TELEMAX
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="🇦🇷 Argentina ",NETTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
