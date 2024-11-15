@@ -1,6 +1,5 @@
 #EXTM3U
-https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفاتحة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://surahquran.com/img/surat/1.svg" group-title="alsodeas and alshoream",سورة الفاتحة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة البقرة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/002.mp4
