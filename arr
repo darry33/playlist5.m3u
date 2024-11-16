@@ -1572,7 +1572,7 @@ http://apontv.net:80/270223522003493/1593574628/38192
 #EXTINF:-1 tvg-id="" tvg-name="AR | SYRIA TV HD" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="🇸🇾 SYRIA",AR | SYRIA TV HD
 http://www.teledunet.com:8080/tdn/tdn/737.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | SYRIA ALOULA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/SYRIATV.png" group-title="🇸🇾 SYRIA",AR | SYRIA ALOULA
-http://www.teledunet.com:8080/tdn/tdn/731.ts
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/223
 #EXTINF:-1 tvg-id="" tvg-name="AR | SYRIA NEWS" tvg-logo="" group-title="🇸🇾 SYRIA",AR | SYRIA NEWS
 http://www.teledunet.com:8080/tdn/tdn/739.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | Sama TV" tvg-logo="" group-title="🇸🇾 SYRIA",AR | Sama TV
@@ -4190,49 +4190,49 @@ https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision Miami 🇺🇸 🥎⚽️
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision Miami 🇺🇸 🥎⚽️
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
 
-#EXTINF:-1 tvg-id="Univisión.Network.(East).(UNI).cl" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision East 🇺🇸 🥎⚽️
+#EXTINF:-1 tvg-id="Univisión.Network.(East).(UNI).cl" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png",Univision East 🇺🇸 🥎⚽️
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.ts
 
-#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas Miami 🇺🇸 🥎⚽️
+#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" group-title="🇲🇽 Mexico" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas Miami 🇺🇸 🥎⚽️
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
-#EXTINF:-1 tvg-id="UniMas.(KNIC-CD).San.Antonio,.TX.us" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas West 🇺🇸 🥎⚽️
+#EXTINF:-1 tvg-id="UniMas.(KNIC-CD).San.Antonio,.TX.us" group-title="🇲🇽 Mexico" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",Unimas West 🇺🇸 🥎⚽️
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.ts
 
-#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision Miami 🇺🇸
+#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision Miami 🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
 
-#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision West 🇺🇸
+#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision West 🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).[9].cr" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo Internacional 🇺🇸
+#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).[9].cr" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo Internacional 🇺🇸
 http://181.78.105.146:8800/play/a04t
 
-#EXTINF:-1 tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 🇵🇷
+#EXTINF:-1 tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 
+#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77606/s10239_ll_h15_ab.png",Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🇲🇽 Mexico " tvg-logo="https://zap2it.tmsimg.com/assets/p14357151_b_v13_ad.jpg",Telemundo 51 Florida 🇺🇸
+#EXTINF:-1 tvg-id="" group-title="🇲🇽 Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/p14357151_b_v13_ad.jpg",Telemundo 51 Florida 🇺🇸
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-id="65790feacbd0d60008fac87a" group-title="🇲🇽 Mexico " tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png",Telemundo 52 California 🇺🇸
+#EXTINF:-1 tvg-id="65790feacbd0d60008fac87a" group-title="🇲🇽 Mexico" tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png",Telemundo 52 California 🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" group-title="🇲🇽 Mexico " tvg-logo="http://ceoapps.org/logos/azteca7.png",Azteca Internacional 
+#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" group-title="🇲🇽 Mexico" tvg-logo="http://ceoapps.org/logos/azteca7.png",Azteca Internacional 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="🇲🇽 Mexico " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",Azteca 7 
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="🇲🇽 Mexico" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",Azteca 7 
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
-#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" group-title="🇲🇽 Mexico " tvg-logo="https://www.lasestrellas.tv/favicon.ico",Las Estrellas 
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" group-title="🇲🇽 Mexico" tvg-logo="https://www.lasestrellas.tv/favicon.ico",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="🇲🇽 Mexico " tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png",Estrella tv 
+#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="🇲🇽 Mexico" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png",Estrella tv 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
@@ -4692,28 +4692,28 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1213877706.m3u
 #EXTINF:-1 tvg-id="" group-title="🇧🇷 Brazil " tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg",Miss Universo 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
-http://45.65.112.49:8000/play/a078
+http://85.209.248.3:8080/Rai1HD/index.m3u8
 #EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64045.m3u8
 
 #EXTINF:-1 tvg-id="Rai.2.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 
-http://45.65.112.49:8000/play/a079
+http://85.209.248.3:8080/Rai2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 
-http://45.65.112.49:8000/play/a07a
+http://85.209.248.3:8080/Rai3HD/index.m3u8
 #EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 🇩🇪
 https://bit.ly/3OyVjNs?profile=inspirationLivetv.m3u8
 
 #EXTINF:-1 tvg-id="Rai.4.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai4.webp",Rai 4 
-http://45.65.112.49:8000/play/a07b
+http://85.209.248.3:8080/Rai4HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64050.m3u8
 #EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
-http://45.65.112.49:8000/play/a0mb
+http://85.209.248.3:8080/Rai5HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai.Storia.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiStoria.webp",Rai Storia 
-http://45.65.112.49:8000/play/a0m2
+http://85.209.248.3:8080/RaiStoriaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai.Italia.pt" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp",RAI Italia 
 http://181.209.114.13:8000/play/a02p/index.m3u8
@@ -4726,10 +4726,10 @@ http://45.65.112.49:8000/play/a07c
 #EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68345.m3u8
 #EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
-http://45.65.112.49:8000/play/a0m6
+http://85.209.248.3:8080/RaiPremiumHD/index.m3u8
 
 #EXTINF:-1 tvg-id="RAI.Sport..it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 
-http://45.65.112.49:8000/play/a0ma
+http://85.209.248.3:8080/RaiSportHD/index.m3u8
 
 #EXTINF:-1 tvg-id="LA7.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
@@ -4749,6 +4749,23 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCOULA" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiscuola.png" group-title="ITALIA [VIP]",RAI SCOULA
+http://85.209.248.3:8080/RaiScuolaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiyoyo.png" group-title="ITALIA [VIP]",RAI YOYO
+http://85.209.248.3:8080/RaiYoyoHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/italiaunohd.png" group-title="ITALIA [VIP]",ITALIA 1
+http://85.209.248.3:8080/Italia1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 5" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canale5hd.png" group-title="ITALIA [VIP]",CANALE 5
+http://85.209.248.3:8080/Canale5HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETE 4" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rete4hd.png" group-title="ITALIA [VIP]",RETE 4
+http://85.209.248.3:8080/Rete4HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mediasetitalia.png" group-title="ITALIA [VIP]",MEDIASET 20
+http://85.209.248.3:8080/20MediasetHD/index.m3u8
+
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="🇵🇪 Peru",Latina
@@ -5409,6 +5426,10 @@ http://malau.hopto.org:35000/api/swc/live/665.mpd
 http://malau.hopto.org:35000/api/swc/live/303.mpd
 #EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1889_w300.webp",ORF Sport +
 http://malau.hopto.org:35000/api/swc/live/1889.mpd
+#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg?v=6",ROTANA CINEMA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
-
-
+#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam_plus.jpg?v=6",ROTANA AFLAM PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
