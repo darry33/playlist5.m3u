@@ -5,7 +5,7 @@ https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/00
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة آل عمران
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النساء
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/800px-Surah_An-Nisa.png" group-title="alsodeas and alshoream",سورة النساء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/004.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المائدة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/005.mp4
