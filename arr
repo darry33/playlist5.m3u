@@ -1,231 +1,231 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://surahquran.com/img/surat/1.svg" group-title="alsodeas and alshoream",سورة الفاتحة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="alsodeas and alshoream",سورة الفاتحة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة البقرة
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png" group-title="alsodeas and alshoream",سورة البقرة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة آل عمران
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png" group-title="alsodeas and alshoream",سورة آل عمران
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/800px-Surah_An-Nisa.png" group-title="alsodeas and alshoream",سورة النساء
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="alsodeas and alshoream",سورة النساء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المائدة
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="alsodeas and alshoream",سورة المائدة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأنعام
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="alsodeas and alshoream",سورة الأنعام
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأعراف
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="alsodeas and alshoream",سورة الأعراف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأنفال
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="alsodeas and alshoream",سورة الأنفال
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التوبة
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="alsodeas and alshoream",سورة التوبة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة يونس
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="alsodeas and alshoream",سورة يونس
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة هود
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="alsodeas and alshoream",سورة هود
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة يوسف
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="alsodeas and alshoream",سورة يوسف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الرعد
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="alsodeas and alshoream",سورة الرعد
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة إبراهيم
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="alsodeas and alshoream",سورة إبراهيم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحجر
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="alsodeas and alshoream",سورة الحجر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النحل
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="alsodeas and alshoream",سورة النحل
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الإسراء
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="alsodeas and alshoream",سورة الإسراء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الكهف
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="alsodeas and alshoream",سورة الكهف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة مريم
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="alsodeas and alshoream",سورة مريم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة طه
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="alsodeas and alshoream",سورة طه
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأنبياء
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="alsodeas and alshoream",سورة الأنبياء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحج
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="alsodeas and alshoream",سورة الحج
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المؤمنون
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="alsodeas and alshoream",سورة المؤمنون
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النور
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="alsodeas and alshoream",سورة النور
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفرقان
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="alsodeas and alshoream",سورة الفرقان
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الشعراء
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="alsodeas and alshoream",سورة الشعراء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النمل
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="alsodeas and alshoream",سورة النمل
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القصص
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="alsodeas and alshoream",سورة القصص
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة العنكبوت
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="alsodeas and alshoream",سورة العنكبوت
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الروم
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="alsodeas and alshoream",سورة الروم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة لقمان
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="alsodeas and alshoream",سورة لقمان
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة السجدة
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="alsodeas and alshoream",سورة السجدة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأحزاب
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="alsodeas and alshoream",سورة الأحزاب
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة سبأ
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="alsodeas and alshoream",سورة سبأ
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة فاطر
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="alsodeas and alshoream",سورة فاطر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة يس
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="alsodeas and alshoream",سورة يس
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الصافات
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="alsodeas and alshoream",سورة الصافات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة ص
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="alsodeas and alshoream",سورة ص
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الزمر
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="alsodeas and alshoream",سورة الزمر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة غافر
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="alsodeas and alshoream",سورة غافر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة فصلت
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="alsodeas and alshoream",سورة فصلت
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الشورى
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="alsodeas and alshoream",سورة الشورى
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الزخرف
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="alsodeas and alshoream",سورة الزخرف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الدخان
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="alsodeas and alshoream",سورة الدخان
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الجاثية
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="alsodeas and alshoream",سورة الجاثية
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأحقاف
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="alsodeas and alshoream",سورة الأحقاف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة محمد
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="alsodeas and alshoream",سورة محمد
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفتح
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="alsodeas and alshoream",سورة الفتح
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحجرات
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="alsodeas and alshoream",سورة الحجرات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة ق
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="alsodeas and alshoream",سورة ق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الذاريات
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="alsodeas and alshoream",سورة الذاريات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الطور
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="alsodeas and alshoream",سورة الطور
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النجم
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="alsodeas and alshoream",سورة النجم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القمر
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="alsodeas and alshoream",سورة القمر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الرحمن
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="alsodeas and alshoream",سورة الرحمن
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الواقعة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="alsodeas and alshoream",سورة الواقعة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحديد
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="alsodeas and alshoream",سورة الحديد
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المجادلة
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="alsodeas and alshoream",سورة المجادلة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحشر
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="alsodeas and alshoream",سورة الحشر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الممتحنة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="alsodeas and alshoream",سورة الممتحنة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الصف
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="alsodeas and alshoream",سورة الصف
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الجمعة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="alsodeas and alshoream",سورة الجمعة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المنافقون
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="alsodeas and alshoream",سورة المنافقون
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التغابن
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="alsodeas and alshoream",سورة التغابن
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الطلاق
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="alsodeas and alshoream",سورة الطلاق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التحريم
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="alsodeas and alshoream",سورة التحريم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الملك
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="alsodeas and alshoream",سورة الملك
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القلم
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="alsodeas and alshoream",سورة القلم
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الحاقة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="alsodeas and alshoream",سورة الحاقة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المعارج
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="alsodeas and alshoream",سورة المعارج
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة نوح
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="alsodeas and alshoream",سورة نوح
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الجن
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="alsodeas and alshoream",سورة الجن
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المزمل
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="alsodeas and alshoream",سورة المزمل
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المدثر
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="alsodeas and alshoream",سورة المدثر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القيامة
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="alsodeas and alshoream",سورة القيامة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الإنسان
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="alsodeas and alshoream",سورة الإنسان
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المرسلات
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="alsodeas and alshoream",سورة المرسلات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النبأ
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="alsodeas and alshoream",سورة النبأ
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النازعات
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="alsodeas and alshoream",سورة النازعات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة عبس
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="alsodeas and alshoream",سورة عبس
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التكوير
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="alsodeas and alshoream",سورة التكوير
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الانفطار
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="alsodeas and alshoream",سورة الانفطار
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المطففين
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="alsodeas and alshoream",سورة المطففين
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الانشقاق
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="alsodeas and alshoream",سورة الانشقاق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة البروج
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="alsodeas and alshoream",سورة البروج
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الطارق
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="alsodeas and alshoream",سورة الطارق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الأعلى
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="alsodeas and alshoream",سورة الأعلى
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الغاشية
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="alsodeas and alshoream",سورة الغاشية
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفجر
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="alsodeas and alshoream",سورة الفجر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة البلد
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="alsodeas and alshoream",سورة البلد
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الشمس
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="alsodeas and alshoream",سورة الشمس
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الليل
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="alsodeas and alshoream",سورة الليل
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الضحى
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="alsodeas and alshoream",سورة الضحى
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الشرح
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="alsodeas and alshoream",سورة الشرح
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التين
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="alsodeas and alshoream",سورة التين
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة العلق
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="alsodeas and alshoream",سورة العلق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القدر
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="alsodeas and alshoream",سورة القدر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة البينة
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="alsodeas and alshoream",سورة البينة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الزلزلة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="alsodeas and alshoream",سورة الزلزلة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة العاديات
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="alsodeas and alshoream",سورة العاديات
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة القارعة
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="alsodeas and alshoream",سورة القارعة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة التكاثر
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="alsodeas and alshoream",سورة التكاثر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة العصر
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="alsodeas and alshoream",سورة العصر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الهمزة
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="alsodeas and alshoream",سورة الهمزة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفيل
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="alsodeas and alshoream",سورة الفيل
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة قريش
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="alsodeas and alshoream",سورة قريش
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الماعون
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="alsodeas and alshoream",سورة الماعون
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الكوثر
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="alsodeas and alshoream",سورة الكوثر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الكافرون
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="alsodeas and alshoream",سورة الكافرون
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة النصر
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="alsodeas and alshoream",سورة النصر
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة المسد
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="alsodeas and alshoream",سورة المسد
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الإخلاص
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="alsodeas and alshoream",سورة الإخلاص
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الفلق
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="alsodeas and alshoream",سورة الفلق
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://pngimg.com/uploads/quran/quran_PNG68.png" group-title="alsodeas and alshoream",سورة الناس
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="alsodeas and alshoream",سورة الناس
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/114.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="maher",سورة الفاتحة
