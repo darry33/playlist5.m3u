@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="alsodeas and alshoream",سورة الفاتحة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png" group-title="alsodeas and alshoream",سورة البقرة
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="alsodeas and alshoream",سورة البقرة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png" group-title="alsodeas and alshoream",سورة آل عمران
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="alsodeas and alshoream",سورة آل عمران
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="alsodeas and alshoream",سورة النساء
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/004.mp4
