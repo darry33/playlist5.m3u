@@ -1,4 +1,235 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="quran kids",سورة الفاتحة
+https://archive.org/download/Quran4u_Quran_Kids/001-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="quran kids",سورة البقرة
+https://archive.org/download/Quran4u_Quran_Kids/002-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="quran kids",سورة آل عمران
+https://archive.org/download/Quran4u_Quran_Kids/003-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="quran kids",سورة النساء
+https://archive.org/download/Quran4u_Quran_Kids/004-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="quran kids",سورة المائدة
+https://archive.org/download/Quran4u_Quran_Kids/005-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="quran kids",سورة الأنعام
+https://archive.org/download/Quran4u_Quran_Kids/006-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="quran kids",سورة الأعراف
+https://archive.org/download/Quran4u_Quran_Kids/007-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="quran kids",سورة الأنفال
+https://archive.org/download/Quran4u_Quran_Kids/008-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="quran kids",سورة التوبة
+https://archive.org/download/Quran4u_Quran_Kids/009-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="quran kids",سورة يونس
+https://archive.org/download/Quran4u_Quran_Kids/010-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="quran kids",سورة هود
+https://archive.org/download/Quran4u_Quran_Kids/011-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="quran kids",سورة يوسف
+https://archive.org/download/Quran4u_Quran_Kids/012-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="quran kids",سورة الرعد
+https://archive.org/download/Quran4u_Quran_Kids/013-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="quran kids",سورة إبراهيم
+https://archive.org/download/Quran4u_Quran_Kids/014-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="quran kids",سورة الحجر
+https://archive.org/download/Quran4u_Quran_Kids/015-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="quran kids",سورة النحل
+https://archive.org/download/Quran4u_Quran_Kids/016-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="quran kids",سورة الإسراء
+https://archive.org/download/Quran4u_Quran_Kids/017-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="quran kids",سورة الكهف
+https://archive.org/download/Quran4u_Quran_Kids/018-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="quran kids",سورة مريم
+https://archive.org/download/Quran4u_Quran_Kids/019-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="quran kids",سورة طه
+https://archive.org/download/Quran4u_Quran_Kids/020-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="quran kids",سورة الأنبياء
+https://archive.org/download/Quran4u_Quran_Kids/021-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="quran kids",سورة الحج
+https://archive.org/download/Quran4u_Quran_Kids/022-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="quran kids",سورة المؤمنون
+https://archive.org/download/Quran4u_Quran_Kids/023-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="quran kids",سورة النور
+https://archive.org/download/Quran4u_Quran_Kids/024-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="quran kids",سورة الفرقان
+https://archive.org/download/Quran4u_Quran_Kids/025-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="quran kids",سورة الشعراء
+https://archive.org/download/Quran4u_Quran_Kids/026-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="quran kids",سورة النمل
+https://archive.org/download/Quran4u_Quran_Kids/027-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="quran kids",سورة القصص
+https://archive.org/download/Quran4u_Quran_Kids/028-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="quran kids",سورة العنكبوت
+https://archive.org/download/Quran4u_Quran_Kids/029-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="quran kids",سورة الروم
+https://archive.org/download/Quran4u_Quran_Kids/030-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="quran kids",سورة لقمان
+https://archive.org/download/Quran4u_Quran_Kids/031-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="quran kids",سورة السجدة
+https://archive.org/download/Quran4u_Quran_Kids/032-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="quran kids",سورة الأحزاب
+https://archive.org/download/Quran4u_Quran_Kids/033-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="quran kids",سورة سبأ
+https://archive.org/download/Quran4u_Quran_Kids/034-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="quran kids",سورة فاطر
+https://archive.org/download/Quran4u_Quran_Kids/035-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="quran kids",سورة يس
+https://archive.org/download/Quran4u_Quran_Kids/036-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="quran kids",سورة الصافات
+https://archive.org/download/Quran4u_Quran_Kids/037-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="quran kids",سورة ص
+https://archive.org/download/Quran4u_Quran_Kids/038-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="quran kids",سورة الزمر
+https://archive.org/download/Quran4u_Quran_Kids/039-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="quran kids",سورة غافر
+https://archive.org/download/Quran4u_Quran_Kids/040-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="quran kids",سورة فصلت
+https://archive.org/download/Quran4u_Quran_Kids/041-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="quran kids",سورة الشورى
+https://archive.org/download/Quran4u_Quran_Kids/042-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="quran kids",سورة الزخرف
+https://archive.org/download/Quran4u_Quran_Kids/043-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="quran kids",سورة الدخان
+https://archive.org/download/Quran4u_Quran_Kids/044-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="quran kids",سورة الجاثية
+https://archive.org/download/Quran4u_Quran_Kids/045-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="quran kids",سورة الأحقاف
+https://archive.org/download/Quran4u_Quran_Kids/046-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="quran kids",سورة محمد
+https://archive.org/download/Quran4u_Quran_Kids/047-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="quran kids",سورة الفتح
+https://archive.org/download/Quran4u_Quran_Kids/048-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="quran kids",سورة الحجرات
+https://archive.org/download/Quran4u_Quran_Kids/049-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="quran kids",سورة ق
+https://archive.org/download/Quran4u_Quran_Kids/050-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="quran kids",سورة الذاريات
+https://archive.org/download/Quran4u_Quran_Kids/051-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="quran kids",سورة الطور
+https://archive.org/download/Quran4u_Quran_Kids/052-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="quran kids",سورة النجم
+https://archive.org/download/Quran4u_Quran_Kids/053-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="quran kids",سورة القمر
+https://archive.org/download/Quran4u_Quran_Kids/054-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="quran kids",سورة الرحمن
+https://archive.org/download/Quran4u_Quran_Kids/055-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="quran kids",سورة الواقعة
+https://archive.org/download/Quran4u_Quran_Kids/056-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="quran kids",سورة الحديد
+https://archive.org/download/Quran4u_Quran_Kids/057-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="quran kids",سورة المجادلة
+https://archive.org/download/Quran4u_Quran_Kids/058-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="quran kids",سورة الحشر
+https://archive.org/download/Quran4u_Quran_Kids/059-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="quran kids",سورة الممتحنة
+https://archive.org/download/Quran4u_Quran_Kids/060-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="quran kids",سورة الصف
+https://archive.org/download/Quran4u_Quran_Kids/061-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="quran kids",سورة الجمعة
+https://archive.org/download/Quran4u_Quran_Kids/062-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="quran kids",سورة المنافقون
+https://archive.org/download/Quran4u_Quran_Kids/063-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="quran kids",سورة التغابن
+https://archive.org/download/Quran4u_Quran_Kids/064-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="quran kids",سورة الطلاق
+https://archive.org/download/Quran4u_Quran_Kids/065-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="quran kids",سورة التحريم
+https://archive.org/download/Quran4u_Quran_Kids/066-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="quran kids",سورة الملك
+https://archive.org/download/Quran4u_Quran_Kids/067-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="quran kids",سورة القلم
+https://archive.org/download/Quran4u_Quran_Kids/068-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="quran kids",سورة الحاقة
+https://archive.org/download/Quran4u_Quran_Kids/069-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="quran kids",سورة المعارج
+https://archive.org/download/Quran4u_Quran_Kids/070-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="quran kids",سورة نوح
+https://archive.org/download/Quran4u_Quran_Kids/071-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="quran kids",سورة الجن
+https://archive.org/download/Quran4u_Quran_Kids/072-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="quran kids",سورة المزمل
+https://archive.org/download/Quran4u_Quran_Kids/073-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="quran kids",سورة المدثر
+https://archive.org/download/Quran4u_Quran_Kids/074-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="quran kids",سورة القيامة
+https://archive.org/download/Quran4u_Quran_Kids/075-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="quran kids",سورة الإنسان
+https://archive.org/download/Quran4u_Quran_Kids/076-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="quran kids",سورة المرسلات
+https://archive.org/download/Quran4u_Quran_Kids/077-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="quran kids",سورة النبأ
+https://archive.org/download/Quran4u_Quran_Kids/078-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="quran kids",سورة النازعات
+https://archive.org/download/Quran4u_Quran_Kids/079-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="quran kids",سورة عبس
+https://archive.org/download/Quran4u_Quran_Kids/080-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="quran kids",سورة التكوير
+https://archive.org/download/Quran4u_Quran_Kids/081-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="quran kids",سورة الانفطار
+https://archive.org/download/Quran4u_Quran_Kids/082-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="quran kids",سورة المطففين
+https://archive.org/download/Quran4u_Quran_Kids/083-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="quran kids",سورة الانشقاق
+https://archive.org/download/Quran4u_Quran_Kids/084-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="quran kids",سورة البروج
+https://archive.org/download/Quran4u_Quran_Kids/085-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="quran kids",سورة الطارق
+https://archive.org/download/Quran4u_Quran_Kids/086-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="quran kids",سورة الأعلى
+https://archive.org/download/Quran4u_Quran_Kids/087-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="quran kids",سورة الغاشية
+https://archive.org/download/Quran4u_Quran_Kids/088-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="quran kids",سورة الفجر
+https://archive.org/download/Quran4u_Quran_Kids/089-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="quran kids",سورة البلد
+https://archive.org/download/Quran4u_Quran_Kids/090-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="quran kids",سورة الشمس
+https://archive.org/download/Quran4u_Quran_Kids/091-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="quran kids",سورة الليل
+https://archive.org/download/Quran4u_Quran_Kids/092-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="quran kids",سورة الضحى
+https://archive.org/download/Quran4u_Quran_Kids/093-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="quran kids",سورة الشرح
+https://archive.org/download/Quran4u_Quran_Kids/094-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="quran kids",سورة التين
+https://archive.org/download/Quran4u_Quran_Kids/095-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="quran kids",سورة العلق
+https://archive.org/download/Quran4u_Quran_Kids/096-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="quran kids",سورة القدر
+https://archive.org/download/Quran4u_Quran_Kids/097-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="quran kids",سورة البينة
+https://archive.org/download/Quran4u_Quran_Kids/098-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="quran kids",سورة الزلزلة
+https://archive.org/download/Quran4u_Quran_Kids/099-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="quran kids",سورة العاديات
+https://archive.org/download/Quran4u_Quran_Kids/100-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="quran kids",سورة القارعة
+https://archive.org/download/Quran4u_Quran_Kids/101-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="quran kids",سورة التكاثر
+https://archive.org/download/Quran4u_Quran_Kids/102-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="quran kids",سورة العصر
+https://archive.org/download/Quran4u_Quran_Kids/103-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="quran kids",سورة الهمزة
+https://archive.org/download/Quran4u_Quran_Kids/104-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="quran kids",سورة الفيل
+https://archive.org/download/Quran4u_Quran_Kids/105-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="quran kids",سورة قريش
+https://archive.org/download/Quran4u_Quran_Kids/106-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="quran kids",سورة الماعون
+https://archive.org/download/Quran4u_Quran_Kids/107-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="quran kids",سورة الكوثر
+https://archive.org/download/Quran4u_Quran_Kids/108-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="quran kids",سورة الكافرون
+https://archive.org/download/Quran4u_Quran_Kids/109-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="quran kids",سورة النصر
+https://archive.org/download/Quran4u_Quran_Kids/110-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="quran kids",سورة المسد
+https://archive.org/download/Quran4u_Quran_Kids/111-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="quran kids",سورة الإخلاص
+https://archive.org/download/Quran4u_Quran_Kids/112-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="quran kids",سورة الفلق
+https://archive.org/download/Quran4u_Quran_Kids/113-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="quran kids",سورة الناس
+https://archive.org/download/Quran4u_Quran_Kids/114-.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="alsodeas and alshoream",سورة الفاتحة
 https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="alsodeas and alshoream",سورة البقرة
@@ -1033,6 +1264,154 @@ https://media1.livaat.com/live/Lebda_TV/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾 LIBYA",Tanasuh TV (1080p)
 https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg?v=6",ROTANA CINEMA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam_plus.jpg?v=6",ROTANA AFLAM PLUS
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA KSA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rotana_Aflam_New.png/280px-Rotana_Aflam_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA AFLAM
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA EGY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA EGY
+http://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rotana_Classic_New_Logo.png/280px-Rotana_Classic_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLASSIC
+http://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA COMEDY
+http://185.9.2.18/chid_5224/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rotana_Drama_New_Logo.png/216px-Rotana_Drama_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA DRAMA
+http://185.9.2.18/chid_2179/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIGI" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Rotana_khalijia_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA KHALIGI
+http://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-rotana-clip.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLIP
+http://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rotana_Music_New_Logo.png/280px-Rotana_Music_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA MUSIC
+http://teledunet.com:8080/tdn/tdn/595
+#EXTINF:-1 tvg-id="" tvg-name="ALAHLY" live="1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ahly-tv-eg.png" group-title="🇪🇬 Egypt",ALAHLY
+http://apontv.net:80/270223522003493/1593574628/40752
+#EXTINF:-1 tvg-id="" tvg-name="ZAMALEK" live="1" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="🇪🇬 Egypt",ZAMALEK
+http://apontv.net:80/270223522003493/1593574628/40753
+#EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" live="1" tvg-logo="https://e7.pngegg.com/pngimages/945/175/png-clipart-egypt-nile-sport-al-nile-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%8A%D9%84-egypt-television-blue.png" group-title="🇪🇬 Egypt",NILE SPORTS
+http://teledunet.com:8080/tdn/tdn/240
+#EXTINF:-1 tvg-id="" tvg-name="MISR ELBALAD" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZHIMrN0Lge80Kql0n7zoQQoFRtrZC-FlDg&s" group-title="🇪🇬 Egypt",MISR ELBALAD
+http://teledunet.com:8080/tdn/tdn/9959442
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="http://teledunet.com/logos/alhayat.jpg" group-title="🇪🇬 Egypt",ALHAYAT EGYPT
+http://185.9.2.18/chid_659/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT MUSALSALAT" live="1" tvg-logo="http://teledunet.com/logos/h_musalsalat.png" group-title="🇪🇬 Egypt",ALHAYAT MUSALSALAT
+http://apontv.net:80/270223522003493/1593574628/38085
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" live="1" tvg-logo="http://teledunet.com/logos/MBC_Masr_Logo.png" group-title="🇪🇬 Egypt",MBC MASR
+http://teledunet.com:8080/tdn/tdn/323
+#EXTINF:-1 tvg-id="" tvg-name="DMC" live="1" tvg-logo="http://teledunet.com/logos/dmc.jpg" group-title="🇪🇬 Egypt",DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/Dmc_drama_logo.png" group-title="🇪🇬 Egypt",DMC DRAMA
+https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬 Egypt",ON EGYPT
+http://185.9.2.18/chid_616/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA" live="1" tvg-logo="http://teledunet.com/logos/on_drama.png" group-title="🇪🇬 Egypt",ON DRAMA
+http://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC" live="1" tvg-logo="http://teledunet.com/logos/cbc.png" group-title="🇪🇬 Egypt",CBC
+http://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u88
+#EXTINF:-1 tvg-id="" tvg-name="CBC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/cbc_drama.jpg" group-title="🇪🇬 Egypt",CBC DRAMA
+http://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC QURAN KAREEM" live="1" tvg-logo="http://teledunet.com/logos/masr_curan.jpg" group-title="🇪🇬 Egypt",CBC QURAN KAREEM
+http://teledunet.com:8080/tdn/tdn/28
+#EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/cbc_sofra.jpg" group-title="🇪🇬 Egypt",CBC SOFRA EGYPT
+http://185.9.2.18/chid_652/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="CBC XTRA NEWS" live="1" tvg-logo="http://teledunet.com/logos/xtra_news.jpg" group-title="🇪🇬 Egypt",CBC XTRA NEWS
+http://teledunet.com:8080/tdn/tdn/329
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT WE ALNASS" live="1" tvg-logo="http://teledunet.com/logos/Logoelnas.png" group-title="🇪🇬 Egypt",ALHAYAT WE ALNASS
+http://teledunet.com:8080/tdn/tdn/369
+#EXTINF:-1 tvg-id="" tvg-name="EGYPT TV" live="1" tvg-logo="http://teledunet.com/logos/egyptv.jpg" group-title="🇪🇬 Egypt",EGYPT TV
+http://edge66.magictvbox.com/liveApple/Egyptian_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYAH" live="1" tvg-logo="http://teledunet.com/logos/masriyah.jpg" group-title="🇪🇬 Egypt",AL MASRIYAH
+http://teledunet.com:8080/tdn/tdn/335
+#EXTINF:-1 tvg-id="" tvg-name="ALOULA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/oula.png" group-title="🇪🇬 Egypt",ALOULA EGYPT
+http://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALTHANIYA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ertu-2-eg.png" group-title="🇪🇬 Egypt",ALTHANIYA EGYPT
+https://live-b.cf.dmcdn.net/sec2(L3xuAkgZe50KHavGNlKLd6dvHxnKDiSEXqJ9-OFU3cm_CCpa7I1VK9DEWuYCI-MVEp8t11orP0TSsZ4XBYjSHoFeZpbxTUqDSSq8P9wzfatjrhoouFG0k23g4zYGT2SJ)/dm/3/x8n6dm7/s/live-240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KAHERA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL KAHERA
+http://apontv.net:80/270223522003493/1593574628/69959
+#EXTINF:-1 tvg-id="" tvg-name="ALKANAL" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALKANAL
+http://apontv.net:80/270223522003493/1593574628/69960
+#EXTINF:-1 tvg-id="" tvg-name="ALASKANDRIA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALASKANDRIA
+http://apontv.net:80/270223522003493/1593574628/69961
+#EXTINF:-1 tvg-id="" tvg-name="AL DELTA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL DELTA
+http://apontv.net:80/270223522003493/1593574628/69962
+#EXTINF:-1 tvg-id="" tvg-name="AL SA3EED" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL SA3EED
+http://apontv.net:80/270223522003493/1593574628/69963
+#EXTINF:-1 tvg-id="" tvg-name="ALMEHWAR" live="1" tvg-logo="http://teledunet.com/logos/mehwar.jpg" group-title="🇪🇬 Egypt",ALMEHWAR
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1800
+#EXTINF:-1 tvg-id="" tvg-name="AL QAHERA NEWS EGYPT [VIP]" live="1" tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" group-title="🇪🇬 Egypt",AL QAHERA NEWS EGYPT [VIP]
+http://teledunet.com:8080/tdn/tdn/363
+#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS" live="1" tvg-logo="http://teledunet.com/logos/kahera_ness.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS
+http://teledunet.com:8080/tdn/tdn/338
+#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS 2" live="1" tvg-logo="http://teledunet.com/logos/kaherawness2.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS 2
+http://teledunet.com:8080/tdn/tdn/339
+#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" live="1" tvg-logo="http://teledunet.com/logos/naharegypt.jpg" group-title="🇪🇬 Egypt",ALNAHAR
+http://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA" live="1" tvg-logo="http://teledunet.com/logos/nahardrama.jpg" group-title="🇪🇬 Egypt",ALNAHAR DRAMA
+http://185.9.2.18/chid_518/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="NILE CINEMA" live="1" tvg-logo="http://teledunet.com/logos/nilecinema.jpg" group-title="🇪🇬 Egypt",NILE CINEMA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/220
+#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY" live="1" tvg-logo="http://teledunet.com/logos/Nile_Drama.png" group-title="🇪🇬 Egypt",NILE COMEDY
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/34
+#EXTINF:-1 tvg-id="" tvg-name="NILE LIFE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilelife.jpg?v=6" group-title="🇪🇬 Egypt",NILE LIFE
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1789
+#EXTINF:-1 tvg-id="" tvg-name="NILE FAMILY" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilefamily.jpg?v=6" group-title="🇪🇬 Egypt",NILE FAMILY
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3036
+#EXTINF:-1 tvg-id="" tvg-name="NILE CULTURE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nileculture.jpg?v=6" group-title="🇪🇬 Egypt",NILE CULTURE
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1791
+#EXTINF:-1 tvg-id="" tvg-name="NILE DRAMA" live="1" tvg-logo="http://teledunet.com/logos/niledrama.jpg" group-title="🇪🇬 Egypt",NILE DRAMA
+http://185.9.2.18/chid_352/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NILE INT" live="1" tvg-logo="http://teledunet.com/logos/nileint.webp" group-title="🇪🇬 Egypt",NILE INT
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1786
+#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" live="1" tvg-logo="http://teledunet.com/logos/nilenews.webp" group-title="🇪🇬 Egypt",NILE NEWS
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1788
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" live="1" tvg-logo="http://teledunet.com/logos/2-Panorama-Drama.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA
+http://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" live="1" tvg-logo="http://teledunet.com/logos/pncd2.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA 2
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/281
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" live="1" tvg-logo="http://teledunet.com/logos/panoramafilm2.png" group-title="🇪🇬 Egypt",PANORAMA FILM
+http://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" live="1" tvg-logo="http://teledunet.com/logos/pncfood.jpg" group-title="🇪🇬 Egypt",PANORAMA FOOD
+http://edge66.magictvbox.com/liveApple/panorama_food/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ten.png" group-title="🇪🇬 Egypt",TEN EGYPT
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD" live="1" tvg-logo="http://teledunet.com/logos/sada.jpg" group-title="🇪🇬 Egypt",SADA ALBALAD
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1773
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD 2" live="1" tvg-logo="http://teledunet.com/logos/sada2.png" group-title="🇪🇬 Egypt",SADA ALBALAD 2
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3032
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD DRAMA" live="1" tvg-logo="http://teledunet.com/logos/sadadrama.png" group-title="🇪🇬 Egypt",SADA ALBALAD DRAMA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1775
+#EXTINF:-1 tvg-id="" tvg-name="CIMA" live="1" tvg-logo="http://teledunet.com/logos/cima.jpg" group-title="🇪🇬 Egypt",CIMA
+http://teledunet.com:8080/tdn/tdn/348
+#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" live="1" tvg-logo="http://teledunet.com/logos/maspero.png" group-title="🇪🇬 Egypt",MASPERO ZAMAN
+https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELMOLED" live="1" tvg-logo="http://teledunet.com/logos/moled.png" group-title="🇪🇬 Egypt",ELMOLED
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4774
+#EXTINF:-1 tvg-id="" tvg-name="B4U AFLAM" live="1" tvg-logo="http://teledunet.com/logos/B4U_Aflam_Logo.png" group-title="🇪🇬 Egypt",B4U AFLAM
+http://teledunet.com:8080/tdn/tdn/368
+#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" live="1" tvg-logo="http://teledunet.com/logos/mazzika.jpg" group-title="🇪🇬 Egypt",MAZZIKA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4775
+#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
+http://apontv.net:80/270223522003493/1593574628/116796
+#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
+http://185.9.2.18/chid_7121/mpegts
+#EXTINF:-1 tvg-id="Rotana.Cinema.(RotanaCin).us" tvg-name="AR | ROTANA CINÉMA+ US" tvg-logo="http://178.62.208.219/picons/rotanaamericapitcon.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA+ US
+http://apontv.net:80/270223522003493/1593574628/69074
+#EXTINF:-1 tvg-id="Rotana.Movies+.eg" tvg-name="AR | ROTANA AFLAM+" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAAFLAM.png" group-title="🇪🇬 Egypt",AR | ROTANA AFLAM+
+http://apontv.net:80/270223522003493/1593574628/38117
+#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLASSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Classic
+http://apontv.net:80/270223522003493/1593574628/37963
+#EXTINF:-1 tvg-id="rotanakhalijiah.eg" tvg-name="AR | Rotana Khalijia" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAKHALIDJIA.png" group-title="🇪🇬 Egypt",AR | Rotana Khalijia
+http://apontv.net:80/270223522003493/1593574628/37965
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA+ HD" tvg-logo="http://aptvpix.net/picons/NEW2020/rotanaplus.png" group-title="🇪🇬 Egypt",AR | ROTANA+ HD
+http://apontv.net:80/270223522003493/1593574628/58084
+#EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="AR | Rotana Music" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAMUSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Music
+http://apontv.net:80/270223522003493/1593574628/37966
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA CLIP " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLIP.png" group-title="🇪🇬 Egypt",AR | ROTANA CLIP 
+http://apontv.net:80/270223522003493/1593574628/37964
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA M+" tvg-logo="http://aptvpix.net/pubs/pitconsgeneral/mhd.png" group-title="🇪🇬 Egypt",AR | ROTANA M+
+http://apontv.net:80/270223522003493/1593574628/62599
 #EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/oEdApMA.png" group-title="🇰🇼 KUWAIT",Al Maali TV (1080p)
 https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="🇰🇼 KUWAIT",KTV 1 (1080p)
@@ -3947,7 +4326,7 @@ https://limited43.todostreaming.es/live/simbana-livestream.m3u8
 https://streamtv2.elitecomunicacion.cloud:3576/live/alfafartvlive.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="🇪🇸 ESPAÑA " tvg-name="Corts Valencianes",Corts Valencianes
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
-#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="🇪🇸 ESPAÑA " tvg-name="Canal Extremadura",Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="🇪🇸 ESPAÑA " tvg-name="TVG",TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
@@ -4746,22 +5125,22 @@ http://45.65.112.49:8000/play/a0n1
 #EXTINF:-1 tvg-id="TG.NORBA.24.it" tvg-name="TG Norba24 IT" group-title="🇮🇹 Italia " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",TG Norba24
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🇮🇹Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpitalia.webp",Rtp Italia 
+#EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpitalia.webp",Rtp Italia 
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCOULA" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiscuola.png" group-title="ITALIA [VIP]",RAI SCOULA
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCOULA" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiscuola.png" group-title="🇮🇹 Italia ",RAI SCOULA
 http://85.209.248.3:8080/RaiScuolaHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiyoyo.png" group-title="ITALIA [VIP]",RAI YOYO
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiyoyo.png" group-title="🇮🇹 Italia ",RAI YOYO
 http://85.209.248.3:8080/RaiYoyoHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/italiaunohd.png" group-title="ITALIA [VIP]",ITALIA 1
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/italiaunohd.png" group-title="🇮🇹 Italia ",ITALIA 1
 http://85.209.248.3:8080/Italia1HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 5" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canale5hd.png" group-title="ITALIA [VIP]",CANALE 5
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 5" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canale5hd.png" group-title="🇮🇹 Italia ",CANALE 5
 http://85.209.248.3:8080/Canale5HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETE 4" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rete4hd.png" group-title="ITALIA [VIP]",RETE 4
+#EXTINF:-1 tvg-id="" tvg-name="RETE 4" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rete4hd.png" group-title="🇮🇹 Italia ",RETE 4
 http://85.209.248.3:8080/Rete4HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mediasetitalia.png" group-title="ITALIA [VIP]",MEDIASET 20
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mediasetitalia.png" group-title="🇮🇹 Italia ",MEDIASET 20
 http://85.209.248.3:8080/20MediasetHD/index.m3u8
 
 
@@ -4815,52 +5194,48 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gxKy7JRwrW.jpg" group-title="🇵🇪 Peru",Capital TV
 http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/31436
 
-#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="sv Salvador",Awapa Sports TV
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="🇸🇻 El Salvador",Awapa Sports TV
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="sv Salvador",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="🇸🇻 El Salvador",Canal 11 TuTV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="sv Salvador",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="🇸🇻 El Salvador",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="sv Salvador",Canal 2
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="🇸🇻 El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="sv Salvador",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="🇸🇻 El Salvador",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="sv Salvador",Canal 4
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="🇸🇻 El Salvador",Canal 4
 http://204.157.251.250:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="sv Salvador",Canal 6
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="🇸🇻 El Salvador",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal65.sv" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious",Canal 65
-https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="sv Salvador",Canal TRV
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="🇸🇻 El Salvador",Canal TRV
 https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
-#EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="sv Salvador",El 15 TV
+#EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="🇸🇻 El Salvador",El 15 TV
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="sv Salvador",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="🇸🇻 El Salvador",Megavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="sv Salvador",Megavision Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="🇸🇻 El Salvador",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="sv Salvador",Orbita FM
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="🇸🇻 El Salvador",Orbita FM
 https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/cPnWSOw.png" group-title="sv Salvador",Orbita TV
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/cPnWSOw.png" group-title="🇸🇻 El Salvador",Orbita TV
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="sv Salvador",RTV Canal 57
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="🇸🇻 El Salvador",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="sv Salvador",SolTV
+#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="🇸🇻 El Salvador",SolTV
 http://rtmp.info:1935/soltv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="sv Salvador",TCS+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="🇸🇻 El Salvador",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="sv Salvador",Tigo Sports
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="🇸🇻 El Salvador",Tigo Sports
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/C5vHpd0.png" group-title="sv Salvador",Tribuna TV
+#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/C5vHpd0.png" group-title="🇸🇻 El Salvador",Tribuna TV
 https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="sv Salvador",TVC Network
+#EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="🇸🇻 El Salvador",TVC Network
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-#EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/JbxpB6M.png" group-title="sv Salvador",TVX
+#EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/JbxpB6M.png" group-title="🇸🇻 El Salvador",TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="sv Salvador",WOW TV
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="🇸🇻 El Salvador",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="🇨🇱 Chiler", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -5380,49 +5755,49 @@ http://malau.hopto.org:35000/api/swc/live/26.mpd
 http://malau.hopto.org:35000/api/swc/live/1216.mpd
 #EXTINF:1 tvg-id="Wetterfernsehen.ch" tvg-chno="57" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1272_w300.webp",Wetter.TV
 http://malau.hopto.org:35000/api/swc/live/1272.mpd
-#EXTINF:1 tvg-id="Kanal9.ch" tvg-chno="58" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/227_w300.webp",Kanal 9
-http://malau.hopto.org:35000/api/swc/live/227.mpd
-#EXTINF:1 tvg-id="Televista.ch" tvg-chno="59" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1468_w300.webp",Televista
-http://malau.hopto.org:35000/api/swc/live/1468.mpd
-#EXTINF:1 tvg-id="1801" tvg-chno="60" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1801_w300.webp",Marco Polo
-http://malau.hopto.org:35000/api/swc/live/1801.mpd
-#EXTINF:1 tvg-id="1914" tvg-chno="61" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1914_w300.webp",Lilo TV
-http://malau.hopto.org:35000/api/swc/live/1914.mpd
-#EXTINF:1 tvg-id="StarTV.ch" tvg-chno="62" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/405_w300.webp",Star TV
-http://malau.hopto.org:35000/api/swc/live/405.mpd
-#EXTINF:1 tvg-id="GameTV.ch" tvg-chno="63" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1224_w300.webp",Game TV
-http://malau.hopto.org:35000/api/swc/live/1224.mpd
-#EXTINF:1 tvg-id="1790" tvg-chno="64" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1790_w300.webp",One Music Television
-http://malau.hopto.org:35000/api/swc/live/1790.mpd
-#EXTINF:1 tvg-id="1791" tvg-chno="65" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1791_w300.webp",Zwei Music Television
-http://malau.hopto.org:35000/api/swc/live/1791.mpd
-#EXTINF:1 tvg-id="blueZoom.ch" tvg-chno="39" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1221_w300.webp",blue Zoom D
-http://malau.hopto.org:35000/api/swc/live/1221.mpd
-#EXTINF:1 tvg-id="1254" tvg-chno="40" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1254_w300.webp",More Than Sports TV
-http://malau.hopto.org:35000/api/swc/live/1254.mpd
-#EXTINF:1 tvg-id="1601" tvg-chno="41" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1601_w300.webp",Swiss Sport TV
-http://malau.hopto.org:35000/api/swc/live/1601.mpd
-#EXTINF:1 tvg-id="S1.ch" tvg-chno="22" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/374_w300.webp",S1
-http://malau.hopto.org:35000/api/swc/live/374.mpd
-#EXTINF:1 tvg-id="Swiss1.ch" tvg-chno="23" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1223_w300.webp",SWISS1
-http://malau.hopto.org:35000/api/swc/live/1223.mpd
-#EXTINF:1 tvg-id="3plus.ch" tvg-chno="8" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/4_w300.webp",3+
+#EXTINF:1 tvg-id="3plus.ch" tvg-chno="8" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/4_w300.webp",3+
 http://malau.hopto.org:35000/api/swc/live/4.mpd
-#EXTINF:1 tvg-id="4plus.ch" tvg-chno="9" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/7_w300.webp",4+
+#EXTINF:1 tvg-id="4plus.ch" tvg-chno="9" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/7_w300.webp",4+
 http://malau.hopto.org:35000/api/swc/live/7.mpd
-#EXTINF:1 tvg-id="5plus.ch" tvg-chno="10" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/8_w300.webp",5+
+#EXTINF:1 tvg-id="5plus.ch" tvg-chno="10" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/8_w300.webp",5+
 http://malau.hopto.org:35000/api/swc/live/8.mpd
-#EXTINF:1 tvg-id="6plus.ch" tvg-chno="11" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1469_w300.webp",6+
+#EXTINF:1 tvg-id="6plus.ch" tvg-chno="11" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1469_w300.webp",6+
 http://malau.hopto.org:35000/api/swc/live/1469.mpd
-#EXTINF:1 tvg-id="SRF1.ch" tvg-chno="12" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/399_w300.webp",SRF 1
+#EXTINF:1 tvg-id="SRF1.ch" tvg-chno="12" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/399_w300.webp",SRF 1
 http://malau.hopto.org:35000/api/swc/live/399.mpd
-#EXTINF:1 tvg-id="SRF2.ch" tvg-chno="13" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/401_w300.webp",SRF zwei
+#EXTINF:1 tvg-id="SRF2.ch" tvg-chno="13" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/401_w300.webp",SRF zwei
 http://malau.hopto.org:35000/api/swc/live/401.mpd
-#EXTINF:1 tvg-id="Puls8.ch" tvg-chno="14" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/325_w300.webp",Puls 8
+#EXTINF:1 tvg-id="Kanal9.ch" tvg-chno="58" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/227_w300.webp",Kanal 9
+http://malau.hopto.org:35000/api/swc/live/227.mpd
+#EXTINF:1 tvg-id="Televista.ch" tvg-chno="59" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1468_w300.webp",Televista
+http://malau.hopto.org:35000/api/swc/live/1468.mpd
+#EXTINF:1 tvg-id="1801" tvg-chno="60" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1801_w300.webp",Marco Polo
+http://malau.hopto.org:35000/api/swc/live/1801.mpd
+#EXTINF:1 tvg-id="1914" tvg-chno="61" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1914_w300.webp",Lilo TV
+http://malau.hopto.org:35000/api/swc/live/1914.mpd
+#EXTINF:1 tvg-id="StarTV.ch" tvg-chno="62" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/405_w300.webp",Star TV
+http://malau.hopto.org:35000/api/swc/live/405.mpd
+#EXTINF:1 tvg-id="GameTV.ch" tvg-chno="63" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1224_w300.webp",Game TV
+http://malau.hopto.org:35000/api/swc/live/1224.mpd
+#EXTINF:1 tvg-id="1790" tvg-chno="64" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1790_w300.webp",One Music Television
+http://malau.hopto.org:35000/api/swc/live/1790.mpd
+#EXTINF:1 tvg-id="1791" tvg-chno="65" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1791_w300.webp",Zwei Music Television
+http://malau.hopto.org:35000/api/swc/live/1791.mpd
+#EXTINF:1 tvg-id="blueZoom.ch" tvg-chno="39" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1221_w300.webp",blue Zoom D
+http://malau.hopto.org:35000/api/swc/live/1221.mpd
+#EXTINF:1 tvg-id="1254" tvg-chno="40" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1254_w300.webp",More Than Sports TV
+http://malau.hopto.org:35000/api/swc/live/1254.mpd
+#EXTINF:1 tvg-id="1601" tvg-chno="41" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1601_w300.webp",Swiss Sport TV
+http://malau.hopto.org:35000/api/swc/live/1601.mpd
+#EXTINF:1 tvg-id="S1.ch" tvg-chno="22" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/374_w300.webp",S1
+http://malau.hopto.org:35000/api/swc/live/374.mpd
+#EXTINF:1 tvg-id="Swiss1.ch" tvg-chno="23" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1223_w300.webp",SWISS1
+http://malau.hopto.org:35000/api/swc/live/1223.mpd
+#EXTINF:1 tvg-id="Puls8.ch" tvg-chno="14" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/325_w300.webp",Puls 8
 http://malau.hopto.org:35000/api/swc/live/325.mpd
-#EXTINF:1 tvg-id="TV24.ch" tvg-chno="15" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/634_w300.webp",TV24
+#EXTINF:1 tvg-id="TV24.ch" tvg-chno="15" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/634_w300.webp",TV24
 http://malau.hopto.org:35000/api/swc/live/634.mpd
-#EXTINF:1 tvg-id="TV25.ch" tvg-chno="16" group-title="🇸🇿 Swaziland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/665_w300.webp",TV25
+#EXTINF:1 tvg-id="TV25.ch" tvg-chno="16" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/665_w300.webp",TV25
 http://malau.hopto.org:35000/api/swc/live/665.mpd
 #EXTINF:1 tvg-id="ORF1.at" tvg-chno="7" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 1
 http://malau.hopto.org:35000/api/swc/live/303.mpd
@@ -5430,151 +5805,4 @@ http://malau.hopto.org:35000/api/swc/live/303.mpd
 http://malau.hopto.org:35000/api/swc/live/1889.mpd
 #EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 2
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg?v=6",ROTANA CINEMA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
-#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam_plus.jpg?v=6",ROTANA AFLAM PLUS
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA KSA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA KSA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rotana_Aflam_New.png/280px-Rotana_Aflam_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA AFLAM
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA EGY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA EGY
-http://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rotana_Classic_New_Logo.png/280px-Rotana_Classic_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLASSIC
-http://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA COMEDY
-http://185.9.2.18/chid_5224/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rotana_Drama_New_Logo.png/216px-Rotana_Drama_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA DRAMA
-http://185.9.2.18/chid_2179/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIGI" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Rotana_khalijia_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA KHALIGI
-http://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-rotana-clip.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLIP
-http://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rotana_Music_New_Logo.png/280px-Rotana_Music_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA MUSIC
-http://teledunet.com:8080/tdn/tdn/595
-#EXTINF:-1 tvg-id="" tvg-name="ALAHLY" live="1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ahly-tv-eg.png" group-title="EGYPT SPORTS [VIP]",ALAHLY
-http://apontv.net:80/270223522003493/1593574628/40752
-#EXTINF:-1 tvg-id="" tvg-name="ZAMALEK" live="1" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="EGYPT SPORTS [VIP]",ZAMALEK
-http://apontv.net:80/270223522003493/1593574628/40753
-#EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" live="1" tvg-logo="https://e7.pngegg.com/pngimages/945/175/png-clipart-egypt-nile-sport-al-nile-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%8A%D9%84-egypt-television-blue.png" group-title="EGYPT SPORTS [VIP]",NILE SPORTS
-http://teledunet.com:8080/tdn/tdn/240
-#EXTINF:-1 tvg-id="" tvg-name="MISR ELBALAD" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZHIMrN0Lge80Kql0n7zoQQoFRtrZC-FlDg&s" group-title="🇪🇬 Egypt",MISR ELBALAD
-http://teledunet.com:8080/tdn/tdn/9959442
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="http://teledunet.com/logos/alhayat.jpg" group-title="🇪🇬 Egypt",ALHAYAT EGYPT
-http://185.9.2.18/chid_659/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT MUSALSALAT" live="1" tvg-logo="http://teledunet.com/logos/h_musalsalat.png" group-title="🇪🇬 Egypt",ALHAYAT MUSALSALAT
-http://apontv.net:80/270223522003493/1593574628/38085
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" live="1" tvg-logo="http://teledunet.com/logos/MBC_Masr_Logo.png" group-title="🇪🇬 Egypt",MBC MASR
-http://teledunet.com:8080/tdn/tdn/323
-#EXTINF:-1 tvg-id="" tvg-name="DMC" live="1" tvg-logo="http://teledunet.com/logos/dmc.jpg" group-title="🇪🇬 Egypt",DMC
-https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/Dmc_drama_logo.png" group-title="🇪🇬 Egypt",DMC DRAMA
-https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬 Egypt",ON EGYPT
-http://185.9.2.18/chid_616/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA" live="1" tvg-logo="http://teledunet.com/logos/on_drama.png" group-title="🇪🇬 Egypt",ON DRAMA
-http://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC" live="1" tvg-logo="http://teledunet.com/logos/cbc.png" group-title="🇪🇬 Egypt",CBC
-http://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u88
-#EXTINF:-1 tvg-id="" tvg-name="CBC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/cbc_drama.jpg" group-title="🇪🇬 Egypt",CBC DRAMA
-http://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC QURAN KAREEM" live="1" tvg-logo="http://teledunet.com/logos/masr_curan.jpg" group-title="🇪🇬 Egypt",CBC QURAN KAREEM
-http://teledunet.com:8080/tdn/tdn/28
-#EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/cbc_sofra.jpg" group-title="🇪🇬 Egypt",CBC SOFRA EGYPT
-http://185.9.2.18/chid_652/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="CBC XTRA NEWS" live="1" tvg-logo="http://teledunet.com/logos/xtra_news.jpg" group-title="🇪🇬 Egypt",CBC XTRA NEWS
-http://teledunet.com:8080/tdn/tdn/329
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT WE ALNASS" live="1" tvg-logo="http://teledunet.com/logos/Logoelnas.png" group-title="🇪🇬 Egypt",ALHAYAT WE ALNASS
-http://teledunet.com:8080/tdn/tdn/369
-#EXTINF:-1 tvg-id="" tvg-name="EGYPT TV" live="1" tvg-logo="http://teledunet.com/logos/egyptv.jpg" group-title="🇪🇬 Egypt",EGYPT TV
-http://edge66.magictvbox.com/liveApple/Egyptian_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYAH" live="1" tvg-logo="http://teledunet.com/logos/masriyah.jpg" group-title="🇪🇬 Egypt",AL MASRIYAH
-http://teledunet.com:8080/tdn/tdn/335
-#EXTINF:-1 tvg-id="" tvg-name="ALOULA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/oula.png" group-title="🇪🇬 Egypt",ALOULA EGYPT
-http://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALTHANIYA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ertu-2-eg.png" group-title="🇪🇬 Egypt",ALTHANIYA EGYPT
-https://live-b.cf.dmcdn.net/sec2(L3xuAkgZe50KHavGNlKLd6dvHxnKDiSEXqJ9-OFU3cm_CCpa7I1VK9DEWuYCI-MVEp8t11orP0TSsZ4XBYjSHoFeZpbxTUqDSSq8P9wzfatjrhoouFG0k23g4zYGT2SJ)/dm/3/x8n6dm7/s/live-240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL KAHERA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL KAHERA
-http://apontv.net:80/270223522003493/1593574628/69959
-#EXTINF:-1 tvg-id="" tvg-name="ALKANAL" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALKANAL
-http://apontv.net:80/270223522003493/1593574628/69960
-#EXTINF:-1 tvg-id="" tvg-name="ALASKANDRIA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALASKANDRIA
-http://apontv.net:80/270223522003493/1593574628/69961
-#EXTINF:-1 tvg-id="" tvg-name="AL DELTA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL DELTA
-http://apontv.net:80/270223522003493/1593574628/69962
-#EXTINF:-1 tvg-id="" tvg-name="AL SA3EED" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL SA3EED
-http://apontv.net:80/270223522003493/1593574628/69963
-#EXTINF:-1 tvg-id="" tvg-name="ALMEHWAR" live="1" tvg-logo="http://teledunet.com/logos/mehwar.jpg" group-title="🇪🇬 Egypt",ALMEHWAR
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1800
-#EXTINF:-1 tvg-id="" tvg-name="AL QAHERA NEWS EGYPT [VIP]" live="1" tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" group-title="🇪🇬 Egypt",AL QAHERA NEWS EGYPT [VIP]
-http://teledunet.com:8080/tdn/tdn/363
-#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS" live="1" tvg-logo="http://teledunet.com/logos/kahera_ness.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS
-http://teledunet.com:8080/tdn/tdn/338
-#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS 2" live="1" tvg-logo="http://teledunet.com/logos/kaherawness2.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS 2
-http://teledunet.com:8080/tdn/tdn/339
-#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" live="1" tvg-logo="http://teledunet.com/logos/naharegypt.jpg" group-title="🇪🇬 Egypt",ALNAHAR
-http://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA" live="1" tvg-logo="http://teledunet.com/logos/nahardrama.jpg" group-title="🇪🇬 Egypt",ALNAHAR DRAMA
-http://185.9.2.18/chid_518/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="NILE CINEMA" live="1" tvg-logo="http://teledunet.com/logos/nilecinema.jpg" group-title="🇪🇬 Egypt",NILE CINEMA
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/220
-#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY" live="1" tvg-logo="http://teledunet.com/logos/Nile_Drama.png" group-title="🇪🇬 Egypt",NILE COMEDY
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/34
-#EXTINF:-1 tvg-id="" tvg-name="NILE LIFE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilelife.jpg?v=6" group-title="🇪🇬 Egypt",NILE LIFE
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1789
-#EXTINF:-1 tvg-id="" tvg-name="NILE FAMILY" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilefamily.jpg?v=6" group-title="🇪🇬 Egypt",NILE FAMILY
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3036
-#EXTINF:-1 tvg-id="" tvg-name="NILE CULTURE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nileculture.jpg?v=6" group-title="🇪🇬 Egypt",NILE CULTURE
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1791
-#EXTINF:-1 tvg-id="" tvg-name="NILE DRAMA" live="1" tvg-logo="http://teledunet.com/logos/niledrama.jpg" group-title="🇪🇬 Egypt",NILE DRAMA
-http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NILE INT" live="1" tvg-logo="http://teledunet.com/logos/nileint.webp" group-title="🇪🇬 Egypt",NILE INT
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1786
-#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" live="1" tvg-logo="http://teledunet.com/logos/nilenews.webp" group-title="🇪🇬 Egypt",NILE NEWS
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1788
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" live="1" tvg-logo="http://teledunet.com/logos/2-Panorama-Drama.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA
-http://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" live="1" tvg-logo="http://teledunet.com/logos/pncd2.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA 2
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/281
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" live="1" tvg-logo="http://teledunet.com/logos/panoramafilm2.png" group-title="🇪🇬 Egypt",PANORAMA FILM
-http://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" live="1" tvg-logo="http://teledunet.com/logos/pncfood.jpg" group-title="🇪🇬 Egypt",PANORAMA FOOD
-http://edge66.magictvbox.com/liveApple/panorama_food/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEN EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ten.png" group-title="🇪🇬 Egypt",TEN EGYPT
-https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD" live="1" tvg-logo="http://teledunet.com/logos/sada.jpg" group-title="🇪🇬 Egypt",SADA ALBALAD
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1773
-#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD 2" live="1" tvg-logo="http://teledunet.com/logos/sada2.png" group-title="🇪🇬 Egypt",SADA ALBALAD 2
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3032
-#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD DRAMA" live="1" tvg-logo="http://teledunet.com/logos/sadadrama.png" group-title="🇪🇬 Egypt",SADA ALBALAD DRAMA
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1775
-#EXTINF:-1 tvg-id="" tvg-name="CIMA" live="1" tvg-logo="http://teledunet.com/logos/cima.jpg" group-title="🇪🇬 Egypt",CIMA
-http://teledunet.com:8080/tdn/tdn/348
-#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" live="1" tvg-logo="http://teledunet.com/logos/maspero.png" group-title="🇪🇬 Egypt",MASPERO ZAMAN
-https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELMOLED" live="1" tvg-logo="http://teledunet.com/logos/moled.png" group-title="🇪🇬 Egypt",ELMOLED
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4774
-#EXTINF:-1 tvg-id="" tvg-name="B4U AFLAM" live="1" tvg-logo="http://teledunet.com/logos/B4U_Aflam_Logo.png" group-title="🇪🇬 Egypt",B4U AFLAM
-http://teledunet.com:8080/tdn/tdn/368
-#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" live="1" tvg-logo="http://teledunet.com/logos/mazzika.jpg" group-title="🇪🇬 Egypt",MAZZIKA
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4775
-#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
-http://apontv.net:80/270223522003493/1593574628/116796
-#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
-http://185.9.2.18/chid_7121/mpegts
-#EXTINF:-1 tvg-id="Rotana.Cinema.(RotanaCin).us" tvg-name="AR | ROTANA CINÉMA+ US" tvg-logo="http://178.62.208.219/picons/rotanaamericapitcon.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA+ US
-http://apontv.net:80/270223522003493/1593574628/69074
-#EXTINF:-1 tvg-id="Rotana.Movies+.eg" tvg-name="AR | ROTANA AFLAM+" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAAFLAM.png" group-title="🇪🇬 Egypt",AR | ROTANA AFLAM+
-http://apontv.net:80/270223522003493/1593574628/38117
-#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLASSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Classic
-http://apontv.net:80/270223522003493/1593574628/37963
-#EXTINF:-1 tvg-id="rotanakhalijiah.eg" tvg-name="AR | Rotana Khalijia" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAKHALIDJIA.png" group-title="🇪🇬 Egypt",AR | Rotana Khalijia
-http://apontv.net:80/270223522003493/1593574628/37965
-#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA+ HD" tvg-logo="http://aptvpix.net/picons/NEW2020/rotanaplus.png" group-title="🇪🇬 Egypt",AR | ROTANA+ HD
-http://apontv.net:80/270223522003493/1593574628/58084
-#EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="AR | Rotana Music" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAMUSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Music
-http://apontv.net:80/270223522003493/1593574628/37966
-#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA CLIP " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLIP.png" group-title="🇪🇬 Egypt",AR | ROTANA CLIP 
-http://apontv.net:80/270223522003493/1593574628/37964
-#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA M+" tvg-logo="http://aptvpix.net/pubs/pitconsgeneral/mhd.png" group-title="🇪🇬 Egypt",AR | ROTANA M+
-http://apontv.net:80/270223522003493/1593574628/62599
