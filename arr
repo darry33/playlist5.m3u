@@ -1200,11 +1200,11 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="🇸🇦 SAUDI ARABIA",Al Khalij (720p) [Not 24/7]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="🇸🇦 SAUDI ARABIA",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/7.m3u8
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3997
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa" tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="🇸🇦 SAUDI ARABIA",Al Riyadh Radio (720p)
 https://edge.taghtia.com/sa/12.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="🇸🇦 SAUDI ARABIA",Al Saudiya (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/2.m3u8
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3996
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="🇸🇦 SAUDI ARABIA",Al Saudiya Alaan (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="🇸🇦 SAUDI ARABIA",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
@@ -1235,9 +1235,9 @@ https://edge.taghtia.com/sa/15.m3u8
 #EXTINF:-1 tvg-id="KaifTV.sa" tvg-logo="https://i.imgur.com/mkzRTuE.png" group-title="🇸🇦 SAUDI ARABIA",Kaif TV (576p) [Not 24/7]
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="KSASAUDI1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="⚽ SPORTS",KSA SAUDI 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4012
 #EXTINF:-1 tvg-id="KSASAUDI2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="⚽ SPORTS",KSA SAUDI 2 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/10.m3u8
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4000
 #EXTINF:-1 tvg-id="KSASAUDI3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="⚽ SPORTS",KSA SAUDI 3 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="🇸🇦 SAUDI ARABIA",Makkah TV (576p)
@@ -1569,6 +1569,8 @@ http://htvmada.mada.ps:8888/wattan/index.m3u8
 https://alyaum-tv.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 tvg-id="951" tvg-name="AR | SYRIA DRAMA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/SYRIADRAMA.png" group-title="🇸🇾 SYRIA",AR | SYRIA DRAMA
 http://apontv.net:80/270223522003493/1593574628/38192
+#EXTINF:-1 tvg-id="951" tvg-name="AR | SYRIA DRAMA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/SYRIADRAMA.png" group-title="🇸🇾 SYRIA",AR | SYRIA DRAMA
+http://185.9.2.18/chid_2179/mpgts
 #EXTINF:-1 tvg-id="" tvg-name="AR | SYRIA TV HD" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="🇸🇾 SYRIA",AR | SYRIA TV HD
 http://www.teledunet.com:8080/tdn/tdn/737.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | SYRIA ALOULA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/SYRIATV.png" group-title="🇸🇾 SYRIA",AR | SYRIA ALOULA
@@ -2868,17 +2870,17 @@ http://vod24.teledunet.com:8080/home/vod3/Gold/Movies/movies_disney/kuzco_l_empe
 #EXTINF:-1 tvg-id="" tvg-name="professor tom" tvg-logo="http://vod24.teledunet.com:8080/home/vod3/Gold/Movies/movies_disney/professor_tom.jpg" group-title="MOVIES DISNEY", professor tom
 http://vod24.teledunet.com:8080/home/vod3/Gold/Movies/movies_disney/professor_tom.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK ACTION" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK ACTION
-http://teledunet.com:8080/202020/202020/634
+http://teledunet.com:8080/tdn/tdn/634
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK DRAMA" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK DRAMA
-http://teledunet.com:8080/202020/202020/635
+http://teledunet.com:8080/tdn/tdn/635
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK MIX WAYYAK MEDIA [VIP]" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK MIX WAYYAK MEDIA [VIP]
-http://teledunet.com:8080/202020/202020/636
+http://teledunet.com:8080/tdn/tdn/636
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK NAWAEM" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK NAWAEM
-http://teledunet.com:8080/202020/202020/637
+http://teledunet.com:8080/tdn/tdn/637
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK ROYA" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK ROYA
-http://teledunet.com:8080/202020/202020/638
+http://teledunet.com:8080/tdn/tdn/638
 #EXTINF:-1 tvg-id="" tvg-name="WEYYAK ZEE ALWAN" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK ZEE ALWAN
-http://teledunet.com:8080/202020/202020/639
+http://teledunet.com:8080/tdn/tdn/639
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS.png" group-title="⚽ SPORTS",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -5428,8 +5430,151 @@ http://malau.hopto.org:35000/api/swc/live/303.mpd
 http://malau.hopto.org:35000/api/swc/live/1889.mpd
 #EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 2
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg?v=6",ROTANA CINEMA
+#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg?v=6",ROTANA CINEMA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
-#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam_plus.jpg?v=6",ROTANA AFLAM PLUS
+#EXTINF:1 tvg-id="" tvg-chno="42" group-title="🇸🇦 SAUDI ARABIA" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam_plus.jpg?v=6",ROTANA AFLAM PLUS
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA KSA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rotana_Aflam_New.png/280px-Rotana_Aflam_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA AFLAM
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA EGY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CINEMA EGY
+http://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rotana_Classic_New_Logo.png/280px-Rotana_Classic_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLASSIC
+http://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA COMEDY
+http://185.9.2.18/chid_5224/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rotana_Drama_New_Logo.png/216px-Rotana_Drama_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA DRAMA
+http://185.9.2.18/chid_2179/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIGI" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Rotana_khalijia_New.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA KHALIGI
+http://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-rotana-clip.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA CLIP
+http://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rotana_Music_New_Logo.png/280px-Rotana_Music_New_Logo.png" group-title="🇸🇦 SAUDI ARABIA",ROTANA MUSIC
+http://teledunet.com:8080/tdn/tdn/595
+#EXTINF:-1 tvg-id="" tvg-name="ALAHLY" live="1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ahly-tv-eg.png" group-title="EGYPT SPORTS [VIP]",ALAHLY
+http://apontv.net:80/270223522003493/1593574628/40752
+#EXTINF:-1 tvg-id="" tvg-name="ZAMALEK" live="1" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="EGYPT SPORTS [VIP]",ZAMALEK
+http://apontv.net:80/270223522003493/1593574628/40753
+#EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" live="1" tvg-logo="https://e7.pngegg.com/pngimages/945/175/png-clipart-egypt-nile-sport-al-nile-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%8A%D9%84-egypt-television-blue.png" group-title="EGYPT SPORTS [VIP]",NILE SPORTS
+http://teledunet.com:8080/tdn/tdn/240
+#EXTINF:-1 tvg-id="" tvg-name="MISR ELBALAD" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZHIMrN0Lge80Kql0n7zoQQoFRtrZC-FlDg&s" group-title="🇪🇬 Egypt",MISR ELBALAD
+http://teledunet.com:8080/tdn/tdn/9959442
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="http://teledunet.com/logos/alhayat.jpg" group-title="🇪🇬 Egypt",ALHAYAT EGYPT
+http://185.9.2.18/chid_659/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT MUSALSALAT" live="1" tvg-logo="http://teledunet.com/logos/h_musalsalat.png" group-title="🇪🇬 Egypt",ALHAYAT MUSALSALAT
+http://apontv.net:80/270223522003493/1593574628/38085
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" live="1" tvg-logo="http://teledunet.com/logos/MBC_Masr_Logo.png" group-title="🇪🇬 Egypt",MBC MASR
+http://teledunet.com:8080/tdn/tdn/323
+#EXTINF:-1 tvg-id="" tvg-name="DMC" live="1" tvg-logo="http://teledunet.com/logos/dmc.jpg" group-title="🇪🇬 Egypt",DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/Dmc_drama_logo.png" group-title="🇪🇬 Egypt",DMC DRAMA
+https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬 Egypt",ON EGYPT
+http://185.9.2.18/chid_616/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA" live="1" tvg-logo="http://teledunet.com/logos/on_drama.png" group-title="🇪🇬 Egypt",ON DRAMA
+http://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC" live="1" tvg-logo="http://teledunet.com/logos/cbc.png" group-title="🇪🇬 Egypt",CBC
+http://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u88
+#EXTINF:-1 tvg-id="" tvg-name="CBC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/cbc_drama.jpg" group-title="🇪🇬 Egypt",CBC DRAMA
+http://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC QURAN KAREEM" live="1" tvg-logo="http://teledunet.com/logos/masr_curan.jpg" group-title="🇪🇬 Egypt",CBC QURAN KAREEM
+http://teledunet.com:8080/tdn/tdn/28
+#EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/cbc_sofra.jpg" group-title="🇪🇬 Egypt",CBC SOFRA EGYPT
+http://185.9.2.18/chid_652/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="CBC XTRA NEWS" live="1" tvg-logo="http://teledunet.com/logos/xtra_news.jpg" group-title="🇪🇬 Egypt",CBC XTRA NEWS
+http://teledunet.com:8080/tdn/tdn/329
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT WE ALNASS" live="1" tvg-logo="http://teledunet.com/logos/Logoelnas.png" group-title="🇪🇬 Egypt",ALHAYAT WE ALNASS
+http://teledunet.com:8080/tdn/tdn/369
+#EXTINF:-1 tvg-id="" tvg-name="EGYPT TV" live="1" tvg-logo="http://teledunet.com/logos/egyptv.jpg" group-title="🇪🇬 Egypt",EGYPT TV
+http://edge66.magictvbox.com/liveApple/Egyptian_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYAH" live="1" tvg-logo="http://teledunet.com/logos/masriyah.jpg" group-title="🇪🇬 Egypt",AL MASRIYAH
+http://teledunet.com:8080/tdn/tdn/335
+#EXTINF:-1 tvg-id="" tvg-name="ALOULA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/oula.png" group-title="🇪🇬 Egypt",ALOULA EGYPT
+http://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALTHANIYA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ertu-2-eg.png" group-title="🇪🇬 Egypt",ALTHANIYA EGYPT
+https://live-b.cf.dmcdn.net/sec2(L3xuAkgZe50KHavGNlKLd6dvHxnKDiSEXqJ9-OFU3cm_CCpa7I1VK9DEWuYCI-MVEp8t11orP0TSsZ4XBYjSHoFeZpbxTUqDSSq8P9wzfatjrhoouFG0k23g4zYGT2SJ)/dm/3/x8n6dm7/s/live-240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KAHERA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL KAHERA
+http://apontv.net:80/270223522003493/1593574628/69959
+#EXTINF:-1 tvg-id="" tvg-name="ALKANAL" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALKANAL
+http://apontv.net:80/270223522003493/1593574628/69960
+#EXTINF:-1 tvg-id="" tvg-name="ALASKANDRIA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",ALASKANDRIA
+http://apontv.net:80/270223522003493/1593574628/69961
+#EXTINF:-1 tvg-id="" tvg-name="AL DELTA" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL DELTA
+http://apontv.net:80/270223522003493/1593574628/69962
+#EXTINF:-1 tvg-id="" tvg-name="AL SA3EED" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png" group-title="🇪🇬 Egypt",AL SA3EED
+http://apontv.net:80/270223522003493/1593574628/69963
+#EXTINF:-1 tvg-id="" tvg-name="ALMEHWAR" live="1" tvg-logo="http://teledunet.com/logos/mehwar.jpg" group-title="🇪🇬 Egypt",ALMEHWAR
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1800
+#EXTINF:-1 tvg-id="" tvg-name="AL QAHERA NEWS EGYPT [VIP]" live="1" tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" group-title="🇪🇬 Egypt",AL QAHERA NEWS EGYPT [VIP]
+http://teledunet.com:8080/tdn/tdn/363
+#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS" live="1" tvg-logo="http://teledunet.com/logos/kahera_ness.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS
+http://teledunet.com:8080/tdn/tdn/338
+#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS 2" live="1" tvg-logo="http://teledunet.com/logos/kaherawness2.png" group-title="🇪🇬 Egypt",ALKAHERA W NESS 2
+http://teledunet.com:8080/tdn/tdn/339
+#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" live="1" tvg-logo="http://teledunet.com/logos/naharegypt.jpg" group-title="🇪🇬 Egypt",ALNAHAR
+http://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA" live="1" tvg-logo="http://teledunet.com/logos/nahardrama.jpg" group-title="🇪🇬 Egypt",ALNAHAR DRAMA
+http://185.9.2.18/chid_518/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="NILE CINEMA" live="1" tvg-logo="http://teledunet.com/logos/nilecinema.jpg" group-title="🇪🇬 Egypt",NILE CINEMA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/220
+#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY" live="1" tvg-logo="http://teledunet.com/logos/Nile_Drama.png" group-title="🇪🇬 Egypt",NILE COMEDY
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/34
+#EXTINF:-1 tvg-id="" tvg-name="NILE LIFE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilelife.jpg?v=6" group-title="🇪🇬 Egypt",NILE LIFE
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1789
+#EXTINF:-1 tvg-id="" tvg-name="NILE FAMILY" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilefamily.jpg?v=6" group-title="🇪🇬 Egypt",NILE FAMILY
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3036
+#EXTINF:-1 tvg-id="" tvg-name="NILE CULTURE" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nileculture.jpg?v=6" group-title="🇪🇬 Egypt",NILE CULTURE
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1791
+#EXTINF:-1 tvg-id="" tvg-name="NILE DRAMA" live="1" tvg-logo="http://teledunet.com/logos/niledrama.jpg" group-title="🇪🇬 Egypt",NILE DRAMA
+http://185.9.2.18/chid_352/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NILE INT" live="1" tvg-logo="http://teledunet.com/logos/nileint.webp" group-title="🇪🇬 Egypt",NILE INT
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1786
+#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" live="1" tvg-logo="http://teledunet.com/logos/nilenews.webp" group-title="🇪🇬 Egypt",NILE NEWS
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1788
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" live="1" tvg-logo="http://teledunet.com/logos/2-Panorama-Drama.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA
+http://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" live="1" tvg-logo="http://teledunet.com/logos/pncd2.jpg" group-title="🇪🇬 Egypt",PANORAMA DRAMA 2
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/281
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" live="1" tvg-logo="http://teledunet.com/logos/panoramafilm2.png" group-title="🇪🇬 Egypt",PANORAMA FILM
+http://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" live="1" tvg-logo="http://teledunet.com/logos/pncfood.jpg" group-title="🇪🇬 Egypt",PANORAMA FOOD
+http://edge66.magictvbox.com/liveApple/panorama_food/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ten.png" group-title="🇪🇬 Egypt",TEN EGYPT
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD" live="1" tvg-logo="http://teledunet.com/logos/sada.jpg" group-title="🇪🇬 Egypt",SADA ALBALAD
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1773
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD 2" live="1" tvg-logo="http://teledunet.com/logos/sada2.png" group-title="🇪🇬 Egypt",SADA ALBALAD 2
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3032
+#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD DRAMA" live="1" tvg-logo="http://teledunet.com/logos/sadadrama.png" group-title="🇪🇬 Egypt",SADA ALBALAD DRAMA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/1775
+#EXTINF:-1 tvg-id="" tvg-name="CIMA" live="1" tvg-logo="http://teledunet.com/logos/cima.jpg" group-title="🇪🇬 Egypt",CIMA
+http://teledunet.com:8080/tdn/tdn/348
+#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" live="1" tvg-logo="http://teledunet.com/logos/maspero.png" group-title="🇪🇬 Egypt",MASPERO ZAMAN
+https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELMOLED" live="1" tvg-logo="http://teledunet.com/logos/moled.png" group-title="🇪🇬 Egypt",ELMOLED
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4774
+#EXTINF:-1 tvg-id="" tvg-name="B4U AFLAM" live="1" tvg-logo="http://teledunet.com/logos/B4U_Aflam_Logo.png" group-title="🇪🇬 Egypt",B4U AFLAM
+http://teledunet.com:8080/tdn/tdn/368
+#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" live="1" tvg-logo="http://teledunet.com/logos/mazzika.jpg" group-title="🇪🇬 Egypt",MAZZIKA
+http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/4775
+#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
+http://apontv.net:80/270223522003493/1593574628/116796
+#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="AR | ROTANA CINÉMA +FR" tvg-logo="https://aptvpix.net/pubs/2022/cinemafr.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA +FR
+http://185.9.2.18/chid_7121/mpegts
+#EXTINF:-1 tvg-id="Rotana.Cinema.(RotanaCin).us" tvg-name="AR | ROTANA CINÉMA+ US" tvg-logo="http://178.62.208.219/picons/rotanaamericapitcon.png" group-title="🇪🇬 Egypt",AR | ROTANA CINÉMA+ US
+http://apontv.net:80/270223522003493/1593574628/69074
+#EXTINF:-1 tvg-id="Rotana.Movies+.eg" tvg-name="AR | ROTANA AFLAM+" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAAFLAM.png" group-title="🇪🇬 Egypt",AR | ROTANA AFLAM+
+http://apontv.net:80/270223522003493/1593574628/38117
+#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLASSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Classic
+http://apontv.net:80/270223522003493/1593574628/37963
+#EXTINF:-1 tvg-id="rotanakhalijiah.eg" tvg-name="AR | Rotana Khalijia" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAKHALIDJIA.png" group-title="🇪🇬 Egypt",AR | Rotana Khalijia
+http://apontv.net:80/270223522003493/1593574628/37965
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA+ HD" tvg-logo="http://aptvpix.net/picons/NEW2020/rotanaplus.png" group-title="🇪🇬 Egypt",AR | ROTANA+ HD
+http://apontv.net:80/270223522003493/1593574628/58084
+#EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="AR | Rotana Music" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANAMUSIC.png" group-title="🇪🇬 Egypt",AR | Rotana Music
+http://apontv.net:80/270223522003493/1593574628/37966
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA CLIP " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ROTANACLIP.png" group-title="🇪🇬 Egypt",AR | ROTANA CLIP 
+http://apontv.net:80/270223522003493/1593574628/37964
+#EXTINF:-1 tvg-id="" tvg-name="AR | ROTANA M+" tvg-logo="http://aptvpix.net/pubs/pitconsgeneral/mhd.png" group-title="🇪🇬 Egypt",AR | ROTANA M+
+http://apontv.net:80/270223522003493/1593574628/62599
