@@ -5805,4 +5805,7 @@ http://malau.hopto.org:35000/api/swc/live/303.mpd
 http://malau.hopto.org:35000/api/swc/live/1889.mpd
 #EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 2
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
-
+#EXTINF:-1 tvg-id="" tvg-name="el reino de los simios " tvg-logo="https://pics.filmaffinity.com/kingdom_of_the_planet_of_the_apes-598062850-large.jpg" group-title="Er Papi",EL REINO DE LOS SIMIOS 2024⭐⭐⭐
+https://strwish.com/h9diwwkav84a
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrada en la Nasa " tvg-logo="https://pics.filmaffinity.com/space_cadet-128410925-large.jpg" group-title="Er Papi",Infiltrada en la Nasa 2024⭐⭐⭐⭐⭐
+https://strwish.com/3518um77kbo4
