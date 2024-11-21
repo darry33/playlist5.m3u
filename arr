@@ -5809,3 +5809,2450 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d5
 https://strwish.com/h9diwwkav84a
 #EXTINF:-1 tvg-id="" tvg-name="Infiltrada en la Nasa " tvg-logo="https://pics.filmaffinity.com/space_cadet-128410925-large.jpg" group-title="Er Papi",Infiltrada en la Nasa 2024⭐⭐⭐⭐⭐
 https://strwish.com/3518um77kbo4
+#EXTM3U x-tvg-url="http://103.68.28.58:5001/epg.xml.gz"
+#EXTINF:-1 tvg-id=143 tvg-name="CNBC Tv18 Prime HD" tvg-logo="http://103.68.28.58:5001/jtvimage/CNBC_Tv18_Prime_HD.png" tvg-language="English" tvg-type="Business" group-title="🇮🇳 Business", CNBC Tv18 Prime HD
+http://103.68.28.58:5001/live/143.m3u8
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors HD
+http://103.68.28.58:5001/live/144.m3u8
+#EXTINF:-1 tvg-id=146 tvg-name="History TV18 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", History TV18 HD
+http://103.68.28.58:5001/live/146.m3u8
+#EXTINF:-1 tvg-id=151 tvg-name="Movies Now HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="🇮🇳 Movies", Movies Now HD
+http://103.68.28.58:5001/live/151.m3u8
+#EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony SAB
+http://103.68.28.58:5001/live/154.m3u8
+#EXTINF:-1 tvg-id=155 tvg-name="Sony Ten 5 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 5 HD
+http://103.68.28.58:5001/live/155.m3u8
+#EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 1 HD
+http://103.68.28.58:5001/live/162.m3u8
+#EXTINF:-1 tvg-id=164 tvg-name="Travelxp HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Travelxp HD
+http://103.68.28.58:5001/live/164.m3u8
+#EXTINF:-1 tvg-id=166 tvg-name="Cartoon Network Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Cartoon Network Telugu
+http://103.68.28.58:5001/live/166.m3u8
+#EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://103.68.28.58:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Aaj Tak
+http://103.68.28.58:5001/live/173.m3u8
+#EXTINF:-1 tvg-id=175 tvg-name="Aastha" tvg-logo="http://103.68.28.58:5001/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aastha
+http://103.68.28.58:5001/live/175.m3u8
+#EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", ABP News India
+http://103.68.28.58:5001/live/177.m3u8
+#EXTINF:-1 tvg-id=180 tvg-name="Asianet News" tvg-logo="http://103.68.28.58:5001/jtvimage/Asianet_News.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Asianet News
+http://103.68.28.58:5001/live/180.m3u8
+#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", B4U Movies
+http://103.68.28.58:5001/live/182.m3u8
+#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://103.68.28.58:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", B4U Music
+http://103.68.28.58:5001/live/183.m3u8
+#EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://103.68.28.58:5001/jtvimage/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="🇮🇳 Business", CNBC Awaaz
+http://103.68.28.58:5001/live/190.m3u8
+#EXTINF:-1 tvg-id=193 tvg-name="CNN" tvg-logo="http://103.68.28.58:5001/jtvimage/CNN.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", CNN
+http://103.68.28.58:5001/live/193.m3u8
+#EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Gujarati
+http://103.68.28.58:5001/live/196.m3u8
+#EXTINF:-1 tvg-id=198 tvg-name="Colors Oriya" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Oriya.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Oriya
+http://103.68.28.58:5001/live/198.m3u8
+#EXTINF:-1 tvg-id=202 tvg-name="DD National" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_National.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD National
+http://103.68.28.58:5001/live/202.m3u8
+#EXTINF:-1 tvg-id=203 tvg-name="DD News" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", DD News
+http://103.68.28.58:5001/live/203.m3u8
+#EXTINF:-1 tvg-id=204 tvg-name="DD Sports" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", DD Sports
+http://103.68.28.58:5001/live/204.m3u8
+#EXTINF:-1 tvg-id=212 tvg-name="ET Now" tvg-logo="http://103.68.28.58:5001/jtvimage/ET_Now.png" tvg-language="English" tvg-type="Business" group-title="🇮🇳 Business", ET Now
+http://103.68.28.58:5001/live/212.m3u8
+#EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://103.68.28.58:5001/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 18 India
+http://103.68.28.58:5001/live/231.m3u8
+#EXTINF:-1 tvg-id=232 tvg-name="News18 Lokmat" tvg-logo="http://103.68.28.58:5001/jtvimage/IBN_Lokmat.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", News18 Lokmat
+http://103.68.28.58:5001/live/232.m3u8
+#EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://103.68.28.58:5001/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India TV
+http://103.68.28.58:5001/live/235.m3u8
+#EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery
+http://103.68.28.58:5001/live/242.m3u8
+#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://103.68.28.58:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", MTV
+http://103.68.28.58:5001/live/248.m3u8
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://103.68.28.58:5001/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Music India
+http://103.68.28.58:5001/live/250.m3u8
+#EXTINF:-1 tvg-id=252 tvg-name="ETV Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Cinema.png" tvg-language="Telugu" tvg-type="Movies" group-title="🇮🇳 Movies", ETV Cinema
+http://103.68.28.58:5001/live/252.m3u8
+#EXTINF:-1 tvg-id=255 tvg-name="NDTV 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/NDTV_24x7.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", NDTV 24x7
+http://103.68.28.58:5001/live/255.m3u8
+#EXTINF:-1 tvg-id=258 tvg-name="NDTV India" tvg-logo="http://103.68.28.58:5001/jtvimage/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", NDTV India
+http://103.68.28.58:5001/live/258.m3u8
+#EXTINF:-1 tvg-id=259 tvg-name="NDTV Profit" tvg-logo="http://103.68.28.58:5001/jtvimage/NDTV_Profit.png" tvg-language="English" tvg-type="Business" group-title="🇮🇳 Business", NDTV Profit
+http://103.68.28.58:5001/live/259.m3u8
+#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://103.68.28.58:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rishtey
+http://103.68.28.58:5001/live/279.m3u8
+#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://103.68.28.58:5001/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Animal Planet HD World
+http://103.68.28.58:5001/live/286.m3u8
+#EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sanskar
+http://103.68.28.58:5001/live/288.m3u8
+#EXTINF:-1 tvg-id=289 tvg-name="Sony Max SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Sony Max SD
+http://103.68.28.58:5001/live/289.m3u8
+#EXTINF:-1 tvg-id=290 tvg-name="sonic Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", sonic Tamil
+http://103.68.28.58:5001/live/290.m3u8
+#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", SET HD
+http://103.68.28.58:5001/live/291.m3u8
+#EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://103.68.28.58:5001/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Times NOW
+http://103.68.28.58:5001/live/383.m3u8
+#EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 01
+http://103.68.28.58:5001/live/400.m3u8
+#EXTINF:-1 tvg-id=401 tvg-name="Swayam Prabha 19" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_19.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 19
+http://103.68.28.58:5001/live/401.m3u8
+#EXTINF:-1 tvg-id=402 tvg-name="PM e Vidya 02" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_2.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 02
+http://103.68.28.58:5001/live/402.m3u8
+#EXTINF:-1 tvg-id=403 tvg-name="Swayam Prabha 20" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_20.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 20
+http://103.68.28.58:5001/live/403.m3u8
+#EXTINF:-1 tvg-id=404 tvg-name="PM e Vidya 07" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_7.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 07
+http://103.68.28.58:5001/live/404.m3u8
+#EXTINF:-1 tvg-id=405 tvg-name="PM e Vidya 03" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_3.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 03
+http://103.68.28.58:5001/live/405.m3u8
+#EXTINF:-1 tvg-id=406 tvg-name="PM e Vidya 04" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_4.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 04
+http://103.68.28.58:5001/live/406.m3u8
+#EXTINF:-1 tvg-id=407 tvg-name="PM e Vidya 05" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_5.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 05
+http://103.68.28.58:5001/live/407.m3u8
+#EXTINF:-1 tvg-id=408 tvg-name="PM e Vidya 06" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_6.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 06
+http://103.68.28.58:5001/live/408.m3u8
+#EXTINF:-1 tvg-id=409 tvg-name="PM e Vidya 08" tvg-logo="http://103.68.28.58:5001/jtvimage/_evidya_8.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 08
+http://103.68.28.58:5001/live/409.m3u8
+#EXTINF:-1 tvg-id=410 tvg-name="PM e Vidya 09" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_9.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 09
+http://103.68.28.58:5001/live/410.m3u8
+#EXTINF:-1 tvg-id=411 tvg-name="PM e Vidya 10" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_10.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 10
+http://103.68.28.58:5001/live/411.m3u8
+#EXTINF:-1 tvg-id=412 tvg-name="Wion" tvg-logo="http://103.68.28.58:5001/jtvimage/Wion.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Wion
+http://103.68.28.58:5001/live/412.m3u8
+#EXTINF:-1 tvg-id=417 tvg-name="J Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/J_Movies.png" tvg-language="Tamil" tvg-type="Movies" group-title="🇮🇳 Movies", J Movies
+http://103.68.28.58:5001/live/417.m3u8
+#EXTINF:-1 tvg-id=418 tvg-name="Jaya Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Jaya_Plus.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Jaya Plus
+http://103.68.28.58:5001/live/418.m3u8
+#EXTINF:-1 tvg-id=419 tvg-name="Jaya TV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jaya_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Jaya TV HD
+http://103.68.28.58:5001/live/419.m3u8
+#EXTINF:-1 tvg-id=420 tvg-name="Jaya Max" tvg-logo="http://103.68.28.58:5001/jtvimage/Jaya_Max.png" tvg-language="Tamil" tvg-type="Music" group-title="🇮🇳 Music", Jaya Max
+http://103.68.28.58:5001/live/420.m3u8
+#EXTINF:-1 tvg-id=421 tvg-name="GOA 365" tvg-logo="http://103.68.28.58:5001/jtvimage/Goa365.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", GOA 365
+http://103.68.28.58:5001/live/421.m3u8
+#EXTINF:-1 tvg-id=422 tvg-name="In Goa 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/InGoa24x7.png" tvg-language="Marathi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", In Goa 24x7
+http://103.68.28.58:5001/live/422.m3u8
+#EXTINF:-1 tvg-id=429 tvg-name="Colors Tamil HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Tamil HD
+http://103.68.28.58:5001/live/429.m3u8
+#EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://103.68.28.58:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", 9X Jalwa
+http://103.68.28.58:5001/live/440.m3u8
+#EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://103.68.28.58:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="🇮🇳 Music", 9x Jhakaas
+http://103.68.28.58:5001/live/441.m3u8
+#EXTINF:-1 tvg-id=442 tvg-name="Zee 24 Taas" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_24_Taas.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Zee 24 Taas
+http://103.68.28.58:5001/live/442.m3u8
+#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery HD World
+http://103.68.28.58:5001/live/463.m3u8
+#EXTINF:-1 tvg-id=464 tvg-name="24 Ghanta TV" tvg-logo="http://103.68.28.58:5001/jtvimage/24_Ghanta_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", 24 Ghanta TV
+http://103.68.28.58:5001/live/464.m3u8
+#EXTINF:-1 tvg-id=465 tvg-name="Jaihind tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Jaihind_tv.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Jaihind tv
+http://103.68.28.58:5001/live/465.m3u8
+#EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Arihant TV
+http://103.68.28.58:5001/live/466.m3u8
+#EXTINF:-1 tvg-id=471 tvg-name="Sony SAB HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony SAB HD
+http://103.68.28.58:5001/live/471.m3u8
+#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony Pal
+http://103.68.28.58:5001/live/474.m3u8
+#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Sony Max HD
+http://103.68.28.58:5001/live/476.m3u8
+#EXTINF:-1 tvg-id=477 tvg-name="MN+ HD" tvg-logo="http://103.68.28.58:5001/jtvimage/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="🇮🇳 Movies", MN+ HD
+http://103.68.28.58:5001/live/477.m3u8
+#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", TLC HD
+http://103.68.28.58:5001/live/479.m3u8
+#EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://103.68.28.58:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Epic
+http://103.68.28.58:5001/live/481.m3u8
+#EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Cineplex
+http://103.68.28.58:5001/live/482.m3u8
+#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Sony MAX2
+http://103.68.28.58:5001/live/483.m3u8
+#EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://103.68.28.58:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Enterr 10
+http://103.68.28.58:5001/live/485.m3u8
+#EXTINF:-1 tvg-id=486 tvg-name="Bhojpuri Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="🇮🇳 Movies", Bhojpuri Cinema
+http://103.68.28.58:5001/live/486.m3u8
+#EXTINF:-1 tvg-id=489 tvg-name="CNBC Tv 18" tvg-logo="http://103.68.28.58:5001/jtvimage/CNBC_Tv_18.png" tvg-language="English" tvg-type="Business" group-title="🇮🇳 Business", CNBC Tv 18
+http://103.68.28.58:5001/live/489.m3u8
+#EXTINF:-1 tvg-id=490 tvg-name="CNBC Bazaar (MNO)" tvg-logo="http://103.68.28.58:5001/jtvimage/CNBC_Bazaar_MNO.png" tvg-language="Gujarati" tvg-type="Business" group-title="🇮🇳 Business", CNBC Bazaar (MNO)
+http://103.68.28.58:5001/live/490.m3u8
+#EXTINF:-1 tvg-id=491 tvg-name="Mirror Now" tvg-logo="http://103.68.28.58:5001/jtvimage/Mirror_Now.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Mirror Now
+http://103.68.28.58:5001/live/491.m3u8
+#EXTINF:-1 tvg-id=492 tvg-name="CNN NEWS 18" tvg-logo="http://103.68.28.58:5001/jtvimage/CNN_NEWS_18.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", CNN NEWS 18
+http://103.68.28.58:5001/live/492.m3u8
+#EXTINF:-1 tvg-id=493 tvg-name="India Today" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Today.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", India Today
+http://103.68.28.58:5001/live/493.m3u8
+#EXTINF:-1 tvg-id=494 tvg-name="AL Jazeera" tvg-logo="http://103.68.28.58:5001/jtvimage/AL_Jazeera.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", AL Jazeera
+http://103.68.28.58:5001/live/494.m3u8
+#EXTINF:-1 tvg-id=495 tvg-name="News X" tvg-logo="http://103.68.28.58:5001/jtvimage/News_X.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", News X
+http://103.68.28.58:5001/live/495.m3u8
+#EXTINF:-1 tvg-id=496 tvg-name="dw" tvg-logo="http://103.68.28.58:5001/jtvimage/dw.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", dw
+http://103.68.28.58:5001/live/496.m3u8
+#EXTINF:-1 tvg-id=498 tvg-name="India news" tvg-logo="http://103.68.28.58:5001/jtvimage/India_news.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India news
+http://103.68.28.58:5001/live/498.m3u8
+#EXTINF:-1 tvg-id=499 tvg-name="News Nation" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News Nation
+http://103.68.28.58:5001/live/499.m3u8
+#EXTINF:-1 tvg-id=501 tvg-name="News 24" tvg-logo="http://103.68.28.58:5001/jtvimage/News_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 24
+http://103.68.28.58:5001/live/501.m3u8
+#EXTINF:-1 tvg-id=502 tvg-name="Good News Today" tvg-logo="http://103.68.28.58:5001/jtvimage/Tez.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Good News Today
+http://103.68.28.58:5001/live/502.m3u8
+#EXTINF:-1 tvg-id=503 tvg-name="IBC24" tvg-logo="http://103.68.28.58:5001/jtvimage/IBC-24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", IBC24
+http://103.68.28.58:5001/live/503.m3u8
+#EXTINF:-1 tvg-id=504 tvg-name="Zee News" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee News
+http://103.68.28.58:5001/live/504.m3u8
+#EXTINF:-1 tvg-id=506 tvg-name="Sahara Samay Rastriya" tvg-logo="http://103.68.28.58:5001/jtvimage/Sahara_Samay_Rastriya.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sahara Samay Rastriya
+http://103.68.28.58:5001/live/506.m3u8
+#EXTINF:-1 tvg-id=507 tvg-name="SAHARA SAMAY MP" tvg-logo="http://103.68.28.58:5001/jtvimage/SAHARA_SAMAY_MP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", SAHARA SAMAY MP
+http://103.68.28.58:5001/live/507.m3u8
+#EXTINF:-1 tvg-id=508 tvg-name="SAHARA SAMAY UP" tvg-logo="http://103.68.28.58:5001/jtvimage/SAHARA_SAMAY_UP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", SAHARA SAMAY UP
+http://103.68.28.58:5001/live/508.m3u8
+#EXTINF:-1 tvg-id=509 tvg-name="Sahara Samay Bihar" tvg-logo="http://103.68.28.58:5001/jtvimage/Sahara_Samay_Bihar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sahara Samay Bihar
+http://103.68.28.58:5001/live/509.m3u8
+#EXTINF:-1 tvg-id=510 tvg-name="VIP News" tvg-logo="http://103.68.28.58:5001/jtvimage/VIP_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", VIP News
+http://103.68.28.58:5001/live/510.m3u8
+#EXTINF:-1 tvg-id=511 tvg-name="Mh One News" tvg-logo="http://103.68.28.58:5001/jtvimage/Mh_One_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Mh One News
+http://103.68.28.58:5001/live/511.m3u8
+#EXTINF:-1 tvg-id=512 tvg-name="India News UP" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_UP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India News UP
+http://103.68.28.58:5001/live/512.m3u8
+#EXTINF:-1 tvg-id=513 tvg-name="India News Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India News Rajasthan
+http://103.68.28.58:5001/live/513.m3u8
+#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 1
+http://103.68.28.58:5001/live/514.m3u8
+#EXTINF:-1 tvg-id=515 tvg-name="India News MP" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_MP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India News MP
+http://103.68.28.58:5001/live/515.m3u8
+#EXTINF:-1 tvg-id=516 tvg-name="India News Haryana" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India News Haryana
+http://103.68.28.58:5001/live/516.m3u8
+#EXTINF:-1 tvg-id=517 tvg-name="Chardikla Time TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Chardikla_Time_TV.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", Chardikla Time TV
+http://103.68.28.58:5001/live/517.m3u8
+#EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://103.68.28.58:5001/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sudarshan
+http://103.68.28.58:5001/live/518.m3u8
+#EXTINF:-1 tvg-id=519 tvg-name="Sadhna News Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadhna_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sadhna News Plus
+http://103.68.28.58:5001/live/519.m3u8
+#EXTINF:-1 tvg-id=520 tvg-name="Sansad TV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Rajyasabha.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sansad TV HD
+http://103.68.28.58:5001/live/520.m3u8
+#EXTINF:-1 tvg-id=522 tvg-name="Sansad TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Loksabha_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sansad TV
+http://103.68.28.58:5001/live/522.m3u8
+#EXTINF:-1 tvg-id=523 tvg-name="Ten 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Ten 2
+http://103.68.28.58:5001/live/523.m3u8
+#EXTINF:-1 tvg-id=524 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 3 Hindi
+http://103.68.28.58:5001/live/524.m3u8
+#EXTINF:-1 tvg-id=525 tvg-name="Sony Ten 5" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 5
+http://103.68.28.58:5001/live/525.m3u8
+#EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://103.68.28.58:5001/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Investigation Discovery
+http://103.68.28.58:5001/live/527.m3u8
+#EXTINF:-1 tvg-id=528 tvg-name="DD India" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD India
+http://103.68.28.58:5001/live/528.m3u8
+#EXTINF:-1 tvg-id=529 tvg-name="News18 MP" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_MP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News18 MP
+http://103.68.28.58:5001/live/529.m3u8
+#EXTINF:-1 tvg-id=530 tvg-name="News18 UP" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_UP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News18 UP
+http://103.68.28.58:5001/live/530.m3u8
+#EXTINF:-1 tvg-id=531 tvg-name="News18 RAJASTHAN" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_RAJASTHAN.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News18 RAJASTHAN
+http://103.68.28.58:5001/live/531.m3u8
+#EXTINF:-1 tvg-id=532 tvg-name="Dabangg" tvg-logo="http://103.68.28.58:5001/jtvimage/Dabangg.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Dabangg
+http://103.68.28.58:5001/live/532.m3u8
+#EXTINF:-1 tvg-id=533 tvg-name="Raj Pariwar" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Pariwar.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Raj Pariwar
+http://103.68.28.58:5001/live/533.m3u8
+#EXTINF:-1 tvg-id=535 tvg-name="Dhamaal TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Dhamaal_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Dhamaal TV
+http://103.68.28.58:5001/live/535.m3u8
+#EXTINF:-1 tvg-id=536 tvg-name="DD Madhya Pradesh" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Madhya_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Madhya Pradesh
+http://103.68.28.58:5001/live/536.m3u8
+#EXTINF:-1 tvg-id=538 tvg-name="DD Rajasthan (Jaipur)" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Rajasthan_Jaipur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Rajasthan (Jaipur)
+http://103.68.28.58:5001/live/538.m3u8
+#EXTINF:-1 tvg-id=539 tvg-name="DD Bihar" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Bihar.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Bihar
+http://103.68.28.58:5001/live/539.m3u8
+#EXTINF:-1 tvg-id=540 tvg-name="DD Uttar Pradesh" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Uttar_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Uttar Pradesh
+http://103.68.28.58:5001/live/540.m3u8
+#EXTINF:-1 tvg-id=541 tvg-name="Discovery Turbo" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery Turbo
+http://103.68.28.58:5001/live/541.m3u8
+#EXTINF:-1 tvg-id=542 tvg-name="Pogo Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Pogo Tamil
+http://103.68.28.58:5001/live/542.m3u8
+#EXTINF:-1 tvg-id=543 tvg-name="Nick Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Telugu
+http://103.68.28.58:5001/live/543.m3u8
+#EXTINF:-1 tvg-id=544 tvg-name="Nick Junior" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Junior
+http://103.68.28.58:5001/live/544.m3u8
+#EXTINF:-1 tvg-id=545 tvg-name="Nick Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Hindi
+http://103.68.28.58:5001/live/545.m3u8
+#EXTINF:-1 tvg-id=546 tvg-name="Nick Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Tamil
+http://103.68.28.58:5001/live/546.m3u8
+#EXTINF:-1 tvg-id=548 tvg-name="Nickelodeon Jr." tvg-logo="http://103.68.28.58:5001/jtvimage/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Nickelodeon Jr.
+http://103.68.28.58:5001/live/548.m3u8
+#EXTINF:-1 tvg-id=550 tvg-name="Discovery Kids Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Discovery Kids Tamil
+http://103.68.28.58:5001/live/550.m3u8
+#EXTINF:-1 tvg-id=551 tvg-name="TEST14 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST14_HD.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", TEST14 HD
+http://103.68.28.58:5001/live/551.m3u8
+#EXTINF:-1 tvg-id=554 tvg-name="Discovery Kids 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Kids_2.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Discovery Kids 2
+http://103.68.28.58:5001/live/554.m3u8
+#EXTINF:-1 tvg-id=555 tvg-name="Chintu TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Chintu_TV.png" tvg-language="Kannada" tvg-type="Kids" group-title="🇮🇳 Kids", Chintu TV
+http://103.68.28.58:5001/live/555.m3u8
+#EXTINF:-1 tvg-id=556 tvg-name="Kochu TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kochu_TV.png" tvg-language="Malayalam" tvg-type="Kids" group-title="🇮🇳 Kids", Kochu TV
+http://103.68.28.58:5001/live/556.m3u8
+#EXTINF:-1 tvg-id=557 tvg-name="Chutti TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Chutti_TV.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Chutti TV
+http://103.68.28.58:5001/live/557.m3u8
+#EXTINF:-1 tvg-id=558 tvg-name="Kushi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kushi_TV.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Kushi TV
+http://103.68.28.58:5001/live/558.m3u8
+#EXTINF:-1 tvg-id=559 tvg-name="Pogo Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Pogo Hindi
+http://103.68.28.58:5001/live/559.m3u8
+#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="http://103.68.28.58:5001/jtvimage/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", GOOD TiMES
+http://103.68.28.58:5001/live/560.m3u8
+#EXTINF:-1 tvg-id=561 tvg-name="Food Food" tvg-logo="http://103.68.28.58:5001/jtvimage/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Food Food
+http://103.68.28.58:5001/live/561.m3u8
+#EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Travelxp HD Hindi
+http://103.68.28.58:5001/live/562.m3u8
+#EXTINF:-1 tvg-id=563 tvg-name="Kaumudy TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kaumudy_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Kaumudy TV
+http://103.68.28.58:5001/live/563.m3u8
+#EXTINF:-1 tvg-id=565 tvg-name="ETV Abhiruchi" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Abhiruchi.png" tvg-language="Telugu" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", ETV Abhiruchi
+http://103.68.28.58:5001/live/565.m3u8
+#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Animal Planet Hindi
+http://103.68.28.58:5001/live/566.m3u8
+#EXTINF:-1 tvg-id=567 tvg-name="Animal Planet English" tvg-logo="http://103.68.28.58:5001/jtvimage/Animal_Planet_English.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Animal Planet English
+http://103.68.28.58:5001/live/567.m3u8
+#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery Science
+http://103.68.28.58:5001/live/568.m3u8
+#EXTINF:-1 tvg-id=569 tvg-name="D Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Channel_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", D Tamil
+http://103.68.28.58:5001/live/569.m3u8
+#EXTINF:-1 tvg-id=570 tvg-name="ETV Life" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Life.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", ETV Life
+http://103.68.28.58:5001/live/570.m3u8
+#EXTINF:-1 tvg-id=571 tvg-name="TLC Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/TLC_Hindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", TLC Hindi
+http://103.68.28.58:5001/live/571.m3u8
+#EXTINF:-1 tvg-id=572 tvg-name="Zee UP UK" tvg-logo="http://103.68.28.58:5001/jtvimage/Living_Foodz.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee UP UK
+http://103.68.28.58:5001/live/572.m3u8
+#EXTINF:-1 tvg-id=573 tvg-name="Discovery Bengali" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Channel_Bengali.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery Bengali
+http://103.68.28.58:5001/live/573.m3u8
+#EXTINF:-1 tvg-id=574 tvg-name="TLC English" tvg-logo="http://103.68.28.58:5001/jtvimage/TLC_English.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", TLC English
+http://103.68.28.58:5001/live/574.m3u8
+#EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery Hindi
+http://103.68.28.58:5001/live/575.m3u8
+#EXTINF:-1 tvg-id=576 tvg-name="Discovery Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Discovery_Channel_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Discovery Telugu
+http://103.68.28.58:5001/live/576.m3u8
+#EXTINF:-1 tvg-id=577 tvg-name="History TV18 HD Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/History_18_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", History TV18 HD Telugu
+http://103.68.28.58:5001/live/577.m3u8
+#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", History TV18 HD Hindi
+http://103.68.28.58:5001/live/578.m3u8
+#EXTINF:-1 tvg-id=579 tvg-name="History TV18 HD Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/History_18_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", History TV18 HD Tamil
+http://103.68.28.58:5001/live/579.m3u8
+#EXTINF:-1 tvg-id=580 tvg-name="DD bharati" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_bharati.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", DD bharati
+http://103.68.28.58:5001/live/580.m3u8
+#EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", DD Kisan
+http://103.68.28.58:5001/live/583.m3u8
+#EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://103.68.28.58:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Mastiii
+http://103.68.28.58:5001/live/584.m3u8
+#EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://103.68.28.58:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", 9XM
+http://103.68.28.58:5001/live/587.m3u8
+#EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://103.68.28.58:5001/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", E 24
+http://103.68.28.58:5001/live/591.m3u8
+#EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://103.68.28.58:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", ZOOM
+http://103.68.28.58:5001/live/592.m3u8
+#EXTINF:-1 tvg-id=593 tvg-name="Sadhna" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadhna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sadhna
+http://103.68.28.58:5001/live/593.m3u8
+#EXTINF:-1 tvg-id=594 tvg-name="Aastha Bhajan" tvg-logo="http://103.68.28.58:5001/jtvimage/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aastha Bhajan
+http://103.68.28.58:5001/live/594.m3u8
+#EXTINF:-1 tvg-id=596 tvg-name="Jinvani TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Jinvani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jinvani TV
+http://103.68.28.58:5001/live/596.m3u8
+#EXTINF:-1 tvg-id=597 tvg-name="Satsang TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Satsang_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Satsang TV
+http://103.68.28.58:5001/live/597.m3u8
+#EXTINF:-1 tvg-id=598 tvg-name="Sri Venkateshwar Bhakti" tvg-logo="http://103.68.28.58:5001/jtvimage/Sri_Venkateshwar_Bhakti.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sri Venkateshwar Bhakti
+http://103.68.28.58:5001/live/598.m3u8
+#EXTINF:-1 tvg-id=599 tvg-name="Disha tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Disha_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Disha tv
+http://103.68.28.58:5001/live/599.m3u8
+#EXTINF:-1 tvg-id=601 tvg-name="Ishwar TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Ishwar_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ishwar TV
+http://103.68.28.58:5001/live/601.m3u8
+#EXTINF:-1 tvg-id=602 tvg-name="Paras tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Paras_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Paras tv
+http://103.68.28.58:5001/live/602.m3u8
+#EXTINF:-1 tvg-id=603 tvg-name="Nambikkai" tvg-logo="http://103.68.28.58:5001/jtvimage/Nambikkai.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Nambikkai
+http://103.68.28.58:5001/live/603.m3u8
+#EXTINF:-1 tvg-id=605 tvg-name="Channel Win" tvg-logo="http://103.68.28.58:5001/jtvimage/Channel_Win.png" tvg-language="Urdu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Channel Win
+http://103.68.28.58:5001/live/605.m3u8
+#EXTINF:-1 tvg-id=606 tvg-name="Shalom" tvg-logo="http://103.68.28.58:5001/jtvimage/Shalom.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shalom
+http://103.68.28.58:5001/live/606.m3u8
+#EXTINF:-1 tvg-id=607 tvg-name="Subhavartha TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Subhavartha_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Subhavartha TV
+http://103.68.28.58:5001/live/607.m3u8
+#EXTINF:-1 tvg-id=608 tvg-name="Shubhsandesh TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shubhsandesh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shubhsandesh TV
+http://103.68.28.58:5001/live/608.m3u8
+#EXTINF:-1 tvg-id=609 tvg-name="mh1 Shraddha" tvg-logo="http://103.68.28.58:5001/jtvimage/mh1_Shraddha.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", mh1 Shraddha
+http://103.68.28.58:5001/live/609.m3u8
+#EXTINF:-1 tvg-id=611 tvg-name="Darshan 24" tvg-logo="http://103.68.28.58:5001/jtvimage/Darshan_24.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Darshan 24
+http://103.68.28.58:5001/live/611.m3u8
+#EXTINF:-1 tvg-id=612 tvg-name="ABP Majha" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_Majha.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", ABP Majha
+http://103.68.28.58:5001/live/612.m3u8
+#EXTINF:-1 tvg-id=613 tvg-name="Newslive" tvg-logo="http://103.68.28.58:5001/jtvimage/Newslive.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Newslive
+http://103.68.28.58:5001/live/613.m3u8
+#EXTINF:-1 tvg-id=614 tvg-name="ETV Andhra pradesh" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Andhra_pradesh.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", ETV Andhra pradesh
+http://103.68.28.58:5001/live/614.m3u8
+#EXTINF:-1 tvg-id=615 tvg-name="News 18 Tamilnadu" tvg-logo="http://103.68.28.58:5001/jtvimage/News_18_Tamilnadu.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", News 18 Tamilnadu
+http://103.68.28.58:5001/live/615.m3u8
+#EXTINF:-1 tvg-id=616 tvg-name="Tv 9 Gujarat" tvg-logo="http://103.68.28.58:5001/jtvimage/Tv_9_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Tv 9 Gujarat
+http://103.68.28.58:5001/live/616.m3u8
+#EXTINF:-1 tvg-id=617 tvg-name="TV9 Maharashtra" tvg-logo="http://103.68.28.58:5001/jtvimage/TV9_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", TV9 Maharashtra
+http://103.68.28.58:5001/live/617.m3u8
+#EXTINF:-1 tvg-id=618 tvg-name="TV9 Telugu News" tvg-logo="http://103.68.28.58:5001/jtvimage/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", TV9 Telugu News
+http://103.68.28.58:5001/live/618.m3u8
+#EXTINF:-1 tvg-id=619 tvg-name="TV9 Karnataka" tvg-logo="http://103.68.28.58:5001/jtvimage/TV9_Karnataka.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", TV9 Karnataka
+http://103.68.28.58:5001/live/619.m3u8
+#EXTINF:-1 tvg-id=620 tvg-name="News18 Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_News_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", News18 Gujarati
+http://103.68.28.58:5001/live/620.m3u8
+#EXTINF:-1 tvg-id=623 tvg-name="Rang" tvg-logo="http://103.68.28.58:5001/jtvimage/Rang.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rang
+http://103.68.28.58:5001/live/623.m3u8
+#EXTINF:-1 tvg-id=624 tvg-name="Prag News" tvg-logo="http://103.68.28.58:5001/jtvimage/Prag_News.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Prag News
+http://103.68.28.58:5001/live/624.m3u8
+#EXTINF:-1 tvg-id=626 tvg-name="Suvarna News" tvg-logo="http://103.68.28.58:5001/jtvimage/Suvarna_News.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Suvarna News
+http://103.68.28.58:5001/live/626.m3u8
+#EXTINF:-1 tvg-id=627 tvg-name="News 18 Assam" tvg-logo="http://103.68.28.58:5001/jtvimage/News_18_Assam.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", News 18 Assam
+http://103.68.28.58:5001/live/627.m3u8
+#EXTINF:-1 tvg-id=629 tvg-name="ETV Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", ETV Telugu
+http://103.68.28.58:5001/live/629.m3u8
+#EXTINF:-1 tvg-id=630 tvg-name="ETV Telangana" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Telangana.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", ETV Telangana
+http://103.68.28.58:5001/live/630.m3u8
+#EXTINF:-1 tvg-id=631 tvg-name="MBC" tvg-logo="http://103.68.28.58:5001/jtvimage/MBC.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", MBC
+http://103.68.28.58:5001/live/631.m3u8
+#EXTINF:-1 tvg-id=632 tvg-name="Sakshi tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Sakshi tv
+http://103.68.28.58:5001/live/632.m3u8
+#EXTINF:-1 tvg-id=633 tvg-name="DY 365" tvg-logo="http://103.68.28.58:5001/jtvimage/DY_365.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", DY 365
+http://103.68.28.58:5001/live/633.m3u8
+#EXTINF:-1 tvg-id=634 tvg-name="Flower TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Flower_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Flower TV
+http://103.68.28.58:5001/live/634.m3u8
+#EXTINF:-1 tvg-id=635 tvg-name="Rengoni" tvg-logo="http://103.68.28.58:5001/jtvimage/Rengoni.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rengoni
+http://103.68.28.58:5001/live/635.m3u8
+#EXTINF:-1 tvg-id=636 tvg-name="Polimer News" tvg-logo="http://103.68.28.58:5001/jtvimage/Polimer_News.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Polimer News
+http://103.68.28.58:5001/live/636.m3u8
+#EXTINF:-1 tvg-id=637 tvg-name="North East Live" tvg-logo="http://103.68.28.58:5001/jtvimage/North_East_Live.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", North East Live
+http://103.68.28.58:5001/live/637.m3u8
+#EXTINF:-1 tvg-id=639 tvg-name="Ramdhenu" tvg-logo="http://103.68.28.58:5001/jtvimage/Ramdhenu.png" tvg-language="Assamese" tvg-type="Music" group-title="🇮🇳 Music", Ramdhenu
+http://103.68.28.58:5001/live/639.m3u8
+#EXTINF:-1 tvg-id=641 tvg-name="ABP Asmita" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_Asmita.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", ABP Asmita
+http://103.68.28.58:5001/live/641.m3u8
+#EXTINF:-1 tvg-id=642 tvg-name="VTV Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/VTV_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", VTV Gujarati
+http://103.68.28.58:5001/live/642.m3u8
+#EXTINF:-1 tvg-id=643 tvg-name="GS TV" tvg-logo="http://103.68.28.58:5001/jtvimage/GS_TV.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", GS TV
+http://103.68.28.58:5001/live/643.m3u8
+#EXTINF:-1 tvg-id=646 tvg-name="NTV" tvg-logo="http://103.68.28.58:5001/jtvimage/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", NTV
+http://103.68.28.58:5001/live/646.m3u8
+#EXTINF:-1 tvg-id=647 tvg-name="Pratidin Time" tvg-logo="http://103.68.28.58:5001/jtvimage/Pratidin_News.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Pratidin Time
+http://103.68.28.58:5001/live/647.m3u8
+#EXTINF:-1 tvg-id=648 tvg-name="Mazhavil Manorama" tvg-logo="http://103.68.28.58:5001/jtvimage/Mazhavil_Manorama.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Mazhavil Manorama
+http://103.68.28.58:5001/live/648.m3u8
+#EXTINF:-1 tvg-id=650 tvg-name="Raj News Malayalam" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_News_Malayalam.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Raj News Malayalam
+http://103.68.28.58:5001/live/650.m3u8
+#EXTINF:-1 tvg-id=651 tvg-name="Raj News Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_News_Kannada.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Raj News Kannada
+http://103.68.28.58:5001/live/651.m3u8
+#EXTINF:-1 tvg-id=652 tvg-name="Zee Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee Bharat
+http://103.68.28.58:5001/live/652.m3u8
+#EXTINF:-1 tvg-id=653 tvg-name="News18 Kannada News" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Kannada_News.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", News18 Kannada News
+http://103.68.28.58:5001/live/653.m3u8
+#EXTINF:-1 tvg-id=654 tvg-name="Zee Punjabi HP Haryana" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Punjabi_HP_Haryana.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", Zee Punjabi HP Haryana
+http://103.68.28.58:5001/live/654.m3u8
+#EXTINF:-1 tvg-id=655 tvg-name="News18 Punjab Haryana" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Haryana_and_HP_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News18 Punjab Haryana
+http://103.68.28.58:5001/live/655.m3u8
+#EXTINF:-1 tvg-id=656 tvg-name="News 9" tvg-logo="http://103.68.28.58:5001/jtvimage/News9.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", News 9
+http://103.68.28.58:5001/live/656.m3u8
+#EXTINF:-1 tvg-id=657 tvg-name="Zee Business" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Business.png" tvg-language="Hindi" tvg-type="Business" group-title="🇮🇳 Business", Zee Business
+http://103.68.28.58:5001/live/657.m3u8
+#EXTINF:-1 tvg-id=658 tvg-name="Zee News MP Chattisgarh" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_News_MP_Chattisgarh.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee News MP Chattisgarh
+http://103.68.28.58:5001/live/658.m3u8
+#EXTINF:-1 tvg-id=659 tvg-name="Zee Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee Rajasthan
+http://103.68.28.58:5001/live/659.m3u8
+#EXTINF:-1 tvg-id=661 tvg-name="Zee Bihar Jharkhand" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Purvaiya.png" tvg-language="Bhojpuri" tvg-type="News" group-title="🇮🇳 News", Zee Bihar Jharkhand
+http://103.68.28.58:5001/live/661.m3u8
+#EXTINF:-1 tvg-id=662 tvg-name="Manorama News" tvg-logo="http://103.68.28.58:5001/jtvimage/Manorama_News.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Manorama News
+http://103.68.28.58:5001/live/662.m3u8
+#EXTINF:-1 tvg-id=664 tvg-name="Raj News Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_News_Telugu.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Raj News Telugu
+http://103.68.28.58:5001/live/664.m3u8
+#EXTINF:-1 tvg-id=665 tvg-name="HM TV" tvg-logo="http://103.68.28.58:5001/jtvimage/HM_TV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", HM TV
+http://103.68.28.58:5001/live/665.m3u8
+#EXTINF:-1 tvg-id=666 tvg-name="ABN Andhra Jyothi" tvg-logo="http://103.68.28.58:5001/jtvimage/ABN_Andhra_Jyothi.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", ABN Andhra Jyothi
+http://103.68.28.58:5001/live/666.m3u8
+#EXTINF:-1 tvg-id=667 tvg-name="T News" tvg-logo="http://103.68.28.58:5001/jtvimage/T_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", T News
+http://103.68.28.58:5001/live/667.m3u8
+#EXTINF:-1 tvg-id=668 tvg-name="TV 5 News" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", TV 5 News
+http://103.68.28.58:5001/live/668.m3u8
+#EXTINF:-1 tvg-id=670 tvg-name="6 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/6_TV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", 6 TV
+http://103.68.28.58:5001/live/670.m3u8
+#EXTINF:-1 tvg-id=671 tvg-name="Sathiyam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sathiyam.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Sathiyam TV
+http://103.68.28.58:5001/live/671.m3u8
+#EXTINF:-1 tvg-id=672 tvg-name="ABP Ananda" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_Ananda.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", ABP Ananda
+http://103.68.28.58:5001/live/672.m3u8
+#EXTINF:-1 tvg-id=673 tvg-name="News7 Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/News7_Tamil.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", News7 Tamil
+http://103.68.28.58:5001/live/673.m3u8
+#EXTINF:-1 tvg-id=675 tvg-name="Assam Talks" tvg-logo="http://103.68.28.58:5001/jtvimage/Assam_Talks.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Assam Talks
+http://103.68.28.58:5001/live/675.m3u8
+#EXTINF:-1 tvg-id=676 tvg-name="Sun News" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_News.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Sun News
+http://103.68.28.58:5001/live/676.m3u8
+#EXTINF:-1 tvg-id=677 tvg-name="Puthiya Thalimurai" tvg-logo="http://103.68.28.58:5001/jtvimage/Puthiya_Thalimurai.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Puthiya Thalimurai
+http://103.68.28.58:5001/live/677.m3u8
+#EXTINF:-1 tvg-id=678 tvg-name="Udaya Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="🇮🇳 Movies", Udaya Movies
+http://103.68.28.58:5001/live/678.m3u8
+#EXTINF:-1 tvg-id=682 tvg-name="Sun Life" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_Life.png" tvg-language="Tamil" tvg-type="Movies" group-title="🇮🇳 Movies", Sun Life
+http://103.68.28.58:5001/live/682.m3u8
+#EXTINF:-1 tvg-id=683 tvg-name="Raj Digital Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Digital_Plus.png" tvg-language="Tamil" tvg-type="Movies" group-title="🇮🇳 Movies", Raj Digital Plus
+http://103.68.28.58:5001/live/683.m3u8
+#EXTINF:-1 tvg-id=684 tvg-name="Gemini Life" tvg-logo="http://103.68.28.58:5001/jtvimage/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="🇮🇳 Movies", Gemini Life
+http://103.68.28.58:5001/live/684.m3u8
+#EXTINF:-1 tvg-id=687 tvg-name="News Time TV" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Time_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", News Time TV
+http://103.68.28.58:5001/live/687.m3u8
+#EXTINF:-1 tvg-id=690 tvg-name="DD Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Bangla.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", DD Bangla
+http://103.68.28.58:5001/live/690.m3u8
+#EXTINF:-1 tvg-id=691 tvg-name="Saam Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Saam Tv
+http://103.68.28.58:5001/live/691.m3u8
+#EXTINF:-1 tvg-id=692 tvg-name="ETV Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Plus.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", ETV Plus
+http://103.68.28.58:5001/live/692.m3u8
+#EXTINF:-1 tvg-id=693 tvg-name="News18 BIHAR" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_BIHAR.png" tvg-language="Bhojpuri" tvg-type="News" group-title="🇮🇳 News", News18 BIHAR
+http://103.68.28.58:5001/live/693.m3u8
+#EXTINF:-1 tvg-id=694 tvg-name="News18 JKLH" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Urdu.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", News18 JKLH
+http://103.68.28.58:5001/live/694.m3u8
+#EXTINF:-1 tvg-id=695 tvg-name="DD Sahayadri" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Sahayadri.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Sahayadri
+http://103.68.28.58:5001/live/695.m3u8
+#EXTINF:-1 tvg-id=696 tvg-name="News18 Oriya" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_News_Oriya.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", News18 Oriya
+http://103.68.28.58:5001/live/696.m3u8
+#EXTINF:-1 tvg-id=697 tvg-name="Sony aath" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_aath.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony aath
+http://103.68.28.58:5001/live/697.m3u8
+#EXTINF:-1 tvg-id=698 tvg-name="Aakash Aath" tvg-logo="http://103.68.28.58:5001/jtvimage/Aakaash_bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Aakash Aath
+http://103.68.28.58:5001/live/698.m3u8
+#EXTINF:-1 tvg-id=699 tvg-name="DD Malayalam" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Malayalam.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Malayalam
+http://103.68.28.58:5001/live/699.m3u8
+#EXTINF:-1 tvg-id=701 tvg-name="Dangal" tvg-logo="http://103.68.28.58:5001/jtvimage/Dangal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Dangal
+http://103.68.28.58:5001/live/701.m3u8
+#EXTINF:-1 tvg-id=702 tvg-name="DD Oriya" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Oriya.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Oriya
+http://103.68.28.58:5001/live/702.m3u8
+#EXTINF:-1 tvg-id=705 tvg-name="Polimer TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Polimer_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Polimer TV
+http://103.68.28.58:5001/live/705.m3u8
+#EXTINF:-1 tvg-id=706 tvg-name="DD Saptagiri" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Saptagiri
+http://103.68.28.58:5001/live/706.m3u8
+#EXTINF:-1 tvg-id=707 tvg-name="Raj TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Raj TV
+http://103.68.28.58:5001/live/707.m3u8
+#EXTINF:-1 tvg-id=708 tvg-name="Makkal TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Makkal_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Makkal TV
+http://103.68.28.58:5001/live/708.m3u8
+#EXTINF:-1 tvg-id=709 tvg-name="Adithya TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Adithya_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Adithya TV
+http://103.68.28.58:5001/live/709.m3u8
+#EXTINF:-1 tvg-id=710 tvg-name="Kairali TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kairali_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Kairali TV
+http://103.68.28.58:5001/live/710.m3u8
+#EXTINF:-1 tvg-id=712 tvg-name="DD urdu" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_urdu.png" tvg-language="Urdu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD urdu
+http://103.68.28.58:5001/live/712.m3u8
+#EXTINF:-1 tvg-id=713 tvg-name="DD9 chandana (kannada)" tvg-logo="http://103.68.28.58:5001/jtvimage/DD9_chandana_kannada.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD9 chandana (kannada)
+http://103.68.28.58:5001/live/713.m3u8
+#EXTINF:-1 tvg-id=714 tvg-name="DD Girnar" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Girnar.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Girnar
+http://103.68.28.58:5001/live/714.m3u8
+#EXTINF:-1 tvg-id=715 tvg-name="DD Punjabi" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Punjabi
+http://103.68.28.58:5001/live/715.m3u8
+#EXTINF:-1 tvg-id=716 tvg-name="DD Kashir" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Kashir.png" tvg-language="Urdu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Kashir
+http://103.68.28.58:5001/live/716.m3u8
+#EXTINF:-1 tvg-id=717 tvg-name="News18 Bangla News" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Bangla_News.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", News18 Bangla News
+http://103.68.28.58:5001/live/717.m3u8
+#EXTINF:-1 tvg-id=718 tvg-name="Kanak News" tvg-logo="http://103.68.28.58:5001/jtvimage/Kanak_TV.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Kanak News
+http://103.68.28.58:5001/live/718.m3u8
+#EXTINF:-1 tvg-id=719 tvg-name="Nepal one" tvg-logo="http://103.68.28.58:5001/jtvimage/Nepal_one.png" tvg-language="Nepali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Nepal one
+http://103.68.28.58:5001/live/719.m3u8
+#EXTINF:-1 tvg-id=720 tvg-name="DD13 Guwahati NE" tvg-logo="http://103.68.28.58:5001/jtvimage/DD13_Guwahati_NE.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD13 Guwahati NE
+http://103.68.28.58:5001/live/720.m3u8
+#EXTINF:-1 tvg-id=723 tvg-name="Amrita TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Amrita_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Amrita TV
+http://103.68.28.58:5001/live/723.m3u8
+#EXTINF:-1 tvg-id=724 tvg-name="Zee Delhi NCR Haryana" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Kalinga.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Zee Delhi NCR Haryana
+http://103.68.28.58:5001/live/724.m3u8
+#EXTINF:-1 tvg-id=725 tvg-name="Kairali News" tvg-logo="http://103.68.28.58:5001/jtvimage/Kairali_People_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Kairali News
+http://103.68.28.58:5001/live/725.m3u8
+#EXTINF:-1 tvg-id=726 tvg-name="DD5 Podhigai" tvg-logo="http://103.68.28.58:5001/jtvimage/DD5_Podhigai.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD5 Podhigai
+http://103.68.28.58:5001/live/726.m3u8
+#EXTINF:-1 tvg-id=727 tvg-name="Vasanth TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vasanth_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Vasanth TV
+http://103.68.28.58:5001/live/727.m3u8
+#EXTINF:-1 tvg-id=728 tvg-name="Zee Salaam" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Salaam.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", Zee Salaam
+http://103.68.28.58:5001/live/728.m3u8
+#EXTINF:-1 tvg-id=729 tvg-name="Gemini Comedy" tvg-logo="http://103.68.28.58:5001/jtvimage/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Gemini Comedy
+http://103.68.28.58:5001/live/729.m3u8
+#EXTINF:-1 tvg-id=731 tvg-name="Kairali WE TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kairali_WE_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Kairali WE TV
+http://103.68.28.58:5001/live/731.m3u8
+#EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="http://103.68.28.58:5001/jtvimage/9X_Tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", 9X Tashan
+http://103.68.28.58:5001/live/732.m3u8
+#EXTINF:-1 tvg-id=733 tvg-name="Udaya Comedy" tvg-logo="http://103.68.28.58:5001/jtvimage/Udaya_Comedy.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Udaya Comedy
+http://103.68.28.58:5001/live/733.m3u8
+#EXTINF:-1 tvg-id=734 tvg-name="Vissa TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vissa_TV.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Vissa TV
+http://103.68.28.58:5001/live/734.m3u8
+#EXTINF:-1 tvg-id=735 tvg-name="Sangeet Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Sangeet_Marathi.png" tvg-language="Marathi" tvg-type="Music" group-title="🇮🇳 Music", Sangeet Marathi
+http://103.68.28.58:5001/live/735.m3u8
+#EXTINF:-1 tvg-id=736 tvg-name="Maiboli" tvg-logo="http://103.68.28.58:5001/jtvimage/Maiboli.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Maiboli
+http://103.68.28.58:5001/live/736.m3u8
+#EXTINF:-1 tvg-id=737 tvg-name="Raj Music Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="🇮🇳 Music", Raj Music Telugu
+http://103.68.28.58:5001/live/737.m3u8
+#EXTINF:-1 tvg-id=738 tvg-name="Fakt Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Fakt_Marathi.png" tvg-language="Marathi" tvg-type="Movies" group-title="🇮🇳 Movies", Fakt Marathi
+http://103.68.28.58:5001/live/738.m3u8
+#EXTINF:-1 tvg-id=739 tvg-name="Raj Music Malayalam" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Music_Malayalam.png" tvg-language="Malayalam" tvg-type="Music" group-title="🇮🇳 Music", Raj Music Malayalam
+http://103.68.28.58:5001/live/739.m3u8
+#EXTINF:-1 tvg-id=740 tvg-name="Sangeet Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Sangeet_Bangla.png" tvg-language="Bengali" tvg-type="Music" group-title="🇮🇳 Music", Sangeet Bangla
+http://103.68.28.58:5001/live/740.m3u8
+#EXTINF:-1 tvg-id=741 tvg-name="Sangeet Bhojpuri" tvg-logo="http://103.68.28.58:5001/jtvimage/Sangeet_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="🇮🇳 Music", Sangeet Bhojpuri
+http://103.68.28.58:5001/live/741.m3u8
+#EXTINF:-1 tvg-id=742 tvg-name="mh1 (Music)" tvg-logo="http://103.68.28.58:5001/jtvimage/mh1_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", mh1 (Music)
+http://103.68.28.58:5001/live/742.m3u8
+#EXTINF:-1 tvg-id=743 tvg-name="Raj Music Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Music_Kannada.png" tvg-language="Kannada" tvg-type="Music" group-title="🇮🇳 Music", Raj Music Kannada
+http://103.68.28.58:5001/live/743.m3u8
+#EXTINF:-1 tvg-id=744 tvg-name="Udaya Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Udaya_Music.png" tvg-language="Kannada" tvg-type="Music" group-title="🇮🇳 Music", Udaya Music
+http://103.68.28.58:5001/live/744.m3u8
+#EXTINF:-1 tvg-id=747 tvg-name="Surya Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Surya_Music.png" tvg-language="Malayalam" tvg-type="Music" group-title="🇮🇳 Music", Surya Music
+http://103.68.28.58:5001/live/747.m3u8
+#EXTINF:-1 tvg-id=748 tvg-name="Raj Musix" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_Musix.png" tvg-language="Tamil" tvg-type="Music" group-title="🇮🇳 Music", Raj Musix
+http://103.68.28.58:5001/live/748.m3u8
+#EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="http://103.68.28.58:5001/jtvimage/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", MTV Beats HD
+http://103.68.28.58:5001/live/753.m3u8
+#EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Marathi HD
+http://103.68.28.58:5001/live/755.m3u8
+#EXTINF:-1 tvg-id=756 tvg-name="Colors Bengali HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Bengali_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Bengali HD
+http://103.68.28.58:5001/live/756.m3u8
+#EXTINF:-1 tvg-id=757 tvg-name="Colors Kannada HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Kannada_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Kannada HD
+http://103.68.28.58:5001/live/757.m3u8
+#EXTINF:-1 tvg-id=764 tvg-name="Channel News Asia International" tvg-logo="http://103.68.28.58:5001/jtvimage/Channel_News_Asia_International.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Channel News Asia International
+http://103.68.28.58:5001/live/764.m3u8
+#EXTINF:-1 tvg-id=765 tvg-name="Jonack" tvg-logo="http://103.68.28.58:5001/jtvimage/Jonack.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Jonack
+http://103.68.28.58:5001/live/765.m3u8
+#EXTINF:-1 tvg-id=767 tvg-name="Raj News\u00a024x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Raj_News_24x7.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Raj News 24x7
+http://103.68.28.58:5001/live/767.m3u8
+#EXTINF:-1 tvg-id=768 tvg-name="Jan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Jan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Jan TV
+http://103.68.28.58:5001/live/768.m3u8
+#EXTINF:-1 tvg-id=769 tvg-name="V6 News" tvg-logo="http://103.68.28.58:5001/jtvimage/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", V6 News
+http://103.68.28.58:5001/live/769.m3u8
+#EXTINF:-1 tvg-id=770 tvg-name="Kashish News" tvg-logo="http://103.68.28.58:5001/jtvimage/Kashish_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Kashish News
+http://103.68.28.58:5001/live/770.m3u8
+#EXTINF:-1 tvg-id=771 tvg-name="Live Today" tvg-logo="http://103.68.28.58:5001/jtvimage/Live_Today.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Live Today
+http://103.68.28.58:5001/live/771.m3u8
+#EXTINF:-1 tvg-id=772 tvg-name="CVR OM Spiritual" tvg-logo="http://103.68.28.58:5001/jtvimage/CVR_OM_Spiritual.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", CVR OM Spiritual
+http://103.68.28.58:5001/live/772.m3u8
+#EXTINF:-1 tvg-id=773 tvg-name="Public Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Public_Music.png" tvg-language="Kannada" tvg-type="Music" group-title="🇮🇳 Music", Public Music
+http://103.68.28.58:5001/live/773.m3u8
+#EXTINF:-1 tvg-id=774 tvg-name="CVR Health" tvg-logo="http://103.68.28.58:5001/jtvimage/CVR_Health.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", CVR Health
+http://103.68.28.58:5001/live/774.m3u8
+#EXTINF:-1 tvg-id=775 tvg-name="Vanitha" tvg-logo="http://103.68.28.58:5001/jtvimage/Vanitha.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Vanitha
+http://103.68.28.58:5001/live/775.m3u8
+#EXTINF:-1 tvg-id=776 tvg-name="Bhakti TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhakti_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Bhakti TV
+http://103.68.28.58:5001/live/776.m3u8
+#EXTINF:-1 tvg-id=777 tvg-name="Aradhana TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Aradhana_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aradhana TV
+http://103.68.28.58:5001/live/777.m3u8
+#EXTINF:-1 tvg-id=778 tvg-name="Public TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Public_TV.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Public TV
+http://103.68.28.58:5001/live/778.m3u8
+#EXTINF:-1 tvg-id=779 tvg-name="Prameya News 7" tvg-logo="http://103.68.28.58:5001/jtvimage/Prameya_News_7.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Prameya News 7
+http://103.68.28.58:5001/live/779.m3u8
+#EXTINF:-1 tvg-id=780 tvg-name="Mathrubhumi News" tvg-logo="http://103.68.28.58:5001/jtvimage/Mathrubhumi_News.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Mathrubhumi News
+http://103.68.28.58:5001/live/780.m3u8
+#EXTINF:-1 tvg-id=781 tvg-name="Kalinga TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kalinga_TV.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Kalinga TV
+http://103.68.28.58:5001/live/781.m3u8
+#EXTINF:-1 tvg-id=782 tvg-name="Sandesh News" tvg-logo="http://103.68.28.58:5001/jtvimage/Sandesh_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Sandesh News
+http://103.68.28.58:5001/live/782.m3u8
+#EXTINF:-1 tvg-id=783 tvg-name="K News India" tvg-logo="http://103.68.28.58:5001/jtvimage/K_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", K News India
+http://103.68.28.58:5001/live/783.m3u8
+#EXTINF:-1 tvg-id=784 tvg-name="CVR News" tvg-logo="http://103.68.28.58:5001/jtvimage/CVR_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", CVR News
+http://103.68.28.58:5001/live/784.m3u8
+#EXTINF:-1 tvg-id=785 tvg-name="Colors Super" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Super.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Super
+http://103.68.28.58:5001/live/785.m3u8
+#EXTINF:-1 tvg-id=786 tvg-name="Kappa TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kappa_TV.png" tvg-language="Malayalam" tvg-type="Music" group-title="🇮🇳 Music", Kappa TV
+http://103.68.28.58:5001/live/786.m3u8
+#EXTINF:-1 tvg-id=787 tvg-name="CVR English" tvg-logo="http://103.68.28.58:5001/jtvimage/CVR_English.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", CVR English
+http://103.68.28.58:5001/live/787.m3u8
+#EXTINF:-1 tvg-id=788 tvg-name="India Voice" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Voice.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India Voice
+http://103.68.28.58:5001/live/788.m3u8
+#EXTINF:-1 tvg-id=789 tvg-name="JK 24x7 News" tvg-logo="http://103.68.28.58:5001/jtvimage/JK_24x7_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", JK 24x7 News
+http://103.68.28.58:5001/live/789.m3u8
+#EXTINF:-1 tvg-id=790 tvg-name="I News" tvg-logo="http://103.68.28.58:5001/jtvimage/I_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", I News
+http://103.68.28.58:5001/live/790.m3u8
+#EXTINF:-1 tvg-id=791 tvg-name="Taaza TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Taaza_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Taaza TV
+http://103.68.28.58:5001/live/791.m3u8
+#EXTINF:-1 tvg-id=792 tvg-name="News State UK UP" tvg-logo="http://103.68.28.58:5001/jtvimage/News_State_UK_UP.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News State UK UP
+http://103.68.28.58:5001/live/792.m3u8
+#EXTINF:-1 tvg-id=793 tvg-name="Sahara Samay Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/Sahara_Samay_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sahara Samay Rajasthan
+http://103.68.28.58:5001/live/793.m3u8
+#EXTINF:-1 tvg-id=794 tvg-name="Peace of Mind" tvg-logo="http://103.68.28.58:5001/jtvimage/Peace_of_Mind.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Peace of Mind
+http://103.68.28.58:5001/live/794.m3u8
+#EXTINF:-1 tvg-id=795 tvg-name="testa" tvg-logo="http://103.68.28.58:5001/jtvimage/Wellness.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", testa
+http://103.68.28.58:5001/live/795.m3u8
+#EXTINF:-1 tvg-id=796 tvg-name="Peppers TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Peppers_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Peppers TV
+http://103.68.28.58:5001/live/796.m3u8
+#EXTINF:-1 tvg-id=797 tvg-name="testii" tvg-logo="http://103.68.28.58:5001/jtvimage/Sakhi_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", testii
+http://103.68.28.58:5001/live/797.m3u8
+#EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://103.68.28.58:5001/jtvimage/Naxatra_News.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Naxatra News
+http://103.68.28.58:5001/live/799.m3u8
+#EXTINF:-1 tvg-id=801 tvg-name="Divya TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Divya_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Divya TV
+http://103.68.28.58:5001/live/801.m3u8
+#EXTINF:-1 tvg-id=803 tvg-name="Tunes 6" tvg-logo="http://103.68.28.58:5001/jtvimage/Tunes_6.png" tvg-language="Tamil" tvg-type="Music" group-title="🇮🇳 Music", Tunes 6
+http://103.68.28.58:5001/live/803.m3u8
+#EXTINF:-1 tvg-id=804 tvg-name="Samachar Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Samachar_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Samachar Plus
+http://103.68.28.58:5001/live/804.m3u8
+#EXTINF:-1 tvg-id=807 tvg-name="Gulistan News" tvg-logo="http://103.68.28.58:5001/jtvimage/Gulistan_News.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", Gulistan News
+http://103.68.28.58:5001/live/807.m3u8
+#EXTINF:-1 tvg-id=808 tvg-name="Hindi Khabar" tvg-logo="http://103.68.28.58:5001/jtvimage/Hindi_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Hindi Khabar
+http://103.68.28.58:5001/live/808.m3u8
+#EXTINF:-1 tvg-id=809 tvg-name="Maha Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Maha_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Maha Movies
+http://103.68.28.58:5001/live/809.m3u8
+#EXTINF:-1 tvg-id=810 tvg-name="Janam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Janam_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Janam TV
+http://103.68.28.58:5001/live/810.m3u8
+#EXTINF:-1 tvg-id=814 tvg-name="Travelxp Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Travel_XP_Tamil.png" tvg-language="Tamil" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Travelxp Tamil
+http://103.68.28.58:5001/live/814.m3u8
+#EXTINF:-1 tvg-id=815 tvg-name="Sonic Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Hindi
+http://103.68.28.58:5001/live/815.m3u8
+#EXTINF:-1 tvg-id=816 tvg-name="Cartoon Network Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Cartoon Network Hindi
+http://103.68.28.58:5001/live/816.m3u8
+#EXTINF:-1 tvg-id=817 tvg-name="Cartoon Network Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Cartoon_Network_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Cartoon Network Tamil
+http://103.68.28.58:5001/live/817.m3u8
+#EXTINF:-1 tvg-id=824 tvg-name="Puthu Yugam" tvg-logo="http://103.68.28.58:5001/jtvimage/Puthu_Yugam.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Puthu Yugam
+http://103.68.28.58:5001/live/824.m3u8
+#EXTINF:-1 tvg-id=826 tvg-name="Malai Murasu" tvg-logo="http://103.68.28.58:5001/jtvimage/Malai_Murasu.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Malai Murasu
+http://103.68.28.58:5001/live/826.m3u8
+#EXTINF:-1 tvg-id=828 tvg-name="Shubh TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shubh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shubh TV
+http://103.68.28.58:5001/live/828.m3u8
+#EXTINF:-1 tvg-id=829 tvg-name="Sri Sankara" tvg-logo="http://103.68.28.58:5001/jtvimage/Sri_Sankara.png" tvg-language="Kannada" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sri Sankara
+http://103.68.28.58:5001/live/829.m3u8
+#EXTINF:-1 tvg-id=830 tvg-name="Thanthi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Thanthi_TV.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Thanthi TV
+http://103.68.28.58:5001/live/830.m3u8
+#EXTINF:-1 tvg-id=831 tvg-name="Living India News" tvg-logo="http://103.68.28.58:5001/jtvimage/Living_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Living India News
+http://103.68.28.58:5001/live/831.m3u8
+#EXTINF:-1 tvg-id=832 tvg-name="10 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", 10 TV
+http://103.68.28.58:5001/live/832.m3u8
+#EXTINF:-1 tvg-id=837 tvg-name="Euro News" tvg-logo="http://103.68.28.58:5001/jtvimage/Euro_News.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Euro News
+http://103.68.28.58:5001/live/837.m3u8
+#EXTINF:-1 tvg-id=838 tvg-name="France 24" tvg-logo="http://103.68.28.58:5001/jtvimage/France_24.png" tvg-language="French" tvg-type="News" group-title="🇮🇳 News", France 24
+http://103.68.28.58:5001/live/838.m3u8
+#EXTINF:-1 tvg-id=842 tvg-name="Jeevan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Jeevan_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Jeevan TV
+http://103.68.28.58:5001/live/842.m3u8
+#EXTINF:-1 tvg-id=843 tvg-name="Madhimugam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Madhimugam_TV.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Madhimugam TV
+http://103.68.28.58:5001/live/843.m3u8
+#EXTINF:-1 tvg-id=844 tvg-name="Mazavali Manorama HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Mazavali_Manorama_HD.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Mazavali Manorama HD
+http://103.68.28.58:5001/live/844.m3u8
+#EXTINF:-1 tvg-id=845 tvg-name="MK Music" tvg-logo="http://103.68.28.58:5001/jtvimage/MK_Music.png" tvg-language="Tamil" tvg-type="Music" group-title="🇮🇳 Music", MK Music
+http://103.68.28.58:5001/live/845.m3u8
+#EXTINF:-1 tvg-id=846 tvg-name="MKN News" tvg-logo="http://103.68.28.58:5001/jtvimage/MK_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", MKN News
+http://103.68.28.58:5001/live/846.m3u8
+#EXTINF:-1 tvg-id=847 tvg-name="MK TV" tvg-logo="http://103.68.28.58:5001/jtvimage/MK_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", MK TV
+http://103.68.28.58:5001/live/847.m3u8
+#EXTINF:-1 tvg-id=850 tvg-name="News India 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/News_India_24_X_7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News India 24x7
+http://103.68.28.58:5001/live/850.m3u8
+#EXTINF:-1 tvg-id=851 tvg-name="SMBC TV" tvg-logo="http://103.68.28.58:5001/jtvimage/SMBC_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", SMBC TV
+http://103.68.28.58:5001/live/851.m3u8
+#EXTINF:-1 tvg-id=855 tvg-name="Total TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Total_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Total TV
+http://103.68.28.58:5001/live/855.m3u8
+#EXTINF:-1 tvg-id=856 tvg-name="Vedic TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Vedic TV
+http://103.68.28.58:5001/live/856.m3u8
+#EXTINF:-1 tvg-id=857 tvg-name="Vendhar TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vendhar_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Vendhar TV
+http://103.68.28.58:5001/live/857.m3u8
+#EXTINF:-1 tvg-id=858 tvg-name="Republic TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Republic_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Republic TV
+http://103.68.28.58:5001/live/858.m3u8
+#EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Jio Exclusive HD
+http://103.68.28.58:5001/live/866.m3u8
+#EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Jio Events HD
+http://103.68.28.58:5001/live/871.m3u8
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Sony Yay Hindi
+http://103.68.28.58:5001/live/872.m3u8
+#EXTINF:-1 tvg-id=873 tvg-name="Sony Yay Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", Sony Yay Tamil
+http://103.68.28.58:5001/live/873.m3u8
+#EXTINF:-1 tvg-id=874 tvg-name="Sony Yay Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Yay_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Sony Yay Telugu
+http://103.68.28.58:5001/live/874.m3u8
+#EXTINF:-1 tvg-id=875 tvg-name="Eurosport HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Eurosport HD
+http://103.68.28.58:5001/live/875.m3u8
+#EXTINF:-1 tvg-id=876 tvg-name="Times Now World" tvg-logo="http://103.68.28.58:5001/jtvimage/Times_Now_HD.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Times Now World
+http://103.68.28.58:5001/live/876.m3u8
+#EXTINF:-1 tvg-id=877 tvg-name="MNX HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="🇮🇳 Movies", MNX HD
+http://103.68.28.58:5001/live/877.m3u8
+#EXTINF:-1 tvg-id=879 tvg-name="Hare krsna" tvg-logo="http://103.68.28.58:5001/jtvimage/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Hare krsna
+http://103.68.28.58:5001/live/879.m3u8
+#EXTINF:-1 tvg-id=880 tvg-name="Janta TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Janta TV
+http://103.68.28.58:5001/live/880.m3u8
+#EXTINF:-1 tvg-id=882 tvg-name="News11" tvg-logo="http://103.68.28.58:5001/jtvimage/News11.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News11
+http://103.68.28.58:5001/live/882.m3u8
+#EXTINF:-1 tvg-id=883 tvg-name="Oscar Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Osar_Movies.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="🇮🇳 Movies", Oscar Movies
+http://103.68.28.58:5001/live/883.m3u8
+#EXTINF:-1 tvg-id=885 tvg-name="TV5 Monde" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_5_Monde.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", TV5 Monde
+http://103.68.28.58:5001/live/885.m3u8
+#EXTINF:-1 tvg-id=886 tvg-name="Lakshya TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Lakshya_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Lakshya TV
+http://103.68.28.58:5001/live/886.m3u8
+#EXTINF:-1 tvg-id=887 tvg-name="Swar Shree" tvg-logo="http://103.68.28.58:5001/jtvimage/Garv_Swaminarayan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Swar Shree
+http://103.68.28.58:5001/live/887.m3u8
+#EXTINF:-1 tvg-id=889 tvg-name="Jio Sports HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jio_Sports.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Jio Sports HD
+http://103.68.28.58:5001/live/889.m3u8
+#EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 2 HD
+http://103.68.28.58:5001/live/891.m3u8
+#EXTINF:-1 tvg-id=892 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 3 HD Hindi
+http://103.68.28.58:5001/live/892.m3u8
+#EXTINF:-1 tvg-id=894 tvg-name="KTV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="🇮🇳 Movies", KTV HD
+http://103.68.28.58:5001/live/894.m3u8
+#EXTINF:-1 tvg-id=895 tvg-name="Sun Music HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="🇮🇳 Music", Sun Music HD
+http://103.68.28.58:5001/live/895.m3u8
+#EXTINF:-1 tvg-id=896 tvg-name="Sun TV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sun TV HD
+http://103.68.28.58:5001/live/896.m3u8
+#EXTINF:-1 tvg-id=897 tvg-name="Gemini TV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Gemini TV HD
+http://103.68.28.58:5001/live/897.m3u8
+#EXTINF:-1 tvg-id=898 tvg-name="Gemini Music HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="🇮🇳 Music", Gemini Music HD
+http://103.68.28.58:5001/live/898.m3u8
+#EXTINF:-1 tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="🇮🇳 Movies", Gemini Movies HD
+http://103.68.28.58:5001/live/899.m3u8
+#EXTINF:-1 tvg-id=900 tvg-name="Surya HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Surya_HD.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Surya HD
+http://103.68.28.58:5001/live/900.m3u8
+#EXTINF:-1 tvg-id=901 tvg-name="Udaya HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Udaya_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Udaya HD
+http://103.68.28.58:5001/live/901.m3u8
+#EXTINF:-1 tvg-id=903 tvg-name="Only Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Only_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Only Music
+http://103.68.28.58:5001/live/903.m3u8
+#EXTINF:-1 tvg-id=904 tvg-name="Sanjha TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanjha_TV.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sanjha TV
+http://103.68.28.58:5001/live/904.m3u8
+#EXTINF:-1 tvg-id=905 tvg-name="PBN Music" tvg-logo="http://103.68.28.58:5001/jtvimage/PBN_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", PBN Music
+http://103.68.28.58:5001/live/905.m3u8
+#EXTINF:-1 tvg-id=906 tvg-name="Desi Channel" tvg-logo="http://103.68.28.58:5001/jtvimage/Desi_Channel.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Desi Channel
+http://103.68.28.58:5001/live/906.m3u8
+#EXTINF:-1 tvg-id=907 tvg-name="GoodNews Channel" tvg-logo="http://103.68.28.58:5001/jtvimage/GoodNews_Channel.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", GoodNews Channel
+http://103.68.28.58:5001/live/907.m3u8
+#EXTINF:-1 tvg-id=908 tvg-name="Indradhanu" tvg-logo="http://103.68.28.58:5001/jtvimage/Indradhanu.png" tvg-language="Assamese" tvg-type="Movies" group-title="🇮🇳 Movies", Indradhanu
+http://103.68.28.58:5001/live/908.m3u8
+#EXTINF:-1 tvg-id=910 tvg-name="Media One TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Media_One_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Media One TV
+http://103.68.28.58:5001/live/910.m3u8
+#EXTINF:-1 tvg-id=913 tvg-name="Lotus News" tvg-logo="http://103.68.28.58:5001/jtvimage/Lotus_News.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Lotus News
+http://103.68.28.58:5001/live/913.m3u8
+#EXTINF:-1 tvg-id=915 tvg-name="Khabar Fast" tvg-logo="http://103.68.28.58:5001/jtvimage/Khabar_Fast.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Khabar Fast
+http://103.68.28.58:5001/live/915.m3u8
+#EXTINF:-1 tvg-id=916 tvg-name="TV 100" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_100.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TV 100
+http://103.68.28.58:5001/live/916.m3u8
+#EXTINF:-1 tvg-id=918 tvg-name="Bharat Samachar" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat Samachar
+http://103.68.28.58:5001/live/918.m3u8
+#EXTINF:-1 tvg-id=921 tvg-name="Prime News" tvg-logo="http://103.68.28.58:5001/jtvimage/Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Prime News
+http://103.68.28.58:5001/live/921.m3u8
+#EXTINF:-1 tvg-id=923 tvg-name="R.Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/R.Kannada.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", R.Kannada
+http://103.68.28.58:5001/live/923.m3u8
+#EXTINF:-1 tvg-id=924 tvg-name="Mercy TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Rujumargam_TV.png" tvg-language="Urdu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Mercy TV
+http://103.68.28.58:5001/live/924.m3u8
+#EXTINF:-1 tvg-id=926 tvg-name="A1 TV Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/A1_TV_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", A1 TV Rajasthan
+http://103.68.28.58:5001/live/926.m3u8
+#EXTINF:-1 tvg-id=927 tvg-name="First India News" tvg-logo="http://103.68.28.58:5001/jtvimage/First_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", First India News
+http://103.68.28.58:5001/live/927.m3u8
+#EXTINF:-1 tvg-id=929 tvg-name="Zee 24 Kalak" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_24_Kalak.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Zee 24 Kalak
+http://103.68.28.58:5001/live/929.m3u8
+#EXTINF:-1 tvg-id=933 tvg-name="4 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/4_TV.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", 4 TV
+http://103.68.28.58:5001/live/933.m3u8
+#EXTINF:-1 tvg-id=934 tvg-name="Divya Vani" tvg-logo="http://103.68.28.58:5001/jtvimage/Divya_Vani.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Divya Vani
+http://103.68.28.58:5001/live/934.m3u8
+#EXTINF:-1 tvg-id=936 tvg-name="News 1 India" tvg-logo="http://103.68.28.58:5001/jtvimage/News_1_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 1 India
+http://103.68.28.58:5001/live/936.m3u8
+#EXTINF:-1 tvg-id=937 tvg-name="Sai TV" tvg-logo="http://103.68.28.58:5001/jtvimage/SaiTV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sai TV
+http://103.68.28.58:5001/live/937.m3u8
+#EXTINF:-1 tvg-id=938 tvg-name="BTV" tvg-logo="http://103.68.28.58:5001/jtvimage/BTV.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", BTV
+http://103.68.28.58:5001/live/938.m3u8
+#EXTINF:-1 tvg-id=939 tvg-name="Bhaktisagar 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhaktisagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Bhaktisagar 2
+http://103.68.28.58:5001/live/939.m3u8
+#EXTINF:-1 tvg-id=944 tvg-name="Mantavya News" tvg-logo="http://103.68.28.58:5001/jtvimage/Mantavya_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Mantavya News
+http://103.68.28.58:5001/live/944.m3u8
+#EXTINF:-1 tvg-id=946 tvg-name="Pitaara" tvg-logo="http://103.68.28.58:5001/jtvimage/Pitaara.png" tvg-language="Punjabi" tvg-type="Movies" group-title="🇮🇳 Movies", Pitaara
+http://103.68.28.58:5001/live/946.m3u8
+#EXTINF:-1 tvg-id=950 tvg-name="R Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/RPLUS.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", R Plus
+http://103.68.28.58:5001/live/950.m3u8
+#EXTINF:-1 tvg-id=951 tvg-name="Live Punjabi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Punjab_Today.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Live Punjabi TV
+http://103.68.28.58:5001/live/951.m3u8
+#EXTINF:-1 tvg-id=952 tvg-name="Garv Punjabi Gurbani" tvg-logo="http://103.68.28.58:5001/jtvimage/GarvGurbani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Garv Punjabi Gurbani
+http://103.68.28.58:5001/live/952.m3u8
+#EXTINF:-1 tvg-id=953 tvg-name="Propex TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Propex_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Propex TV
+http://103.68.28.58:5001/live/953.m3u8
+#EXTINF:-1 tvg-id=955 tvg-name="Hindu Dharmam" tvg-logo="http://103.68.28.58:5001/jtvimage/Hindu_Dharmam.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Hindu Dharmam
+http://103.68.28.58:5001/live/955.m3u8
+#EXTINF:-1 tvg-id=956 tvg-name="TV 5 Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_5_Kannada.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", TV 5 Kannada
+http://103.68.28.58:5001/live/956.m3u8
+#EXTINF:-1 tvg-id=957 tvg-name="INH 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/INH_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", INH 24x7
+http://103.68.28.58:5001/live/957.m3u8
+#EXTINF:-1 tvg-id=958 tvg-name="DNN" tvg-logo="http://103.68.28.58:5001/jtvimage/DNN.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", DNN
+http://103.68.28.58:5001/live/958.m3u8
+#EXTINF:-1 tvg-id=959 tvg-name="JUSPunjabi" tvg-logo="http://103.68.28.58:5001/jtvimage/JUSPunjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", JUSPunjabi
+http://103.68.28.58:5001/live/959.m3u8
+#EXTINF:-1 tvg-id=960 tvg-name="JUS 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/JUS24x7.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", JUS 24x7
+http://103.68.28.58:5001/live/960.m3u8
+#EXTINF:-1 tvg-id=961 tvg-name="JUSOne" tvg-logo="http://103.68.28.58:5001/jtvimage/JUSOne.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", JUSOne
+http://103.68.28.58:5001/live/961.m3u8
+#EXTINF:-1 tvg-id=962 tvg-name="Boogle Bollywood" tvg-logo="http://103.68.28.58:5001/jtvimage/Boogle_Bollywood.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Boogle Bollywood
+http://103.68.28.58:5001/live/962.m3u8
+#EXTINF:-1 tvg-id=963 tvg-name="Arre HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Arre.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Arre HD
+http://103.68.28.58:5001/live/963.m3u8
+#EXTINF:-1 tvg-id=964 tvg-name="Om Shanti" tvg-logo="http://103.68.28.58:5001/jtvimage/Om_Shanti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Om Shanti
+http://103.68.28.58:5001/live/964.m3u8
+#EXTINF:-1 tvg-id=965 tvg-name="News 18 Kerala" tvg-logo="http://103.68.28.58:5001/jtvimage/News_18_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", News 18 Kerala
+http://103.68.28.58:5001/live/965.m3u8
+#EXTINF:-1 tvg-id=966 tvg-name="Prudent" tvg-logo="http://103.68.28.58:5001/jtvimage/PrudentHD.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Prudent
+http://103.68.28.58:5001/live/966.m3u8
+#EXTINF:-1 tvg-id=970 tvg-name="Win TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Win_TV.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Win TV
+http://103.68.28.58:5001/live/970.m3u8
+#EXTINF:-1 tvg-id=971 tvg-name="Vaanavil TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vaanavil_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Vaanavil TV
+http://103.68.28.58:5001/live/971.m3u8
+#EXTINF:-1 tvg-id=972 tvg-name="Sarv Dharam Sangam" tvg-logo="http://103.68.28.58:5001/jtvimage/Sarv_Dharam_Sangam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sarv Dharam Sangam
+http://103.68.28.58:5001/live/972.m3u8
+#EXTINF:-1 tvg-id=975 tvg-name="Jantantra" tvg-logo="http://103.68.28.58:5001/jtvimage/Jantantra.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Jantantra
+http://103.68.28.58:5001/live/975.m3u8
+#EXTINF:-1 tvg-id=977 tvg-name="Calvary" tvg-logo="http://103.68.28.58:5001/jtvimage/Calvary.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Calvary
+http://103.68.28.58:5001/live/977.m3u8
+#EXTINF:-1 tvg-id=978 tvg-name="TEST1 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", TEST1 HD
+http://103.68.28.58:5001/live/978.m3u8
+#EXTINF:-1 tvg-id=979 tvg-name="TEST2 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST2_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", TEST2 HD
+http://103.68.28.58:5001/live/979.m3u8
+#EXTINF:-1 tvg-id=980 tvg-name="Swayam Prabha 01" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_01.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 01
+http://103.68.28.58:5001/live/980.m3u8
+#EXTINF:-1 tvg-id=981 tvg-name="Swayam Prabha 02" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_02.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 02
+http://103.68.28.58:5001/live/981.m3u8
+#EXTINF:-1 tvg-id=982 tvg-name="Swayam Prabha 03" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_03.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 03
+http://103.68.28.58:5001/live/982.m3u8
+#EXTINF:-1 tvg-id=983 tvg-name="Swayam Prabha 08" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_08.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 08
+http://103.68.28.58:5001/live/983.m3u8
+#EXTINF:-1 tvg-id=984 tvg-name="Swayam Prabha 04" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_04.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 04
+http://103.68.28.58:5001/live/984.m3u8
+#EXTINF:-1 tvg-id=985 tvg-name="Swayam Prabha 07" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_07.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 07
+http://103.68.28.58:5001/live/985.m3u8
+#EXTINF:-1 tvg-id=986 tvg-name="Swayam Prabha 05" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_05.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 05
+http://103.68.28.58:5001/live/986.m3u8
+#EXTINF:-1 tvg-id=987 tvg-name="Swayam Prabha 06" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_06.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 06
+http://103.68.28.58:5001/live/987.m3u8
+#EXTINF:-1 tvg-id=988 tvg-name="Swayam Prabha 09" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_09.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 09
+http://103.68.28.58:5001/live/988.m3u8
+#EXTINF:-1 tvg-id=989 tvg-name="Swayam Prabha 10" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_10.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 10
+http://103.68.28.58:5001/live/989.m3u8
+#EXTINF:-1 tvg-id=990 tvg-name="Swayam Prabha 11" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_11.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 11
+http://103.68.28.58:5001/live/990.m3u8
+#EXTINF:-1 tvg-id=991 tvg-name="Swayam Prabha 12" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_12.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 12
+http://103.68.28.58:5001/live/991.m3u8
+#EXTINF:-1 tvg-id=992 tvg-name="Swayam Prabha 13" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_13.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 13
+http://103.68.28.58:5001/live/992.m3u8
+#EXTINF:-1 tvg-id=993 tvg-name="Swayam Prabha 14" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_14.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 14
+http://103.68.28.58:5001/live/993.m3u8
+#EXTINF:-1 tvg-id=994 tvg-name="Swayam Prabha 16" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_16.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 16
+http://103.68.28.58:5001/live/994.m3u8
+#EXTINF:-1 tvg-id=995 tvg-name="Swayam Prabha 15" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_15.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 15
+http://103.68.28.58:5001/live/995.m3u8
+#EXTINF:-1 tvg-id=996 tvg-name="Swayam Prabha 17" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_17.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 17
+http://103.68.28.58:5001/live/996.m3u8
+#EXTINF:-1 tvg-id=997 tvg-name="Swayam Prabha 21" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_21.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 21
+http://103.68.28.58:5001/live/997.m3u8
+#EXTINF:-1 tvg-id=998 tvg-name="Swayam Prabha 22" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_22.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 22
+http://103.68.28.58:5001/live/998.m3u8
+#EXTINF:-1 tvg-id=999 tvg-name="Swayam Prabha 18" tvg-logo="http://103.68.28.58:5001/jtvimage/Swayam_Prabha_18.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swayam Prabha 18
+http://103.68.28.58:5001/live/999.m3u8
+#EXTINF:-1 tvg-id=1059 tvg-name="TEST3 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST3_HD.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TEST3 HD
+http://103.68.28.58:5001/live/1059.m3u8
+#EXTINF:-1 tvg-id=1061 tvg-name="TEST5 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST5_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", TEST5 HD
+http://103.68.28.58:5001/live/1061.m3u8
+#EXTINF:-1 tvg-id=1066 tvg-name="The Q" tvg-logo="http://103.68.28.58:5001/jtvimage/TheQIndia.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", The Q
+http://103.68.28.58:5001/live/1066.m3u8
+#EXTINF:-1 tvg-id=1069 tvg-name="Vande Gujarat 1" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_1.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 1
+http://103.68.28.58:5001/live/1069.m3u8
+#EXTINF:-1 tvg-id=1070 tvg-name="Vande Gujarat 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_2.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 2
+http://103.68.28.58:5001/live/1070.m3u8
+#EXTINF:-1 tvg-id=1071 tvg-name="Vande Gujarat 4" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_4.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 4
+http://103.68.28.58:5001/live/1071.m3u8
+#EXTINF:-1 tvg-id=1073 tvg-name="Samara News" tvg-logo="http://103.68.28.58:5001/jtvimage/Samara_News.png" tvg-language="Kannada" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Samara News
+http://103.68.28.58:5001/live/1073.m3u8
+#EXTINF:-1 tvg-id=1075 tvg-name="Ayush TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Ayush_TV.png" tvg-language="Kannada" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Ayush TV
+http://103.68.28.58:5001/live/1075.m3u8
+#EXTINF:-1 tvg-id=1077 tvg-name="Sharnam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sharnam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sharnam TV
+http://103.68.28.58:5001/live/1077.m3u8
+#EXTINF:-1 tvg-id=1078 tvg-name="Soham TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Soham_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Soham TV
+http://103.68.28.58:5001/live/1078.m3u8
+#EXTINF:-1 tvg-id=1079 tvg-name="CN HD+ English" tvg-logo="http://103.68.28.58:5001/jtvimage/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", CN HD+ English
+http://103.68.28.58:5001/live/1079.m3u8
+#EXTINF:-1 tvg-id=1080 tvg-name="CN HD+ Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/CN_HD_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", CN HD+ Telugu
+http://103.68.28.58:5001/live/1080.m3u8
+#EXTINF:-1 tvg-id=1081 tvg-name="CN HD+ Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/CN_HD_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="🇮🇳 Kids", CN HD+ Tamil
+http://103.68.28.58:5001/live/1081.m3u8
+#EXTINF:-1 tvg-id=1082 tvg-name="Vande Gujarat 3" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_3.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 3
+http://103.68.28.58:5001/live/1082.m3u8
+#EXTINF:-1 tvg-id=1083 tvg-name="Vande Gujarat 5" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_5.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 5
+http://103.68.28.58:5001/live/1083.m3u8
+#EXTINF:-1 tvg-id=1084 tvg-name="Vande Gujarat 6" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_6.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 6
+http://103.68.28.58:5001/live/1084.m3u8
+#EXTINF:-1 tvg-id=1085 tvg-name="Vande Gujarat 7" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_7.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 7
+http://103.68.28.58:5001/live/1085.m3u8
+#EXTINF:-1 tvg-id=1086 tvg-name="Vande Gujarat 8" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_8.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 8
+http://103.68.28.58:5001/live/1086.m3u8
+#EXTINF:-1 tvg-id=1087 tvg-name="Vande Gujarat 9" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_9.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 9
+http://103.68.28.58:5001/live/1087.m3u8
+#EXTINF:-1 tvg-id=1088 tvg-name="Vande Gujarat 10" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_10.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 10
+http://103.68.28.58:5001/live/1088.m3u8
+#EXTINF:-1 tvg-id=1089 tvg-name="Vande Gujarat 11" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_11.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 11
+http://103.68.28.58:5001/live/1089.m3u8
+#EXTINF:-1 tvg-id=1090 tvg-name="Vande Gujarat 12" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_12.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 12
+http://103.68.28.58:5001/live/1090.m3u8
+#EXTINF:-1 tvg-id=1091 tvg-name="Vande Gujarat 13" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_13.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 13
+http://103.68.28.58:5001/live/1091.m3u8
+#EXTINF:-1 tvg-id=1092 tvg-name="Vande Gujarat 14" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_14.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 14
+http://103.68.28.58:5001/live/1092.m3u8
+#EXTINF:-1 tvg-id=1093 tvg-name="Vande Gujarat 15" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_15.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 15
+http://103.68.28.58:5001/live/1093.m3u8
+#EXTINF:-1 tvg-id=1094 tvg-name="Vande Gujarat 16" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Gujarat_16.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Vande Gujarat 16
+http://103.68.28.58:5001/live/1094.m3u8
+#EXTINF:-1 tvg-id=1102 tvg-name="RDX Goa" tvg-logo="http://103.68.28.58:5001/jtvimage/RDX_News.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", RDX Goa
+http://103.68.28.58:5001/live/1102.m3u8
+#EXTINF:-1 tvg-id=1103 tvg-name="PEACE MUSIC" tvg-logo="http://103.68.28.58:5001/jtvimage/PEACE_MUSIC.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", PEACE MUSIC
+http://103.68.28.58:5001/live/1103.m3u8
+#EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", MTV HD Plus
+http://103.68.28.58:5001/live/1145.m3u8
+#EXTINF:-1 tvg-id=1146 tvg-name="Sony Marathi SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Marathi_SD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony Marathi SD
+http://103.68.28.58:5001/live/1146.m3u8
+#EXTINF:-1 tvg-id=1148 tvg-name="TEST8 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST8_HD.png" tvg-language="English" tvg-type="Shopping" group-title="🇮🇳 Shopping", TEST8 HD
+http://103.68.28.58:5001/live/1148.m3u8
+#EXTINF:-1 tvg-id=1151 tvg-name="Rangamanch" tvg-logo="http://103.68.28.58:5001/jtvimage/Rangamanch.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rangamanch
+http://103.68.28.58:5001/live/1151.m3u8
+#EXTINF:-1 tvg-id=1157 tvg-name="Comedy Central HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Comedy_Central_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Comedy Central HD
+http://103.68.28.58:5001/live/1157.m3u8
+#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Infinity HD
+http://103.68.28.58:5001/live/1158.m3u8
+#EXTINF:-1 tvg-id=1159 tvg-name="Tulja Bhavani" tvg-logo="http://103.68.28.58:5001/jtvimage/Tulja_Bhavani.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Tulja Bhavani
+http://103.68.28.58:5001/live/1159.m3u8
+#EXTINF:-1 tvg-id=1163 tvg-name="JioGames HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jio_Esports_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", JioGames HD
+http://103.68.28.58:5001/live/1163.m3u8
+#EXTINF:-1 tvg-id=1170 tvg-name="PTC News" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_News.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", PTC News
+http://103.68.28.58:5001/live/1170.m3u8
+#EXTINF:-1 tvg-id=1171 tvg-name="PTC Punjabi" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", PTC Punjabi
+http://103.68.28.58:5001/live/1171.m3u8
+#EXTINF:-1 tvg-id=1172 tvg-name="PTC Chak De" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", PTC Chak De
+http://103.68.28.58:5001/live/1172.m3u8
+#EXTINF:-1 tvg-id=1174 tvg-name="Fateh TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Fateh_TV.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Fateh TV
+http://103.68.28.58:5001/live/1174.m3u8
+#EXTINF:-1 tvg-id=1175 tvg-name="Awakening" tvg-logo="http://103.68.28.58:5001/jtvimage/Awakening.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Awakening
+http://103.68.28.58:5001/live/1175.m3u8
+#EXTINF:-1 tvg-id=1179 tvg-name="Bansal News" tvg-logo="http://103.68.28.58:5001/jtvimage/Bansal_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bansal News
+http://103.68.28.58:5001/live/1179.m3u8
+#EXTINF:-1 tvg-id=1184 tvg-name="Steelbird Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Steelbird_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Steelbird Music
+http://103.68.28.58:5001/live/1184.m3u8
+#EXTINF:-1 tvg-id=1185 tvg-name="Swadesh News" tvg-logo="http://103.68.28.58:5001/jtvimage/Swadesh_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Swadesh News
+http://103.68.28.58:5001/live/1185.m3u8
+#EXTINF:-1 tvg-id=1186 tvg-name="Kartavya TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kartavya_Tv.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Kartavya TV
+http://103.68.28.58:5001/live/1186.m3u8
+#EXTINF:-1 tvg-id=1187 tvg-name="Valam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Valambhakti.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Valam TV
+http://103.68.28.58:5001/live/1187.m3u8
+#EXTINF:-1 tvg-id=1188 tvg-name="PTC DHOL TV" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_DHOL_TV.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", PTC DHOL TV
+http://103.68.28.58:5001/live/1188.m3u8
+#EXTINF:-1 tvg-id=1189 tvg-name="PTC Music" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", PTC Music
+http://103.68.28.58:5001/live/1189.m3u8
+#EXTINF:-1 tvg-id=1190 tvg-name="PTC Punjabi Gold " tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="🇮🇳 Movies", PTC Punjabi Gold 
+http://103.68.28.58:5001/live/1190.m3u8
+#EXTINF:-1 tvg-id=1191 tvg-name="PTC Simran" tvg-logo="http://103.68.28.58:5001/jtvimage/PTC_Simran.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", PTC Simran
+http://103.68.28.58:5001/live/1191.m3u8
+#EXTINF:-1 tvg-id=1192 tvg-name="Brit Asia" tvg-logo="http://103.68.28.58:5001/jtvimage/Brit_Asia.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Brit Asia
+http://103.68.28.58:5001/live/1192.m3u8
+#EXTINF:-1 tvg-id=1193 tvg-name="Hare Krsna Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Hare_Krsna_music.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Hare Krsna Music
+http://103.68.28.58:5001/live/1193.m3u8
+#EXTINF:-1 tvg-id=1201 tvg-name="Sadhguru Television HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadhguru_Television.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sadhguru Television HD
+http://103.68.28.58:5001/live/1201.m3u8
+#EXTINF:-1 tvg-id=1205 tvg-name="ABP Ganga" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_Ganga.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", ABP Ganga
+http://103.68.28.58:5001/live/1205.m3u8
+#EXTINF:-1 tvg-id=1209 tvg-name="Kalaignar TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kalaignar_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Kalaignar TV
+http://103.68.28.58:5001/live/1209.m3u8
+#EXTINF:-1 tvg-id=1210 tvg-name="Kalaignar Seithigal " tvg-logo="http://103.68.28.58:5001/jtvimage/Kalaignar_Seithigal_.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Kalaignar Seithigal 
+http://103.68.28.58:5001/live/1210.m3u8
+#EXTINF:-1 tvg-id=1212 tvg-name="Hare Krsna Pravachan" tvg-logo="http://103.68.28.58:5001/jtvimage/Hare_Krsna_Pravachan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Hare Krsna Pravachan
+http://103.68.28.58:5001/live/1212.m3u8
+#EXTINF:-1 tvg-id=1216 tvg-name="Highbrow" tvg-logo="http://103.68.28.58:5001/jtvimage/Highbrow.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", Highbrow
+http://103.68.28.58:5001/live/1216.m3u8
+#EXTINF:-1 tvg-id=1219 tvg-name="Animal Planet HD Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Animal_Planet_HD_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Animal Planet HD Tamil
+http://103.68.28.58:5001/live/1219.m3u8
+#EXTINF:-1 tvg-id=1220 tvg-name="Rajyoga TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Rajyoga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Rajyoga TV
+http://103.68.28.58:5001/live/1220.m3u8
+#EXTINF:-1 tvg-id=1221 tvg-name="Rajyoga TV Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Rajyoga_Malayalam.png" tvg-language="Kannada" tvg-type="Devotional" group-title="🇮🇳 Devotional", Rajyoga TV Kannada
+http://103.68.28.58:5001/live/1221.m3u8
+#EXTINF:-1 tvg-id=1222 tvg-name="Mandir Shri Govinddevji-Jaipur" tvg-logo="http://103.68.28.58:5001/jtvimage/GovindDevji_Jaipur.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Mandir Shri Govinddevji-Jaipur
+http://103.68.28.58:5001/live/1222.m3u8
+#EXTINF:-1 tvg-id=1223 tvg-name="Dagdusheth Ganpati - Pune" tvg-logo="http://103.68.28.58:5001/jtvimage/Dagdusheth_Pune.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Dagdusheth Ganpati - Pune
+http://103.68.28.58:5001/live/1223.m3u8
+#EXTINF:-1 tvg-id=1224 tvg-name="Nimbark TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Nimbark.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Nimbark TV
+http://103.68.28.58:5001/live/1224.m3u8
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", Nick HD+
+http://103.68.28.58:5001/live/1226.m3u8
+#EXTINF:-1 tvg-id=1227 tvg-name="Digishala" tvg-logo="http://103.68.28.58:5001/jtvimage/Digishala.png" tvg-language="Gujarati" tvg-type="Educational" group-title="🇮🇳 Educational", Digishala
+http://103.68.28.58:5001/live/1227.m3u8
+#EXTINF:-1 tvg-id=1229 tvg-name="TEST9 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST9_HD.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", TEST9 HD
+http://103.68.28.58:5001/live/1229.m3u8
+#EXTINF:-1 tvg-id=1230 tvg-name="PTC VR" tvg-logo="http://103.68.28.58:5001/jtvimage/VR_360.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", PTC VR
+http://103.68.28.58:5001/live/1230.m3u8
+#EXTINF:-1 tvg-id=1232 tvg-name="Hi Dost!" tvg-logo="http://103.68.28.58:5001/jtvimage/Hi_Dost.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Hi Dost!
+http://103.68.28.58:5001/live/1232.m3u8
+#EXTINF:-1 tvg-id=1240 tvg-name="TEST10 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST10_HD.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", TEST10 HD
+http://103.68.28.58:5001/live/1240.m3u8
+#EXTINF:-1 tvg-id=1241 tvg-name="God TV" tvg-logo="http://103.68.28.58:5001/jtvimage/God_TV.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", God TV
+http://103.68.28.58:5001/live/1241.m3u8
+#EXTINF:-1 tvg-id=1242 tvg-name="Sonic Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Telugu
+http://103.68.28.58:5001/live/1242.m3u8
+#EXTINF:-1 tvg-id=1243 tvg-name="Sonic Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Sonic_Kannada.png" tvg-language="Kannada" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Kannada
+http://103.68.28.58:5001/live/1243.m3u8
+#EXTINF:-1 tvg-id=1244 tvg-name="Nick Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Kannada.png" tvg-language="Kannada" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Kannada
+http://103.68.28.58:5001/live/1244.m3u8
+#EXTINF:-1 tvg-id=1245 tvg-name="Sakkat" tvg-logo="http://103.68.28.58:5001/jtvimage/Sakkat.png" tvg-language="Kannada" tvg-type="Music" group-title="🇮🇳 Music", Sakkat
+http://103.68.28.58:5001/live/1245.m3u8
+#EXTINF:-1 tvg-id=1248 tvg-name="Bol Hadippa" tvg-logo="http://103.68.28.58:5001/jtvimage/Bol_Hadippa.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Bol Hadippa
+http://103.68.28.58:5001/live/1248.m3u8
+#EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="http://103.68.28.58:5001/jtvimage/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Kadak Hits
+http://103.68.28.58:5001/live/1249.m3u8
+#EXTINF:-1 tvg-id=1250 tvg-name="Twenty Four News" tvg-logo="http://103.68.28.58:5001/jtvimage/TWENTY_FOUR_NEWS.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Twenty Four News
+http://103.68.28.58:5001/live/1250.m3u8
+#EXTINF:-1 tvg-id=1251 tvg-name="TV9 Bharatvarsh" tvg-logo="http://103.68.28.58:5001/jtvimage/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TV9 Bharatvarsh
+http://103.68.28.58:5001/live/1251.m3u8
+#EXTINF:-1 tvg-id=1252 tvg-name="Tehzeeb TV" tvg-logo="http://103.68.28.58:5001/jtvimage/TEHZEEB_TV.png" tvg-language="Urdu" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Tehzeeb TV
+http://103.68.28.58:5001/live/1252.m3u8
+#EXTINF:-1 tvg-id=1254 tvg-name="Aastha Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Aastha_Telugu.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aastha Telugu
+http://103.68.28.58:5001/live/1254.m3u8
+#EXTINF:-1 tvg-id=1255 tvg-name="Aastha Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/Aastha_Tamil.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aastha Gujarati
+http://103.68.28.58:5001/live/1255.m3u8
+#EXTINF:-1 tvg-id=1256 tvg-name="Aastha Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Aastha_Kannada.png" tvg-language="Kannada" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aastha Kannada
+http://103.68.28.58:5001/live/1256.m3u8
+#EXTINF:-1 tvg-id=1257 tvg-name="Surya Samachar" tvg-logo="http://103.68.28.58:5001/jtvimage/Surya_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Surya Samachar
+http://103.68.28.58:5001/live/1257.m3u8
+#EXTINF:-1 tvg-id=1260 tvg-name="Ctvn Akd Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/CTVN_AKD_Plus.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Ctvn Akd Plus
+http://103.68.28.58:5001/live/1260.m3u8
+#EXTINF:-1 tvg-id=1261 tvg-name="Calcutta News" tvg-logo="http://103.68.28.58:5001/jtvimage/Calcutta_News.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Calcutta News
+http://103.68.28.58:5001/live/1261.m3u8
+#EXTINF:-1 tvg-id=1263 tvg-name="Total Tv Haryana" tvg-logo="http://103.68.28.58:5001/jtvimage/Total_Tv_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Total Tv Haryana
+http://103.68.28.58:5001/live/1263.m3u8
+#EXTINF:-1 tvg-id=1264 tvg-name="Kolkata TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kolkata_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Kolkata TV
+http://103.68.28.58:5001/live/1264.m3u8
+#EXTINF:-1 tvg-id=1265 tvg-name="Global Sanjh" tvg-logo="http://103.68.28.58:5001/jtvimage/Global_Sanjh.png" tvg-language="Punjabi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Global Sanjh
+http://103.68.28.58:5001/live/1265.m3u8
+#EXTINF:-1 tvg-id=1271 tvg-name="Sri Krishna Matha Udupi" tvg-logo="http://103.68.28.58:5001/jtvimage/Udupi_Krishna_Temple.png" tvg-language="Kannada" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sri Krishna Matha Udupi
+http://103.68.28.58:5001/live/1271.m3u8
+#EXTINF:-1 tvg-id=1273 tvg-name="Sugran" tvg-logo="http://103.68.28.58:5001/jtvimage/Sugran.png" tvg-language="Marathi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Sugran
+http://103.68.28.58:5001/live/1273.m3u8
+#EXTINF:-1 tvg-id=1274 tvg-name="Studio One" tvg-logo="http://103.68.28.58:5001/jtvimage/Studio_One.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Studio One
+http://103.68.28.58:5001/live/1274.m3u8
+#EXTINF:-1 tvg-id=1278 tvg-name="Prarthana Bhawan" tvg-logo="http://103.68.28.58:5001/jtvimage/Prarthana_Bhawan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Prarthana Bhawan
+http://103.68.28.58:5001/live/1278.m3u8
+#EXTINF:-1 tvg-id=1284 tvg-name="Vignesh TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Vignesh_TV.PNG" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Vignesh TV
+http://103.68.28.58:5001/live/1284.m3u8
+#EXTINF:-1 tvg-id=1286 tvg-name="Insync" tvg-logo="http://103.68.28.58:5001/jtvimage/Insync.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Insync
+http://103.68.28.58:5001/live/1286.m3u8
+#EXTINF:-1 tvg-id=1287 tvg-name="ANB News" tvg-logo="http://103.68.28.58:5001/jtvimage/ANBNews.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", ANB News
+http://103.68.28.58:5001/live/1287.m3u8
+#EXTINF:-1 tvg-id=1291 tvg-name="ABP Sanjha" tvg-logo="http://103.68.28.58:5001/jtvimage/ABP_Sanjha.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", ABP Sanjha
+http://103.68.28.58:5001/live/1291.m3u8
+#EXTINF:-1 tvg-id=1292 tvg-name="Wellness" tvg-logo="http://103.68.28.58:5001/jtvimage/Wellness_TV.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Wellness
+http://103.68.28.58:5001/live/1292.m3u8
+#EXTINF:-1 tvg-id=1293 tvg-name="Lokshahi News" tvg-logo="http://103.68.28.58:5001/jtvimage/Lokshahi_News.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Lokshahi News
+http://103.68.28.58:5001/live/1293.m3u8
+#EXTINF:-1 tvg-id=1294 tvg-name="Eurosport" tvg-logo="http://103.68.28.58:5001/jtvimage/Dsports.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Eurosport
+http://103.68.28.58:5001/live/1294.m3u8
+#EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="http://103.68.28.58:5001/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", B4U Kadak
+http://103.68.28.58:5001/live/1295.m3u8
+#EXTINF:-1 tvg-id=1296 tvg-name="B4U Bhojpuri" tvg-logo="http://103.68.28.58:5001/jtvimage/B4U_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="🇮🇳 Movies", B4U Bhojpuri
+http://103.68.28.58:5001/live/1296.m3u8
+#EXTINF:-1 tvg-id=1315 tvg-name="HHDL" tvg-logo="http://103.68.28.58:5001/jtvimage/HHDL.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", HHDL
+http://103.68.28.58:5001/live/1315.m3u8
+#EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="🇮🇳 Music", VH1 HD
+http://103.68.28.58:5001/live/1320.m3u8
+#EXTINF:-1 tvg-id=1324 tvg-name="Colors Gujarati Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Gujarati_Cinema.png" tvg-language="Gujarati" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Gujarati Cinema
+http://103.68.28.58:5001/live/1324.m3u8
+#EXTINF:-1 tvg-id=1325 tvg-name="Colors Infinity SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Infinity_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Infinity SD
+http://103.68.28.58:5001/live/1325.m3u8
+#EXTINF:-1 tvg-id=1326 tvg-name="Colors Marathi SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Marathi_SD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Marathi SD
+http://103.68.28.58:5001/live/1326.m3u8
+#EXTINF:-1 tvg-id=1327 tvg-name="Comedy Central SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Comedy_Central_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Comedy Central SD
+http://103.68.28.58:5001/live/1327.m3u8
+#EXTINF:-1 tvg-id=1328 tvg-name="DD Arunprabha" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Arunprabha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Arunprabha
+http://103.68.28.58:5001/live/1328.m3u8
+#EXTINF:-1 tvg-id=1329 tvg-name="DD Gyandarshan" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_Gyandarshan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD Gyandarshan
+http://103.68.28.58:5001/live/1329.m3u8
+#EXTINF:-1 tvg-id=1337 tvg-name="Top Tutor" tvg-logo="http://103.68.28.58:5001/jtvimage/Top_Tutor.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Top Tutor
+http://103.68.28.58:5001/live/1337.m3u8
+#EXTINF:-1 tvg-id=1338 tvg-name="RT TV" tvg-logo="http://103.68.28.58:5001/jtvimage/RT_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", RT TV
+http://103.68.28.58:5001/live/1338.m3u8
+#EXTINF:-1 tvg-id=1340 tvg-name="Nick Malayalam" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Malayalam.png" tvg-language="Malayalam" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Malayalam
+http://103.68.28.58:5001/live/1340.m3u8
+#EXTINF:-1 tvg-id=1341 tvg-name="Nick Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Bangla
+http://103.68.28.58:5001/live/1341.m3u8
+#EXTINF:-1 tvg-id=1342 tvg-name="Nick Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Nick_Marathi.png" tvg-language="Marathi" tvg-type="Kids" group-title="🇮🇳 Kids", Nick Marathi
+http://103.68.28.58:5001/live/1342.m3u8
+#EXTINF:-1 tvg-id=1344 tvg-name="Sonic Malayalam" tvg-logo="http://103.68.28.58:5001/jtvimage/Sonic_Malayalam.png" tvg-language="Malayalam" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Malayalam
+http://103.68.28.58:5001/live/1344.m3u8
+#EXTINF:-1 tvg-id=1345 tvg-name="Sonic Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Sonic_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Bangla
+http://103.68.28.58:5001/live/1345.m3u8
+#EXTINF:-1 tvg-id=1346 tvg-name="Sonic Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Sonic_Marathi.png" tvg-language="Marathi" tvg-type="Kids" group-title="🇮🇳 Kids", Sonic Marathi
+http://103.68.28.58:5001/live/1346.m3u8
+#EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors SD
+http://103.68.28.58:5001/live/1368.m3u8
+#EXTINF:-1 tvg-id=1369 tvg-name="Colors Bangla SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Bangla_SD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Bangla SD
+http://103.68.28.58:5001/live/1369.m3u8
+#EXTINF:-1 tvg-id=1370 tvg-name="Colors Kannada SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Kannada_SD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Kannada SD
+http://103.68.28.58:5001/live/1370.m3u8
+#EXTINF:-1 tvg-id=1371 tvg-name="Colors Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Tamil.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Colors Tamil
+http://103.68.28.58:5001/live/1371.m3u8
+#EXTINF:-1 tvg-id=1378 tvg-name="VH1" tvg-logo="http://103.68.28.58:5001/jtvimage/VH1.png" tvg-language="English" tvg-type="Music" group-title="🇮🇳 Music", VH1
+http://103.68.28.58:5001/live/1378.m3u8
+#EXTINF:-1 tvg-id=1388 tvg-name="Goodness" tvg-logo="http://103.68.28.58:5001/jtvimage/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Goodness
+http://103.68.28.58:5001/live/1388.m3u8
+#EXTINF:-1 tvg-id=1393 tvg-name="Sony Wah" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sony Wah
+http://103.68.28.58:5001/live/1393.m3u8
+#EXTINF:-1 tvg-id=1394 tvg-name="Jai Maharashtra" tvg-logo="http://103.68.28.58:5001/jtvimage/Jai_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Jai Maharashtra
+http://103.68.28.58:5001/live/1394.m3u8
+#EXTINF:-1 tvg-id=1396 tvg-name="Set SD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Set SD
+http://103.68.28.58:5001/live/1396.m3u8
+#EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://103.68.28.58:5001/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", MTV Beats SD
+http://103.68.28.58:5001/live/1400.m3u8
+#EXTINF:-1 tvg-id=1401 tvg-name="Romedy Now" tvg-logo="http://103.68.28.58:5001/jtvimage/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="🇮🇳 Movies", Romedy Now
+http://103.68.28.58:5001/live/1401.m3u8
+#EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Republic Bharat
+http://103.68.28.58:5001/live/1403.m3u8
+#EXTINF:-1 tvg-id=1405 tvg-name="NHK World Japan" tvg-logo="http://103.68.28.58:5001/jtvimage/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", NHK World Japan
+http://103.68.28.58:5001/live/1405.m3u8
+#EXTINF:-1 tvg-id=1407 tvg-name="Sai Leela" tvg-logo="http://103.68.28.58:5001/jtvimage/Sai_Leela.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sai Leela
+http://103.68.28.58:5001/live/1407.m3u8
+#EXTINF:-1 tvg-id=1408 tvg-name="Reporter TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Reporter_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Reporter TV
+http://103.68.28.58:5001/live/1408.m3u8
+#EXTINF:-1 tvg-id=1410 tvg-name="PM e Vidya 11" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_11.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 11
+http://103.68.28.58:5001/live/1410.m3u8
+#EXTINF:-1 tvg-id=1411 tvg-name="SongDew TV" tvg-logo="http://103.68.28.58:5001/jtvimage/SongDew_TV.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", SongDew TV
+http://103.68.28.58:5001/live/1411.m3u8
+#EXTINF:-1 tvg-id=1412 tvg-name="Shani Shingnapur" tvg-logo="http://103.68.28.58:5001/jtvimage/Shani_Shingnapur.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shani Shingnapur
+http://103.68.28.58:5001/live/1412.m3u8
+#EXTINF:-1 tvg-id=1414 tvg-name="Prati Shirdi Saibaba" tvg-logo="http://103.68.28.58:5001/jtvimage/Prati_Shirdi_Saibaba.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Prati Shirdi Saibaba
+http://103.68.28.58:5001/live/1414.m3u8
+#EXTINF:-1 tvg-id=1415 tvg-name="Ganga Darshan Varanasi" tvg-logo="http://103.68.28.58:5001/jtvimage/Ganga_Darshan_Varanasi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ganga Darshan Varanasi
+http://103.68.28.58:5001/live/1415.m3u8
+#EXTINF:-1 tvg-id=1417 tvg-name="SVBC2" tvg-logo="http://103.68.28.58:5001/jtvimage/SVBC2.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", SVBC2
+http://103.68.28.58:5001/live/1417.m3u8
+#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ichhapuran Balaji Rajasthan
+http://103.68.28.58:5001/live/1418.m3u8
+#EXTINF:-1 tvg-id=1419 tvg-name="Iskon Girgaon" tvg-logo="http://103.68.28.58:5001/jtvimage/Iskon_Girgaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Iskon Girgaon
+http://103.68.28.58:5001/live/1419.m3u8
+#EXTINF:-1 tvg-id=1420 tvg-name="Ashtavinayak Ranjangaon" tvg-logo="http://103.68.28.58:5001/jtvimage/Ashtavinayak_Ranjangaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ashtavinayak Ranjangaon
+http://103.68.28.58:5001/live/1420.m3u8
+#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://103.68.28.58:5001/jtvimage/Karani_Mata_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Karani Mata Rajasthan
+http://103.68.28.58:5001/live/1421.m3u8
+#EXTINF:-1 tvg-id=1422 tvg-name="Mahalaxmi Mumbai" tvg-logo="http://103.68.28.58:5001/jtvimage/Mahalaxmi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Mahalaxmi Mumbai
+http://103.68.28.58:5001/live/1422.m3u8
+#EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://103.68.28.58:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Babulnaath Mumbai
+http://103.68.28.58:5001/live/1423.m3u8
+#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://103.68.28.58:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Mumbadevi Mumbai
+http://103.68.28.58:5001/live/1424.m3u8
+#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://103.68.28.58:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Santvani
+http://103.68.28.58:5001/live/1426.m3u8
+#EXTINF:-1 tvg-id=1427 tvg-name="Nandighosha" tvg-logo="http://103.68.28.58:5001/jtvimage/Nandighosha.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Nandighosha
+http://103.68.28.58:5001/live/1427.m3u8
+#EXTINF:-1 tvg-id=1428 tvg-name="Gyan Brikshya" tvg-logo="http://103.68.28.58:5001/jtvimage/Gyan_Brikshya.png" tvg-language="Assamese" tvg-type="Educational" group-title="🇮🇳 Educational", Gyan Brikshya
+http://103.68.28.58:5001/live/1428.m3u8
+#EXTINF:-1 tvg-id=1429 tvg-name="KITE VICTERS" tvg-logo="http://103.68.28.58:5001/jtvimage/KITE_Victers.png" tvg-language="Malayalam" tvg-type="Educational" group-title="🇮🇳 Educational", KITE VICTERS
+http://103.68.28.58:5001/live/1429.m3u8
+#EXTINF:-1 tvg-id=1432 tvg-name="TIME8" tvg-logo="http://103.68.28.58:5001/jtvimage/TIME8.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", TIME8
+http://103.68.28.58:5001/live/1432.m3u8
+#EXTINF:-1 tvg-id=1433 tvg-name="India Science" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Science.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", India Science
+http://103.68.28.58:5001/live/1433.m3u8
+#EXTINF:-1 tvg-id=1434 tvg-name="Utkarsh Primary" tvg-logo="http://103.68.28.58:5001/jtvimage/Utkarsh_Primary.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Utkarsh Primary
+http://103.68.28.58:5001/live/1434.m3u8
+#EXTINF:-1 tvg-id=1435 tvg-name="Utkarsh HSBTE" tvg-logo="http://103.68.28.58:5001/jtvimage/Utkarsh_Middle.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Utkarsh HSBTE
+http://103.68.28.58:5001/live/1435.m3u8
+#EXTINF:-1 tvg-id=1436 tvg-name="Utkarsh Secondary" tvg-logo="http://103.68.28.58:5001/jtvimage/Utkarsh_Secondary.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Utkarsh Secondary
+http://103.68.28.58:5001/live/1436.m3u8
+#EXTINF:-1 tvg-id=1437 tvg-name="Utkarsh Higher" tvg-logo="http://103.68.28.58:5001/jtvimage/Utkarsh_Higher.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Utkarsh Higher
+http://103.68.28.58:5001/live/1437.m3u8
+#EXTINF:-1 tvg-id=1438 tvg-name="Velukkudi Discourses" tvg-logo="http://103.68.28.58:5001/jtvimage/Velukkudi_Discourses.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Velukkudi Discourses
+http://103.68.28.58:5001/live/1438.m3u8
+#EXTINF:-1 tvg-id=1440 tvg-name="Krishna Vani" tvg-logo="http://103.68.28.58:5001/jtvimage/Krishna_Vani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Krishna Vani
+http://103.68.28.58:5001/live/1440.m3u8
+#EXTINF:-1 tvg-id=1441 tvg-name="Wah Punjabi" tvg-logo="http://103.68.28.58:5001/jtvimage/Wah_Punjabi.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Wah Punjabi
+http://103.68.28.58:5001/live/1441.m3u8
+#EXTINF:-1 tvg-id=1447 tvg-name="TV Teacher" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_Teacher.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", TV Teacher
+http://103.68.28.58:5001/live/1447.m3u8
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://103.68.28.58:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Cineplex Superhit
+http://103.68.28.58:5001/live/1450.m3u8
+#EXTINF:-1 tvg-id=1451 tvg-name="9 Bharat Samachar" tvg-logo="http://103.68.28.58:5001/jtvimage/9_Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", 9 Bharat Samachar
+http://103.68.28.58:5001/live/1451.m3u8
+#EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="http://103.68.28.58:5001/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="🇮🇳 Movies", Shemaroo MarathiBana
+http://103.68.28.58:5001/live/1452.m3u8
+#EXTINF:-1 tvg-id=1453 tvg-name="Balle Balle TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Balle_Balle_TV.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Balle Balle TV
+http://103.68.28.58:5001/live/1453.m3u8
+#EXTINF:-1 tvg-id=1454 tvg-name="Shiksha TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shiksha_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shiksha TV
+http://103.68.28.58:5001/live/1454.m3u8
+#EXTINF:-1 tvg-id=1455 tvg-name="Janapriyam" tvg-logo="http://103.68.28.58:5001/jtvimage/Janapriyam_News.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Janapriyam
+http://103.68.28.58:5001/live/1455.m3u8
+#EXTINF:-1 tvg-id=1456 tvg-name="Lairik" tvg-logo="http://103.68.28.58:5001/jtvimage/Manipur_Educational_Channel.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Lairik
+http://103.68.28.58:5001/live/1456.m3u8
+#EXTINF:-1 tvg-id=1457 tvg-name="News Only" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Only.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", News Only
+http://103.68.28.58:5001/live/1457.m3u8
+#EXTINF:-1 tvg-id=1458 tvg-name="Gurkibani" tvg-logo="http://103.68.28.58:5001/jtvimage/Gurkebaani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Gurkibani
+http://103.68.28.58:5001/live/1458.m3u8
+#EXTINF:-1 tvg-id=1463 tvg-name="Shree Ganesh - Moti Doongri Jaipur" tvg-logo="http://103.68.28.58:5001/jtvimage/Moti_Doongri.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shree Ganesh - Moti Doongri Jaipur
+http://103.68.28.58:5001/live/1463.m3u8
+#EXTINF:-1 tvg-id=1464 tvg-name="Daijiworld TV 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Daijiworld_TV_24X7.png" tvg-language="Kannada" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Daijiworld TV 24x7
+http://103.68.28.58:5001/live/1464.m3u8
+#EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://103.68.28.58:5001/jtvimage/History_TV18_SD.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", History TV18 SD
+http://103.68.28.58:5001/live/1471.m3u8
+#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Cineplex HD
+http://103.68.28.58:5001/live/1477.m3u8
+#EXTINF:-1 tvg-id=1481 tvg-name="Argus News" tvg-logo="http://103.68.28.58:5001/jtvimage/Argus_TV.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Argus News
+http://103.68.28.58:5001/live/1481.m3u8
+#EXTINF:-1 tvg-id=1482 tvg-name="AMMA TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Amma.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", AMMA TV
+http://103.68.28.58:5001/live/1482.m3u8
+#EXTINF:-1 tvg-id=1494 tvg-name="BHOOMI 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhoomi_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", BHOOMI 24x7
+http://103.68.28.58:5001/live/1494.m3u8
+#EXTINF:-1 tvg-id=1514 tvg-name="Kannur One" tvg-logo="http://103.68.28.58:5001/jtvimage/Kannur_one.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Kannur One
+http://103.68.28.58:5001/live/1514.m3u8
+#EXTINF:-1 tvg-id=1515 tvg-name="News J" tvg-logo="http://103.68.28.58:5001/jtvimage/News_J.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", News J
+http://103.68.28.58:5001/live/1515.m3u8
+#EXTINF:-1 tvg-id=1517 tvg-name="Imayam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Imayam_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Imayam TV
+http://103.68.28.58:5001/live/1517.m3u8
+#EXTINF:-1 tvg-id=1518 tvg-name="Moon TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Moon_Tv.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Moon TV
+http://103.68.28.58:5001/live/1518.m3u8
+#EXTINF:-1 tvg-id=1521 tvg-name="Birla Brainiacs" tvg-logo="http://103.68.28.58:5001/jtvimage/Birla_Brainiacs.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Birla Brainiacs
+http://103.68.28.58:5001/live/1521.m3u8
+#EXTINF:-1 tvg-id=1525 tvg-name="TEST13 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/TEST13_HD.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TEST13 HD
+http://103.68.28.58:5001/live/1525.m3u8
+#EXTINF:-1 tvg-id=1527 tvg-name="Haryanvi Hits" tvg-logo="http://103.68.28.58:5001/jtvimage/Haryanvi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Haryanvi Hits
+http://103.68.28.58:5001/live/1527.m3u8
+#EXTINF:-1 tvg-id=1528 tvg-name="Network 10" tvg-logo="http://103.68.28.58:5001/jtvimage/Network_10.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Network 10
+http://103.68.28.58:5001/live/1528.m3u8
+#EXTINF:-1 tvg-id=1529 tvg-name="MI TV" tvg-logo="http://103.68.28.58:5001/jtvimage/MI_TV.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", MI TV
+http://103.68.28.58:5001/live/1529.m3u8
+#EXTINF:-1 tvg-id=1531 tvg-name="Gyanvani 1" tvg-logo="http://103.68.28.58:5001/jtvimage/Gyanvani_1.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Gyanvani 1
+http://103.68.28.58:5001/live/1531.m3u8
+#EXTINF:-1 tvg-id=1532 tvg-name="PM e Vidya 12" tvg-logo="http://103.68.28.58:5001/jtvimage/evidya_12.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", PM e Vidya 12
+http://103.68.28.58:5001/live/1532.m3u8
+#EXTINF:-1 tvg-id=1534 tvg-name="World  Punjabi" tvg-logo="http://103.68.28.58:5001/jtvimage/World_Punjab.png" tvg-language="Punjabi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", World  Punjabi
+http://103.68.28.58:5001/live/1534.m3u8
+#EXTINF:-1 tvg-id=1537 tvg-name="RadheKrishna TV" tvg-logo="http://103.68.28.58:5001/jtvimage/RadheKrishna_TV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", RadheKrishna TV
+http://103.68.28.58:5001/live/1537.m3u8
+#EXTINF:-1 tvg-id=1538 tvg-name="Samachar Today" tvg-logo="http://103.68.28.58:5001/jtvimage/Samachar_Today.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Samachar Today
+http://103.68.28.58:5001/live/1538.m3u8
+#EXTINF:-1 tvg-id=1539 tvg-name="Sangat TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sangat_TV.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sangat TV
+http://103.68.28.58:5001/live/1539.m3u8
+#EXTINF:-1 tvg-id=1542 tvg-name="Tute" tvg-logo="http://103.68.28.58:5001/jtvimage/Tute.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Tute
+http://103.68.28.58:5001/live/1542.m3u8
+#EXTINF:-1 tvg-id=1543 tvg-name="Subharti" tvg-logo="http://103.68.28.58:5001/jtvimage/Subharti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Subharti
+http://103.68.28.58:5001/live/1543.m3u8
+#EXTINF:-1 tvg-id=1545 tvg-name="Punjab School TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Punjab_School_TV.png" tvg-language="Punjabi" tvg-type="Educational" group-title="🇮🇳 Educational", Punjab School TV
+http://103.68.28.58:5001/live/1545.m3u8
+#EXTINF:-1 tvg-id=1549 tvg-name="Dharm Granth TV" tvg-logo="http://103.68.28.58:5001/jtvimage/DharmaGranth_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Dharm Granth TV
+http://103.68.28.58:5001/live/1549.m3u8
+#EXTINF:-1 tvg-id=1550 tvg-name="AB News" tvg-logo="http://103.68.28.58:5001/jtvimage/AB_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", AB News
+http://103.68.28.58:5001/live/1550.m3u8
+#EXTINF:-1 tvg-id=1551 tvg-name="P News" tvg-logo="http://103.68.28.58:5001/jtvimage/P_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", P News
+http://103.68.28.58:5001/live/1551.m3u8
+#EXTINF:-1 tvg-id=1552 tvg-name="Malanadu TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Malnadu_TV.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Malanadu TV
+http://103.68.28.58:5001/live/1552.m3u8
+#EXTINF:-1 tvg-id=1553 tvg-name="AB Star News" tvg-logo="http://103.68.28.58:5001/jtvimage/ABSTAR_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", AB Star News
+http://103.68.28.58:5001/live/1553.m3u8
+#EXTINF:-1 tvg-id=1554 tvg-name="Sanatan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanatan_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sanatan TV
+http://103.68.28.58:5001/live/1554.m3u8
+#EXTINF:-1 tvg-id=1555 tvg-name="News First" tvg-logo="http://103.68.28.58:5001/jtvimage/News_First.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", News First
+http://103.68.28.58:5001/live/1555.m3u8
+#EXTINF:-1 tvg-id=1557 tvg-name="Express TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Express_TV.png" tvg-language="Kannada" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Express TV
+http://103.68.28.58:5001/live/1557.m3u8
+#EXTINF:-1 tvg-id=1559 tvg-name="Jigyasa TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Jigyasa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jigyasa TV
+http://103.68.28.58:5001/live/1559.m3u8
+#EXTINF:-1 tvg-id=1560 tvg-name="35mm" tvg-logo="http://103.68.28.58:5001/jtvimage/35mm.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", 35mm
+http://103.68.28.58:5001/live/1560.m3u8
+#EXTINF:-1 tvg-id=1561 tvg-name="Sristi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sristi_TV.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Sristi TV
+http://103.68.28.58:5001/live/1561.m3u8
+#EXTINF:-1 tvg-id=1562 tvg-name="Himshiksha Elementary" tvg-logo="http://103.68.28.58:5001/jtvimage/Himshiksha_Elementary.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Himshiksha Elementary
+http://103.68.28.58:5001/live/1562.m3u8
+#EXTINF:-1 tvg-id=1563 tvg-name="Himshiksha Higher" tvg-logo="http://103.68.28.58:5001/jtvimage/Himshiksha_Higher.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Himshiksha Higher
+http://103.68.28.58:5001/live/1563.m3u8
+#EXTINF:-1 tvg-id=1564 tvg-name="Himshiksha Vocational" tvg-logo="http://103.68.28.58:5001/jtvimage/Himshiksha_Vocational.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Himshiksha Vocational
+http://103.68.28.58:5001/live/1564.m3u8
+#EXTINF:-1 tvg-id=1565 tvg-name="AP-BIE-ARTS" tvg-logo="http://103.68.28.58:5001/jtvimage/AP_BIE_ARTS.png" tvg-language="Telugu" tvg-type="Educational" group-title="🇮🇳 Educational", AP-BIE-ARTS
+http://103.68.28.58:5001/live/1565.m3u8
+#EXTINF:-1 tvg-id=1566 tvg-name="AP-BIE-SCIENCE" tvg-logo="http://103.68.28.58:5001/jtvimage/AP_BIE_SCIENCE.png" tvg-language="Telugu" tvg-type="Educational" group-title="🇮🇳 Educational", AP-BIE-SCIENCE
+http://103.68.28.58:5001/live/1566.m3u8
+#EXTINF:-1 tvg-id=1567 tvg-name="AP-CIE-SIVE" tvg-logo="http://103.68.28.58:5001/jtvimage/AP_CIE_SIVE.png" tvg-language="Telugu" tvg-type="Educational" group-title="🇮🇳 Educational", AP-CIE-SIVE
+http://103.68.28.58:5001/live/1567.m3u8
+#EXTINF:-1 tvg-id=1568 tvg-name="Atmadarshan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Atmadarshan_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Atmadarshan TV
+http://103.68.28.58:5001/live/1568.m3u8
+#EXTINF:-1 tvg-id=1590 tvg-name="Sanskrit" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanskritam.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Sanskrit
+http://103.68.28.58:5001/live/1590.m3u8
+#EXTINF:-1 tvg-id=1593 tvg-name="Lifology" tvg-logo="http://103.68.28.58:5001/jtvimage/Lifology.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Lifology
+http://103.68.28.58:5001/live/1593.m3u8
+#EXTINF:-1 tvg-id=1594 tvg-name="Samachar 24" tvg-logo="http://103.68.28.58:5001/jtvimage/Samachar_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Samachar 24
+http://103.68.28.58:5001/live/1594.m3u8
+#EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", FTV HD
+http://103.68.28.58:5001/live/1598.m3u8
+#EXTINF:-1 tvg-id=1605 tvg-name="Bangla Bhakti" tvg-logo="http://103.68.28.58:5001/jtvimage/Bangla_Bhakti.png" tvg-language="Bengali" tvg-type="Devotional" group-title="🇮🇳 Devotional", Bangla Bhakti
+http://103.68.28.58:5001/live/1605.m3u8
+#EXTINF:-1 tvg-id=1607 tvg-name="Manav Dharam" tvg-logo="http://103.68.28.58:5001/jtvimage/Manav_Dharam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Manav Dharam
+http://103.68.28.58:5001/live/1607.m3u8
+#EXTINF:-1 tvg-id=1608 tvg-name="MP News" tvg-logo="http://103.68.28.58:5001/jtvimage/MP_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", MP News
+http://103.68.28.58:5001/live/1608.m3u8
+#EXTINF:-1 tvg-id=1609 tvg-name="Ishvani TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Ishvani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ishvani TV
+http://103.68.28.58:5001/live/1609.m3u8
+#EXTINF:-1 tvg-id=1610 tvg-name="Divyang News" tvg-logo="http://103.68.28.58:5001/jtvimage/Divyang_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Divyang News
+http://103.68.28.58:5001/live/1610.m3u8
+#EXTINF:-1 tvg-id=1612 tvg-name="Tara TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Tara_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Tara TV
+http://103.68.28.58:5001/live/1612.m3u8
+#EXTINF:-1 tvg-id=1613 tvg-name="Medha Secondary" tvg-logo="http://103.68.28.58:5001/jtvimage/Medha_Secondary.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Medha Secondary
+http://103.68.28.58:5001/live/1613.m3u8
+#EXTINF:-1 tvg-id=1614 tvg-name="Omnicuris" tvg-logo="http://103.68.28.58:5001/jtvimage/Omnicuris.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Omnicuris
+http://103.68.28.58:5001/live/1614.m3u8
+#EXTINF:-1 tvg-id=1618 tvg-name="Real News Kerala" tvg-logo="http://103.68.28.58:5001/jtvimage/Real_News_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Real News Kerala
+http://103.68.28.58:5001/live/1618.m3u8
+#EXTINF:-1 tvg-id=1632 tvg-name="Colors Kannada Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Kannada_Cinema.png" tvg-language="Kannada" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Kannada Cinema
+http://103.68.28.58:5001/live/1632.m3u8
+#EXTINF:-1 tvg-id=1633 tvg-name="Public Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Public_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="🇮🇳 Movies", Public Movies
+http://103.68.28.58:5001/live/1633.m3u8
+#EXTINF:-1 tvg-id=1634 tvg-name="Siri Kannada" tvg-logo="http://103.68.28.58:5001/jtvimage/Sirikannada.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Siri Kannada
+http://103.68.28.58:5001/live/1634.m3u8
+#EXTINF:-1 tvg-id=1635 tvg-name="News State MPCG " tvg-logo="http://103.68.28.58:5001/jtvimage/News_State_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News State MPCG 
+http://103.68.28.58:5001/live/1635.m3u8
+#EXTINF:-1 tvg-id=1643 tvg-name="Harvest TV 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Harvest_TV_24x7.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Harvest TV 24x7
+http://103.68.28.58:5001/live/1643.m3u8
+#EXTINF:-1 tvg-id=1644 tvg-name="Powervision TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Powervision_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Powervision TV
+http://103.68.28.58:5001/live/1644.m3u8
+#EXTINF:-1 tvg-id=1647 tvg-name="MK Six" tvg-logo="http://103.68.28.58:5001/jtvimage/MK_Six.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", MK Six
+http://103.68.28.58:5001/live/1647.m3u8
+#EXTINF:-1 tvg-id=1655 tvg-name="Madha TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Madha_TV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Madha TV
+http://103.68.28.58:5001/live/1655.m3u8
+#EXTINF:-1 tvg-id=1657 tvg-name="Colors Bangla Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Bangla Cinema
+http://103.68.28.58:5001/live/1657.m3u8
+#EXTINF:-1 tvg-id=1658 tvg-name="Aalami Samay" tvg-logo="http://103.68.28.58:5001/jtvimage/Aalami_Samay.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", Aalami Samay
+http://103.68.28.58:5001/live/1658.m3u8
+#EXTINF:-1 tvg-id=1662 tvg-name="Surya Comedy" tvg-logo="http://103.68.28.58:5001/jtvimage/Surya_Comedy.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Surya Comedy
+http://103.68.28.58:5001/live/1662.m3u8
+#EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="🇮🇳 Movies", ETV Cinema HD 
+http://103.68.28.58:5001/live/1665.m3u8
+#EXTINF:-1 tvg-id=1666 tvg-name="Safari TV " tvg-logo="http://103.68.28.58:5001/jtvimage/Safari_TV.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Safari TV 
+http://103.68.28.58:5001/live/1666.m3u8
+#EXTINF:-1 tvg-id=1667 tvg-name="Rongeen TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Rongeen_TV.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rongeen TV
+http://103.68.28.58:5001/live/1667.m3u8
+#EXTINF:-1 tvg-id=1669 tvg-name="Sun Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sun Bangla
+http://103.68.28.58:5001/live/1669.m3u8
+#EXTINF:-1 tvg-id=1670 tvg-name="C News Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/C_News_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", C News Bharat
+http://103.68.28.58:5001/live/1670.m3u8
+#EXTINF:-1 tvg-id=1672 tvg-name="Gyanvani 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Gyanvani_2.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Gyanvani 2
+http://103.68.28.58:5001/live/1672.m3u8
+#EXTINF:-1 tvg-id=1673 tvg-name="PTD Chhattisgarrh" tvg-logo="http://103.68.28.58:5001/jtvimage/PTD_Chhattisgarrh.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", PTD Chhattisgarrh
+http://103.68.28.58:5001/live/1673.m3u8
+#EXTINF:-1 tvg-id=1675 tvg-name="ESG TV" tvg-logo="http://103.68.28.58:5001/jtvimage/ESG.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", ESG TV
+http://103.68.28.58:5001/live/1675.m3u8
+#EXTINF:-1 tvg-id=1690 tvg-name="BVTV" tvg-logo="http://103.68.28.58:5001/jtvimage/BVTV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", BVTV
+http://103.68.28.58:5001/live/1690.m3u8
+#EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://103.68.28.58:5001/jtvimage/Badakhabar.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", Badakhabar
+http://103.68.28.58:5001/live/1692.m3u8
+#EXTINF:-1 tvg-id=1694 tvg-name="Haryana Beats" tvg-logo="http://103.68.28.58:5001/jtvimage/Haryana_Beats.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Haryana Beats
+http://103.68.28.58:5001/live/1694.m3u8
+#EXTINF:-1 tvg-id=1695 tvg-name="Prime TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Prime_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Prime TV
+http://103.68.28.58:5001/live/1695.m3u8
+#EXTINF:-1 tvg-id=1697 tvg-name="FM News" tvg-logo="http://103.68.28.58:5001/jtvimage/FM_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", FM News
+http://103.68.28.58:5001/live/1697.m3u8
+#EXTINF:-1 tvg-id=1698 tvg-name="IND 24" tvg-logo="http://103.68.28.58:5001/jtvimage/IND_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", IND 24
+http://103.68.28.58:5001/live/1698.m3u8
+#EXTINF:-1 tvg-id=1699 tvg-name="ANN News" tvg-logo="http://103.68.28.58:5001/jtvimage/ANN_News.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", ANN News
+http://103.68.28.58:5001/live/1699.m3u8
+#EXTINF:-1 tvg-id=1705 tvg-name="Shri Hingulambika Devi Temple" tvg-logo="http://103.68.28.58:5001/jtvimage/Shri_Hingulambika_Devi_Temple.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shri Hingulambika Devi Temple
+http://103.68.28.58:5001/live/1705.m3u8
+#EXTINF:-1 tvg-id=1706 tvg-name="Shri Mangal Dev Grah Temple" tvg-logo="http://103.68.28.58:5001/jtvimage/Shri_Mangal_Dev_Grah_Temple.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shri Mangal Dev Grah Temple
+http://103.68.28.58:5001/live/1706.m3u8
+#EXTINF:-1 tvg-id=1708 tvg-name="SKY 12" tvg-logo="http://103.68.28.58:5001/jtvimage/SKY_12.png" tvg-language="Bengali" tvg-type="Music" group-title="🇮🇳 Music", SKY 12
+http://103.68.28.58:5001/live/1708.m3u8
+#EXTINF:-1 tvg-id=1725 tvg-name="24Hrs TV" tvg-logo="http://103.68.28.58:5001/jtvimage/24hrs_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", 24Hrs TV
+http://103.68.28.58:5001/live/1725.m3u8
+#EXTINF:-1 tvg-id=1728 tvg-name="Anaadi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Anaadi_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Anaadi TV
+http://103.68.28.58:5001/live/1728.m3u8
+#EXTINF:-1 tvg-id=1731 tvg-name="N5TV" tvg-logo="http://103.68.28.58:5001/jtvimage/N5TV.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", N5TV
+http://103.68.28.58:5001/live/1731.m3u8
+#EXTINF:-1 tvg-id=1733 tvg-name="ND 24" tvg-logo="http://103.68.28.58:5001/jtvimage/ND24.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", ND 24
+http://103.68.28.58:5001/live/1733.m3u8
+#EXTINF:-1 tvg-id=1734 tvg-name="Ek Onkar" tvg-logo="http://103.68.28.58:5001/jtvimage/Ek_Onkar.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Ek Onkar
+http://103.68.28.58:5001/live/1734.m3u8
+#EXTINF:-1 tvg-id=1735 tvg-name="TV9 Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/TV9_Bangla.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", TV9 Bangla
+http://103.68.28.58:5001/live/1735.m3u8
+#EXTINF:-1 tvg-id=1738 tvg-name="Hosanna TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Hosanna_TV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Hosanna TV
+http://103.68.28.58:5001/live/1738.m3u8
+#EXTINF:-1 tvg-id=1739 tvg-name="JKAC News" tvg-logo="http://103.68.28.58:5001/jtvimage/V24_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", JKAC News
+http://103.68.28.58:5001/live/1739.m3u8
+#EXTINF:-1 tvg-id=1740 tvg-name="Purnima TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Purnima_TV.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Purnima TV
+http://103.68.28.58:5001/live/1740.m3u8
+#EXTINF:-1 tvg-id=1741 tvg-name="Bharat AtoZ" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_AtoZ.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat AtoZ
+http://103.68.28.58:5001/live/1741.m3u8
+#EXTINF:-1 tvg-id=1742 tvg-name="Sanskrit Ganga" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanskrit_Ganga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sanskrit Ganga
+http://103.68.28.58:5001/live/1742.m3u8
+#EXTINF:-1 tvg-id=1743 tvg-name="Hornbill TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Hornbill_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Hornbill TV
+http://103.68.28.58:5001/live/1743.m3u8
+#EXTINF:-1 tvg-id=1747 tvg-name="India News Gujarat" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", India News Gujarat
+http://103.68.28.58:5001/live/1747.m3u8
+#EXTINF:-1 tvg-id=1754 tvg-name="Surya Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Surya_Movies.png" tvg-language="Malayalam" tvg-type="Movies" group-title="🇮🇳 Movies", Surya Movies
+http://103.68.28.58:5001/live/1754.m3u8
+#EXTINF:-1 tvg-id=1757 tvg-name="NK TV Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/NK_TV.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", NK TV Plus
+http://103.68.28.58:5001/live/1757.m3u8
+#EXTINF:-1 tvg-id=1758 tvg-name="DPK News" tvg-logo="http://103.68.28.58:5001/jtvimage/DPK_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", DPK News
+http://103.68.28.58:5001/live/1758.m3u8
+#EXTINF:-1 tvg-id=1759 tvg-name="Buletin India" tvg-logo="http://103.68.28.58:5001/jtvimage/Buletin_India.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Buletin India
+http://103.68.28.58:5001/live/1759.m3u8
+#EXTINF:-1 tvg-id=1761 tvg-name="Aryan TV National" tvg-logo="http://103.68.28.58:5001/jtvimage/Aryan_TV_National.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Aryan TV National
+http://103.68.28.58:5001/live/1761.m3u8
+#EXTINF:-1 tvg-id=1762 tvg-name="Channel Vision" tvg-logo="http://103.68.28.58:5001/jtvimage/Channel_Vision.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Channel Vision
+http://103.68.28.58:5001/live/1762.m3u8
+#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://103.68.28.58:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Colors Cineplex Bollywood
+http://103.68.28.58:5001/live/1763.m3u8
+#EXTINF:-1 tvg-id=1764 tvg-name="Dada Bhagwan Foundation" tvg-logo="http://103.68.28.58:5001/jtvimage/Dadabhagwan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Dada Bhagwan Foundation
+http://103.68.28.58:5001/live/1764.m3u8
+#EXTINF:-1 tvg-id=1771 tvg-name="Express News" tvg-logo="http://103.68.28.58:5001/jtvimage/Express_News.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Express News
+http://103.68.28.58:5001/live/1771.m3u8
+#EXTINF:-1 tvg-id=1772 tvg-name="Sony Ten 4 HD Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_4_HD_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 4 HD Tamil
+http://103.68.28.58:5001/live/1772.m3u8
+#EXTINF:-1 tvg-id=1773 tvg-name="Sony Ten 4 HD Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_4_HD_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 4 HD Telugu
+http://103.68.28.58:5001/live/1773.m3u8
+#EXTINF:-1 tvg-id=1774 tvg-name="Sony Ten 4 Tamil" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_4_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 4 Tamil
+http://103.68.28.58:5001/live/1774.m3u8
+#EXTINF:-1 tvg-id=1775 tvg-name="Sony Ten 4 Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Ten_4_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="🇮🇳 Sports", Sony Ten 4 Telugu
+http://103.68.28.58:5001/live/1775.m3u8
+#EXTINF:-1 tvg-id=1777 tvg-name="Bharat News TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat News TV
+http://103.68.28.58:5001/live/1777.m3u8
+#EXTINF:-1 tvg-id=1780 tvg-name="HooplaKidz TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Hoopla_Kids_TV.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", HooplaKidz TV
+http://103.68.28.58:5001/live/1780.m3u8
+#EXTINF:-1 tvg-id=1787 tvg-name="VISVAS" tvg-logo="http://103.68.28.58:5001/jtvimage/VISVAS.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", VISVAS
+http://103.68.28.58:5001/live/1787.m3u8
+#EXTINF:-1 tvg-id=1788 tvg-name="Yeshuaa TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Yeshuaa.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Yeshuaa TV
+http://103.68.28.58:5001/live/1788.m3u8
+#EXTINF:-1 tvg-id=1789 tvg-name="Dada Bhagwan Foundation Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/Dada_Bhagwan_Foundation_Gujarati.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Dada Bhagwan Foundation Gujarati
+http://103.68.28.58:5001/live/1789.m3u8
+#EXTINF:-1 tvg-id=1790 tvg-name="VR Live" tvg-logo="http://103.68.28.58:5001/jtvimage/VRLive.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", VR Live
+http://103.68.28.58:5001/live/1790.m3u8
+#EXTINF:-1 tvg-id=1791 tvg-name="KP News 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/KPNews.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", KP News 24x7
+http://103.68.28.58:5001/live/1791.m3u8
+#EXTINF:-1 tvg-id=1793 tvg-name="National News Sattaxpress" tvg-logo="http://103.68.28.58:5001/jtvimage/National_News_Sattaxpress.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", National News Sattaxpress
+http://103.68.28.58:5001/live/1793.m3u8
+#EXTINF:-1 tvg-id=1794 tvg-name="Mangalmay Live" tvg-logo="http://103.68.28.58:5001/jtvimage/Mangalmaylive.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Mangalmay Live
+http://103.68.28.58:5001/live/1794.m3u8
+#EXTINF:-1 tvg-id=1795 tvg-name="Shri Amarnathji Shrine Board" tvg-logo="http://103.68.28.58:5001/jtvimage/Shri_Amarnath_Shrine_Board.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shri Amarnathji Shrine Board
+http://103.68.28.58:5001/live/1795.m3u8
+#EXTINF:-1 tvg-id=1796 tvg-name="Ananda Barta" tvg-logo="http://103.68.28.58:5001/jtvimage/Anand_Barta.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Ananda Barta
+http://103.68.28.58:5001/live/1796.m3u8
+#EXTINF:-1 tvg-id=1798 tvg-name="Pasand" tvg-logo="http://103.68.28.58:5001/jtvimage/Pasand.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Pasand
+http://103.68.28.58:5001/live/1798.m3u8
+#EXTINF:-1 tvg-id=1799 tvg-name="Studio Yuva Alpha" tvg-logo="http://103.68.28.58:5001/jtvimage/Studio_Yuva_Alpha.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Studio Yuva Alpha
+http://103.68.28.58:5001/live/1799.m3u8
+#EXTINF:-1 tvg-id=1802 tvg-name="News World India" tvg-logo="http://103.68.28.58:5001/jtvimage/News_World_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News World India
+http://103.68.28.58:5001/live/1802.m3u8
+#EXTINF:-1 tvg-id=1804 tvg-name="Jan Setu News" tvg-logo="http://103.68.28.58:5001/jtvimage/Jan_Setu_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Jan Setu News
+http://103.68.28.58:5001/live/1804.m3u8
+#EXTINF:-1 tvg-id=1817 tvg-name="NEWS 24 MPCG" tvg-logo="http://103.68.28.58:5001/jtvimage/NEWS_24_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", NEWS 24 MPCG
+http://103.68.28.58:5001/live/1817.m3u8
+#EXTINF:-1 tvg-id=1826 tvg-name="Swaralasika Sangeetalaya" tvg-logo="http://103.68.28.58:5001/jtvimage/Swarlasika.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Swaralasika Sangeetalaya
+http://103.68.28.58:5001/live/1826.m3u8
+#EXTINF:-1 tvg-id=1827 tvg-name="Aakash EduTV NEET" tvg-logo="http://103.68.28.58:5001/jtvimage/Aakash_EduTV_NEET.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Aakash EduTV NEET
+http://103.68.28.58:5001/live/1827.m3u8
+#EXTINF:-1 tvg-id=1834 tvg-name="Green Chillies" tvg-logo="http://103.68.28.58:5001/jtvimage/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Green Chillies
+http://103.68.28.58:5001/live/1834.m3u8
+#EXTINF:-1 tvg-id=1847 tvg-name="Z10 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Harpal_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Z10 TV
+http://103.68.28.58:5001/live/1847.m3u8
+#EXTINF:-1 tvg-id=1850 tvg-name="SVBC" tvg-logo="http://103.68.28.58:5001/jtvimage/SVBC.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", SVBC
+http://103.68.28.58:5001/live/1850.m3u8
+#EXTINF:-1 tvg-id=1851 tvg-name="Aakash EduTV JEE" tvg-logo="http://103.68.28.58:5001/jtvimage/Aakash_EduTV_JEE.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", Aakash EduTV JEE
+http://103.68.28.58:5001/live/1851.m3u8
+#EXTINF:-1 tvg-id=1853 tvg-name="News11 Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/News11_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News11 Bharat
+http://103.68.28.58:5001/live/1853.m3u8
+#EXTINF:-1 tvg-id=1854 tvg-name="STV Haryana News" tvg-logo="http://103.68.28.58:5001/jtvimage/STV_Haryana_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", STV Haryana News
+http://103.68.28.58:5001/live/1854.m3u8
+#EXTINF:-1 tvg-id=1855 tvg-name="NL TV" tvg-logo="http://103.68.28.58:5001/jtvimage/NL_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", NL TV
+http://103.68.28.58:5001/live/1855.m3u8
+#EXTINF:-1 tvg-id=1856 tvg-name="Pratham Khabar 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Time_Assam.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Pratham Khabar 24x7
+http://103.68.28.58:5001/live/1856.m3u8
+#EXTINF:-1 tvg-id=1858 tvg-name="SVBC3" tvg-logo="http://103.68.28.58:5001/jtvimage/SVBC3.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", SVBC3
+http://103.68.28.58:5001/live/1858.m3u8
+#EXTINF:-1 tvg-id=1859 tvg-name="SVBC4" tvg-logo="http://103.68.28.58:5001/jtvimage/SVBC4.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", SVBC4
+http://103.68.28.58:5001/live/1859.m3u8
+#EXTINF:-1 tvg-id=1868 tvg-name="Punjab Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Punjab_Plus.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Punjab Plus
+http://103.68.28.58:5001/live/1868.m3u8
+#EXTINF:-1 tvg-id=1871 tvg-name="7X Music" tvg-logo="http://103.68.28.58:5001/jtvimage/7X_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", 7X Music
+http://103.68.28.58:5001/live/1871.m3u8
+#EXTINF:-1 tvg-id=1883 tvg-name="Pogo Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="🇮🇳 Kids", Pogo Telugu
+http://103.68.28.58:5001/live/1883.m3u8
+#EXTINF:-1 tvg-id=1885 tvg-name="Kripa TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kripa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Kripa TV
+http://103.68.28.58:5001/live/1885.m3u8
+#EXTINF:-1 tvg-id=1886 tvg-name="Sansad TV Rajya Sabha" tvg-logo="http://103.68.28.58:5001/jtvimage/Sansad_TV_RajyaSabha.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sansad TV Rajya Sabha
+http://103.68.28.58:5001/live/1886.m3u8
+#EXTINF:-1 tvg-id=1891 tvg-name="Tribe TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Tribe_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Tribe TV
+http://103.68.28.58:5001/live/1891.m3u8
+#EXTINF:-1 tvg-id=1895 tvg-name="Today 24 News" tvg-logo="http://103.68.28.58:5001/jtvimage/Today_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Today 24 News
+http://103.68.28.58:5001/live/1895.m3u8
+#EXTINF:-1 tvg-id=1896 tvg-name="News Flash" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Flash.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News Flash
+http://103.68.28.58:5001/live/1896.m3u8
+#EXTINF:-1 tvg-id=1897 tvg-name="Pulse 24" tvg-logo="http://103.68.28.58:5001/jtvimage/Pulse_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Pulse 24
+http://103.68.28.58:5001/live/1897.m3u8
+#EXTINF:-1 tvg-id=1898 tvg-name="GBN24" tvg-logo="http://103.68.28.58:5001/jtvimage/GBN24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", GBN24
+http://103.68.28.58:5001/live/1898.m3u8
+#EXTINF:-1 tvg-id=1900 tvg-name="Express News Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/ENB.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Express News Bharat
+http://103.68.28.58:5001/live/1900.m3u8
+#EXTINF:-1 tvg-id=1901 tvg-name="Adhyatam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Adhyatam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Adhyatam TV
+http://103.68.28.58:5001/live/1901.m3u8
+#EXTINF:-1 tvg-id=1906 tvg-name="Times Now Navbharat" tvg-logo="http://103.68.28.58:5001/jtvimage/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Times Now Navbharat
+http://103.68.28.58:5001/live/1906.m3u8
+#EXTINF:-1 tvg-id=1907 tvg-name="ET Now Swadesh" tvg-logo="http://103.68.28.58:5001/jtvimage/ET_Now_Swadesh.png" tvg-language="Hindi" tvg-type="Business" group-title="🇮🇳 Business", ET Now Swadesh
+http://103.68.28.58:5001/live/1907.m3u8
+#EXTINF:-1 tvg-id=1920 tvg-name="The Q Kahaniyan" tvg-logo="http://103.68.28.58:5001/jtvimage/The_Q_Kahaniyan.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", The Q Kahaniyan
+http://103.68.28.58:5001/live/1920.m3u8
+#EXTINF:-1 tvg-id=1925 tvg-name="MH1 Dil Se" tvg-logo="http://103.68.28.58:5001/jtvimage/MH1_DilSe.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", MH1 Dil Se
+http://103.68.28.58:5001/live/1925.m3u8
+#EXTINF:-1 tvg-id=1926 tvg-name="Sanskriti 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanskriti_24x7.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sanskriti 24x7
+http://103.68.28.58:5001/live/1926.m3u8
+#EXTINF:-1 tvg-id=1933 tvg-name="Shri Trimbakeshwar Devasthan Trust" tvg-logo="http://103.68.28.58:5001/jtvimage/Shri_Trimbakeshwar_Devasthan.png" tvg-language="Marathi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shri Trimbakeshwar Devasthan Trust
+http://103.68.28.58:5001/live/1933.m3u8
+#EXTINF:-1 tvg-id=1954 tvg-name="News Tamil 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Tamil_24x7.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", News Tamil 24x7
+http://103.68.28.58:5001/live/1954.m3u8
+#EXTINF:-1 tvg-id=1955 tvg-name="Foodxp" tvg-logo="http://103.68.28.58:5001/jtvimage/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Foodxp
+http://103.68.28.58:5001/live/1955.m3u8
+#EXTINF:-1 tvg-id=1956 tvg-name="Sidharth TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sidharth_TV.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sidharth TV
+http://103.68.28.58:5001/live/1956.m3u8
+#EXTINF:-1 tvg-id=1957 tvg-name="Sidharth Gold" tvg-logo="http://103.68.28.58:5001/jtvimage/Sidharth_Gold.png" tvg-language="Odia" tvg-type="Movies" group-title="🇮🇳 Movies", Sidharth Gold
+http://103.68.28.58:5001/live/1957.m3u8
+#EXTINF:-1 tvg-id=1958 tvg-name="Sidharth Bhakti" tvg-logo="http://103.68.28.58:5001/jtvimage/Sidharth_Bhakti.png" tvg-language="Odia" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sidharth Bhakti
+http://103.68.28.58:5001/live/1958.m3u8
+#EXTINF:-1 tvg-id=1959 tvg-name="Global India" tvg-logo="http://103.68.28.58:5001/jtvimage/Global_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Global India
+http://103.68.28.58:5001/live/1959.m3u8
+#EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Shemaroo TV
+http://103.68.28.58:5001/live/1961.m3u8
+#EXTINF:-1 tvg-id=1962 tvg-name="Amar Bangla TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Amaar_Bangla.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Amar Bangla TV
+http://103.68.28.58:5001/live/1962.m3u8
+#EXTINF:-1 tvg-id=1963 tvg-name="News 24 Express" tvg-logo="http://103.68.28.58:5001/jtvimage/News24_Express.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 24 Express
+http://103.68.28.58:5001/live/1963.m3u8
+#EXTINF:-1 tvg-id=1964 tvg-name="ABC News" tvg-logo="http://103.68.28.58:5001/jtvimage/ABC_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", ABC News
+http://103.68.28.58:5001/live/1964.m3u8
+#EXTINF:-1 tvg-id=1965 tvg-name="VNM TV" tvg-logo="http://103.68.28.58:5001/jtvimage/VNM_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", VNM TV
+http://103.68.28.58:5001/live/1965.m3u8
+#EXTINF:-1 tvg-id=1966 tvg-name="Live TV Kerala" tvg-logo="http://103.68.28.58:5001/jtvimage/Live_TV_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Live TV Kerala
+http://103.68.28.58:5001/live/1966.m3u8
+#EXTINF:-1 tvg-id=1967 tvg-name="PMC Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/PMC_Hindi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", PMC Hindi
+http://103.68.28.58:5001/live/1967.m3u8
+#EXTINF:-1 tvg-id=1972 tvg-name="Top News Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Top_News_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Top News Marathi
+http://103.68.28.58:5001/live/1972.m3u8
+#EXTINF:-1 tvg-id=1973 tvg-name="ETV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", ETV HD
+http://103.68.28.58:5001/live/1973.m3u8
+#EXTINF:-1 tvg-id=1974 tvg-name="Gujarat 1st 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Gujarat_First_24x7.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Gujarat 1st 24x7
+http://103.68.28.58:5001/live/1974.m3u8
+#EXTINF:-1 tvg-id=1975 tvg-name="PMC Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/PMC_Telugu.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", PMC Telugu
+http://103.68.28.58:5001/live/1975.m3u8
+#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sports18 1 HD
+http://103.68.28.58:5001/live/1984.m3u8
+#EXTINF:-1 tvg-id=1985 tvg-name="Sports18 1" tvg-logo="http://103.68.28.58:5001/jtvimage/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sports18 1
+http://103.68.28.58:5001/live/1985.m3u8
+#EXTINF:-1 tvg-id=1998 tvg-name="Sports18 Khel" tvg-logo="http://103.68.28.58:5001/jtvimage/Sports18_Khel.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", Sports18 Khel
+http://103.68.28.58:5001/live/1998.m3u8
+#EXTINF:-1 tvg-id=1999 tvg-name="Raftaar Media" tvg-logo="http://103.68.28.58:5001/jtvimage/Raftaar_Media.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Raftaar Media
+http://103.68.28.58:5001/live/1999.m3u8
+#EXTINF:-1 tvg-id=2000 tvg-name="PlusTest1" tvg-logo="http://103.68.28.58:5001/jtvimage/PlusTest1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", PlusTest1
+http://103.68.28.58:5001/live/2000.m3u8
+#EXTINF:-1 tvg-id=2001 tvg-name="PlusTest2 HD" tvg-logo="http://103.68.28.58:5001/jtvimage/PlusTest2_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", PlusTest2 HD
+http://103.68.28.58:5001/live/2001.m3u8
+#EXTINF:-1 tvg-id=2002 tvg-name="Aadinath TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Aadinath_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aadinath TV
+http://103.68.28.58:5001/live/2002.m3u8
+#EXTINF:-1 tvg-id=2003 tvg-name="3.0 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Crypto_TV.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", 3.0 TV
+http://103.68.28.58:5001/live/2003.m3u8
+#EXTINF:-1 tvg-id=2004 tvg-name="Shekinah TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shekinah.png" tvg-language="Malayalam" tvg-type="News" group-title="🇮🇳 News", Shekinah TV
+http://103.68.28.58:5001/live/2004.m3u8
+#EXTINF:-1 tvg-id=2005 tvg-name="IN 24 News" tvg-logo="http://103.68.28.58:5001/jtvimage/Virat_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", IN 24 News
+http://103.68.28.58:5001/live/2005.m3u8
+#EXTINF:-1 tvg-id=2007 tvg-name="BS9 News" tvg-logo="http://103.68.28.58:5001/jtvimage/BS9_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", BS9 News
+http://103.68.28.58:5001/live/2007.m3u8
+#EXTINF:-1 tvg-id=2008 tvg-name="News 21" tvg-logo="http://103.68.28.58:5001/jtvimage/News_21.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 21
+http://103.68.28.58:5001/live/2008.m3u8
+#EXTINF:-1 tvg-id=2010 tvg-name="Ekamra Nilach akra" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Nilach_akra.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Ekamra Nilach akra
+http://103.68.28.58:5001/live/2010.m3u8
+#EXTINF:-1 tvg-id=2011 tvg-name="Ekamra Bharat Odia" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Bharat_Odia.png" tvg-language="Odia" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Ekamra Bharat Odia
+http://103.68.28.58:5001/live/2011.m3u8
+#EXTINF:-1 tvg-id=2012 tvg-name="Paramatma" tvg-logo="http://103.68.28.58:5001/jtvimage/Paramatma.png" tvg-language="Odia" tvg-type="Devotional" group-title="🇮🇳 Devotional", Paramatma
+http://103.68.28.58:5001/live/2012.m3u8
+#EXTINF:-1 tvg-id=2013 tvg-name="Leaking Top Secret" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_S_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Leaking Top Secret
+http://103.68.28.58:5001/live/2013.m3u8
+#EXTINF:-1 tvg-id=2014 tvg-name="News India TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Rajpath_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News India TV
+http://103.68.28.58:5001/live/2014.m3u8
+#EXTINF:-1 tvg-id=2015 tvg-name="Ekamra Musiq" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Music.png" tvg-language="Odia" tvg-type="Music" group-title="🇮🇳 Music", Ekamra Musiq
+http://103.68.28.58:5001/live/2015.m3u8
+#EXTINF:-1 tvg-id=2016 tvg-name="Ekamra Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Cinema.png" tvg-language="Odia" tvg-type="Movies" group-title="🇮🇳 Movies", Ekamra Cinema
+http://103.68.28.58:5001/live/2016.m3u8
+#EXTINF:-1 tvg-id=2017 tvg-name="Munsif TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Munsif_TV.png" tvg-language="Urdu" tvg-type="News" group-title="🇮🇳 News", Munsif TV
+http://103.68.28.58:5001/live/2017.m3u8
+#EXTINF:-1 tvg-id=2018 tvg-name="Samachar Nation" tvg-logo="http://103.68.28.58:5001/jtvimage/Samachar_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Samachar Nation
+http://103.68.28.58:5001/live/2018.m3u8
+#EXTINF:-1 tvg-id=2019 tvg-name="Global Punjab" tvg-logo="http://103.68.28.58:5001/jtvimage/Global_Punjab.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", Global Punjab
+http://103.68.28.58:5001/live/2019.m3u8
+#EXTINF:-1 tvg-id=2020 tvg-name="KKD News" tvg-logo="http://103.68.28.58:5001/jtvimage/KKD_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", KKD News
+http://103.68.28.58:5001/live/2020.m3u8
+#EXTINF:-1 tvg-id=2021 tvg-name="HNN 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/HNN24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", HNN 24x7
+http://103.68.28.58:5001/live/2021.m3u8
+#EXTINF:-1 tvg-id=2022 tvg-name="NB News" tvg-logo="http://103.68.28.58:5001/jtvimage/NB_News.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", NB News
+http://103.68.28.58:5001/live/2022.m3u8
+#EXTINF:-1 tvg-id=2027 tvg-name="Raatdin News" tvg-logo="http://103.68.28.58:5001/jtvimage/Raatdin_News_Network.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Raatdin News
+http://103.68.28.58:5001/live/2027.m3u8
+#EXTINF:-1 tvg-id=2028 tvg-name="Sadvidya TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadvidya_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sadvidya TV
+http://103.68.28.58:5001/live/2028.m3u8
+#EXTINF:-1 tvg-id=2029 tvg-name="Aaryaa Bhakti" tvg-logo="http://103.68.28.58:5001/jtvimage/Aaryaa_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Aaryaa Bhakti
+http://103.68.28.58:5001/live/2029.m3u8
+#EXTINF:-1 tvg-id=2030 tvg-name="Aaryaa News" tvg-logo="http://103.68.28.58:5001/jtvimage/Aaryaa_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Aaryaa News
+http://103.68.28.58:5001/live/2030.m3u8
+#EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://103.68.28.58:5001/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="🇮🇳 Lifestyle", Fashion India
+http://103.68.28.58:5001/live/2031.m3u8
+#EXTINF:-1 tvg-id=2034 tvg-name="NSDC TV" tvg-logo="http://103.68.28.58:5001/jtvimage/NSDC_TV.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", NSDC TV
+http://103.68.28.58:5001/live/2034.m3u8
+#EXTINF:-1 tvg-id=2035 tvg-name="Amritwani" tvg-logo="http://103.68.28.58:5001/jtvimage/Amritwani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Amritwani
+http://103.68.28.58:5001/live/2035.m3u8
+#EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="http://103.68.28.58:5001/jtvimage/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Dil Se
+http://103.68.28.58:5001/live/2036.m3u8
+#EXTINF:-1 tvg-id=2037 tvg-name="Pop Pataka" tvg-logo="http://103.68.28.58:5001/jtvimage/Pop_Pataka.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Pop Pataka
+http://103.68.28.58:5001/live/2037.m3u8
+#EXTINF:-1 tvg-id=2038 tvg-name="Dhamaal" tvg-logo="http://103.68.28.58:5001/jtvimage/Dhamaal.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="🇮🇳 Music", Dhamaal
+http://103.68.28.58:5001/live/2038.m3u8
+#EXTINF:-1 tvg-id=2040 tvg-name="Bollywood Hungama" tvg-logo="http://103.68.28.58:5001/jtvimage/Bollywood_Hungama.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Bollywood Hungama
+http://103.68.28.58:5001/live/2040.m3u8
+#EXTINF:-1 tvg-id=2041 tvg-name="Bhakti Sagar" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhakti_Sagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Bhakti Sagar
+http://103.68.28.58:5001/live/2041.m3u8
+#EXTINF:-1 tvg-id=2042 tvg-name="Nazraana" tvg-logo="http://103.68.28.58:5001/jtvimage/Nazraana.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Nazraana
+http://103.68.28.58:5001/live/2042.m3u8
+#EXTINF:-1 tvg-id=2043 tvg-name="Artist Aloud" tvg-logo="http://103.68.28.58:5001/jtvimage/Artist_Aloud.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Artist Aloud
+http://103.68.28.58:5001/live/2043.m3u8
+#EXTINF:-1 tvg-id=2045 tvg-name="Auroville TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Auroville_TV.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", Auroville TV
+http://103.68.28.58:5001/live/2045.m3u8
+#EXTINF:-1 tvg-id=2063 tvg-name="RS Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/RS_Bharat.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", RS Bharat
+http://103.68.28.58:5001/live/2063.m3u8
+#EXTINF:-1 tvg-id=2064 tvg-name="Merchant Records" tvg-logo="http://103.68.28.58:5001/jtvimage/Merchant_Records.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Merchant Records
+http://103.68.28.58:5001/live/2064.m3u8
+#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Saregama Music
+http://103.68.28.58:5001/live/2065.m3u8
+#EXTINF:-1 tvg-id=2074 tvg-name="Prime Media Goa" tvg-logo="http://103.68.28.58:5001/jtvimage/Prime_Media.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Prime Media Goa
+http://103.68.28.58:5001/live/2074.m3u8
+#EXTINF:-1 tvg-id=2077 tvg-name="Gangaur" tvg-logo="http://103.68.28.58:5001/jtvimage/Gangaur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Gangaur
+http://103.68.28.58:5001/live/2077.m3u8
+#EXTINF:-1 tvg-id=2078 tvg-name="Shemaroo Umang" tvg-logo="http://103.68.28.58:5001/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Shemaroo Umang
+http://103.68.28.58:5001/live/2078.m3u8
+#EXTINF:-1 tvg-id=2079 tvg-name="Bharat 24" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat 24
+http://103.68.28.58:5001/live/2079.m3u8
+#EXTINF:-1 tvg-id=2081 tvg-name="TV27 News" tvg-logo="http://103.68.28.58:5001/jtvimage/TV27_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TV27 News
+http://103.68.28.58:5001/live/2081.m3u8
+#EXTINF:-1 tvg-id=2082 tvg-name="22Scope News" tvg-logo="http://103.68.28.58:5001/jtvimage/22Scope_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", 22Scope News
+http://103.68.28.58:5001/live/2082.m3u8
+#EXTINF:-1 tvg-id=2176 tvg-name="India 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/India24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India 24x7
+http://103.68.28.58:5001/live/2176.m3u8
+#EXTINF:-1 tvg-id=2177 tvg-name="Arya Sandesh TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Arya_Sandesh_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Arya Sandesh TV
+http://103.68.28.58:5001/live/2177.m3u8
+#EXTINF:-1 tvg-id=2183 tvg-name="Q GameX" tvg-logo="http://103.68.28.58:5001/jtvimage/Q_GameX.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", Q GameX
+http://103.68.28.58:5001/live/2183.m3u8
+#EXTINF:-1 tvg-id=2184 tvg-name="U Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/U_Bangla.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", U Bangla
+http://103.68.28.58:5001/live/2184.m3u8
+#EXTINF:-1 tvg-id=2187 tvg-name="Swatantra News" tvg-logo="http://103.68.28.58:5001/jtvimage/Swatantra_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Swatantra News
+http://103.68.28.58:5001/live/2187.m3u8
+#EXTINF:-1 tvg-id=2188 tvg-name="Globe TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Globe_TV.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Globe TV
+http://103.68.28.58:5001/live/2188.m3u8
+#EXTINF:-1 tvg-id=2189 tvg-name="Aaryaa Cinema" tvg-logo="http://103.68.28.58:5001/jtvimage/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Aaryaa Cinema
+http://103.68.28.58:5001/live/2189.m3u8
+#EXTINF:-1 tvg-id=2192 tvg-name="Gurukul" tvg-logo="http://103.68.28.58:5001/jtvimage/Gurukul_Rajkot.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Gurukul
+http://103.68.28.58:5001/live/2192.m3u8
+#EXTINF:-1 tvg-id=2205 tvg-name="Guruvayur Devaswom" tvg-logo="http://103.68.28.58:5001/jtvimage/Guruvayur_Devaswom.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Guruvayur Devaswom
+http://103.68.28.58:5001/live/2205.m3u8
+#EXTINF:-1 tvg-id=2224 tvg-name="India News Punjab" tvg-logo="http://103.68.28.58:5001/jtvimage/India_News_Punjab.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", India News Punjab
+http://103.68.28.58:5001/live/2224.m3u8
+#EXTINF:-1 tvg-id=2225 tvg-name="TV24" tvg-logo="http://103.68.28.58:5001/jtvimage/TV24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TV24
+http://103.68.28.58:5001/live/2225.m3u8
+#EXTINF:-1 tvg-id=2227 tvg-name="Jatra Ekamra" tvg-logo="http://103.68.28.58:5001/jtvimage/Jatra_Ekamra.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Jatra Ekamra
+http://103.68.28.58:5001/live/2227.m3u8
+#EXTINF:-1 tvg-id=2228 tvg-name="Samay Kolkata" tvg-logo="http://103.68.28.58:5001/jtvimage/Samay_Kolkata.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Samay Kolkata
+http://103.68.28.58:5001/live/2228.m3u8
+#EXTINF:-1 tvg-id=2229 tvg-name="Bhojpuri Junction" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhojpuri_Junction.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="🇮🇳 Music", Bhojpuri Junction
+http://103.68.28.58:5001/live/2229.m3u8
+#EXTINF:-1 tvg-id=2230 tvg-name="Jio Specials HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Jio_Specials_HD.png" tvg-language="English" tvg-type="Music" group-title="🇮🇳 Music", Jio Specials HD
+http://103.68.28.58:5001/live/2230.m3u8
+#EXTINF:-1 tvg-id=2233 tvg-name="News 80" tvg-logo="http://103.68.28.58:5001/jtvimage/News80.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 80
+http://103.68.28.58:5001/live/2233.m3u8
+#EXTINF:-1 tvg-id=2252 tvg-name="Desi Music Station" tvg-logo="http://103.68.28.58:5001/jtvimage/Desi_Music_Station.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Desi Music Station
+http://103.68.28.58:5001/live/2252.m3u8
+#EXTINF:-1 tvg-id=2253 tvg-name="Nakshatra Digital TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Nakshatra_Digital_TV.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Nakshatra Digital TV
+http://103.68.28.58:5001/live/2253.m3u8
+#EXTINF:-1 tvg-id=2254 tvg-name="Media9" tvg-logo="http://103.68.28.58:5001/jtvimage/Media9.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Media9
+http://103.68.28.58:5001/live/2254.m3u8
+#EXTINF:-1 tvg-id=2255 tvg-name="Raftaar Samay" tvg-logo="http://103.68.28.58:5001/jtvimage/RRN_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Raftaar Samay
+http://103.68.28.58:5001/live/2255.m3u8
+#EXTINF:-1 tvg-id=2258 tvg-name="Animax" tvg-logo="http://103.68.28.58:5001/jtvimage/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Animax
+http://103.68.28.58:5001/live/2258.m3u8
+#EXTINF:-1 tvg-id=2322 tvg-name="Divyalok TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Divyalok_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Divyalok TV
+http://103.68.28.58:5001/live/2322.m3u8
+#EXTINF:-1 tvg-id=2323 tvg-name="TTN24" tvg-logo="http://103.68.28.58:5001/jtvimage/TTN24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TTN24
+http://103.68.28.58:5001/live/2323.m3u8
+#EXTINF:-1 tvg-id=2325 tvg-name="Punjabi Melodies" tvg-logo="http://103.68.28.58:5001/jtvimage/Punjabi_Melodies.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Punjabi Melodies
+http://103.68.28.58:5001/live/2325.m3u8
+#EXTINF:-1 tvg-id=2326 tvg-name="Firstpost" tvg-logo="http://103.68.28.58:5001/jtvimage/Firstpost.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Firstpost
+http://103.68.28.58:5001/live/2326.m3u8
+#EXTINF:-1 tvg-id=2327 tvg-name="Lionsgate Play" tvg-logo="http://103.68.28.58:5001/jtvimage/Lionsgate_Play.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Lionsgate Play
+http://103.68.28.58:5001/live/2327.m3u8
+#EXTINF:-1 tvg-id=2328 tvg-name="CyberPeace TV" tvg-logo="http://103.68.28.58:5001/jtvimage/CyberPeace_TV.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", CyberPeace TV
+http://103.68.28.58:5001/live/2328.m3u8
+#EXTINF:-1 tvg-id=2351 tvg-name="SRS Bhakti TV" tvg-logo="http://103.68.28.58:5001/jtvimage/SRS_Bhakti_TV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", SRS Bhakti TV
+http://103.68.28.58:5001/live/2351.m3u8
+#EXTINF:-1 tvg-id=2352 tvg-name="Narikaa" tvg-logo="http://103.68.28.58:5001/jtvimage/Narikaa.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", Narikaa
+http://103.68.28.58:5001/live/2352.m3u8
+#EXTINF:-1 tvg-id=2353 tvg-name="Bharat Express" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_Express.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat Express
+http://103.68.28.58:5001/live/2353.m3u8
+#EXTINF:-1 tvg-id=2354 tvg-name="Friends TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Friends_TV.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Friends TV
+http://103.68.28.58:5001/live/2354.m3u8
+#EXTINF:-1 tvg-id=2355 tvg-name="One Paschima" tvg-logo="http://103.68.28.58:5001/jtvimage/One_Paschima.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", One Paschima
+http://103.68.28.58:5001/live/2355.m3u8
+#EXTINF:-1 tvg-id=2423 tvg-name="Vande Bharat News" tvg-logo="http://103.68.28.58:5001/jtvimage/Vande_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Vande Bharat News
+http://103.68.28.58:5001/live/2423.m3u8
+#EXTINF:-1 tvg-id=2424 tvg-name="Sun Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sun Marathi
+http://103.68.28.58:5001/live/2424.m3u8
+#EXTINF:-1 tvg-id=2433 tvg-name="E News79" tvg-logo="http://103.68.28.58:5001/jtvimage/E_News79.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", E News79
+http://103.68.28.58:5001/live/2433.m3u8
+#EXTINF:-1 tvg-id=2434 tvg-name="M Nadu" tvg-logo="http://103.68.28.58:5001/jtvimage/M_Nadu.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", M Nadu
+http://103.68.28.58:5001/live/2434.m3u8
+#EXTINF:-1 tvg-id=2435 tvg-name="Spondon" tvg-logo="http://103.68.28.58:5001/jtvimage/Spondon.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Spondon
+http://103.68.28.58:5001/live/2435.m3u8
+#EXTINF:-1 tvg-id=2436 tvg-name="Prime 9 News" tvg-logo="http://103.68.28.58:5001/jtvimage/Prime_9_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Prime 9 News
+http://103.68.28.58:5001/live/2436.m3u8
+#EXTINF:-1 tvg-id=2437 tvg-name="Wild Earth" tvg-logo="http://103.68.28.58:5001/jtvimage/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Wild Earth
+http://103.68.28.58:5001/live/2437.m3u8
+#EXTINF:-1 tvg-id=2448 tvg-name="Desika daya" tvg-logo="http://103.68.28.58:5001/jtvimage/Desika_daya.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Desika daya
+http://103.68.28.58:5001/live/2448.m3u8
+#EXTINF:-1 tvg-id=2686 tvg-name="Jyothishavartha" tvg-logo="http://103.68.28.58:5001/jtvimage/Jyothishavartha.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jyothishavartha
+http://103.68.28.58:5001/live/2686.m3u8
+#EXTINF:-1 tvg-id=2687 tvg-name="The Book Channel" tvg-logo="http://103.68.28.58:5001/jtvimage/NTBD_Channel.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", The Book Channel
+http://103.68.28.58:5001/live/2687.m3u8
+#EXTINF:-1 tvg-id=2732 tvg-name="Vistara News" tvg-logo="http://103.68.28.58:5001/jtvimage/Vistara_News.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Vistara News
+http://103.68.28.58:5001/live/2732.m3u8
+#EXTINF:-1 tvg-id=2734 tvg-name="Popular TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Popular_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Popular TV
+http://103.68.28.58:5001/live/2734.m3u8
+#EXTINF:-1 tvg-id=2735 tvg-name="Samachar Plus Jharkhand Bihar" tvg-logo="http://103.68.28.58:5001/jtvimage/Samachar_Plus_Jh_Bihar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Samachar Plus Jharkhand Bihar
+http://103.68.28.58:5001/live/2735.m3u8
+#EXTINF:-1 tvg-id=2742 tvg-name="Zee Kannada News" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Kannada_News.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Zee Kannada News
+http://103.68.28.58:5001/live/2742.m3u8
+#EXTINF:-1 tvg-id=2743 tvg-name="Power TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Power_TV.png" tvg-language="Kannada" tvg-type="News" group-title="🇮🇳 News", Power TV
+http://103.68.28.58:5001/live/2743.m3u8
+#EXTINF:-1 tvg-id=2745 tvg-name="Saregama Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Saregama_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="🇮🇳 Music", Saregama Telugu
+http://103.68.28.58:5001/live/2745.m3u8
+#EXTINF:-1 tvg-id=2750 tvg-name="Saga Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Saga_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Saga Music
+http://103.68.28.58:5001/live/2750.m3u8
+#EXTINF:-1 tvg-id=2751 tvg-name="Saga Music Haryanvi" tvg-logo="http://103.68.28.58:5001/jtvimage/Saga_Music_Haryanvi.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Saga Music Haryanvi
+http://103.68.28.58:5001/live/2751.m3u8
+#EXTINF:-1 tvg-id=2752 tvg-name="Ghaint Punjab" tvg-logo="http://103.68.28.58:5001/jtvimage/Ghaint_Punjab.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Ghaint Punjab
+http://103.68.28.58:5001/live/2752.m3u8
+#EXTINF:-1 tvg-id=2753 tvg-name="YRF Music" tvg-logo="http://103.68.28.58:5001/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", YRF Music
+http://103.68.28.58:5001/live/2753.m3u8
+#EXTINF:-1 tvg-id=2754 tvg-name="Sikh Ratnavali" tvg-logo="http://103.68.28.58:5001/jtvimage/Sikh_Ratnavali.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Sikh Ratnavali
+http://103.68.28.58:5001/live/2754.m3u8
+#EXTINF:-1 tvg-id=2755 tvg-name="Saregama Hum Bhojpuri" tvg-logo="http://103.68.28.58:5001/jtvimage/Saregama_Hum_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="🇮🇳 Music", Saregama Hum Bhojpuri
+http://103.68.28.58:5001/live/2755.m3u8
+#EXTINF:-1 tvg-id=2759 tvg-name="DD North East" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_North_East.png" tvg-language="Assamese" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", DD North East
+http://103.68.28.58:5001/live/2759.m3u8
+#EXTINF:-1 tvg-id=2760 tvg-name="My Bharat News" tvg-logo="http://103.68.28.58:5001/jtvimage/My_Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", My Bharat News
+http://103.68.28.58:5001/live/2760.m3u8
+#EXTINF:-1 tvg-id=2764 tvg-name="News State Bihar Jharkhand" tvg-logo="http://103.68.28.58:5001/jtvimage/NewsState_Bihar_JH.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News State Bihar Jharkhand
+http://103.68.28.58:5001/live/2764.m3u8
+#EXTINF:-1 tvg-id=2765 tvg-name="BSTV" tvg-logo="http://103.68.28.58:5001/jtvimage/BSTV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", BSTV
+http://103.68.28.58:5001/live/2765.m3u8
+#EXTINF:-1 tvg-id=2766 tvg-name="BRAVE TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Brave_TV.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", BRAVE TV
+http://103.68.28.58:5001/live/2766.m3u8
+#EXTINF:-1 tvg-id=2767 tvg-name="Sacchi Report" tvg-logo="http://103.68.28.58:5001/jtvimage/Sacchi_Report.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sacchi Report
+http://103.68.28.58:5001/live/2767.m3u8
+#EXTINF:-1 tvg-id=2768 tvg-name="Jothi TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Jothi_TV.png" tvg-language="Tamil" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jothi TV
+http://103.68.28.58:5001/live/2768.m3u8
+#EXTINF:-1 tvg-id=2770 tvg-name="Har Khabar" tvg-logo="http://103.68.28.58:5001/jtvimage/Har_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Har Khabar
+http://103.68.28.58:5001/live/2770.m3u8
+#EXTINF:-1 tvg-id=2771 tvg-name="Sadhna News MP CG" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadhna_News_MP_CG.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sadhna News MP CG
+http://103.68.28.58:5001/live/2771.m3u8
+#EXTINF:-1 tvg-id=2772 tvg-name="India Daily Live" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Daily_Live.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India Daily Live
+http://103.68.28.58:5001/live/2772.m3u8
+#EXTINF:-1 tvg-id=2773 tvg-name="Aaj Ki Khabar" tvg-logo="http://103.68.28.58:5001/jtvimage/Aaj_Ki_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Aaj Ki Khabar
+http://103.68.28.58:5001/live/2773.m3u8
+#EXTINF:-1 tvg-id=2774 tvg-name="Power Kids TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Power_Kids_TV.png" tvg-language="Hindi" tvg-type="Kids" group-title="🇮🇳 Kids", Power Kids TV
+http://103.68.28.58:5001/live/2774.m3u8
+#EXTINF:-1 tvg-id=2775 tvg-name="Grace TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Grace_TV.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", Grace TV
+http://103.68.28.58:5001/live/2775.m3u8
+#EXTINF:-1 tvg-id=2777 tvg-name="Asian News" tvg-logo="http://103.68.28.58:5001/jtvimage/Asian_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Asian News
+http://103.68.28.58:5001/live/2777.m3u8
+#EXTINF:-1 tvg-id=2778 tvg-name="Tabbar Hits" tvg-logo="http://103.68.28.58:5001/jtvimage/Tabbar_Hits.png" tvg-language="Punjabi" tvg-type="Movies" group-title="🇮🇳 Movies", Tabbar Hits
+http://103.68.28.58:5001/live/2778.m3u8
+#EXTINF:-1 tvg-id=2779 tvg-name="Red Bull TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Red Bull TV
+http://103.68.28.58:5001/live/2779.m3u8
+#EXTINF:-1 tvg-id=2780 tvg-name="R Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/R_Bangla.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", R Bangla
+http://103.68.28.58:5001/live/2780.m3u8
+#EXTINF:-1 tvg-id=2781 tvg-name="CENTA TV" tvg-logo="http://103.68.28.58:5001/jtvimage/CENTA_TV.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", CENTA TV
+http://103.68.28.58:5001/live/2781.m3u8
+#EXTINF:-1 tvg-id=2782 tvg-name="ABC Australia" tvg-logo="http://103.68.28.58:5001/jtvimage/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", ABC Australia
+http://103.68.28.58:5001/live/2782.m3u8
+#EXTINF:-1 tvg-id=2783 tvg-name="Big TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Big_TV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Big TV
+http://103.68.28.58:5001/live/2783.m3u8
+#EXTINF:-1 tvg-id=2784 tvg-name="ISKCON Bangalore" tvg-logo="http://103.68.28.58:5001/jtvimage/ISKCON_Bangalore.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", ISKCON Bangalore
+http://103.68.28.58:5001/live/2784.m3u8
+#EXTINF:-1 tvg-id=2817 tvg-name="Boogle Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Boogle_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Boogle Bangla
+http://103.68.28.58:5001/live/2817.m3u8
+#EXTINF:-1 tvg-id=2827 tvg-name="Headline News" tvg-logo="http://103.68.28.58:5001/jtvimage/Headline_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Headline News
+http://103.68.28.58:5001/live/2827.m3u8
+#EXTINF:-1 tvg-id=2851 tvg-name="IN24 Live" tvg-logo="http://103.68.28.58:5001/jtvimage/IN24_Live.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", IN24 Live
+http://103.68.28.58:5001/live/2851.m3u8
+#EXTINF:-1 tvg-id=2852 tvg-name="Sports18 2" tvg-logo="http://103.68.28.58:5001/jtvimage/Sports18_2.png" tvg-language="Hindi" tvg-type="Sports" group-title="🇮🇳 Sports", Sports18 2
+http://103.68.28.58:5001/live/2852.m3u8
+#EXTINF:-1 tvg-id=2853 tvg-name="Sports18 3" tvg-logo="http://103.68.28.58:5001/jtvimage/Sports18_3.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Sports18 3
+http://103.68.28.58:5001/live/2853.m3u8
+#EXTINF:-1 tvg-id=2854 tvg-name="KCM" tvg-logo="http://103.68.28.58:5001/jtvimage/KCM.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", KCM
+http://103.68.28.58:5001/live/2854.m3u8
+#EXTINF:-1 tvg-id=2860 tvg-name="ICMAI-Delhi" tvg-logo="http://103.68.28.58:5001/jtvimage/ICAI.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", ICMAI-Delhi
+http://103.68.28.58:5001/live/2860.m3u8
+#EXTINF:-1 tvg-id=2862 tvg-name="Mahaa News" tvg-logo="http://103.68.28.58:5001/jtvimage/Mahaa_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Mahaa News
+http://103.68.28.58:5001/live/2862.m3u8
+#EXTINF:-1 tvg-id=2914 tvg-name="BHI Channel" tvg-logo="http://103.68.28.58:5001/jtvimage/BHI_Channel.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", BHI Channel
+http://103.68.28.58:5001/live/2914.m3u8
+#EXTINF:-1 tvg-id=2916 tvg-name="Daily Post PHH" tvg-logo="http://103.68.28.58:5001/jtvimage/Daily_Post_PHH.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", Daily Post PHH
+http://103.68.28.58:5001/live/2916.m3u8
+#EXTINF:-1 tvg-id=2917 tvg-name="Sadhna Gold" tvg-logo="http://103.68.28.58:5001/jtvimage/Sadhna_Gold.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sadhna Gold
+http://103.68.28.58:5001/live/2917.m3u8
+#EXTINF:-1 tvg-id=2918 tvg-name="WPN World Punjabi News" tvg-logo="http://103.68.28.58:5001/jtvimage/WPN_World_Punjabi_News.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", WPN World Punjabi News
+http://103.68.28.58:5001/live/2918.m3u8
+#EXTINF:-1 tvg-id=2932 tvg-name="99 TV" tvg-logo="http://103.68.28.58:5001/jtvimage/99TV.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", 99 TV
+http://103.68.28.58:5001/live/2932.m3u8
+#EXTINF:-1 tvg-id=2933 tvg-name="NK TV Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/NKTV_Bangla.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", NK TV Bangla
+http://103.68.28.58:5001/live/2933.m3u8
+#EXTINF:-1 tvg-id=2934 tvg-name="Punjabi Hits" tvg-logo="http://103.68.28.58:5001/jtvimage/Punjabi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="🇮🇳 Music", Punjabi Hits
+http://103.68.28.58:5001/live/2934.m3u8
+#EXTINF:-1 tvg-id=2935 tvg-name="Pudhari News" tvg-logo="http://103.68.28.58:5001/jtvimage/Pudhari_News.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Pudhari News
+http://103.68.28.58:5001/live/2935.m3u8
+#EXTINF:-1 tvg-id=2936 tvg-name="Oye Music" tvg-logo="http://103.68.28.58:5001/jtvimage/Oye_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Oye Music
+http://103.68.28.58:5001/live/2936.m3u8
+#EXTINF:-1 tvg-id=2937 tvg-name="Update India" tvg-logo="http://103.68.28.58:5001/jtvimage/Update_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Update India
+http://103.68.28.58:5001/live/2937.m3u8
+#EXTINF:-1 tvg-id=2938 tvg-name="Haryana Buzz" tvg-logo="http://103.68.28.58:5001/jtvimage/Haryana_Buzz.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Haryana Buzz
+http://103.68.28.58:5001/live/2938.m3u8
+#EXTINF:-1 tvg-id=2945 tvg-name="Tar TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Tar_TV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Tar TV
+http://103.68.28.58:5001/live/2945.m3u8
+#EXTINF:-1 tvg-id=2946 tvg-name="National News" tvg-logo="http://103.68.28.58:5001/jtvimage/National_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", National News
+http://103.68.28.58:5001/live/2946.m3u8
+#EXTINF:-1 tvg-id=2947 tvg-name="Jeewan Bhakti" tvg-logo="http://103.68.28.58:5001/jtvimage/Jeewan_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jeewan Bhakti
+http://103.68.28.58:5001/live/2947.m3u8
+#EXTINF:-1 tvg-id=2953 tvg-name="Enrich TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Enrich_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Enrich TV
+http://103.68.28.58:5001/live/2953.m3u8
+#EXTINF:-1 tvg-id=2954 tvg-name="TV45" tvg-logo="http://103.68.28.58:5001/jtvimage/TV45.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TV45
+http://103.68.28.58:5001/live/2954.m3u8
+#EXTINF:-1 tvg-id=2956 tvg-name="ETV Plus HD" tvg-logo="http://103.68.28.58:5001/jtvimage/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", ETV Plus HD
+http://103.68.28.58:5001/live/2956.m3u8
+#EXTINF:-1 tvg-id=2957 tvg-name="Public First" tvg-logo="http://103.68.28.58:5001/jtvimage/Public_First.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Public First
+http://103.68.28.58:5001/live/2957.m3u8
+#EXTINF:-1 tvg-id=2958 tvg-name="Tamilan Television" tvg-logo="http://103.68.28.58:5001/jtvimage/Tamilan_Television.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Tamilan Television
+http://103.68.28.58:5001/live/2958.m3u8
+#EXTINF:-1 tvg-id=2959 tvg-name="Janta Darbar News" tvg-logo="http://103.68.28.58:5001/jtvimage/Janta_Darbar_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Janta Darbar News
+http://103.68.28.58:5001/live/2959.m3u8
+#EXTINF:-1 tvg-id=2961 tvg-name="Current Trend Assam" tvg-logo="http://103.68.28.58:5001/jtvimage/Current_Trend_Assam.png" tvg-language="Assamese" tvg-type="News" group-title="🇮🇳 News", Current Trend Assam
+http://103.68.28.58:5001/live/2961.m3u8
+#EXTINF:-1 tvg-id=2962 tvg-name="NoFilterNeha" tvg-logo="http://103.68.28.58:5001/jtvimage/No_Filter_Neha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", NoFilterNeha
+http://103.68.28.58:5001/live/2962.m3u8
+#EXTINF:-1 tvg-id=3004 tvg-name="Velicham Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Velicham_Tv.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Velicham Tv
+http://103.68.28.58:5001/live/3004.m3u8
+#EXTINF:-1 tvg-id=3005 tvg-name="Rupashi Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Rupashi_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Rupashi Bangla
+http://103.68.28.58:5001/live/3005.m3u8
+#EXTINF:-1 tvg-id=3006 tvg-name="Dhoom Music Bangla" tvg-logo="http://103.68.28.58:5001/jtvimage/Dhoom_Music_Bangla.png" tvg-language="Bengali" tvg-type="Music" group-title="🇮🇳 Music", Dhoom Music Bangla
+http://103.68.28.58:5001/live/3006.m3u8
+#EXTINF:-1 tvg-id=3007 tvg-name="AMV" tvg-logo="http://103.68.28.58:5001/jtvimage/AMV.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", AMV
+http://103.68.28.58:5001/live/3007.m3u8
+#EXTINF:-1 tvg-id=3008 tvg-name="Maya Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Maya_Tv.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Maya Tv
+http://103.68.28.58:5001/live/3008.m3u8
+#EXTINF:-1 tvg-id=3009 tvg-name="India Now" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Now.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", India Now
+http://103.68.28.58:5001/live/3009.m3u8
+#EXTINF:-1 tvg-id=3011 tvg-name="Lancs TV HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Lancs_TV_HD.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", Lancs TV HD
+http://103.68.28.58:5001/live/3011.m3u8
+#EXTINF:-1 tvg-id=3014 tvg-name="IPN News" tvg-logo="http://103.68.28.58:5001/jtvimage/IPN_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", IPN News
+http://103.68.28.58:5001/live/3014.m3u8
+#EXTINF:-1 tvg-id=3016 tvg-name="TNI24" tvg-logo="http://103.68.28.58:5001/jtvimage/TNI24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TNI24
+http://103.68.28.58:5001/live/3016.m3u8
+#EXTINF:-1 tvg-id=3017 tvg-name="News Hour" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Hour.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News Hour
+http://103.68.28.58:5001/live/3017.m3u8
+#EXTINF:-1 tvg-id=3018 tvg-name="News 360" tvg-logo="http://103.68.28.58:5001/jtvimage/News_360.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", News 360
+http://103.68.28.58:5001/live/3018.m3u8
+#EXTINF:-1 tvg-id=3019 tvg-name="Bangla Jago" tvg-logo="http://103.68.28.58:5001/jtvimage/Bangla_Jago.png" tvg-language="Bengali" tvg-type="News" group-title="🇮🇳 News", Bangla Jago
+http://103.68.28.58:5001/live/3019.m3u8
+#EXTINF:-1 tvg-id=3021 tvg-name="RC Studio" tvg-logo="http://103.68.28.58:5001/jtvimage/RC_Studio.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", RC Studio
+http://103.68.28.58:5001/live/3021.m3u8
+#EXTINF:-1 tvg-id=3022 tvg-name="Unique Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Unique_Tv.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Unique Tv
+http://103.68.28.58:5001/live/3022.m3u8
+#EXTINF:-1 tvg-id=3023 tvg-name="Janadesh News" tvg-logo="http://103.68.28.58:5001/jtvimage/Janadesh_News.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Janadesh News
+http://103.68.28.58:5001/live/3023.m3u8
+#EXTINF:-1 tvg-id=3024 tvg-name="India TV Yoga Channel" tvg-logo="http://103.68.28.58:5001/jtvimage/IndiaTV_Yoga.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India TV Yoga Channel
+http://103.68.28.58:5001/live/3024.m3u8
+#EXTINF:-1 tvg-id=3025 tvg-name="India TV Aap Ki Adalat" tvg-logo="http://103.68.28.58:5001/jtvimage/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India TV Aap Ki Adalat
+http://103.68.28.58:5001/live/3025.m3u8
+#EXTINF:-1 tvg-id=3026 tvg-name="India TV Speed News" tvg-logo="http://103.68.28.58:5001/jtvimage/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India TV Speed News
+http://103.68.28.58:5001/live/3026.m3u8
+#EXTINF:-1 tvg-id=3027 tvg-name="Desh News" tvg-logo="http://103.68.28.58:5001/jtvimage/Desh_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Desh News
+http://103.68.28.58:5001/live/3027.m3u8
+#EXTINF:-1 tvg-id=3028 tvg-name="BH OTT India Fest" tvg-logo="http://103.68.28.58:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", BH OTT India Fest
+http://103.68.28.58:5001/live/3028.m3u8
+#EXTINF:-1 tvg-id=3029 tvg-name="Bollywood Masala" tvg-logo="http://103.68.28.58:5001/jtvimage/bollywoodmasala.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Bollywood Masala
+http://103.68.28.58:5001/live/3029.m3u8
+#EXTINF:-1 tvg-id=3031 tvg-name="Zee Telugu News" tvg-logo="http://103.68.28.58:5001/jtvimage/Zee_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="🇮🇳 News", Zee Telugu News
+http://103.68.28.58:5001/live/3031.m3u8
+#EXTINF:-1 tvg-id=3037 tvg-name="Kalyan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kalyan_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Kalyan TV
+http://103.68.28.58:5001/live/3037.m3u8
+#EXTINF:-1 tvg-id=3038 tvg-name="Amritwani TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Amritwani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Amritwani TV
+http://103.68.28.58:5001/live/3038.m3u8
+#EXTINF:-1 tvg-id=3039 tvg-name="Garvi Gujarat" tvg-logo="http://103.68.28.58:5001/jtvimage/Garvi_Gujarat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Garvi Gujarat
+http://103.68.28.58:5001/live/3039.m3u8
+#EXTINF:-1 tvg-id=3041 tvg-name="Bharat TV24" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_TV24.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat TV24
+http://103.68.28.58:5001/live/3041.m3u8
+#EXTINF:-1 tvg-id=3042 tvg-name="News 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News 24x7
+http://103.68.28.58:5001/live/3042.m3u8
+#EXTINF:-1 tvg-id=3043 tvg-name="Prime Asia HD" tvg-logo="http://103.68.28.58:5001/jtvimage/Prime_Asia_HD.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", Prime Asia HD
+http://103.68.28.58:5001/live/3043.m3u8
+#EXTINF:-1 tvg-id=3044 tvg-name="Gramin Drishti" tvg-logo="http://103.68.28.58:5001/jtvimage/Gramin_Drishti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Gramin Drishti
+http://103.68.28.58:5001/live/3044.m3u8
+#EXTINF:-1 tvg-id=3045 tvg-name="Tamil Janam" tvg-logo="http://103.68.28.58:5001/jtvimage/Janam_Tamil.png" tvg-language="Tamil" tvg-type="News" group-title="🇮🇳 News", Tamil Janam
+http://103.68.28.58:5001/live/3045.m3u8
+#EXTINF:-1 tvg-id=3048 tvg-name="BVG" tvg-logo="http://103.68.28.58:5001/jtvimage/BVG.png" tvg-language="Hindi" tvg-type="Educational" group-title="🇮🇳 Educational", BVG
+http://103.68.28.58:5001/live/3048.m3u8
+#EXTINF:-1 tvg-id=3049 tvg-name="TNI Awaaz" tvg-logo="http://103.68.28.58:5001/jtvimage/TNI_Awaaz.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TNI Awaaz
+http://103.68.28.58:5001/live/3049.m3u8
+#EXTINF:-1 tvg-id=3050 tvg-name="Indian News" tvg-logo="http://103.68.28.58:5001/jtvimage/Indian_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Indian News
+http://103.68.28.58:5001/live/3050.m3u8
+#EXTINF:-1 tvg-id=3052 tvg-name="Shresth Bharat" tvg-logo="http://103.68.28.58:5001/jtvimage/Shresth_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Shresth Bharat
+http://103.68.28.58:5001/live/3052.m3u8
+#EXTINF:-1 tvg-id=3053 tvg-name="TNP News" tvg-logo="http://103.68.28.58:5001/jtvimage/TNP_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", TNP News
+http://103.68.28.58:5001/live/3053.m3u8
+#EXTINF:-1 tvg-id=3054 tvg-name="RDC Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/rdcmovies.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", RDC Movies
+http://103.68.28.58:5001/live/3054.m3u8
+#EXTINF:-1 tvg-id=3055 tvg-name="Q Toonz" tvg-logo="http://103.68.28.58:5001/jtvimage/qtoonz.png" tvg-language="English" tvg-type="Kids" group-title="🇮🇳 Kids", Q Toonz
+http://103.68.28.58:5001/live/3055.m3u8
+#EXTINF:-1 tvg-id=3058 tvg-name="News Capital Gujarat" tvg-logo="http://103.68.28.58:5001/jtvimage/NewsCapital_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", News Capital Gujarat
+http://103.68.28.58:5001/live/3058.m3u8
+#EXTINF:-1 tvg-id=3059 tvg-name="Thanthi One" tvg-logo="http://103.68.28.58:5001/jtvimage/Thanti_One.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Thanthi One
+http://103.68.28.58:5001/live/3059.m3u8
+#EXTINF:-1 tvg-id=3060 tvg-name="Hiff Movies" tvg-logo="http://103.68.28.58:5001/jtvimage/Hiff_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Hiff Movies
+http://103.68.28.58:5001/live/3060.m3u8
+#EXTINF:-1 tvg-id=3061 tvg-name="Desi Tashan TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Desi_Tashan_TV.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Desi Tashan TV
+http://103.68.28.58:5001/live/3061.m3u8
+#EXTINF:-1 tvg-id=3062 tvg-name="Haryana Tashan Music" tvg-logo="http://103.68.28.58:5001/jtvimage/HR_Tashan_Music.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Haryana Tashan Music
+http://103.68.28.58:5001/live/3062.m3u8
+#EXTINF:-1 tvg-id=3063 tvg-name="PR News" tvg-logo="http://103.68.28.58:5001/jtvimage/PR_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", PR News
+http://103.68.28.58:5001/live/3063.m3u8
+#EXTINF:-1 tvg-id=3064 tvg-name="Navsarjan Sanskruti News" tvg-logo="http://103.68.28.58:5001/jtvimage/Nav_Sanskruti_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Navsarjan Sanskruti News
+http://103.68.28.58:5001/live/3064.m3u8
+#EXTINF:-1 tvg-id=3065 tvg-name="Bharat Nation" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat Nation
+http://103.68.28.58:5001/live/3065.m3u8
+#EXTINF:-1 tvg-id=3066 tvg-name="Today 24 News UPUK" tvg-logo="http://103.68.28.58:5001/jtvimage/Today_TV24_UPUK.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Today 24 News UPUK
+http://103.68.28.58:5001/live/3066.m3u8
+#EXTINF:-1 tvg-id=3067 tvg-name="India Superfast" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Superfast.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India Superfast
+http://103.68.28.58:5001/live/3067.m3u8
+#EXTINF:-1 tvg-id=3068 tvg-name="Bharat Update" tvg-logo="http://103.68.28.58:5001/jtvimage/Bharat_Update.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Bharat Update
+http://103.68.28.58:5001/live/3068.m3u8
+#EXTINF:-1 tvg-id=3069 tvg-name="Raapchik" tvg-logo="http://103.68.28.58:5001/jtvimage/Raapchik.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Raapchik
+http://103.68.28.58:5001/live/3069.m3u8
+#EXTINF:-1 tvg-id=3070 tvg-name="Vistaar News" tvg-logo="http://103.68.28.58:5001/jtvimage/Vistaar_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Vistaar News
+http://103.68.28.58:5001/live/3070.m3u8
+#EXTINF:-1 tvg-id=3071 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://103.68.28.58:5001/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", TV Asia Powered by Shemaroo
+http://103.68.28.58:5001/live/3071.m3u8
+#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Shree_Jagannath_TV.png" tvg-language="Odia" tvg-type="Devotional" group-title="🇮🇳 Devotional", Shree Jagannath TV
+http://103.68.28.58:5001/live/3072.m3u8
+#EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Manoranjan.png" tvg-language="Odia" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Ekamra Manoranjan
+http://103.68.28.58:5001/live/3073.m3u8
+#EXTINF:-1 tvg-id=3074 tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://103.68.28.58:5001/jtvimage/shemaroofilmigaane.png" tvg-language="Hindi" tvg-type="Music" group-title="🇮🇳 Music", Shemaroo Filmy Gaane
+http://103.68.28.58:5001/live/3074.m3u8
+#EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://103.68.28.58:5001/jtvimage/shemaroobollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="🇮🇳 Movies", Shemaroo Bollywood
+http://103.68.28.58:5001/live/3075.m3u8
+#EXTINF:-1 tvg-id=3076 tvg-name="India Prime News" tvg-logo="http://103.68.28.58:5001/jtvimage/India_Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India Prime News
+http://103.68.28.58:5001/live/3076.m3u8
+#EXTINF:-1 tvg-id=3083 tvg-name="Sundrani TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Sundrani_TV.png" tvg-language="" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sundrani TV
+http://103.68.28.58:5001/live/3083.m3u8
+#EXTINF:-1 tvg-id=3084 tvg-name="Taiwan Plus" tvg-logo="http://103.68.28.58:5001/jtvimage/Taiwan_Plus.png" tvg-language="English" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Taiwan Plus
+http://103.68.28.58:5001/live/3084.m3u8
+#EXTINF:-1 tvg-id=3085 tvg-name="SACH BEDHADAK" tvg-logo="http://103.68.28.58:5001/jtvimage/Sach_Bedhadak.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", SACH BEDHADAK
+http://103.68.28.58:5001/live/3085.m3u8
+#EXTINF:-1 tvg-id=3086 tvg-name="Naxatra News Hindi" tvg-logo="http://103.68.28.58:5001/jtvimage/Naxatra_News_Hindi.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Naxatra News Hindi
+http://103.68.28.58:5001/live/3086.m3u8
+#EXTINF:-1 tvg-id=3087 tvg-name="Sai TV Telugu" tvg-logo="http://103.68.28.58:5001/jtvimage/Sai_TV_Telugu.png" tvg-language="Telugu" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sai TV Telugu
+http://103.68.28.58:5001/live/3087.m3u8
+#EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="http://103.68.28.58:5001/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Sun Neo HD
+http://103.68.28.58:5001/live/3088.m3u8
+#EXTINF:-1 tvg-id=3089 tvg-name="Sangam TV" tvg-logo="http://103.68.28.58:5001/jtvimage/sangamtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sangam TV
+http://103.68.28.58:5001/live/3089.m3u8
+#EXTINF:-1 tvg-id=3090 tvg-name="KBC News" tvg-logo="http://103.68.28.58:5001/jtvimage/KBC_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", KBC News
+http://103.68.28.58:5001/live/3090.m3u8
+#EXTINF:-1 tvg-id=3095 tvg-name="NDTV Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", NDTV Marathi
+http://103.68.28.58:5001/live/3095.m3u8
+#EXTINF:-1 tvg-id=3103 tvg-name="News UNI" tvg-logo="http://103.68.28.58:5001/jtvimage/News_UNI.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News UNI
+http://103.68.28.58:5001/live/3103.m3u8
+#EXTINF:-1 tvg-id=3104 tvg-name="Smriti Patra TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Smriti_Patra.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Smriti Patra TV
+http://103.68.28.58:5001/live/3104.m3u8
+#EXTINF:-1 tvg-id=3105 tvg-name="National Tv India" tvg-logo="http://103.68.28.58:5001/jtvimage/National_Tv_India.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", National Tv India
+http://103.68.28.58:5001/live/3105.m3u8
+#EXTINF:-1 tvg-id=3107 tvg-name="Bhakthi Siri" tvg-logo="http://103.68.28.58:5001/jtvimage/Bhakthi_Siri.png" tvg-language="Kannada" tvg-type="Devotional" group-title="🇮🇳 Devotional", Bhakthi Siri
+http://103.68.28.58:5001/live/3107.m3u8
+#EXTINF:-1 tvg-id=3108 tvg-name="Garvi Gujarat Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/Garvi_Gujarat_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Garvi Gujarat Gujarati
+http://103.68.28.58:5001/live/3108.m3u8
+#EXTINF:-1 tvg-id=3109 tvg-name="NKTV Live" tvg-logo="http://103.68.28.58:5001/jtvimage/NKTV_Live.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", NKTV Live
+http://103.68.28.58:5001/live/3109.m3u8
+#EXTINF:-1 tvg-id=3110 tvg-name="SB News 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/SB_News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", SB News 24x7
+http://103.68.28.58:5001/live/3110.m3u8
+#EXTINF:-1 tvg-id=3111 tvg-name="ATV India News" tvg-logo="http://103.68.28.58:5001/jtvimage/ATV_INDIA_NEWS.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", ATV India News
+http://103.68.28.58:5001/live/3111.m3u8
+#EXTINF:-1 tvg-id=3112 tvg-name="Sanmarg Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Sanmarg_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="🇮🇳 Devotional", Sanmarg Tv
+http://103.68.28.58:5001/live/3112.m3u8
+#EXTINF:-1 tvg-id=3113 tvg-name="Jk Samachar News 24x7" tvg-logo="http://103.68.28.58:5001/jtvimage/Jk_Samachar_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Jk Samachar News 24x7
+http://103.68.28.58:5001/live/3113.m3u8
+#EXTINF:-1 tvg-id=3114 tvg-name="VST India News" tvg-logo="http://103.68.28.58:5001/jtvimage/VST_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", VST India News
+http://103.68.28.58:5001/live/3114.m3u8
+#EXTINF:-1 tvg-id=3115 tvg-name="Jay Jagannath" tvg-logo="http://103.68.28.58:5001/jtvimage/Jay_Jagannath.png" tvg-language="Odia" tvg-type="Devotional" group-title="🇮🇳 Devotional", Jay Jagannath
+http://103.68.28.58:5001/live/3115.m3u8
+#EXTINF:-1 tvg-id=3116 tvg-name="DKP News" tvg-logo="http://103.68.28.58:5001/jtvimage/DKP_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", DKP News
+http://103.68.28.58:5001/live/3116.m3u8
+#EXTINF:-1 tvg-id=3117 tvg-name="Rajya 24 News" tvg-logo="http://103.68.28.58:5001/jtvimage/Rajya_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Rajya 24 News
+http://103.68.28.58:5001/live/3117.m3u8
+#EXTINF:-1 tvg-id=3118 tvg-name="DD Swayam Prabha 23" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_23.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 23
+http://103.68.28.58:5001/live/3118.m3u8
+#EXTINF:-1 tvg-id=3119 tvg-name="DD Swayam Prabha 24" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_24.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 24
+http://103.68.28.58:5001/live/3119.m3u8
+#EXTINF:-1 tvg-id=3120 tvg-name="DD Swayam Prabha 25" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_25.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 25
+http://103.68.28.58:5001/live/3120.m3u8
+#EXTINF:-1 tvg-id=3121 tvg-name="DD Swayam Prabha 26" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_26.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 26
+http://103.68.28.58:5001/live/3121.m3u8
+#EXTINF:-1 tvg-id=3122 tvg-name="DD Swayam Prabha 27" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_27.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 27
+http://103.68.28.58:5001/live/3122.m3u8
+#EXTINF:-1 tvg-id=3123 tvg-name="DD Swayam Prabha 28" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_28.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 28
+http://103.68.28.58:5001/live/3123.m3u8
+#EXTINF:-1 tvg-id=3124 tvg-name="DD Swayam Prabha 29" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_29.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 29
+http://103.68.28.58:5001/live/3124.m3u8
+#EXTINF:-1 tvg-id=3125 tvg-name="DD Swayam Prabha 30" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_30.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 30
+http://103.68.28.58:5001/live/3125.m3u8
+#EXTINF:-1 tvg-id=3126 tvg-name="DD Swayam Prabha 31" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_31.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 31
+http://103.68.28.58:5001/live/3126.m3u8
+#EXTINF:-1 tvg-id=3127 tvg-name="DD Swayam Prabha 32" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_32.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 32
+http://103.68.28.58:5001/live/3127.m3u8
+#EXTINF:-1 tvg-id=3128 tvg-name="DD Swayam Prabha 33" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_33.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 33
+http://103.68.28.58:5001/live/3128.m3u8
+#EXTINF:-1 tvg-id=3129 tvg-name="DD Swayam Prabha 34" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_34.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 34
+http://103.68.28.58:5001/live/3129.m3u8
+#EXTINF:-1 tvg-id=3130 tvg-name="DD Swayam Prabha 35" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_35.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 35
+http://103.68.28.58:5001/live/3130.m3u8
+#EXTINF:-1 tvg-id=3131 tvg-name="DD Swayam Prabha 36" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_36.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 36
+http://103.68.28.58:5001/live/3131.m3u8
+#EXTINF:-1 tvg-id=3132 tvg-name="DD Swayam Prabha 37" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_37.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 37
+http://103.68.28.58:5001/live/3132.m3u8
+#EXTINF:-1 tvg-id=3133 tvg-name="DD Swayam Prabha 38" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_38.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 38
+http://103.68.28.58:5001/live/3133.m3u8
+#EXTINF:-1 tvg-id=3134 tvg-name="DD Swayam Prabha 39" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_39.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 39
+http://103.68.28.58:5001/live/3134.m3u8
+#EXTINF:-1 tvg-id=3135 tvg-name="DD Swayam Prabha 40" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SWAYAM_PRABHA_40.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Swayam Prabha 40
+http://103.68.28.58:5001/live/3135.m3u8
+#EXTINF:-1 tvg-id=3136 tvg-name="DD Sathee 1" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_1.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 1
+http://103.68.28.58:5001/live/3136.m3u8
+#EXTINF:-1 tvg-id=3137 tvg-name="DD Sathee 2" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_2.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 2
+http://103.68.28.58:5001/live/3137.m3u8
+#EXTINF:-1 tvg-id=3138 tvg-name="DD Sathee 3" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_3.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 3
+http://103.68.28.58:5001/live/3138.m3u8
+#EXTINF:-1 tvg-id=3139 tvg-name="DD Sathee 4" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_4.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 4
+http://103.68.28.58:5001/live/3139.m3u8
+#EXTINF:-1 tvg-id=3140 tvg-name="DD Sathee 5" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_5.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 5
+http://103.68.28.58:5001/live/3140.m3u8
+#EXTINF:-1 tvg-id=3141 tvg-name="DD Sathee 6" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_6.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 6
+http://103.68.28.58:5001/live/3141.m3u8
+#EXTINF:-1 tvg-id=3142 tvg-name="DD Sathee 7" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_7.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 7
+http://103.68.28.58:5001/live/3142.m3u8
+#EXTINF:-1 tvg-id=3143 tvg-name="Mahaa Max" tvg-logo="http://103.68.28.58:5001/jtvimage/Mahaa_Max.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Mahaa Max
+http://103.68.28.58:5001/live/3143.m3u8
+#EXTINF:-1 tvg-id=3144 tvg-name="Navsarjan Sanskruti Gujarati" tvg-logo="http://103.68.28.58:5001/jtvimage/Navsarjan_Sanskruti_Guj.png" tvg-language="Gujarati" tvg-type="News" group-title="🇮🇳 News", Navsarjan Sanskruti Gujarati
+http://103.68.28.58:5001/live/3144.m3u8
+#EXTINF:-1 tvg-id=3145 tvg-name="DD Sathee 8" tvg-logo="http://103.68.28.58:5001/jtvimage/DD_SATHEE_8.png" tvg-language="English" tvg-type="Educational" group-title="🇮🇳 Educational", DD Sathee 8
+http://103.68.28.58:5001/live/3145.m3u8
+#EXTINF:-1 tvg-id=3146 tvg-name="All Women's Sports Network" tvg-logo="http://103.68.28.58:5001/jtvimage/AWSN.png" tvg-language="English" tvg-type="Sports" group-title="🇮🇳 Sports", All Women's Sports Network
+http://103.68.28.58:5001/live/3146.m3u8
+#EXTINF:-1 tvg-id=3148 tvg-name="Live India News 24" tvg-logo="http://103.68.28.58:5001/jtvimage/Live_India_News_24.png" tvg-language="Punjabi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Live India News 24
+http://103.68.28.58:5001/live/3148.m3u8
+#EXTINF:-1 tvg-id=3149 tvg-name="City Music" tvg-logo="http://103.68.28.58:5001/jtvimage/City_Music.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="🇮🇳 Music", City Music
+http://103.68.28.58:5001/live/3149.m3u8
+#EXTINF:-1 tvg-id=3150 tvg-name="Ekamra Bharat Rastriya" tvg-logo="http://103.68.28.58:5001/jtvimage/Ekamra_Bharat_Rastriya.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="🇮🇳 Infotainment", Ekamra Bharat Rastriya
+http://103.68.28.58:5001/live/3150.m3u8
+#EXTINF:-1 tvg-id=3151 tvg-name="RKMM TV" tvg-logo="http://103.68.28.58:5001/jtvimage/RKMM_TV.png" tvg-language="English" tvg-type="Devotional" group-title="🇮🇳 Devotional", RKMM TV
+http://103.68.28.58:5001/live/3151.m3u8
+#EXTINF:-1 tvg-id=3152 tvg-name="News State Punjab Haryana Himachal" tvg-logo="http://103.68.28.58:5001/jtvimage/News_State_PB_HR_HM.png" tvg-language="Punjabi" tvg-type="News" group-title="🇮🇳 News", News State Punjab Haryana Himachal
+http://103.68.28.58:5001/live/3152.m3u8
+#EXTINF:-1 tvg-id=3153 tvg-name="Kathaamrut TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Kathaamrut_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="🇮🇳 Devotional", Kathaamrut TV
+http://103.68.28.58:5001/live/3153.m3u8
+#EXTINF:-1 tvg-id=3154 tvg-name="Bloomberg Originals" tvg-logo="http://103.68.28.58:5001/jtvimage/Bloomberg_Originals.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Bloomberg Originals
+http://103.68.28.58:5001/live/3154.m3u8
+#EXTINF:-1 tvg-id=3155 tvg-name="Bloomberg TV+" tvg-logo="http://103.68.28.58:5001/jtvimage/Bloomberg_TV.png" tvg-language="English" tvg-type="News" group-title="🇮🇳 News", Bloomberg TV+
+http://103.68.28.58:5001/live/3155.m3u8
+#EXTINF:-1 tvg-id=3156 tvg-name="Best of Aahat" tvg-logo="http://103.68.28.58:5001/jtvimage/Best_of_Aahat.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Best of Aahat
+http://103.68.28.58:5001/live/3156.m3u8
+#EXTINF:-1 tvg-id=3157 tvg-name="Best of CID" tvg-logo="http://103.68.28.58:5001/jtvimage/Best_of_CID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Best of CID
+http://103.68.28.58:5001/live/3157.m3u8
+#EXTINF:-1 tvg-id=3158 tvg-name="Best of Kapil Sharma" tvg-logo="http://103.68.28.58:5001/jtvimage/Best_of_Kapil_Sharma.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Best of Kapil Sharma
+http://103.68.28.58:5001/live/3158.m3u8
+#EXTINF:-1 tvg-id=3159 tvg-name="Pehla Pyaar - Less Than 1 Percent Chance" tvg-logo="http://103.68.28.58:5001/jtvimage/Pehla_Pyaar_LessThan_1PercentChance.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Pehla Pyaar - Less Than 1 Percent Chance
+http://103.68.28.58:5001/live/3159.m3u8
+#EXTINF:-1 tvg-id=3160 tvg-name="News Book" tvg-logo="http://103.68.28.58:5001/jtvimage/News_Book.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", News Book
+http://103.68.28.58:5001/live/3160.m3u8
+#EXTINF:-1 tvg-id=3161 tvg-name="News 8 Odia" tvg-logo="http://103.68.28.58:5001/jtvimage/News_8_Odia.png" tvg-language="Odia" tvg-type="News" group-title="🇮🇳 News", News 8 Odia
+http://103.68.28.58:5001/live/3161.m3u8
+#EXTINF:-1 tvg-id=3162 tvg-name="Prabhu Vani Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Prabhu_Vani_Tv.png" tvg-language="Hindi" tvg-type="" group-title="🇮🇳 ", Prabhu Vani Tv
+http://103.68.28.58:5001/live/3162.m3u8
+#EXTINF:-1 tvg-id=3163 tvg-name="Khabar 24x7 News" tvg-logo="http://103.68.28.58:5001/jtvimage/Khabar_24x7_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Khabar 24x7 News
+http://103.68.28.58:5001/live/3163.m3u8
+#EXTINF:-1 tvg-id=3164 tvg-name="Shri News" tvg-logo="http://103.68.28.58:5001/jtvimage/Shri_News.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Shri News
+http://103.68.28.58:5001/live/3164.m3u8
+#EXTINF:-1 tvg-id=3166 tvg-name="Live Times" tvg-logo="http://103.68.28.58:5001/jtvimage/Live_Times.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Live Times
+http://103.68.28.58:5001/live/3166.m3u8
+#EXTINF:-1 tvg-id=3167 tvg-name="Lok manch Marathi" tvg-logo="http://103.68.28.58:5001/jtvimage/Lok_manch_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", Lok manch Marathi
+http://103.68.28.58:5001/live/3167.m3u8
+#EXTINF:-1 tvg-id=3168 tvg-name="Sky India Tv" tvg-logo="http://103.68.28.58:5001/jtvimage/Sky_India_Tv.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Sky India Tv
+http://103.68.28.58:5001/live/3168.m3u8
+#EXTINF:-1 tvg-id=3169 tvg-name="Million Dollar Listing" tvg-logo="http://103.68.28.58:5001/jtvimage/Million_Dollar_Listing.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="🇮🇳 Entertainment", Million Dollar Listing
+http://103.68.28.58:5001/live/3169.m3u8
+#EXTINF:-1 tvg-id=3170 tvg-name="News 24 Tass" tvg-logo="http://103.68.28.58:5001/jtvimage/News_24_Tass.png" tvg-language="Marathi" tvg-type="News" group-title="🇮🇳 News", News 24 Tass
+http://103.68.28.58:5001/live/3170.m3u8
+#EXTINF:-1 tvg-id=3171 tvg-name="Khabar 70" tvg-logo="http://103.68.28.58:5001/jtvimage/Khabar_70.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", Khabar 70
+http://103.68.28.58:5001/live/3171.m3u8
+#EXTINF:-1 tvg-id=3172 tvg-name="India 24x7 Aap Tak TV" tvg-logo="http://103.68.28.58:5001/jtvimage/Aap_Tak_tv.png" tvg-language="Hindi" tvg-type="News" group-title="🇮🇳 News", India 24x7 Aap Tak TV
+http://103.68.28.58:5001/live/3172.m3u8
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+
+#EXTINF:-1 group-title="🇸🇬  AKTV" tvg-id="Ch 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Channel_5_3D_logo.png/revision/latest/scale-to-width-down/250?cb=20161027160840",Channel 5D
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+
+#EXTINF:-1 group-title="🇸🇬  AKTV" tvg-id="Ch 8 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://gobeyondrehab.sg/wp-content/uploads/2021/06/RB-logo-chan8.png",Channel 8http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+
+#EXTINF:-1 group-title="🇸🇬  AKTV"" tvg-id="Ch U (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Mediacorp_Channel_U.png",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+
+#EXTINF:5 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+
+#EXTINF:6 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:7 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:8 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+#EXTINF:9 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
+#EXTINF:10 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:11 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+
+#EXTINF:12 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
+#EXTINF:13 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+
+#EXTINF:14 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+
+#EXTINF:15 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-15" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+
+#EXTINF:16 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+
+#EXTINF:17 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+
+#EXTINF:18 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-13" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+
+#EXTINF:19 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+
+#EXTINF:20 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-2" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+#EXTINF:21 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
+#EXTINF:22 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+#EXTINF:23 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+
+#EXTINF:24 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+#EXTINF:25 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+
+#EXTINF:26 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+
+#EXTINF:27 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
+#EXTINF:28 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+#EXTINF:29 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+
+#EXTINF:30 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+#EXTINF:31 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-21" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+
+#EXTINF:32 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-22" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+
+#EXTINF:33 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-7" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
+#EXTINF:34 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV" tvg-id="aktv/null-23" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
+#EXTINF:35 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+
+#EXTINF:36 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
+#EXTINF:37 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV2" tvg-id="aktv2/null-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 无线新闻台(北美)	
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+
+#EXTINF:38 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/animaxhk" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+
+#EXTINF:39 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/c" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", C+台
+http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+
+#EXTINF:40 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/dw" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+
+#EXTINF:41 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/france24" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+
+#EXTINF:42 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/kix" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+
+#EXTINF:43 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/lovenaturehd" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+
+#EXTINF:44 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/nhkworldjapan" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+
+#EXTINF:45 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/nickjr" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+
+#EXTINF:46 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/nickelodeon" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+
+#EXTINF:47 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/rockaction" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ROCK Action
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+
+#EXTINF:48 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/thrill" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+
+#EXTINF:49 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/zoomoo" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
+#EXTINF:50 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/null-3" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+
+#EXTINF:51 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/null" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+
+#EXTINF:52 group-title="AKTV" aktv-server-group-title="🇸🇬  AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="🇲🇾  Malaysia",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="🇲🇾  Malaysia",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="🇲🇾  Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
+
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="🇲🇾  Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/chunklist_b2596000_slENG.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="🇲🇾  Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="🇲🇾  Malaysia",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Awesome TV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="8TV.my" group-title="🇲🇾  Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV9.my" group-title="🇲🇾  Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://e7.pngegg.com/pngimages/281/253/png-clipart-malaysia-tv9-media-prima-tv3-8tv-networking-topics-television-text-thumbnail.png",TV9 Malaysia
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NTV7.my" group-title="🇲🇾  Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DidikTV_KPM.png",Didik TV
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="🇲🇾  Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="🇲🇾  Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="🇲🇾  Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="BERNAMA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="🇲🇾  Malaysia",Bernama TV
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="TravelandTaste.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Drama Hotpot.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Filem Mantap.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇲🇾  Malaysia" tvg-id="Drama Hebat.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇧🇳  Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇧🇳  Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="🇧🇳  Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
