@@ -7975,7 +7975,7 @@ http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
 #EXTINF:-1 group-title="🇸🇬  AKTV" tvg-id="Ch 8 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://gobeyondrehab.sg/wp-content/uploads/2021/06/RB-logo-chan8.png",Channel 8http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="🇸🇬  AKTV"" tvg-id="Ch U (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Mediacorp_Channel_U.png",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
