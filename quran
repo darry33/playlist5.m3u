@@ -1,0 +1,916 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="quran kids",سورة الفاتحة
+https://archive.org/download/Quran4u_Quran_Kids/001-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="quran kids",سورة البقرة
+https://archive.org/download/Quran4u_Quran_Kids/002-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="quran kids",سورة آل عمران
+https://archive.org/download/Quran4u_Quran_Kids/003-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="quran kids",سورة النساء
+https://archive.org/download/Quran4u_Quran_Kids/004-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="quran kids",سورة المائدة
+https://archive.org/download/Quran4u_Quran_Kids/005-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="quran kids",سورة الأنعام
+https://archive.org/download/Quran4u_Quran_Kids/006-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="quran kids",سورة الأعراف
+https://archive.org/download/Quran4u_Quran_Kids/007-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="quran kids",سورة الأنفال
+https://archive.org/download/Quran4u_Quran_Kids/008-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="quran kids",سورة التوبة
+https://archive.org/download/Quran4u_Quran_Kids/009-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="quran kids",سورة يونس
+https://archive.org/download/Quran4u_Quran_Kids/010-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="quran kids",سورة هود
+https://archive.org/download/Quran4u_Quran_Kids/011-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="quran kids",سورة يوسف
+https://archive.org/download/Quran4u_Quran_Kids/012-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="quran kids",سورة الرعد
+https://archive.org/download/Quran4u_Quran_Kids/013-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="quran kids",سورة إبراهيم
+https://archive.org/download/Quran4u_Quran_Kids/014-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="quran kids",سورة الحجر
+https://archive.org/download/Quran4u_Quran_Kids/015-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="quran kids",سورة النحل
+https://archive.org/download/Quran4u_Quran_Kids/016-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="quran kids",سورة الإسراء
+https://archive.org/download/Quran4u_Quran_Kids/017-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="quran kids",سورة الكهف
+https://archive.org/download/Quran4u_Quran_Kids/018-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="quran kids",سورة مريم
+https://archive.org/download/Quran4u_Quran_Kids/019-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="quran kids",سورة طه
+https://archive.org/download/Quran4u_Quran_Kids/020-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="quran kids",سورة الأنبياء
+https://archive.org/download/Quran4u_Quran_Kids/021-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="quran kids",سورة الحج
+https://archive.org/download/Quran4u_Quran_Kids/022-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="quran kids",سورة المؤمنون
+https://archive.org/download/Quran4u_Quran_Kids/023-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="quran kids",سورة النور
+https://archive.org/download/Quran4u_Quran_Kids/024-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="quran kids",سورة الفرقان
+https://archive.org/download/Quran4u_Quran_Kids/025-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="quran kids",سورة الشعراء
+https://archive.org/download/Quran4u_Quran_Kids/026-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="quran kids",سورة النمل
+https://archive.org/download/Quran4u_Quran_Kids/027-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="quran kids",سورة القصص
+https://archive.org/download/Quran4u_Quran_Kids/028-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="quran kids",سورة العنكبوت
+https://archive.org/download/Quran4u_Quran_Kids/029-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="quran kids",سورة الروم
+https://archive.org/download/Quran4u_Quran_Kids/030-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="quran kids",سورة لقمان
+https://archive.org/download/Quran4u_Quran_Kids/031-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="quran kids",سورة السجدة
+https://archive.org/download/Quran4u_Quran_Kids/032-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="quran kids",سورة الأحزاب
+https://archive.org/download/Quran4u_Quran_Kids/033-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="quran kids",سورة سبأ
+https://archive.org/download/Quran4u_Quran_Kids/034-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="quran kids",سورة فاطر
+https://archive.org/download/Quran4u_Quran_Kids/035-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="quran kids",سورة يس
+https://archive.org/download/Quran4u_Quran_Kids/036-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="quran kids",سورة الصافات
+https://archive.org/download/Quran4u_Quran_Kids/037-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="quran kids",سورة ص
+https://archive.org/download/Quran4u_Quran_Kids/038-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="quran kids",سورة الزمر
+https://archive.org/download/Quran4u_Quran_Kids/039-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="quran kids",سورة غافر
+https://archive.org/download/Quran4u_Quran_Kids/040-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="quran kids",سورة فصلت
+https://archive.org/download/Quran4u_Quran_Kids/041-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="quran kids",سورة الشورى
+https://archive.org/download/Quran4u_Quran_Kids/042-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="quran kids",سورة الزخرف
+https://archive.org/download/Quran4u_Quran_Kids/043-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="quran kids",سورة الدخان
+https://archive.org/download/Quran4u_Quran_Kids/044-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="quran kids",سورة الجاثية
+https://archive.org/download/Quran4u_Quran_Kids/045-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="quran kids",سورة الأحقاف
+https://archive.org/download/Quran4u_Quran_Kids/046-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="quran kids",سورة محمد
+https://archive.org/download/Quran4u_Quran_Kids/047-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="quran kids",سورة الفتح
+https://archive.org/download/Quran4u_Quran_Kids/048-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="quran kids",سورة الحجرات
+https://archive.org/download/Quran4u_Quran_Kids/049-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="quran kids",سورة ق
+https://archive.org/download/Quran4u_Quran_Kids/050-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="quran kids",سورة الذاريات
+https://archive.org/download/Quran4u_Quran_Kids/051-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="quran kids",سورة الطور
+https://archive.org/download/Quran4u_Quran_Kids/052-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="quran kids",سورة النجم
+https://archive.org/download/Quran4u_Quran_Kids/053-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="quran kids",سورة القمر
+https://archive.org/download/Quran4u_Quran_Kids/054-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="quran kids",سورة الرحمن
+https://archive.org/download/Quran4u_Quran_Kids/055-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="quran kids",سورة الواقعة
+https://archive.org/download/Quran4u_Quran_Kids/056-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="quran kids",سورة الحديد
+https://archive.org/download/Quran4u_Quran_Kids/057-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="quran kids",سورة المجادلة
+https://archive.org/download/Quran4u_Quran_Kids/058-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="quran kids",سورة الحشر
+https://archive.org/download/Quran4u_Quran_Kids/059-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="quran kids",سورة الممتحنة
+https://archive.org/download/Quran4u_Quran_Kids/060-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="quran kids",سورة الصف
+https://archive.org/download/Quran4u_Quran_Kids/061-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="quran kids",سورة الجمعة
+https://archive.org/download/Quran4u_Quran_Kids/062-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="quran kids",سورة المنافقون
+https://archive.org/download/Quran4u_Quran_Kids/063-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="quran kids",سورة التغابن
+https://archive.org/download/Quran4u_Quran_Kids/064-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="quran kids",سورة الطلاق
+https://archive.org/download/Quran4u_Quran_Kids/065-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="quran kids",سورة التحريم
+https://archive.org/download/Quran4u_Quran_Kids/066-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="quran kids",سورة الملك
+https://archive.org/download/Quran4u_Quran_Kids/067-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="quran kids",سورة القلم
+https://archive.org/download/Quran4u_Quran_Kids/068-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="quran kids",سورة الحاقة
+https://archive.org/download/Quran4u_Quran_Kids/069-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="quran kids",سورة المعارج
+https://archive.org/download/Quran4u_Quran_Kids/070-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="quran kids",سورة نوح
+https://archive.org/download/Quran4u_Quran_Kids/071-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="quran kids",سورة الجن
+https://archive.org/download/Quran4u_Quran_Kids/072-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="quran kids",سورة المزمل
+https://archive.org/download/Quran4u_Quran_Kids/073-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="quran kids",سورة المدثر
+https://archive.org/download/Quran4u_Quran_Kids/074-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="quran kids",سورة القيامة
+https://archive.org/download/Quran4u_Quran_Kids/075-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="quran kids",سورة الإنسان
+https://archive.org/download/Quran4u_Quran_Kids/076-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="quran kids",سورة المرسلات
+https://archive.org/download/Quran4u_Quran_Kids/077-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="quran kids",سورة النبأ
+https://archive.org/download/Quran4u_Quran_Kids/078-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="quran kids",سورة النازعات
+https://archive.org/download/Quran4u_Quran_Kids/079-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="quran kids",سورة عبس
+https://archive.org/download/Quran4u_Quran_Kids/080-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="quran kids",سورة التكوير
+https://archive.org/download/Quran4u_Quran_Kids/081-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="quran kids",سورة الانفطار
+https://archive.org/download/Quran4u_Quran_Kids/082-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="quran kids",سورة المطففين
+https://archive.org/download/Quran4u_Quran_Kids/083-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="quran kids",سورة الانشقاق
+https://archive.org/download/Quran4u_Quran_Kids/084-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="quran kids",سورة البروج
+https://archive.org/download/Quran4u_Quran_Kids/085-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="quran kids",سورة الطارق
+https://archive.org/download/Quran4u_Quran_Kids/086-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="quran kids",سورة الأعلى
+https://archive.org/download/Quran4u_Quran_Kids/087-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="quran kids",سورة الغاشية
+https://archive.org/download/Quran4u_Quran_Kids/088-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="quran kids",سورة الفجر
+https://archive.org/download/Quran4u_Quran_Kids/089-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="quran kids",سورة البلد
+https://archive.org/download/Quran4u_Quran_Kids/090-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="quran kids",سورة الشمس
+https://archive.org/download/Quran4u_Quran_Kids/091-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="quran kids",سورة الليل
+https://archive.org/download/Quran4u_Quran_Kids/092-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="quran kids",سورة الضحى
+https://archive.org/download/Quran4u_Quran_Kids/093-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="quran kids",سورة الشرح
+https://archive.org/download/Quran4u_Quran_Kids/094-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="quran kids",سورة التين
+https://archive.org/download/Quran4u_Quran_Kids/095-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="quran kids",سورة العلق
+https://archive.org/download/Quran4u_Quran_Kids/096-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="quran kids",سورة القدر
+https://archive.org/download/Quran4u_Quran_Kids/097-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="quran kids",سورة البينة
+https://archive.org/download/Quran4u_Quran_Kids/098-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="quran kids",سورة الزلزلة
+https://archive.org/download/Quran4u_Quran_Kids/099-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="quran kids",سورة العاديات
+https://archive.org/download/Quran4u_Quran_Kids/100-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="quran kids",سورة القارعة
+https://archive.org/download/Quran4u_Quran_Kids/101-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="quran kids",سورة التكاثر
+https://archive.org/download/Quran4u_Quran_Kids/102-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="quran kids",سورة العصر
+https://archive.org/download/Quran4u_Quran_Kids/103-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="quran kids",سورة الهمزة
+https://archive.org/download/Quran4u_Quran_Kids/104-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="quran kids",سورة الفيل
+https://archive.org/download/Quran4u_Quran_Kids/105-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="quran kids",سورة قريش
+https://archive.org/download/Quran4u_Quran_Kids/106-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="quran kids",سورة الماعون
+https://archive.org/download/Quran4u_Quran_Kids/107-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="quran kids",سورة الكوثر
+https://archive.org/download/Quran4u_Quran_Kids/108-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="quran kids",سورة الكافرون
+https://archive.org/download/Quran4u_Quran_Kids/109-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="quran kids",سورة النصر
+https://archive.org/download/Quran4u_Quran_Kids/110-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="quran kids",سورة المسد
+https://archive.org/download/Quran4u_Quran_Kids/111-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="quran kids",سورة الإخلاص
+https://archive.org/download/Quran4u_Quran_Kids/112-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="quran kids",سورة الفلق
+https://archive.org/download/Quran4u_Quran_Kids/113-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="quran kids",سورة الناس
+https://archive.org/download/Quran4u_Quran_Kids/114-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="alsodeas and alshoream",سورة الفاتحة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="alsodeas and alshoream",سورة البقرة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="alsodeas and alshoream",سورة آل عمران
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="alsodeas and alshoream",سورة النساء
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="alsodeas and alshoream",سورة المائدة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="alsodeas and alshoream",سورة الأنعام
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="alsodeas and alshoream",سورة الأعراف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="alsodeas and alshoream",سورة الأنفال
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="alsodeas and alshoream",سورة التوبة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="alsodeas and alshoream",سورة يونس
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="alsodeas and alshoream",سورة هود
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="alsodeas and alshoream",سورة يوسف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="alsodeas and alshoream",سورة الرعد
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="alsodeas and alshoream",سورة إبراهيم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="alsodeas and alshoream",سورة الحجر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="alsodeas and alshoream",سورة النحل
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="alsodeas and alshoream",سورة الإسراء
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="alsodeas and alshoream",سورة الكهف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="alsodeas and alshoream",سورة مريم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="alsodeas and alshoream",سورة طه
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="alsodeas and alshoream",سورة الأنبياء
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="alsodeas and alshoream",سورة الحج
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="alsodeas and alshoream",سورة المؤمنون
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="alsodeas and alshoream",سورة النور
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="alsodeas and alshoream",سورة الفرقان
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="alsodeas and alshoream",سورة الشعراء
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="alsodeas and alshoream",سورة النمل
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="alsodeas and alshoream",سورة القصص
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="alsodeas and alshoream",سورة العنكبوت
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="alsodeas and alshoream",سورة الروم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="alsodeas and alshoream",سورة لقمان
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="alsodeas and alshoream",سورة السجدة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="alsodeas and alshoream",سورة الأحزاب
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="alsodeas and alshoream",سورة سبأ
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="alsodeas and alshoream",سورة فاطر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="alsodeas and alshoream",سورة يس
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="alsodeas and alshoream",سورة الصافات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="alsodeas and alshoream",سورة ص
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="alsodeas and alshoream",سورة الزمر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="alsodeas and alshoream",سورة غافر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="alsodeas and alshoream",سورة فصلت
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="alsodeas and alshoream",سورة الشورى
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="alsodeas and alshoream",سورة الزخرف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="alsodeas and alshoream",سورة الدخان
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="alsodeas and alshoream",سورة الجاثية
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="alsodeas and alshoream",سورة الأحقاف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="alsodeas and alshoream",سورة محمد
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="alsodeas and alshoream",سورة الفتح
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="alsodeas and alshoream",سورة الحجرات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="alsodeas and alshoream",سورة ق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="alsodeas and alshoream",سورة الذاريات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="alsodeas and alshoream",سورة الطور
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="alsodeas and alshoream",سورة النجم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="alsodeas and alshoream",سورة القمر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="alsodeas and alshoream",سورة الرحمن
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="alsodeas and alshoream",سورة الواقعة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="alsodeas and alshoream",سورة الحديد
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="alsodeas and alshoream",سورة المجادلة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="alsodeas and alshoream",سورة الحشر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="alsodeas and alshoream",سورة الممتحنة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="alsodeas and alshoream",سورة الصف
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="alsodeas and alshoream",سورة الجمعة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="alsodeas and alshoream",سورة المنافقون
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="alsodeas and alshoream",سورة التغابن
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="alsodeas and alshoream",سورة الطلاق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="alsodeas and alshoream",سورة التحريم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="alsodeas and alshoream",سورة الملك
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="alsodeas and alshoream",سورة القلم
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="alsodeas and alshoream",سورة الحاقة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="alsodeas and alshoream",سورة المعارج
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="alsodeas and alshoream",سورة نوح
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="alsodeas and alshoream",سورة الجن
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="alsodeas and alshoream",سورة المزمل
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="alsodeas and alshoream",سورة المدثر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="alsodeas and alshoream",سورة القيامة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="alsodeas and alshoream",سورة الإنسان
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="alsodeas and alshoream",سورة المرسلات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="alsodeas and alshoream",سورة النبأ
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="alsodeas and alshoream",سورة النازعات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="alsodeas and alshoream",سورة عبس
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="alsodeas and alshoream",سورة التكوير
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="alsodeas and alshoream",سورة الانفطار
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="alsodeas and alshoream",سورة المطففين
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="alsodeas and alshoream",سورة الانشقاق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="alsodeas and alshoream",سورة البروج
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="alsodeas and alshoream",سورة الطارق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="alsodeas and alshoream",سورة الأعلى
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="alsodeas and alshoream",سورة الغاشية
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="alsodeas and alshoream",سورة الفجر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="alsodeas and alshoream",سورة البلد
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="alsodeas and alshoream",سورة الشمس
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="alsodeas and alshoream",سورة الليل
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="alsodeas and alshoream",سورة الضحى
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="alsodeas and alshoream",سورة الشرح
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="alsodeas and alshoream",سورة التين
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="alsodeas and alshoream",سورة العلق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="alsodeas and alshoream",سورة القدر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="alsodeas and alshoream",سورة البينة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="alsodeas and alshoream",سورة الزلزلة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="alsodeas and alshoream",سورة العاديات
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="alsodeas and alshoream",سورة القارعة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="alsodeas and alshoream",سورة التكاثر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="alsodeas and alshoream",سورة العصر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="alsodeas and alshoream",سورة الهمزة
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="alsodeas and alshoream",سورة الفيل
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="alsodeas and alshoream",سورة قريش
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="alsodeas and alshoream",سورة الماعون
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="alsodeas and alshoream",سورة الكوثر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="alsodeas and alshoream",سورة الكافرون
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="alsodeas and alshoream",سورة النصر
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="alsodeas and alshoream",سورة المسد
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="alsodeas and alshoream",سورة الإخلاص
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="alsodeas and alshoream",سورة الفلق
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="alsodeas and alshoream",سورة الناس
+https://archive.org/download/alfirdwsiy1433_gmail_001_20170428708708707570557/114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="MAHER",سورة الفاتحة
+https://server12.mp3quran.net/maher/001.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="MAHER",سورة البقرة
+https://server12.mp3quran.net/maher/002.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="MAHER",سورة آل عمران
+https://server12.mp3quran.net/maher/003.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="MAHER",سورة النساء
+https://server12.mp3quran.net/maher/004.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="MAHER",سورة المائدة
+https://server12.mp3quran.net/maher/005.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="MAHER",سورة الأنعام
+https://server12.mp3quran.net/maher/006.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="MAHER",سورة الأعراف
+https://server12.mp3quran.net/maher/007.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="MAHER",سورة الأنفال
+https://server12.mp3quran.net/maher/008.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="MAHER",سورة التوبة
+https://server12.mp3quran.net/maher/009.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="MAHER",سورة يونس
+https://server12.mp3quran.net/maher/010.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="MAHER",سورة هود
+https://server12.mp3quran.net/maher/011.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="MAHER",سورة يوسف
+https://server12.mp3quran.net/maher/012.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="MAHER",سورة الرعد
+https://server12.mp3quran.net/maher/013.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="MAHER",سورة إبراهيم
+https://server12.mp3quran.net/maher/014.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="MAHER",سورة الحجر
+https://server12.mp3quran.net/maher/015.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="MAHER",سورة النحل
+https://server12.mp3quran.net/maher/016.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="MAHER",سورة الإسراء
+https://server12.mp3quran.net/maher/017.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="MAHER",سورة الكهف
+https://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="MAHER",سورة مريم
+https://server12.mp3quran.net/maher/019.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="MAHER",سورة طه
+https://server12.mp3quran.net/maher/020.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="MAHER",سورة الأنبياء
+https://server12.mp3quran.net/maher/021.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="MAHER",سورة الحج
+https://server12.mp3quran.net/maher/022.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="MAHER",سورة المؤمنون
+https://server12.mp3quran.net/maher/023.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="MAHER",سورة النور
+https://server12.mp3quran.net/maher/024.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="MAHER",سورة الفرقان
+https://server12.mp3quran.net/maher/025.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="MAHER",سورة الشعراء
+https://server12.mp3quran.net/maher/026.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="MAHER",سورة النمل
+https://server12.mp3quran.net/maher/027.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="MAHER",سورة القصص
+https://server12.mp3quran.net/maher/028.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="MAHER",سورة العنكبوت
+https://server12.mp3quran.net/maher/029.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="MAHER",سورة الروم
+https://server12.mp3quran.net/maher/030.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="MAHER",سورة لقمان
+https://server12.mp3quran.net/maher/031.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="MAHER",سورة السجدة
+https://server12.mp3quran.net/maher/032.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="MAHER",سورة الأحزاب
+https://server12.mp3quran.net/maher/033.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="MAHER",سورة سبأ
+https://server12.mp3quran.net/maher/034.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="MAHER",سورة فاطر
+https://server12.mp3quran.net/maher/035.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="MAHER",سورة يس
+https://server12.mp3quran.net/maher/036.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="MAHER",سورة الصافات
+https://server12.mp3quran.net/maher/037.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="MAHER",سورة ص
+https://server12.mp3quran.net/maher/038.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="MAHER",سورة الزمر
+https://server12.mp3quran.net/maher/039.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="MAHER",سورة غافر
+https://server12.mp3quran.net/maher/040.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="MAHER",سورة فصلت
+https://server12.mp3quran.net/maher/041.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="MAHER",سورة الشورى
+https://server12.mp3quran.net/maher/042.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="MAHER",سورة الزخرف
+https://server12.mp3quran.net/maher/043.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="MAHER",سورة الدخان
+https://server12.mp3quran.net/maher/044.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="MAHER",سورة الجاثية
+https://server12.mp3quran.net/maher/045.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="MAHER",سورة الأحقاف
+https://server12.mp3quran.net/maher/046.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="MAHER",سورة محمد
+https://server12.mp3quran.net/maher/047.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="MAHER",سورة الفتح
+https://server12.mp3quran.net/maher/048.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="MAHER",سورة الحجرات
+https://server12.mp3quran.net/maher/049.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="MAHER",سورة ق
+https://server12.mp3quran.net/maher/050.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="MAHER",سورة الذاريات
+https://server12.mp3quran.net/maher/051.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="MAHER",سورة الطور
+https://server12.mp3quran.net/maher/052.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="MAHER",سورة النجم
+https://server12.mp3quran.net/maher/053.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="MAHER",سورة القمر
+https://server12.mp3quran.net/maher/054.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="MAHER",سورة الرحمن
+https://server12.mp3quran.net/maher/055.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="MAHER",سورة الواقعة
+https://server12.mp3quran.net/maher/056.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="MAHER",سورة الحديد
+https://server12.mp3quran.net/maher/057.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="MAHER",سورة المجادلة
+https://server12.mp3quran.net/maher/058.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="MAHER",سورة الحشر
+https://server12.mp3quran.net/maher/059.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="MAHER",سورة الممتحنة
+https://server12.mp3quran.net/maher/060.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="MAHER",سورة الصف
+https://server12.mp3quran.net/maher/061.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="MAHER",سورة الجمعة
+https://server12.mp3quran.net/maher/062.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="MAHER",سورة المنافقون
+https://server12.mp3quran.net/maher/063.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="MAHER",سورة التغابن
+https://server12.mp3quran.net/maher/064.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="MAHER",سورة الطلاق
+https://server12.mp3quran.net/maher/065.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="MAHER",سورة التحريم
+https://server12.mp3quran.net/maher/066.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="MAHER",سورة الملك
+https://server12.mp3quran.net/maher/067.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="MAHER",سورة القلم
+https://server12.mp3quran.net/maher/068.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="MAHER",سورة الحاقة
+https://server12.mp3quran.net/maher/069.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="MAHER",سورة المعارج
+https://server12.mp3quran.net/maher/070.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="MAHER",سورة نوح
+https://server12.mp3quran.net/maher/071.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="MAHER",سورة الجن
+https://server12.mp3quran.net/maher/072.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="MAHER",سورة المزمل
+https://server12.mp3quran.net/maher/073.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="MAHER",سورة المدثر
+https://server12.mp3quran.net/maher/074.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="MAHER",سورة القيامة
+https://server12.mp3quran.net/maher/075.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="MAHER",سورة الإنسان
+https://server12.mp3quran.net/maher/076.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="MAHER",سورة المرسلات
+https://server12.mp3quran.net/maher/077.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="MAHER",سورة النبأ
+https://server12.mp3quran.net/maher/078.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="MAHER",سورة النازعات
+https://server12.mp3quran.net/maher/079.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="MAHER",سورة عبس
+https://server12.mp3quran.net/maher/080.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="MAHER",سورة التكوير
+https://server12.mp3quran.net/maher/081.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="MAHER",سورة الانفطار
+https://server12.mp3quran.net/maher/082.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="MAHER",سورة المطففين
+https://server12.mp3quran.net/maher/083.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="MAHER",سورة الانشقاق
+https://server12.mp3quran.net/maher/084.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="MAHER",سورة البروج
+https://server12.mp3quran.net/maher/085.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="MAHER",سورة الطارق
+https://server12.mp3quran.net/maher/086.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="MAHER",سورة الأعلى
+https://server12.mp3quran.net/maher/087.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="MAHER",سورة الغاشية
+https://server12.mp3quran.net/maher/088.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="MAHER",سورة الفجر
+https://server12.mp3quran.net/maher/089.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="MAHER",سورة البلد
+https://server12.mp3quran.net/maher/090.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="MAHER",سورة الشمس
+https://server12.mp3quran.net/maher/091.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="MAHER",سورة الليل
+https://server12.mp3quran.net/maher/092.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="MAHER",سورة الضحى
+https://server12.mp3quran.net/maher/093.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="MAHER",سورة الشرح
+https://server12.mp3quran.net/maher/094.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="MAHER",سورة التين
+https://server12.mp3quran.net/maher/095.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="MAHER",سورة العلق
+https://server12.mp3quran.net/maher/096.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="MAHER",سورة القدر
+https://server12.mp3quran.net/maher/097.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="MAHER",سورة البينة
+https://server12.mp3quran.net/maher/098.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="MAHER",سورة الزلزلة
+https://server12.mp3quran.net/maher/099.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="MAHER",سورة العاديات
+https://server12.mp3quran.net/maher/100.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="MAHER",سورة القارعة
+https://server12.mp3quran.net/maher/101.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="MAHER",سورة التكاثر
+https://server12.mp3quran.net/maher/102.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="MAHER",سورة العصر
+https://server12.mp3quran.net/maher/103.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="MAHER",سورة الهمزة
+https://server12.mp3quran.net/maher/104.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="MAHER",سورة الفيل
+https://server12.mp3quran.net/maher/105.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="MAHER",سورة قريش
+https://server12.mp3quran.net/maher/106.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="MAHER",سورة الماعون
+https://server12.mp3quran.net/maher/107.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="MAHER",سورة الكوثر
+https://server12.mp3quran.net/maher/108.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="MAHER",سورة الكافرون
+https://server12.mp3quran.net/maher/109.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="MAHER",سورة النصر
+https://server12.mp3quran.net/maher/110.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="MAHER",سورة المسد
+https://server12.mp3quran.net/maher/111.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="MAHER",سورة الإخلاص
+https://server12.mp3quran.net/maher/112.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="MAHER",سورة الفلق
+https://server12.mp3quran.net/maher/113.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="MAHER",سورة الناس
+https://server12.mp3quran.net/maher/114.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفاتحة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Surah_Al-Fatiha.png" group-title="husr",سورة الفاتحة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/001.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البقرة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Surah_Al-Baqara.png/640px-Surah_Al-Baqara.png" group-title="husr",سورة البقرة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/002.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة آل عمران" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al_Imran.png/640px-Surah_Al_Imran.png" group-title="husr",سورة آل عمران
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/003.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النساء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_An-Nisa.png/640px-Surah_An-Nisa.png" group-title="husr",سورة النساء
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/004.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المائدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Surah_Al-Ma%27ida.png/640px-Surah_Al-Ma%27ida.png" group-title="husr",سورة المائدة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/005.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنعام" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Surah_Al-An%27am.png/640px-Surah_Al-An%27am.png" group-title="husr",سورة الأنعام
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/006.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعراف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Surah_Al-A%27raf.png/640px-Surah_Al-A%27raf.png" group-title="husr",سورة الأعراف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/007.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنفال" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Surah_Al-Anfal.png/640px-Surah_Al-Anfal.png" group-title="husr",سورة الأنفال
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/008.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التوبة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Surah_At-Tawba.png/640px-Surah_At-Tawba.png" group-title="husr",سورة التوبة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/009.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يونس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surah_Yunus.png/640px-Surah_Yunus.png" group-title="husr",سورة يونس
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/010.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة هود" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Surah_Hud.png/640px-Surah_Hud.png" group-title="husr",سورة هود
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/011.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يوسف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_Yusuf.png/640px-Surah_Yusuf.png" group-title="husr",سورة يوسف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/012.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرعد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Ar-Ra%27d.png/640px-Surah_Ar-Ra%27d.png" group-title="husr",سورة الرعد
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/013.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة إبراهيم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Surah_Ibrahim.png/640px-Surah_Ibrahim.png" group-title="husr",سورة إبراهيم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/014.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Al-Hijr.png/640px-Surah_Al-Hijr.png" group-title="husr",سورة الحجر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/015.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النحل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surah_An-Nahl.png/640px-Surah_An-Nahl.png" group-title="husr",سورة النحل
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/016.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإسراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_Al-Isra.png/640px-Surah_Al-Isra.png" group-title="husr",سورة الإسراء
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/017.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكهف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Surah_Al-Kahf.png/640px-Surah_Al-Kahf.png" group-title="husr",سورة الكهف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/018.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة مريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surah_Maryam.png/640px-Surah_Maryam.png" group-title="husr",سورة مريم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/019.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة طه" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Surah_Ta-Ha.png/640px-Surah_Ta-Ha.png" group-title="husr",سورة طه
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/020.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأنبياء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Surah_Al-Anbiya.png/640px-Surah_Al-Anbiya.png" group-title="husr",سورة الأنبياء
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/021.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Surah_Al-Hajj.png/640px-Surah_Al-Hajj.png" group-title="husr",سورة الحج
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/022.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المؤمنون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Surah_Al-Mu%27minoon.png/640px-Surah_Al-Mu%27minoon.png" group-title="husr",سورة المؤمنون
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/023.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_An-Nur.png/640px-Surah_An-Nur.png" group-title="husr",سورة النور
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/024.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفرقان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Surah_Al-Furqan.png/640px-Surah_Al-Furqan.png" group-title="husr",سورة الفرقان
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/025.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشعراء" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Ash-Shu%27ara.png/640px-Surah_Ash-Shu%27ara.png" group-title="husr",سورة الشعراء
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/026.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Surah_An-Naml.png/640px-Surah_An-Naml.png" group-title="husr",سورة النمل
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/027.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القصص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Surah_Al-Qasas.png/640px-Surah_Al-Qasas.png" group-title="husr",سورة القصص
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/028.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العنكبوت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Surah_Al-Ankabut.png/640px-Surah_Al-Ankabut.png" group-title="husr",سورة العنكبوت
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/029.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الروم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Surah_Ar-Rum.png/640px-Surah_Ar-Rum.png" group-title="husr",سورة الروم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/030.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة لقمان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Surah_Luqman.png/640px-Surah_Luqman.png" group-title="husr",سورة لقمان
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/031.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة السجدة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surah_As-Sajda.png/640px-Surah_As-Sajda.png" group-title="husr",سورة السجدة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/032.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحزاب" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Surah_Al-Ahzab.png/640px-Surah_Al-Ahzab.png" group-title="husr",سورة الأحزاب
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/033.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة سبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Surah_Saba.png/640px-Surah_Saba.png" group-title="husr",سورة سبأ
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/034.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة فاطر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Surah_Fatir.png/640px-Surah_Fatir.png" group-title="husr",سورة فاطر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/035.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة يس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surah_Ya_Sin.png/640px-Surah_Ya_Sin.png" group-title="husr",سورة يس
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/036.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصافات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Surah_As-Saaffat.png/640px-Surah_As-Saaffat.png" group-title="husr",سورة الصافات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/037.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة ص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surah_Sad.png/640px-Surah_Sad.png" group-title="husr",سورة ص
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/038.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Surah_Az-Zumar.png/640px-Surah_Az-Zumar.png" group-title="husr",سورة الزمر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/039.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة غافر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Surah_Ghafir.png/640px-Surah_Ghafir.png" group-title="husr",سورة غافر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/040.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة فصلت" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surah_Fussilat.png/640px-Surah_Fussilat.png" group-title="husr",سورة فصلت
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/041.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشورى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Surah_Ash-Shura.png/640px-Surah_Ash-Shura.png" group-title="husr",سورة الشورى
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/042.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزخرف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Az-Zukhruf.png/640px-Surah_Az-Zukhruf.png" group-title="husr",سورة الزخرف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/043.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الدخان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Surah_Ad-Dukhan.png/640px-Surah_Ad-Dukhan.png" group-title="husr",سورة الدخان
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/044.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجاثية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Al-Jathiya.png/640px-Surah_Al-Jathiya.png" group-title="husr",سورة الجاثية
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/045.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأحقاف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Ahqaf.png/640px-Surah_Al-Ahqaf.png" group-title="husr",سورة الأحقاف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/046.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة محمد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Muhammad.png/640px-Surah_Muhammad.png" group-title="husr",سورة محمد
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/047.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفتح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Surah_Al-Fath.png/640px-Surah_Al-Fath.png" group-title="husr",سورة الفتح
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/048.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحجرات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Hujurat.png/640px-Surah_Al-Hujurat.png" group-title="husr",سورة الحجرات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/049.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة ق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surah_Qaf.png/640px-Surah_Qaf.png" group-title="husr",سورة ق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/050.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الذاريات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Surah_Adh-Dhariyat.png/640px-Surah_Adh-Dhariyat.png" group-title="husr",سورة الذاريات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/051.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطور" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Surah_At-Tur.png/640px-Surah_At-Tur.png" group-title="husr",سورة الطور
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/052.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النجم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Surah_An-Najm.png/640px-Surah_An-Najm.png" group-title="husr",سورة النجم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/053.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القمر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Surah_Al-Qamar.png/640px-Surah_Al-Qamar.png" group-title="husr",سورة القمر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/054.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الرحمن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Ar-Rahman.png/640px-Surah_Ar-Rahman.png" group-title="husr",سورة الرحمن
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/055.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الواقعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Surah_Al-Waqi%27a.png/640px-Surah_Al-Waqi%27a.png" group-title="husr",سورة الواقعة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/056.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحديد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Surah_Al-Hadid.png/640px-Surah_Al-Hadid.png" group-title="husr",سورة الحديد
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/057.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المجادلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Surah_Al-Mujadila.png/640px-Surah_Al-Mujadila.png" group-title="husr",سورة المجادلة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/058.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحشر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Hashr.png/640px-Surah_Al-Hashr.png" group-title="husr",سورة الحشر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/059.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الممتحنة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surah_Al-Mumtahina.png/640px-Surah_Al-Mumtahina.png" group-title="husr",سورة الممتحنة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/060.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الصف" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Surah_As-Saff.png/640px-Surah_As-Saff.png" group-title="husr",سورة الصف
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/061.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجمعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Surah_Al-Jumua.png/640px-Surah_Al-Jumua.png" group-title="husr",سورة الجمعة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/062.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المنافقون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Surah_Al-Munafiqun.png/640px-Surah_Al-Munafiqun.png" group-title="husr",سورة المنافقون
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/063.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التغابن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Surah_At-Taghabun.png/640px-Surah_At-Taghabun.png" group-title="husr",سورة التغابن
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/064.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطلاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Surah_At-Talaq.png/640px-Surah_At-Talaq.png" group-title="husr",سورة الطلاق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/065.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التحريم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surah_At-Tahrim.png/640px-Surah_At-Tahrim.png" group-title="husr",سورة التحريم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/066.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الملك" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Surah_Al-Mulk.png/640px-Surah_Al-Mulk.png" group-title="husr",سورة الملك
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/067.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القلم" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Surah_Al-Qalam.png/640px-Surah_Al-Qalam.png" group-title="husr",سورة القلم
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/068.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الحاقة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Haaqqa.png/640px-Surah_Al-Haaqqa.png" group-title="husr",سورة الحاقة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/069.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المعارج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Surah_Al-Maarij.png/640px-Surah_Al-Maarij.png" group-title="husr",سورة المعارج
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/070.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة نوح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Surah_Nuh.png/640px-Surah_Nuh.png" group-title="husr",سورة نوح
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/071.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الجن" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Surah_Al-Jinn.png/640px-Surah_Al-Jinn.png" group-title="husr",سورة الجن
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/072.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المزمل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Muzzammil.png/640px-Surah_Al-Muzzammil.png" group-title="husr",سورة المزمل
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/073.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المدثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Surah_Al-Muddathir.png/640px-Surah_Al-Muddathir.png" group-title="husr",سورة المدثر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/074.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القيامة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surah_Al-Qiyama.png/640px-Surah_Al-Qiyama.png" group-title="husr",سورة القيامة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/075.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإنسان" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Surah_Al-Insan.png/640px-Surah_Al-Insan.png" group-title="husr",سورة الإنسان
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/076.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المرسلات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Mursalat.png/640px-Surah_Al-Mursalat.png" group-title="husr",سورة المرسلات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/077.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النبأ" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Surah_An-Naba.png/640px-Surah_An-Naba.png" group-title="husr",سورة النبأ
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/078.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النازعات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Surah_An-Naziat.png/640px-Surah_An-Naziat.png" group-title="husr",سورة النازعات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/079.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة عبس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Surah_Abasa.png/640px-Surah_Abasa.png" group-title="husr",سورة عبس
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/080.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكوير" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Surah_Al-Takwir.png/640px-Surah_Al-Takwir.png" group-title="husr",سورة التكوير
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/081.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانفطار" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Surah_Al-Infitar.png/640px-Surah_Al-Infitar.png" group-title="husr",سورة الانفطار
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/082.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المطففين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Mutaffifin.png/640px-Surah_Al-Mutaffifin.png" group-title="husr",سورة المطففين
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/083.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الانشقاق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Surah_Al-Inshiqaq.png/640px-Surah_Al-Inshiqaq.png" group-title="husr",سورة الانشقاق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/084.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البروج" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Surah_Al-Bur%C5%ABj.png/640px-Surah_Al-Bur%C5%ABj.png" group-title="husr",سورة البروج
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/085.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الطارق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surah_At-Tariq.png/640px-Surah_At-Tariq.png" group-title="husr",سورة الطارق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/086.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الأعلى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Surah_Al-Ala.png/640px-Surah_Al-Ala.png" group-title="husr",سورة الأعلى
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/087.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الغاشية" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Surah_Al-Ghashiyah.png/640px-Surah_Al-Ghashiyah.png" group-title="husr",سورة الغاشية
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/088.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفجر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surah_Al-Fajr.png/640px-Surah_Al-Fajr.png" group-title="husr",سورة الفجر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/089.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البلد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Surah_Al-Balad.png/640px-Surah_Al-Balad.png" group-title="husr",سورة البلد
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/090.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشمس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Surah_Ash-Shams.png/640px-Surah_Ash-Shams.png" group-title="husr",سورة الشمس
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/091.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الليل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Lail.png/640px-Surah_Al-Lail.png" group-title="husr",سورة الليل
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/092.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الضحى" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Surah_Ad-Dhuha.png/640px-Surah_Ad-Dhuha.png" group-title="husr",سورة الضحى
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/093.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الشرح" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Surah_Al-Inshirah.png/640px-Surah_Al-Inshirah.png" group-title="husr",سورة الشرح
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/094.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التين" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Surah_At-Tin.png/640px-Surah_At-Tin.png" group-title="husr",سورة التين
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/095.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Surah_Al-Alaq.png/640px-Surah_Al-Alaq.png" group-title="husr",سورة العلق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/096.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القدر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Surah_Al-Qadr.png/640px-Surah_Al-Qadr.png" group-title="husr",سورة القدر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/097.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة البينة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Surah_Al-Bayyina.png/640px-Surah_Al-Bayyina.png" group-title="husr",سورة البينة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/098.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الزلزلة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Surah_Az-Zalzala.png/640px-Surah_Az-Zalzala.png" group-title="husr",سورة الزلزلة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/099.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العاديات" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Surah_Al-Adiyat.png/640px-Surah_Al-Adiyat.png" group-title="husr",سورة العاديات
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/100.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة القارعة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Surah_Al-Qaria.png/640px-Surah_Al-Qaria.png" group-title="husr",سورة القارعة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/101.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة التكاثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surah_Al-Takathur.png/640px-Surah_Al-Takathur.png" group-title="husr",سورة التكاثر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/102.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة العصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Surah_Al-Asr.png/640px-Surah_Al-Asr.png" group-title="husr",سورة العصر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/103.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الهمزة" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Surah_Al-Humaza.png/640px-Surah_Al-Humaza.png" group-title="husr",سورة الهمزة
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/104.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفيل" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Surah_Al-Fil.png/640px-Surah_Al-Fil.png" group-title="husr",سورة الفيل
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/105.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة قريش" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Surah_Quraysh.png/640px-Surah_Quraysh.png" group-title="husr",سورة قريش
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/106.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الماعون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Surah_Al-Ma%27un.png/640px-Surah_Al-Ma%27un.png" group-title="husr",سورة الماعون
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/107.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكوثر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surah_Al-Kawthar.png/640px-Surah_Al-Kawthar.png" group-title="husr",سورة الكوثر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/108.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الكافرون" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Surah_Al-Kafirun.png/640px-Surah_Al-Kafirun.png" group-title="husr",سورة الكافرون
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/109.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة النصر" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Surah_Al-Nasr.png/640px-Surah_Al-Nasr.png" group-title="husr",سورة النصر
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/110.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة المسد" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Surah_Al-Masad.png/640px-Surah_Al-Masad.png" group-title="husr",سورة المسد
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/111.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الإخلاص" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Surat_Al-Ikhlas.png" group-title="husr",سورة الإخلاص
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/112.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الفلق" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surah_Al-Falaq.png/640px-Surah_Al-Falaq.png" group-title="husr",سورة الفلق
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/113.mp3
+#EXTINF:-1 tvg-id="" tvg-name="سورة الناس" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Surah_Al-Nas.png/640px-Surah_Al-Nas.png" group-title="husr",سورة الناس
+https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/114.mp3
