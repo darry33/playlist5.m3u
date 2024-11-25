@@ -1,0 +1,330 @@
+#EXTM3U
+
+#EXTINF:-1,-------------- Art de vivre
+//
+#EXTINF:-1 tvg-id="AfriqueMaisonEtTravaux.ci" tvg-name="Afrique Maison & Travaux (CI)" tvg-logo="https://afriquemaisonettravauxtv.com/wp-content/uploads/2024/03/AK-4-11.png" group-title="🇨🇮 Ivory Coast",Afrique Maison & Travaux (CI)
+https://ugftv.stream/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChefClub.fr" tvg-name="ChefClub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20220323T080447SQUARE.png_20220323080450.png" group-title="Art de vivre",ChefClub
+https://d19umdgd0zr2ln.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-FR-prod/chc/ch/ch.m3u8
+#EXTINF:-1 tvg-id="DriveTV.fr" tvg-name="Drive TV" tvg-logo="https://tvradiozap.eu/tv/logos/drivetv.png" group-title="Art de vivre",Drive TV
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="MaisonEtTravaux.fr" tvg-name="Maison et Travaux" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Art de vivre",Maison et Travaux
+https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+#EXTINF:-1 tvg-id="Mensup.fr" tvg-name="Mens'up" tvg-logo="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/14636975/image/opt/original/1585572106-2d31a4a6" group-title="Art de vivre",Mens'up
+https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1,-------------- Cinéma
+
+#EXTINF:-1,-------------- Divertissement
+//
+#EXTINF:-1 tvg-id="A12.ci" tvg-name="A12 (CI)" tvg-logo="https://play-lh.googleusercontent.com/nb6bCgOzPFZaFiDWl24ghJcExUjNf8nP5CE2johTP_waoszi8MYLw0U5SLmSxjPBZg" group-title="🇨🇮 Ivory Coast",A12 (CI)
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-id="AdductionMedia.ht" tvg-name="Adduction Media (HT)" tvg-logo="https://static.wixstatic.com/media/752848_57e7663baa204ae680682057c48c0038~mv2.jpg/v1/fit/w_2500,h_1330,al_c/752848_57e7663baa204ae680682057c48c0038~mv2.jpg" group-title="Divertissement",Adduction Media (HT)
+https://5790d294af2dc.streamlock.net/rtvboost/rtvboost/playlist.m3u8
+#EXTINF:-1 tvg-id="afric4.sn" tvg-name="Afric4 (SN)" tvg-logo="https://tvradiozap.eu/tv/logos/afric4.png" group-title="🇸🇳 Senegal",Afric4 (SN)
+https://vdo2.pro-fhi.net:3112/stream/play.m3u8
+#EXTINF:-1 tvg-id="africable.ml" tvg-name="Africable (ML)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Africable_T%C3%A9l%C3%A9vision_logo.jpg" group-title="Divertissement",Africable (ML)
+http://69.64.57.208/africable/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CaviTV.gn" tvg-name="Cavi TV (GN)" tvg-logo="https://cavismedias.com/wp-content/uploads/2024/07/cavilogo.jpg" group-title="🇬🇳 Guinea",Cavi TV (GN)
+https://helga.iptv2022.com/sh/Cavi_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GoldenSweet.ci" tvg-name="Golden Sweet (CI)" tvg-logo="https://golden-sweet.tv/assets/images/logo.jpg" group-title="🇨🇮 Ivory Coast",Golden Sweet (CI)
+https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8
+#EXTINF:-1 tvg-id="GONG.kr" tvg-name="GONG  (KO)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="Divertissement",GONG  (KO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="GTV1.gn" tvg-name="GTV1 (GN)" tvg-logo="https://guineetv1.com/wp-content/uploads/2023/01/logo.png" group-title="🇬🇳 Guinea",GTV1 (GN)
+https://ott.livelegitpro.in/pusa/gtv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kajoutv.fr" tvg-name="Kajou TV (US HT)" tvg-logo="https://tinyurl.com/4zvt28ta" group-title="Divertissement",Kajou TV (US HT)
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 tvg-id="KeurNdananeTV.sn" tvg-name="Keur Ndanane TV (SN)" tvg-logo="https://tvradiozap.eu/tv/logos/keurndananetv.jpg" group-title="🇸🇳 Senegal",Keur Ndanane TV (SN)
+https://helga.iptv2022.com/sh/KN_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Divertissement",MDL
+https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nek4Culture.bj" tvg-name="Nek4 Culture (BJ)" tvg-logo="https://isephumanite.com/wp-content/uploads/2021/12/NEK-4-originale-1024x1024.png" group-title="🇧🇯 Benin",Nek4 Culture (BJ)
+https://helga.iptv2022.com/sh/NEK4/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3v4
+#EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV (CI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NtvLOGO.png/300px-NtvLOGO.png" group-title="🇨🇮 Ivory Coast",NTV (CI)
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="syntytv.cd" tvg-name="Synty TV" tvg-logo="https://tvradiozap.eu/tv/logos/syntytv.jpg" group-title="Divertissement",Synty TV
+https://helga.iptv2022.com/sh/SYNTY_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tahiti Web Radio TV" tvg-logo="https://www.tahitiwebradio.pf/wp-content/uploads/2020/04/Icone.png" group-title="Divertissement",Tahiti Web Radio TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
+#EXTINF:-1 tvg-id="TempoAfric.fr" tvg-name="Tempo Afric (US)" tvg-logo="https://www.tempoafrictv.com/wp-content/uploads/2024/05/cropped-Youtube-Chanel-Tv-Logo.png" group-title="Divertissement",Tempo Afric (US)
+https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+#EXTINF:-1 tvg-id="bossbrothers.cd" tvg-name="The Boss Brothers TV" tvg-logo="https://play-lh.googleusercontent.com/F5I6aH8oZbgs6NkSpwcFk_bkdLZuO1GA8K6-a7Gu6E4Guyf-bZkiKdDPceQaRR-MBh33=w600-h300-pc0xffffff-pd" group-title="Divertissement",The Boss Brothers TV
+https://helga.iptv2022.com/sh/BOSS_BROTHERS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tm.tv.sn" tvg-name="TM.TV (SN)" tvg-logo="https://yt3.googleusercontent.com/BsrA5L0fQfuNCKRD4c-c6eN41Pu1ZRFyav9Pv8_HoI1i4vY88S1FzUbd2tHn5n38yceKcJwty2o=s900-c-k-c0x00ffffff-no-rj" group-title="🇸🇳 Senegal",TM.TV (SN)
+https://helga.iptv2022.com/Tamasheq_TV/index.m3u8
+#EXTINF:-1 tvg-id="TV2.tg" tvg-name="TV2 (TG)" tvg-logo="https://www.musicinafrica.net/sites/default/files/images/music_professional_profile/201604/tv2.jpg" group-title="🇹🇬 Togo",TV2 (TG)
+https://helga.iptv2022.com/sh/TV2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVC.bj" tvg-name="TVC (BJ)" tvg-logo="https://tvcbenin.com/assets/img/logo-tvc-benin.png" group-title="🇧🇯 Benin",TVC (BJ)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+
+#EXTINF:-1,-------------- Documentaires
+//
+
+
+#EXTINF:-1,-------------- Généraliste
+//
+#EXTINF:-1 tvg-id="AIvoire.ci" tvg-name="A+Ivoire (CI)" tvg-logo="https://tvradiozap.eu/tv/logos/a+ivoire.png" group-title="🇨🇮 Ivory Coast",A+Ivoire (CI)
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-name="A2i TV (SN)" tvg-logo="https://a2itv.com/wp-content/uploads/2017/09/cropped-a2ilog-1.png" group-title="🇸🇳 Senegal",A2i TV (SN)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa24.sn" tvg-name="Africa24 (SN)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" group-title="🇸🇳 Senegal",Africa24 (SN)
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="amanitv.sn" tvg-name="Amani TV (SN)" tvg-logo="https://amanitv.media/wp-content/uploads/2021/07/ama-tv-logo.png" group-title="🇸🇳 Senegal",Amani TV (SN)
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-id="Atv.gn" tvg-name="ATV (GN)" tvg-logo="https://atvguinee.net/wp-content/uploads/2022/11/logo.jpg" group-title="🇬🇳 Guinea",ATV (GN)
+https://helga.iptv2022.com/sh/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BeninTV.bj" tvg-name="Bénin TV (BJ)" tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="🇧🇯 Benin",Bénin TV (BJ)
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-name="Bénin Web TV (BJ)" tvg-logo="https://beninwebtv.com/wp-content/uploads/2022/11/logo-bon-benin-web-tv.png" group-title="🇧🇯 Benin",Bénin Web TV (BJ)
+https://vdo.pro-fhi.net:3244/stream/play.m3u8
+#EXTINF:-1 tvg-id="C3Benin.bj" tvg-name="C3 Bénin (BJ)" tvg-logo="https://tnt.bj/assets/images/icons/service-cat-icon-8.png" group-title="🇧🇯 Benin",C3 Bénin (BJ)
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2International.cm" tvg-name="Canal 2 International (CM)" tvg-logo="https://www.cxtvlive.com/assets/img/ui/logo-header.webp" group-title="🇨🇲 Cameroon",Canal 2 International (CM)
+https://tvradiozap.eu/tools/dm-m3u8.php/x8t0282.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+  (plages en clair)" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-768x432.png" group-title="🇨🇲 Cameroon",Canal+  (plages en clair)
+https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+
+#EXTINF:-1 tvg-id="CENTV.ci" tvg-name="CEN TV (CI)" tvg-logo="https://www.afriquepremiere.net/wp-content/uploads/2020/08/cen-logo-750x375.jpeg" group-title="🇨🇮 Ivory Coast",CEN TV (CI)
+https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTVAfrique.cm" tvg-name="CTV Afrique (CM)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgWthNMZyU0LlqkziTT2DBO15sVmEOwOQIYSPa=s176-c-k-c0x00ffffff-no-rj" group-title="🇨🇲 Cameroon",CTV Afrique (CM)
+https://stream.it-innov.com/ctv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="Direct7.tg" tvg-name="Direct7 (TG)" tvg-logo="https://www.entrepreneursdumonde.org/wp-content/uploads/2017/05/Direct7TV-logo-1200x400.jpg" group-title="🇹🇬 Togo",Direct7 (TG)
+https://helga.iptv2022.com/DIRECT__7/index.m3u8
+#EXTINF:-1 tvg-id="EGGPro.cd" tvg-name="EGG Pro TV (CD)" tvg-logo="https://i.imgur.com/rygp3BA.jpeg" group-title="Généraliste",EGG Pro TV (CD)
+https://helga.iptv2022.com/sh/EGG_PRO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Etele.bj" tvg-name="Etélé (BJ)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQdKdMhGKX6p_xBcWVtVhz5ov9-vMT8nPHngTvNHQ=s176-c-k-c0x00ffffff-no-rj" group-title="🇧🇯 Benin",Etélé (BJ)
+https://tvradiozap.eu/tools/tw-m3u8.php/etelelive.m3u8
+#EXTINF:-1 tvg-id="ETV.gp" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/ETV_logo_2014.png/225px-ETV_logo_2014.png" group-title="Généraliste",ETV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id="evasiontv.gn" tvg-name="Evasion TV (GN)" tvg-logo="https://www.groupeevasionguinee.info/wp-content/uploads/2023/03/logo-2.png" group-title="🇬🇳 Guinea",Evasion TV (GN)
+https://kali.vdopanel.com:3679/live/evasiontvlive.m3u8
+#EXTINF:-1 tvg-id="FYAfrica.cm" tvg-name="FY Africa (CM)" tvg-logo="https://foryoumedia-africa.com/assets/img/header/foryou-media-afrique-logo.png" group-title="🇨🇲 Cameroon",FY Africa (CM)
+https://stream.az-multimedia.net:3793/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-id="Gabon1ere.ga" tvg-name="Gabon 1ère (GA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GabonPremiere.png" group-title="🇬🇦 Gabon",Gabon 1ère (GA)
+https://vps107658.serveur-vps.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-name="Ivoire Channel (CI)" tvg-logo="https://telepack.net/wp-content/uploads/2020/04/ivoire-channel-1.png" group-title="🇨🇮 Ivory Coast",Ivoire Channel (CI)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBSTV.mg" tvg-name="MBS TV (MG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mainichi_Broadcasting_System_logo.svg" group-title="Généraliste",MBS TV (MG)
+https://tvradiozap.eu/tools/tw-m3u8.php/malagasynews.m3u8
+#EXTINF:-1 tvg-id="NCI.ci" tvg-name="NCI (CI)" tvg-logo="https://www.nci.ci/assets/images/logo_nci.png" group-title="🇨🇮 Ivory Coast",NCI (CI)
+https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci-audio_1=128000-video=350000.m3u8
+#EXTINF:-1 tvg-id="nexttv.ml" tvg-name="Next TV (ML)" tvg-logo="https://yt3.googleusercontent.com/x-v5q1u2EteajmXepG58K0YdoN7KEE-h6OFcM0DlDcxuR6qM-Bnk6H_upnlHXdvo5I3DhWN1Uo0=s160-c-k-c0x00ffffff-no-rj" group-title="Généraliste",Next TV (ML)
+https://helga.iptv2022.com/sh/Next_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTI TV (CD)" tvg-logo="https://tvradiozap.eu/tv/logos/ntitv.png" group-title="Généraliste",NTI TV (CD)
+https://helga.iptv2022.com/sh/NTI_Television/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NyotaTV.cd" tvg-name="Nyota TV (CD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Logonyota.jpg" group-title="Généraliste",Nyota TV (CD)
+http://51.254.199.122:8080/noyaTV/index.m3u8
+#EXTINF:-1 tvg-id="ortm1.ml" tvg-name="ORTM1 (ML)" tvg-logo="https://www.ortm.ml/sites/default/files/inline-images/ORTM_1%20Berete.png" group-title="Généraliste",ORTM1 (ML)
+http://69.64.57.208/ortm/playlist.m3u8
+#EXTINF:-1 tvg-id="ortm2.ml" tvg-name="ORTM2 (ML)" tvg-logo="https://www.ortm.ml/sites/default/files/inline-images/ORTM_Berete2.png" group-title="Généraliste",ORTM2 (ML)
+http://69.64.57.208/tm2/playlist.m3u8
+#EXTINF:-1 tvg-id="PSTV.cd" tvg-name="PSTV (CD)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pstv-hd-cd.png" group-title="Généraliste",PSTV (CD)
+http://89.163.146.99/PSTV_TVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-name="Reflet TV (CI)" tvg-logo="https://reflet.tv/wp-content/uploads/2022/12/Logo_RTV.svg" group-title="🇨🇮 Ivory Coast",Reflet TV (CI)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="rtb.bf" tvg-name="RTB (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Radio_T%C3%A9l%C3%A9vision_Burkina_logo.jpg/285px-Radio_T%C3%A9l%C3%A9vision_Burkina_logo.jpg" group-title="🇧🇫 Burkina Faso",RTB (BF)
+http://69.64.57.208/rtb/index.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1 (CI)" tvg-logo="https://rti.ci/_nuxt/img/6a12f31.svg" group-title="🇨🇮 Ivory Coast",RTI 1 (CI)
+http://69.64.57.208:8080/rti1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-name="RTI 2 (CI)" tvg-logo="https://rti.ci/_nuxt/img/6d85e57.svg" group-title="🇨🇮 Ivory Coast",RTI 2 (CI)
+http://69.64.57.208:8080/rti2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-name="RTNC (CD)" tvg-logo="https://rtnc.cd/wp-content/uploads/2022/04/logo-rtnc_svg.png" group-title="Généraliste",RTNC (CD)
+http://69.64.57.208:80/rtnc/index.m3u8
+#EXTINF:-1 tvg-id="rts1.sn" tvg-name="RTS 1 (SN)" tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts1.626f8129.png&w=128&q=75" group-title="🇸🇳 Senegal",RTS 1 (SN)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="rts2.sn" tvg-name="RTS 2 (SN)" tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts2.9510159b.png&w=128&q=75" group-title="🇸🇳 Senegal",RTS 2 (SN)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="seneweb.sn" tvg-name="Seneweb TV (SN)" tvg-logo="https://www.seneweb.com/v5/img/logo-2oans-welcome-page2.png" group-title="🇸🇳 Senegal",Seneweb TV (SN)
+https://helga.iptv2022.com/sh/Sene_Web_Tv/index.m3u8
+#EXTINF:-1 tvg-id="senjeunes.sn" tvg-name="SenJeunes (SN)" tvg-logo="https://senjeunes.net/wp-content/uploads/2022/08/LOGO-SENJ-NET-1-1024x326.png" group-title="Généraliste",SenJeunes (SN)
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele50.cd" tvg-name="Télé 50 (CD)" tvg-logo="https://tele50.cd/wp-content/uploads/2021/02/t5.png" group-title="Généraliste",Télé 50 (CD)
+http://89.163.146.99/TELE50-TEST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="teleCongo.cd" tvg-name="Télé Congo (CD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/LOGO-TELE-CONGO_RVB.jpg" group-title="Généraliste",Télé Congo (CD)
+http://69.64.57.208/telecongo/playlist.m3u8
+#EXTINF:-1 tvg-id="tele.sahel.ne" tvg-name="Télé Sahel (NE)" tvg-logo="https://pbs.twimg.com/profile_images/937080013387653120/Kq-dajj0_400x400.jpg" group-title="Généraliste",Télé Sahel (NE)
+http://69.64.57.208/telesahel/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Télé Tchad (TD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="🇹🇩 Chad",Télé Tchad (TD)
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvt.tg" tvg-name="TVT (TG)" tvg-logo="https://yt3.googleusercontent.com/p9n-B7cS6bsxEGAhNlXZKwWXH9ROKY5Jl9RsS5cgM_sFWnUrC0ONuuHHV6VjtFdXh-1qLcR7eCU=s176-c-k-c0x00ffffff-no-rj" group-title="🇹🇬 Togo",TVT (TG)
+http://69.64.57.208/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-name="Vision 4 (CM)" tvg-logo="https://mediatudecmr.com/wp-content/uploads/2019/08/Vision4-Logo-1024x711.jpg" group-title="🇨🇲 Cameroon",Vision 4 (CM)
+https://helga.iptv2022.com/sh/Vision_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,-------------- Info
+//
+#EXTINF:-1 tvg-id="Africanews.fr" tvg-name="Africanews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/180px-Africanews_logo.svg.png" group-title="Info",Africanews
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="burkinaInfo.bf" tvg-name="Burkina Info (BF)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n49dXf-WnoEHuRgaeBksva-SUnDn9k6NuiyFxT4aUqjpU=s176-c-k-c0x00ffffff-no-rj" group-title="🇧🇫 Burkina Faso",Burkina Info (BF)
+http://69.64.57.208/burkinainfo/index.m3u8
+#EXTINF:-1 tvg-id="Canaf54.gb" tvg-name="Canaf54" tvg-logo="https://canaf54.tv/assets/img/new-logo.png" group-title="Info",Canaf54
+https://helga.iptv2022.com/Canaf54_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24 (GA)" tvg-logo="https://gabon24.tv/wp-content/uploads/2023/02/LOGO_2-e1675877413242.png" group-title="🇬🇦 Gabon",Gabon 24 (GA)
+https://tvradiozap.eu/tools/yt-m3u8.php/@tvgabon24.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-name="NW Info (TG)" tvg-logo="https://files.newworldtv.com/uploads/2021/03/Logo-New-World-TV-01.png" group-title="🇹🇬 Togo",NW Info (TG)
+https://hls.newworldtv.com/nw-info/video/live_3.m3u8
+
+#EXTINF:-1 tvg-id="VoxAfrica.gb" tvg-name="VoxAfrica" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Voxafrica-1.png" group-title="Info",VoxAfrica
+https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
+#EXTINF:-1,-------------- Jeunesse
+//
+#EXTINF:-1 tvg-id="adn.fr" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="TVBeninJunior.bj" tvg-name="Bénin TV Junior (BJ)" tvg-logo="https://srtb.bj/storage/2024/07/BANNIERE-SITE-BTV-JUNIORS-Mod.jpg" group-title="🇧🇯 Benin",Bénin TV Junior (BJ)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="Caillou.fr" tvg-name="Caillou" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Caillou_Type_B_circle_1000x1000.png" group-title="Jeunesse",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Famille.fr" tvg-name="Famille" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/FR-FAMILY_TV_Plus_Logo_476x476_Circle.png?$330_186_PNG$" group-title="Jeunesse",Famille
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Jeunesse",Gulli
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:-1 tvg-id="japanime.be" tvg-name="Japanime" tvg-logo="https://japanime.tv/wp-content/uploads/2021/02/cropped-SiteIcon-32x32.png" group-title="Jeunesse",Japanime
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-id="N31.fr" tvg-name="N31" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfqcc2yp/60x60" group-title="Jeunesse",N31
+https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
+#EXTINF:-1 tvg-id="France.fr" tvg-name="Xilam TV" tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png" group-title="Jeunesse",Xilam TV
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.kr" tvg-name="Yu-Gi-Oh!" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Yu-Gi-Oh_Logo.JPG" group-title="Jeunesse",Yu-Gi-Oh!
+https://8a6390f796394a469f6d07832202ddd1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_YuGiOh/playlist.m3u8
+#EXTINF:-1,-------------- Local
+
+#EXTINF:-1 tvg-id="diamatv.sn" tvg-name="Diama TV (SN)" tvg-logo="https://yt3.googleusercontent.com/RD_WDtIyFIbM9pWQYaFZGW6ilw-CYcSVtwOC88I3nohrgmWfL26ThcKwepFzwfH4Vue_X3K5Sw=s176-c-k-c0x00ffffff-no-rj" group-title="🇸🇳 Senegal",Diama TV (SN)
+https://helga.iptv2022.com/Diama_TV/index.m3u8
+#EXTINF:-1 tvg-id="grandyoff.sn" tvg-name="Grand Yoff TV (SN)" tvg-logo="https://yt3.googleusercontent.com/b5Mnw53jvIzTVKEHc5JxFPp4daFrgLkSjhTXNeM4VFdeKykHRXIid9uu_Bgjlu_oVe00WP7FOw=s176-c-k-c0x00ffffff-no-rj" group-title="🇸🇳 Senegal",Grand Yoff TV (SN)
+https://helga.iptv2022.com/sh/Grand_Yoff_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Teveka.gp" tvg-name="Teveka" tvg-logo="https://www.teveka.net/videos/userPhoto/logo.png" group-title="Local",Teveka
+https://www.teveka.net:8443/show/teveka/index.m3u8
+
+#EXTINF:-1,-------------- Musique
+//
+#EXTINF:-1 tvg-id="A2imusic.sn" tvg-name="A2i Music (SN)" tvg-logo="https://i0.wp.com/a2itv.com/wp-content/uploads/2017/09/cropped-a2ilog-1.png" group-title="🇸🇳 Senegal",A2i Music (SN)
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dpktv.cd" tvg-name="DPK TV" tvg-logo="https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg" group-title="Musique",DPK TV
+https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8
+
+#EXTINF:-1 tvg-id="FusionTV.mq" tvg-name="Fusion TV" tvg-logo="https://radiofusion.fr/media/cache/full_img/uploads/media/radiofusionfr/2background-neutre.jpg" group-title="Musique",Fusion TV
+https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Guadeloupe4TV.gp" tvg-name="Guadeloupe 4TV" tvg-logo="https://guadeloupe4-tv.com/wp-content/uploads/2022/03/Guadeloupe4TV_300x315.png" group-title="Musique",Guadeloupe 4TV
+https://tvradiozap.eu/tools/tw-m3u8.php/guadeloupe4tv.m3u8
+#EXTINF:-1 tvg-id="Kalac.gn" tvg-name="Kalac (GN)" tvg-logo="https://tse1.mm.bing.net/th?&id=OVP.WvsIhRNcCkkN26gfuAH1ngEsDh&w=330&h=186&c=7&pid=1.7&rs=1" group-title="🇬🇳 Guinea",Kalac (GN)
+https://kalactv.vedge.infomaniak.com/livecast/kalactv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTVCaraibes.gp" tvg-name="My TV Caraïbes" tvg-logo="https://www.megazap.fr/photo/art/default/60812280-44456336.jpg" group-title="Musique",My TV Caraïbes
+https://tvradiozap.eu/tools/tw-m3u8.php/mytvcaraibes97.m3u8
+
+#EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA" tvg-logo="https://tvradiozap.eu/tv/logos/TMA.png" group-title="Musique",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+
+
+
+//
+#EXTINF:-1 tvg-id="Crime.fr" tvg-name="Crime" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cd5a6bd-da75-4977-94fe-7c18e4c74b08-width308-quality100.jpeg" group-title="Séries",Crime
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Fréquence Novelas" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20241025T153329SQUARE.png" group-title="Séries",Fréquence Novelas
+https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.fr" tvg-name="Novela Channel" tvg-logo="https://tvradiozap.eu/tv/logos/novelachannel.png" group-title="Séries",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-id="PassionNovelas.ci" tvg-name="Passion Novelas" tvg-logo="https://tvradiozap.eu/tv/logos/passionnovelas.jpg" group-title="🇨🇮 Ivory Coast",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+#EXTINF:-1 tvg-id="Star+Novelas.cg" tvg-name="Star+Novelas" tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" group-title="🇨🇬 Republic of the Congo",Star+Novelas
+https://helga.iptv2022.com/sh/Stars_Novelas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TeleNovela.fr" tvg-name="Télé Novela" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20220511T011743SQUARE.png_20220511011745.png&h=250" group-title="Séries",Télé Novela
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,-------------- Sociétal
+//
+
+#EXTINF:-1 tvg-id="ev-tele.cg" tvg-name="EV-Télé (CG)" tvg-logo="https://yt3.googleusercontent.com/94HL801Z-DuEYw2gMqUknxmcH5yQcyWQ2hc8R_whHnbdPPAofLy0NbWAZlJRPvgKy1ipCcEDTzs=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇬 Republic of the Congo",EV-Télé (CG)
+https://helga.iptv2022.com/Ev-TELE/index.m3u8
+
+#EXTINF:-1 tvg-id="KabackTV.gn" tvg-name="Kaback TV (GN)" tvg-logo="https://kabacktvguinee.com/wp-content/uploads/2024/05/logo-kabacktv-mini-1.png" group-title="🇬🇳 Guinea",Kaback TV (GN)
+https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
+
+#EXTINF:-1,-------------- Sport
+//
+#EXTINF:-1 tvg-id="Africa24Sport.sn" tvg-name="Africa24 Sport (SN)" tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=300%2C63&ssl=1" group-title="🇸🇳 Senegal",Africa24 Sport (SN)
+https://africa24sport.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="BordoTV.fr" tvg-name="Bordo TV Sport" tvg-logo="https://bordofm.com/wp-content/uploads/2023/03/LOGO-BORDO-MEDIA-GROUP-BLANC-ET-ROUGE-RECTANGULAIRE.png" group-title="Sport",Bordo TV Sport
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
+#EXTINF:-1 tvg-id="joynews.gh" tvg-name="joy news" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7fyldjv32wps.jpg" group-title="🇬🇭 Ghana",joy news
+https://youtu.be/CmymhpKirRc?list=PLEhaP2Z2iO3qxEM5RbZPZCcV0o0Z9azwh
+#EXTINF:-1 tvg-id="adome.gh" tvg-name="adome" tvg-logo="https://www.adomtv.net/wp-content/uploads/2017/12/25993444_1638614919510511_832396700_o.png" group-title="🇬🇭 Ghana",adome
+https://youtu.be/vB-A1mOpVwQ?list=PLyie0rQsQVfLBtDNoK_LUa2AqeWNQH6q2
+#EXTINF:-1 tvg-id="tvcentertainment.ng" tvg-name="tvc news" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="🇳🇬 Nigeria",tvc news
+http://69.64.57.208/tvcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="tm1.ml" tvg-name="tm1" tvg-logo="https://s2.dmcdn.net/u/8UMSn1aKzcPPUkxPg/240x240" group-title="🇲🇱 Mali",tm1
+http://69.64.57.208/tm1/playlist.m3u8
+#EXTINF:-1 tvg-id="nci.ci" tvg-name="nci" tvg-logo="https://play-lh.googleusercontent.com/BOROVAraXcVXC9IG-jYskrOLgqYJ1khk4Cqp45PNnKlEEVlCcS7Rod9DsKaFAowaHhTu=w240-h480-rw" group-title="🇨🇮 Ivory Coast",nci
+http://69.64.57.208/nci/playlist.m3u8
+#EXTINF:-1 tvg-id="2stv.sn" tvg-name="2stv" tvg-logo="https://2stv.net/assets/img/logo.webp" group-title="🇸🇳 Senegal",2stv
+http://69.64.57.208/2stv/playlist.m3u8
+#EXTINF:-1 tvg-id="tfm.sn" tvg-name="tfm" tvg-logo="https://www.igfm.sn/theme/icons/tfm.png" group-title="🇸🇳 Senegal",tfm
+http://69.64.57.208/tfm/playlist.m3u8
+#EXTINF:-1 tvg-id="rba.rw" tvg-name="rba" tvg-logo="https://cdn.rba.co.rw/admin/user_data/profile/40e3a.jpg" group-title="🇷🇼 Rwanda",rba
+https://1004910551.rsc.cdn77.org/LS-PRG-44514-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kc2.rw" tvg-name="kc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1oQSs-2wcXCqC6FpY2O4XSGOsWIezdMAgQ&s" group-title="🇷🇼 Rwanda",kc2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8 
+#EXTINF:-1 tvg-id="rtb.bf" tvg-name="rtb" tvg-logo="https://www.rtb.bf/wp-content/uploads/2024/08/logo_rtb_113n.png" group-title="🇧🇫 Burkina Faso",rtb
+http://69.64.57.208/rtb/playlist.m3u8 
+#EXTINF:-1 tvg-id="rtb.bf" tvg-name="rtb" tvg-logo="https://www.rtb.bf/wp-content/uploads/2024/08/logo_rtb_113n.png" group-title="🇧🇫 Burkina Faso",rtb
+https://edge18.vedge.infomaniak.com/livecast/ik:rtblive1_8/chunklist_w534792565.m3u8?spark=ba94c59f-9c9b-432b-83e3-727e90c2b5fd&token=
+
+http://69.64.57.208/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lifetv.ci" tvg-name="lifetv" tvg-logo="https://lifetv.ci/wp-content/uploads/2023/08/Fichier-11.png" group-title="🇨🇮 Ivory Coast",lifetv
+http://69.64.57.208/lifetv/playlist.m3u8 
+
+
+http://69.64.57.208/rtg/playlist.m3u8
+
+#EXTINF:-1,TVGE
+http://69.64.57.208/tvge/playlist.m3u8
+#EXTINF:-1 tvg-id="SEN TV.sn" tvg-name="SEN TV" tvg-logo="https://cdn.tve.static.acan.group/images/channel_1720360981.jpg" group-title="🇸🇳 Senegal",SEN TV
+http://69.64.57.208/sentv/playlist.m3u8
+
+#EXTINF:-1,RTNC
+http://69.64.57.208/rtnc/playlist.m3u8 
+
+#EXTINF:-1,ORTB
+http://69.64.57.208/ortb/playlist.m3u8
+
+#EXTINF:-1,LA 3
+http://69.64.57.208/la3/playlist.m3u8
+
+#EXTINF:-1,BossbrothersTV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1,CdirectTV
+http://51.254.199.122:8080/cdirectTV/index.m3u8
+#EXTINF:-1,MabokeTV
+http://51.254.199.122:8080/mabokeTV/index.m3u8
+#EXTINF:-1,MikubaTV
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+#EXTINF:-1,NyotaTV
+http://51.254.199.122:8080/noyaTV/index.m3u8
+#EXTINF:-1,PSTV
+http://51.254.199.122:8080/PSTV/index.m3u8
+#EXTINF:-1,RTNC
+http://51.254.199.122:8080/rtnc1/index.m3u8
+#EXTINF:-1,Tele 50
+http://51.254.199.122:8080/tele50/index.m3u8
+#EXTINF:-1,Tele Congo
+http://51.254.199.122:8080/telecongo/index.m3u8
