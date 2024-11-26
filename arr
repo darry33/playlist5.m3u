@@ -9508,6 +9508,154 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇧🇳  Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iptvorg|ABN.kr" tvg-name="ABN TV (720p)" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="🇰🇷 South Korea" tvg-chno="102" tvh-chnum="102",ABN TV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=ABN.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="🇰🇷 South Korea" tvg-chno="103" tvh-chnum="103",Arirang
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=ArirangTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|ArirangRadio.kr" tvg-name="Arirang Radio (720p)" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="🇰🇷 South Korea" tvg-chno="104" tvh-chnum="104",Arirang Radio (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=ArirangRadio.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|BBCNewsAsiaPacific.uk" tvg-name="BBC News Asia Pacific (720p)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🇰🇷 South Korea" tvg-chno="105" tvh-chnum="105",BBC News Asia Pacific (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=BBCNewsAsiaPacific.uk&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|BBSTV.kr" tvg-name="BBS Buddhist Broadcasting (1080p)" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="🇰🇷 South Korea" tvg-chno="106" tvh-chnum="106",BBS Buddhist Broadcasting (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=BBSTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|BloombergTVAsia.hk" tvg-name="Bloomberg TV Asia (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇰🇷 South Korea" tvg-chno="107" tvh-chnum="107",Bloomberg TV Asia (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=BloombergTVAsia.hk&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|BloombergTVAsiaLiveEvent.hk" tvg-name="Bloomberg TV Asia Live Event (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇰🇷 South Korea" tvg-chno="108" tvh-chnum="108",Bloomberg TV Asia Live Event (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=BloombergTVAsiaLiveEvent.hk&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|BTNTV.kr" tvg-name="BTN TV (1080p)" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="🇰🇷 South Korea" tvg-chno="109" tvh-chnum="109",BTN TV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=BTNTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|Cchannel.kr" tvg-name="C Channel (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="🇰🇷 South Korea" tvg-chno="110" tvh-chnum="110",C Channel (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=Cchannel.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|CGNTVSouthKorea.kr" tvg-name="CGNTV (720p)" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="🇰🇷 South Korea" tvg-chno="111" tvh-chnum="111",CGNTV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=CGNTVSouthKorea.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|CJOnStyle.kr" tvg-name="CJ OnStyle (540p)" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="🇰🇷 South Korea" tvg-chno="112" tvh-chnum="112",CJ OnStyle (540p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=CJOnStyle.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|CJOnStylePlus.kr" tvg-name="CJ OnStyle Plus (540p)" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="🇰🇷 South Korea" tvg-chno="113" tvh-chnum="113",CJ OnStyle Plus (540p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=CJOnStylePlus.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|CTSTV.kr" tvg-name="CTS기독교TV (720p)" tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="🇰🇷 South Korea" tvg-chno="114" tvh-chnum="114",CTS기독교TV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=CTSTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBS1TV.kr" tvg-name="EBS 1 (400p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="🇰🇷 South Korea" tvg-chno="115" tvh-chnum="115",EBS 1 (400p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBS1TV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBS2TV.kr" tvg-name="EBS 2 (400p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="🇰🇷 South Korea" tvg-chno="116" tvh-chnum="116",EBS 2 (400p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBS2TV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBSEnglish.kr" tvg-name="EBS E (400p) [Not 24/7]" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="🇰🇷 South Korea" tvg-chno="117" tvh-chnum="117",EBS E (400p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBSEnglish.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBSKids.kr" tvg-name="EBS kids (400p) [Not 24/7]" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="🇰🇷 South Korea" tvg-chno="118" tvh-chnum="118",EBS kids (400p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBSKids.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBSPlus1.kr" tvg-name="EBS+ 1 (400p)" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="🇰🇷 South Korea" tvg-chno="119" tvh-chnum="119",EBS+ 1 (400p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBSPlus1.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EBSPlus2.kr" tvg-name="EBS+ 2 (400p)" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="🇰🇷 South Korea" tvg-chno="120" tvh-chnum="120",EBS+ 2 (400p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EBSPlus2.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EWTNAfricaAsia.us" tvg-name="EWTN Africa Asia (720p)" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="🇰🇷 South Korea" tvg-chno="121" tvh-chnum="121",EWTN Africa Asia (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EWTNAfricaAsia.us&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|EWTNAsiaPacific.us" tvg-name="EWTN Asia-Pacific (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="🇰🇷 South Korea" tvg-chno="122" tvh-chnum="122",EWTN Asia-Pacific (720p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=EWTNAsiaPacific.us&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|FGTV.kr" tvg-name="FGTV (720p)" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="🇰🇷 South Korea" tvg-chno="123" tvh-chnum="123",FGTV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=FGTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GCN.kr" tvg-name="GCN24 Korean (1080p)" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="🇰🇷 South Korea" tvg-chno="124" tvh-chnum="124",GCN24 Korean (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GCN.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GongyoungHomeShopping.kr" tvg-name="Gongyoung Shopping (720p)" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="🇰🇷 South Korea" tvg-chno="125" tvh-chnum="125",Gongyoung Shopping (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GongyoungHomeShopping.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GoodTV.kr" tvg-name="GoodTV (1080p)" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="🇰🇷 South Korea" tvg-chno="126" tvh-chnum="126",GoodTV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GoodTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GSMyShop.kr" tvg-name="GS My Shop (1080p)" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="🇰🇷 South Korea" tvg-chno="127" tvh-chnum="127",GS My Shop (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GSMyShop.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GSShop.kr" tvg-name="GS Shop (1080p)" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="🇰🇷 South Korea" tvg-chno="128" tvh-chnum="128",GS Shop (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GSShop.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GugakTV.kr" tvg-name="GugakTV 국악방송 (1080p)" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🇰🇷 South Korea" tvg-chno="129" tvh-chnum="129",GugakTV 국악방송 (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GugakTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|GugbangTV.kr" tvg-name="Gugbang TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="🇰🇷 South Korea" tvg-chno="130" tvh-chnum="130",Gugbang TV (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=GugbangTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HomeShopping.kr" tvg-name="Home & Shopping (720p)" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="🇰🇷 South Korea" tvg-chno="131" tvh-chnum="131",Home & Shopping (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HomeShopping.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HyundaiHomeShopping.kr" tvg-name="Hyundai Home Shopping (720p)" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="🇰🇷 South Korea" tvg-chno="132" tvh-chnum="132",Hyundai Home Shopping (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HyundaiHomeShopping.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HyundaiHomeShoppingPlusShop.kr" tvg-name="Hyundai Home Shopping Plus (720p)" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="🇰🇷 South Korea" tvg-chno="133" tvh-chnum="133",Hyundai Home Shopping Plus (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HyundaiHomeShoppingPlusShop.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|" tvg-name="Korean Song Channel (720p)" tvg-logo="" group-title="🇰🇷 South Korea" tvg-chno="134" tvh-chnum="134",Korean Song Channel (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|JobplusTV.kr" tvg-name="Job Plus TV (한국직업방송) (480p)" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="🇰🇷 South Korea" tvg-chno="135" tvh-chnum="135",Job Plus TV (한국직업방송) (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=JobplusTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBS1TV.kr" tvg-name="KBS 1TV [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="🇰🇷 South Korea" tvg-chno="136" tvh-chnum="136",KBS 1TV [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBS1TV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBS2TV.kr" tvg-name="KBS 2TV [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="🇰🇷 South Korea" tvg-chno="137" tvh-chnum="137",KBS 2TV [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBS2TV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSDrama.kr" tvg-name="KBS Drama (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="🇰🇷 South Korea" tvg-chno="138" tvh-chnum="138",KBS Drama (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSDrama.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSJoy.kr" tvg-name="KBS Joy (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="🇰🇷 South Korea" tvg-chno="139" tvh-chnum="139",KBS Joy (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSJoy.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSKids.kr" tvg-name="KBS Kids (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="🇰🇷 South Korea" tvg-chno="140" tvh-chnum="140",KBS Kids (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSKids.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSLife.kr" tvg-name="KBS Life (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="🇰🇷 South Korea" tvg-chno="141" tvh-chnum="141",KBS Life (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSLife.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSLiveCamDokDo.kr" tvg-name="KBS LiveCam DokDo (540p)" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="🇰🇷 South Korea" tvg-chno="142" tvh-chnum="142",KBS LiveCam DokDo (540p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSLiveCamDokDo.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KBSStory.kr" tvg-name="KBS Story (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="🇰🇷 South Korea" tvg-chno="143" tvh-chnum="143",KBS Story (480p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KBSStory.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KCTV.kr" tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="🇰🇷 South Korea" tvg-chno="144" tvh-chnum="144",KCTV 광주 CH05 (720p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KCTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KoreaEconomyTV.kr" tvg-name="Korea Economy TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/fGQatSH.png" group-title="🇰🇷 South Korea" tvg-chno="145" tvh-chnum="145",Korea Economy TV (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KoreaEconomyTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|KTV.kr" tvg-name="Korea TV (1080p)" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="🇰🇷 South Korea" tvg-chno="146" tvh-chnum="146",Korea TV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=KTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|LotteOneTV.kr" tvg-name="Lotte OneTV (720p)" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="🇰🇷 South Korea" tvg-chno="147" tvh-chnum="147",Lotte OneTV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=LotteOneTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|MaeilBusinessTV.kr" tvg-name="Maeil Business TV (1080p)" tvg-logo="https://i.imgur.com/G2fnMXG.png" group-title="🇰🇷 South Korea" tvg-chno="148" tvh-chnum="148",Maeil Business TV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=MaeilBusinessTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|MBCEvery1.kr" tvg-name="MBC Every1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="🇰🇷 South Korea" tvg-chno="149" tvh-chnum="149",MBC Every1 (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=MBCEvery1.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HLCNDTV.kr" tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="🇰🇷 South Korea" tvg-chno="150" tvh-chnum="150",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HLCNDTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|MBCNet.kr" tvg-name="MBC Net (480p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="🇰🇷 South Korea" tvg-chno="151" tvh-chnum="151",MBC Net (480p) [Geo-blocked]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=MBCNet.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|NationalAssemblyTV.kr" tvg-name="National Assembly TV (720p)" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="🇰🇷 South Korea" tvg-chno="152" tvh-chnum="152",National Assembly TV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=NationalAssemblyTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|NBS.kr" tvg-name="NBS Korea Agricultural Broadcasting (720p)" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="🇰🇷 South Korea" tvg-chno="153" tvh-chnum="153",NBS Korea Agricultural Broadcasting (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=NBS.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|NHTV.kr" tvg-name="NHTV (720p)" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="🇰🇷 South Korea" tvg-chno="154" tvh-chnum="154",NHTV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=NHTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|NSShopPlus.kr" tvg-name="NS Shop Plus (720p)" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="🇰🇷 South Korea" tvg-chno="155" tvh-chnum="155",NS Shop Plus (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=NSShopPlus.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HLQSDTV.kr" tvg-name="OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="🇰🇷 South Korea" tvg-chno="156" tvh-chnum="156",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HLQSDTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|OUN.kr" tvg-name="OUN (1080p)" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="🇰🇷 South Korea" tvg-chno="157" tvh-chnum="157",OUN (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=OUN.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|RUTCTV.kr" tvg-name="RUTC TV (720p)" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="🇰🇷 South Korea" tvg-chno="158" tvh-chnum="158",RUTC TV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=RUTCTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HLDGDTV.kr" tvg-name="SBS KNN (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="🇰🇷 South Korea" tvg-chno="159" tvh-chnum="159",SBS KNN (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HLDGDTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|SBSNews.kr" tvg-name="SBS News (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/VY6uEE9.png" group-title="🇰🇷 South Korea" tvg-chno="160" tvh-chnum="160",SBS News (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=SBSNews.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|HLDFDTV.kr" tvg-name="SBS TJB (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="🇰🇷 South Korea" tvg-chno="161" tvh-chnum="161",SBS TJB (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=HLDFDTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|SENTV.kr" tvg-name="SEN TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FimaHhq.png" group-title="🇰🇷 South Korea" tvg-chno="162" tvh-chnum="162",SEN TV (720p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=SENTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|ShinsegaeTVShopping.kr" tvg-name="Shinsegae Shopping TV (720p)" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="🇰🇷 South Korea" tvg-chno="163" tvh-chnum="163",Shinsegae Shopping TV (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=ShinsegaeTVShopping.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|ShoppingNT.kr" tvg-name="Shopping NT (720p)" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="🇰🇷 South Korea" tvg-chno="164" tvh-chnum="164",Shopping NT (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=ShoppingNT.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|TBSeFM.kr" tvg-name="TBS eFM (1080p) [Not 24/7]" tvg-logo="https://tbs.seoul.kr/common/images/gnb/logo.png" group-title="🇰🇷 South Korea" tvg-chno="165" tvh-chnum="165",TBS eFM (1080p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=TBSeFM.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|TBSTV.kr" tvg-name="TBS Seoul (720p)" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="🇰🇷 South Korea" tvg-chno="166" tvh-chnum="166",TBS Seoul (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=TBSTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|TomatoTV.kr" tvg-name="Tomato TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/g8UJus1.png" group-title="🇰🇷 South Korea" tvg-chno="167" tvh-chnum="167",Tomato TV (720p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=TomatoTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|WShopping.kr" tvg-name="W Shopping (720p)" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="🇰🇷 South Korea" tvg-chno="168" tvh-chnum="168",W Shopping (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=WShopping.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|WBCTV.kr" tvg-name="WBC TV (1080p)" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="🇰🇷 South Korea" tvg-chno="169" tvh-chnum="169",WBC TV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=WBCTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|YonhapNewsTV.kr" tvg-name="Yonhap News TV (1080p)" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="🇰🇷 South Korea" tvg-chno="170" tvh-chnum="170",Yonhap News TV (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=YonhapNewsTV.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|YTN2.kr" tvg-name="YTN2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="🇰🇷 South Korea" tvg-chno="171" tvh-chnum="171",YTN2 (720p) [Not 24/7]
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=YTN2.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|YTN.kr" tvg-name="YTN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="🇰🇷 South Korea" tvg-chno="172" tvh-chnum="172",YTN (1080p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=YTN.kr&apikey=HEIBW1CDXJ
+#EXTINF:-1 tvg-id="iptvorg|YTNScience.kr" tvg-name="YTN Science (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🇰🇷 South Korea" tvg-chno="173" tvh-chnum="173",YTN Science (720p)
+http://chc.gmoons.org:8888/klive_plus/api/url.m3u8?source=iptvorg&ch_id=YTNScience.kr&apikey=HEIBW1CDXJ
+
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="🇰🇷 South Korea",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🇰🇷 South Korea",SBS JIBS (720p) [Not 24/7]
@@ -9568,6 +9716,260 @@ http://mytv.dothome.co.kr/ch/catv/26.php
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="🇰🇷 South Korea",MBC Net (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",FOX News Channel
+http://streamsy.online:2999/live/juanv/04bodwaga0/267.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",MSNBC
+http://streamsy.online:2999/live/juanv/04bodwaga0/143.m3u8
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NBC (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CBS SPORTS NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ESPN
+http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="🇺🇸 United States" tvg-shift="-6",FOX SOCCER PLUS
+http://streamsy.online:2999/live/juanv/04bodwaga0/265.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",FS2
+http://streamsy.online:2999/juanv/04bodwaga0/264
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",SEC Network
+http://streamsy.online:2999/juanv/04bodwaga0/295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="🇺🇸 United States" tvg-shift="-6",CINEMAX
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX DRIVE IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",EPIX DRIVE IN
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",EPIX HITS
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz Encore
+http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",SundanceTV
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",BET HER
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",BET SOUL
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",BRAVO
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",FOOD NETWORK
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",FYI FHD
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",getTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Logo
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="mtvU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",mtvU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Oprah Winfrey Network
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",PopTV
+http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",truTV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",TVLand
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="🇺🇸 United States" tvg-shift="-6",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",ID (Investigation Discovery)
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",CARTOON NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",DISCOVERY FAMILY CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",DISNEY XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="🇺🇸 United States" tvg-shift="-6",NickJr
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="🇺🇸 United States" tvg-shift="-6",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
 
 
 
