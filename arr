@@ -2995,6 +2995,534 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇪🇸 ESPAÑA " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/A3Player.webp",A3Player Equipo Investigacion 
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+#EXTINF:-1 tvg-id="TVE UHD" group-title="🇪🇸 ESPAÑA " ch-number="1" tvg-logo="https://ver.zapitv.com/images/ch/10/LOGO/m/0",TVE UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 tvg-id="LA 2" group-title="🇪🇸 ESPAÑA " ch-number="2" tvg-logo="https://ver.zapitv.com/images/ch/11/LOGO/m/0",LA 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+#EXTINF:-1 tvg-id="ANTENA 3" group-title="🇪🇸 ESPAÑA " ch-number="3" tvg-logo="https://ver.zapitv.com/images/ch/12/LOGO/m/0",ANTENA 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
+https://ott.zapitv.com/live/eds_c2/antena_3/dash_live_enc/antena_3.mpd
+
+#EXTINF:-1 tvg-id="CUATRO" group-title="🇪🇸 ESPAÑA " ch-number="4" tvg-logo="https://ver.zapitv.com/images/ch/13/LOGO/m/0",CUATRO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
+
+#EXTINF:-1 tvg-id="TELECINCO" group-title="🇪🇸 ESPAÑA " ch-number="5" tvg-logo="https://ver.zapitv.com/images/ch/14/LOGO/m/0",TELECINCO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1dbacf4b932a11cd6cecb741def23d:0375536d6e512003972d1d6ea1f4d7c0
+https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
+
+#EXTINF:-1 tvg-id="LA SEXTA" group-title="🇪🇸 ESPAÑA " ch-number="6" tvg-logo="https://ver.zapitv.com/images/ch/15/LOGO/m/0",LA SEXTA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
+https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
+
+#EXTINF:-1 tvg-id="CLAN TVE" group-title="🇪🇸 ESPAÑA " ch-number="7" tvg-logo="https://ver.zapitv.com/images/ch/16/LOGO/m/0",CLAN TVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5daeec78aaec0ebb3353c5f7ebd16690:a56bd13e0cde801bb05c668b7578dfad
+https://ott.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_enc/clan_tv_hd.mpd
+
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="🇪🇸 ESPAÑA " ch-number="8" tvg-logo="https://ver.zapitv.com/images/ch/17/LOGO/m/0",NICKELODEON
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb21df65b1aae6fe7fe71cef1a7c79f6:e412464631ed10382d07b4467acdff19
+https://ott.zapitv.com/live/eds_c2/nickelodeon/dash_live_enc/nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="DISNEY CH HD" group-title="🇪🇸 ESPAÑA " ch-number="10" tvg-logo="https://ver.zapitv.com/images/ch/19/LOGO/m/0",DISNEY CH HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e616cc1f21a189fc3b829357acf15c9:77eec11eb17a2f47aad49f3a5e2a0c72
+https://ott.zapitv.com/live/eds_c2/disney_channel/dash_live_enc/disney_channel.mpd
+
+#EXTINF:-1 tvg-id="NICK JR" group-title="🇪🇸 ESPAÑA " ch-number="11" tvg-logo="https://ver.zapitv.com/images/ch/20/LOGO/m/0",NICK JR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9288b676a6758b2f90b6b38f4b47f122:9f777abf518d699f4f5992dd9db8b1fa
+https://ott.zapitv.com/live/eds_c2/nick_jr/dash_live_enc/nick_jr.mpd
+
+#EXTINF:-1 tvg-id="BOING" group-title="🇪🇸 ESPAÑA " ch-number="12" tvg-logo="https://ver.zapitv.com/images/ch/21/LOGO/m/0",BOING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c
+https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
+
+#EXTINF:-1 tvg-id="LOLLYKIDS" group-title="🇪🇸 ESPAÑA " ch-number="13" tvg-logo="https://ver.zapitv.com/images/ch/130/LOGO/m/0",LOLLYKIDS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/LollyKids/index.mpd
+
+#EXTINF:-1 tvg-id="ENFAMILIA" group-title="🇪🇸 ESPAÑA " ch-number="14" tvg-logo="https://ver.zapitv.com/images/ch/521/LOGO/m/0",ENFAMILIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa360c3c1de766745176da004f574f25:1b2fd687dd8cb38132cab84a1342f02d
+https://ott.zapitv.com/live/eds_c2/enfamilia/dash_live_enc/enfamilia.mpd
+
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="🇪🇸 ESPAÑA " ch-number="16" tvg-logo="https://ver.zapitv.com/images/ch/25/LOGO/m/0",HOLLYWOOD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38b0a87ba1614db52f1520191282a0db:af101261419cdcf7c09b82592eac862a
+https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_enc/hollywood_hd.mpd
+
+#EXTINF:-1 tvg-id="AMC" group-title="🇪🇸 ESPAÑA " ch-number="17" tvg-logo="https://ver.zapitv.com/images/ch/26/LOGO/m/0",AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
+
+#EXTINF:-1 tvg-id="TCM" group-title="🇪🇸 ESPAÑA " ch-number="18" tvg-logo="https://ver.zapitv.com/images/ch/27/LOGO/m/0",TCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ac0887faa9a185c93a2b989bff2e24b:22831d8c2d1133edf6b8db84087b5854
+https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd
+
+#EXTINF:-1 tvg-id="XTRM" group-title="🇪🇸 ESPAÑA " ch-number="20" tvg-logo="https://ver.zapitv.com/images/ch/29/LOGO/m/0",XTRM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
+https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
+
+#EXTINF:-1 tvg-id="SOMOS" group-title="🇪🇸 ESPAÑA " ch-number="21" tvg-logo="https://ver.zapitv.com/images/ch/30/LOGO/m/0",SOMOS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
+https://ott.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
+
+#EXTINF:-1 tvg-id="SYFY" group-title="🇪🇸 ESPAÑA " ch-number="22" tvg-logo="https://ver.zapitv.com/images/ch/31/LOGO/m/0",SYFY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#EXTINF:-1 tvg-id="ESCAPA" group-title="🇪🇸 ESPAÑA " ch-number="23" tvg-logo="https://ver.zapitv.com/images/ch/290/LOGO/m/0",ESCAPA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1db8d673907b855cc52fa6c030aae18a:119e1f5bfe90e95d9b049cbf7dc66e45
+https://ott.zapitv.com/live/eds_c2/escapatv/dash_live_enc/escapatv.mpd
+
+#EXTINF:-1 tvg-id="WARNERTV" group-title="🇪🇸 ESPAÑA " ch-number="24" tvg-logo="https://ver.zapitv.com/images/ch/33/LOGO/m/0",WARNERTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="🇪🇸 ESPAÑA " ch-number="25" tvg-logo="https://ver.zapitv.com/images/ch/34/LOGO/m/0",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 tvg-id="AXN MOVIES" group-title="🇪🇸 ESPAÑA " ch-number="26" tvg-logo="https://ver.zapitv.com/images/ch/35/LOGO/m/0",AXN MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
+#EXTINF:-1 tvg-id="CALLE 13" group-title="🇪🇸 ESPAÑA " ch-number="27" tvg-logo="https://ver.zapitv.com/images/ch/36/LOGO/m/0",CALLE 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
+https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
+
+#EXTINF:-1 tvg-id="SUNDANCE TV" group-title="🇪🇸 ESPAÑA " ch-number="28" tvg-logo="https://ver.zapitv.com/images/ch/37/LOGO/m/0",SUNDANCE TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
+https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
+
+#EXTINF:-1 tvg-id="Global Tendencias" group-title="🇪🇸 ESPAÑA " ch-number="29" tvg-logo="https://ver.zapitv.com/images/ch/132/LOGO/m/0",Global Tendencias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4867b0cba7d2bd6ccdfc69ba6e37b1aa:75cc9e24449f88fcc0d39eb0cc096937
+https://ott.zapitv.com/live/eds_c2/tendencias/dash_live_enc/tendencias.mpd
+
+#EXTINF:-1 tvg-id="Global Telenovelas" group-title="🇪🇸 ESPAÑA " ch-number="30" tvg-logo="https://ver.zapitv.com/images/ch/39/LOGO/m/0",Global Telenovelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4671f44116448236c23dc7813c4835:e01ba6e0304c3e0d82b3705e01607a9e
+https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.mpd
+
+#EXTINF:-1 tvg-id="DIVINITY" group-title="🇪🇸 ESPAÑA " ch-number="31" tvg-logo="https://ver.zapitv.com/images/ch/41/LOGO/m/0",DIVINITY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
+https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
+
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="🇪🇸 ESPAÑA " ch-number="32" tvg-logo="https://ver.zapitv.com/images/ch/42/LOGO/m/0",PARAMOUNT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46cebb5906150f7e0aadc3a4d93d1a6c:757da1b0cdcf2c54c6c8b1560f272d33
+https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
+
+#EXTINF:-1 tvg-id="DMAX" group-title="🇪🇸 ESPAÑA " ch-number="33" tvg-logo="https://ver.zapitv.com/images/ch/43/LOGO/m/0",DMAX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
+https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
+
+#EXTINF:-1 tvg-id="HISTORIA" group-title="🇪🇸 ESPAÑA " ch-number="36" tvg-logo="https://ver.zapitv.com/images/ch/47/LOGO/m/0",HISTORIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
+
+#EXTINF:-1 tvg-id="CANAL ODISEA" group-title="🇪🇸 ESPAÑA " ch-number="38" tvg-logo="https://ver.zapitv.com/images/ch/49/LOGO/m/0",CANAL ODISEA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
+https://ott.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
+
+#EXTINF:-1 tvg-id="IBERALIA" group-title="🇪🇸 ESPAÑA " ch-number="38" tvg-logo="https://ver.zapitv.com/images/ch/50/LOGO/m/0",IBERALIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c91a4e9ccc6f6f253fc9d7c57850aa9:c88cd0613ffed9721c0616583cb917d8
+https://ott.zapitv.com/live/eds_c2/iberalia/dash_live_enc/iberalia.mpd
+
+#EXTINF:-1 tvg-id="Iberalia 100% Caza" group-title="🇪🇸 ESPAÑA " ch-number="40" tvg-logo="https://ver.zapitv.com/images/ch/51/LOGO/m/0",Iberalia 100% Caza
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
+https://ott.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd  
+
+#EXTINF:-1 tvg-id="Iberalia 100% Pesca" group-title="🇪🇸 ESPAÑA " ch-number="41" tvg-logo="https://ver.zapitv.com/images/ch/52/LOGO/m/0",Iberalia 100% Pesca
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
+https://ott.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
+
+#© Keane_stv GMPD ®#
+
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="🇪🇸 ESPAÑA " ch-number="42" tvg-logo="https://ver.zapitv.com/images/ch/53/LOGO/m/0",DISCOVERY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
+https://ott.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
+
+#EXTINF:-1 tvg-id="CANAL COCINA" group-title="🇪🇸 ESPAÑA " ch-number="43" tvg-logo="https://ver.zapitv.com/images/ch/54/LOGO/m/0",CANAL COCINA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
+#EXTINF:-1 tvg-id="AMC BREAK" group-title="🇪🇸 ESPAÑA " ch-number="44" tvg-logo="https://ver.zapitv.com/images/ch/55/LOGO/m/0",AMC BREAK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb
+https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
+
+#EXTINF:-1 tvg-id="BuenViaje" group-title="🇪🇸 ESPAÑA " ch-number="45" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BUENV",BuenViaje
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05eeec445f9bcfaef03c36965fce16d7:a3b3b1d585f5d0472336a17824d5da22
+https://ott.zapitv.com/live/eds_c2/BUENVIAJE/dash_live_enc/BUENVIAJE.mpd
+
+#EXTINF:-1 tvg-id="MTV HITS" group-title="🇪🇸 ESPAÑA " ch-number="46" tvg-logo="https://ver.zapitv.com/images/ch/57/LOGO/m/0",MTV HITS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac
+https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
+
+#EXTINF:-1 tvg-id="MTV 00s" group-title="🇪🇸 ESPAÑA " ch-number="47" tvg-logo="https://ver.zapitv.com/images/ch/58/LOGO/m/0",MTV 00s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c8a5c8fdd7106a0c4b63cf9bc2223:d9a4c96e3cb098279b5db8f87621fd85
+https://ott.zapitv.com/live/eds_c2/vh1/dash_live_enc/vh1.mpd
+
+#EXTINF:-1 tvg-id="MTV ESPAÑA" group-title="🇪🇸 ESPAÑA " ch-number="48" tvg-logo="https://ver.zapitv.com/images/ch/59/LOGO/m/0",MTV ESPAÑA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
+
+#EXTINF:-1 tvg-id="MTV 80s" group-title="🇪🇸 ESPAÑA " ch-number="49" tvg-logo="https://ver.zapitv.com/images/ch/60/LOGO/m/0",MTV 80s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77318e15c3e69e56828e86528df8ff31:aa0dd9bbf74de516e23daaa9d5318cc2
+https://ott.zapitv.com/live/eds_c2/MTV80_S/dash_live_enc/MTV80_S.mpd
+
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="🇪🇸 ESPAÑA " ch-number="50" tvg-logo="https://ver.zapitv.com/images/ch/62/LOGO/m/0",GOL PLAY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33a801fbfd0d4a939a33638b12f59bc7:09764d98c241cd45a3fcea09593e3255
+https://ott.zapitv.com/live/eds_c2/gol_tv/dash_live_enc/gol_tv.mpd
+
+#EXTINF:-1 tvg-id="TELEDEPORTE" group-title="🇪🇸 ESPAÑA " ch-number="51" tvg-logo="https://ver.zapitv.com/images/ch/63/LOGO/m/0",TELEDEPORTE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-id="EUROSPORT 1" group-title="🇪🇸 ESPAÑA " ch-number="52" tvg-logo="https://ver.zapitv.com/images/ch/64/LOGO/m/0",EUROSPORT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" group-title="🇪🇸 ESPAÑA " ch-number="53" tvg-logo="https://ver.zapitv.com/images/ch/65/LOGO/m/0",EUROSPORT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+
+#EXTINF:-1 tvg-id="Realmadrid TV" group-title="🇪🇸 ESPAÑA " ch-number="54" tvg-logo="https://ver.zapitv.com/images/ch/66/LOGO/m/0",Realmadrid TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d875cda9ca113fcea402f659595c5cd:9ccf825fb4548c17a7b7b5da17056208
+https://ott.zapitv.com/live/eds_c2/real_madrid_tv_hd/dash_live_enc/real_madrid_tv_hd.mpd
+
+#EXTINF:-1 tvg-id="Surf Channel" group-title="🇪🇸 ESPAÑA " ch-number="56" tvg-logo="https://ver.zapitv.com/images/ch/136/LOGO/m/0",Surf Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f59b4aefec579d0e2e27acb881b042a:c9d80a33d090b8b31098b78e0a663cda
+https://ott.zapitv.com/live/eds_c2/surf_channel/dash_live_enc/surf_channel.mpd
+
+#EXTINF:-1 tvg-id="ENERGY" group-title="🇪🇸 ESPAÑA " ch-number="57" tvg-logo="https://ver.zapitv.com/images/ch/69/LOGO/m/0",ENERGY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f59b4aefec579d0e2e27acb881b042a:c9d80a33d090b8b31098b78e0a663cda
+https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
+
+#EXTINF:-1 tvg-id="24h HD" group-title="🇪🇸 ESPAÑA " ch-number="59" tvg-logo="https://ver.zapitv.com/images/ch/71/LOGO/m/0",24h HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b5da8f127efd5a84c8d7d37fc828d44:244f6ea4a4fa570e3cc9c4817cef9a23
+https://ott.zapitv.com/live/eds_c2/24h_tve/dash_live_enc/24h_tve.mpd
+
+#EXTINF:-1 tvg-id="EL TORO TV" group-title="🇪🇸 ESPAÑA " ch-number="60" tvg-logo="https://ver.zapitv.com/images/ch/75/LOGO/m/0",EL TORO TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=793c59ba1b09b8a1004da778dab0afcb:80ee84db32af59b25625081db47d247d
+https://ott.zapitv.com/live/eds_c2/intereconomia/dash_live_enc/intereconomia.mpd
+
+#EXTINF:-1 tvg-id="EWTN" group-title="🇪🇸 ESPAÑA " ch-number="61" tvg-logo="https://ver.zapitv.com/images/ch/137/LOGO/m/0",EWTN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bdec5857e084486f973410935eff8b:12c2a996a60f4b296effce1b5f457c1c
+https://ott.zapitv.com/live/eds_c2/ewtn/dash_live_enc/ewtn.mpd
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" group-title="🇪🇸 ESPAÑA " ch-number="63" tvg-logo="https://ver.zapitv.com/images/ch/78/LOGO/m/0",COMEDY CENTRAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8757de5a495ce5db4893c2eefc11e58:d8309cd9fa8c286f277b4cb9841d7bd2
+https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
+
+#EXTINF:-1 tvg-id="CANAL DECASA" group-title="🇪🇸 ESPAÑA " ch-number="64" tvg-logo="https://ver.zapitv.com/images/ch/79/LOGO/m/0",CANAL DECASA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
+https://ott.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
+
+#EXTINF:-1 tvg-id="DKISS" group-title="🇪🇸 ESPAÑA " ch-number="65" tvg-logo="https://ver.zapitv.com/images/ch/80/LOGO/m/0",DKISS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70651586506d7deea68016492dedb94:9b094387d596c64260754f07baeca18c
+https://ott.zapitv.com/live/eds_c2/dkiss_tv/dash_live_enc/dkiss_tv.mpd
+
+#EXTINF:-1 tvg-id="TEN" group-title="🇪🇸 ESPAÑA " ch-number="66" tvg-logo="https://ver.zapitv.com/images/ch/81/LOGO/m/0",TEN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55bf0a5d7c5eb6edecd240c0a31e0002:f8e186b29f5b2d162ac08446ee5aa68b
+https://ott.zapitv.com/live/eds_c2/ten/dash_live_enc/ten.mpd
+
+#EXTINF:-1 tvg-id="BE MAD" group-title="🇪🇸 ESPAÑA " ch-number="67" tvg-logo="https://ver.zapitv.com/images/ch/82/LOGO/m/0",BE MAD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
+
+#EXTINF:-1 tvg-id="atreseries HD" group-title="🇪🇸 ESPAÑA " ch-number="68" tvg-logo="https://ver.zapitv.com/images/ch/83/LOGO/m/0",atreseries HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
+https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
+
+#EXTINF:-1 tvg-id="BOM" group-title="🇪🇸 ESPAÑA " ch-number="69" tvg-logo="https://ver.zapitv.com/images/ch/84/LOGO/m/0",BOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
+https://ott.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
+
+#EXTINF:-1 tvg-id="NOVA" group-title="🇪🇸 ESPAÑA " ch-number="70" tvg-logo="https://ver.zapitv.com/images/ch/87/LOGO/m/0",NOVA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa4cb9b8c4bf791c9489f14918c3c53:3da828bf72864f063e471630816d1d2e
+https://ott.zapitv.com/live/eds_c2/nova/dash_live_enc/nova.mpd
+
+#EXTINF:-1 tvg-id="MEGA" group-title="🇪🇸 ESPAÑA " ch-number="71" tvg-logo="https://ver.zapitv.com/images/ch/85/LOGO/m/0",MEGA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a70eab585ae43502fc74c80ff36e220:fdf388a77f8e45cc28e8ba7887b8f29a
+https://ott.zapitv.com/live/eds_c2/mega/dash_live_enc/mega.mpd
+
+#EXTINF:-1 tvg-id="NEOX" group-title="🇪🇸 ESPAÑA " ch-number="72" tvg-logo="https://ver.zapitv.com/images/ch/86/LOGO/m/0",NEOX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6da74168743cd45b6b65485269dcd050:36453fecd12b91a30958fd340ca1d087
+https://ott.zapitv.com/live/eds_c2/neox/dash_live_enc/neox.mpd
+
+#EXTINF:-1 tvg-id="FDF" group-title="🇪🇸 ESPAÑA " ch-number="73" tvg-logo="https://ver.zapitv.com/images/ch/88/LOGO/m/0",FDF
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
+https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+
+#EXTINF:-1 tvg-id="DARK" group-title="🇪🇸 ESPAÑA " ch-number="74" tvg-logo="https://ver.zapitv.com/images/ch/220/LOGO/m/0",DARK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
+https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
+
+#EXTINF:-1 tvg-id="AMC CRIME" group-title="🇪🇸 ESPAÑA " ch-number="75" tvg-logo="https://ver.zapitv.com/images/ch/221/LOGO/m/0",AMC CRIME
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630
+https://ott.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd
+
+#EXTINF:-1 tvg-id="AllFlamenco" group-title="🇪🇸 ESPAÑA " ch-number="76" tvg-logo="https://ver.zapitv.com/images/ch/138/LOGO/m/0",AllFlamenco
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c158a75ffdedb3725862bc2781cc37b:21003ef5f3c9cfc278307d6c8329898c
+https://ott.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
+
+#EXTINF:-1 tvg-id="A PUNT HD" group-title="🇪🇸 ESPAÑA " ch-number="82" tvg-logo="https://ver.zapitv.com/images/ch/89/LOGO/m/0",A PUNT HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c720da6eb15228edb8bde37c13be8b:4aa47fc89cd090b3d0851c7dbd2602ee
+https://ott.zapitv.com/live/eds_c2/a_punt_hd/dash_live_enc/a_punt_hd.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="🇪🇸 ESPAÑA " ch-number="83" tvg-logo="https://ver.zapitv.com/images/ch/90/LOGO/m/0",TV3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c470ccf82ba9c9a91c2cb828a63cd155:e862da4dc95679234997f06707ecd021
+https://ott.zapitv.com/live/eds_c2/tv3_hd/dash_live_enc/tv3_hd.mpd
+
+#EXTINF:-1 tvg-id="TELEMADRID" group-title="🇪🇸 ESPAÑA " ch-number="84" tvg-logo="https://ver.zapitv.com/images/ch/91/LOGO/m/0",TELEMADRID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3abf39227e2b2ccacd2854730faaf8e2:64a402f23216e311c38ca990e8792f2a
+https://ott.zapitv.com/live/eds_c2/tele_madrid_hd/dash_live_enc/tele_madrid_hd.mpd
+
+#EXTINF:-1 tvg-id="LaOtra" group-title="🇪🇸 ESPAÑA " ch-number="85" tvg-logo="https://ver.zapitv.com/images/ch/92/LOGO/m/0",LaOtra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
+https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
+
+#EXTINF:-1 tvg-id="CMM" group-title="🇪🇸 ESPAÑA " ch-number="86" tvg-logo="https://ver.zapitv.com/images/ch/93/LOGO/m/0",CMM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be0461082e289bb7991a92e96b4acdd:d8cc8fef100a446b75cd08b93f724980
+https://ott.zapitv.com/live/eds_c2/cmt_hd/dash_live_enc/cmt_hd.mpd
+
+#EXTINF:-1 tvg-id="CANAL SUR HD" group-title="🇪🇸 ESPAÑA " ch-number="87" tvg-logo="https://ver.zapitv.com/images/ch/94/LOGO/m/0",CANAL SUR HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56ddc01aebb4bd0bedb0762be969ff87:3eaa3e0e5c394792742f05d57baf6ccd
+https://ott.zapitv.com/live/eds_c2/canal_sur_hd/dash_live_enc/canal_sur_hd.mpd
+
+#EXTINF:-1 tvg-id="7RM" group-title="🇪🇸 ESPAÑA " ch-number="88" tvg-logo="https://ver.zapitv.com/images/ch/96/LOGO/m/0",7RM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4867aa61887a973461c3f9f6add0ae4a:c347d26476708fc5ac2fecdcf2a5aabb
+https://ott.zapitv.com/live/eds_c2/7rm_hd/dash_live_enc/7rm_hd.mpd
+
+#EXTINF:-1 tvg-id="CANAL EXTREMADURA" group-title="🇪🇸 ESPAÑA " ch-number="89" tvg-logo="https://ver.zapitv.com/images/ch/98/LOGO/m/0",CANAL EXTREMADURA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a96d9a89a109d408c1733d5943b11f1f:b5b64f3a9de3dde22b40e9ebd91dfda7
+https://ott.zapitv.com/live/eds_c2/extremadura_tv/dash_live_enc/extremadura_tv.mpd
+
+#EXTINF:-1 tvg-id="TVG" group-title="🇪🇸 ESPAÑA " ch-number="90" tvg-logo="https://ver.zapitv.com/images/ch/373/LOGO/m/0",TVG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d47b106bc099480411379aa3135a985:45589a49327be7e2a0372f29cec240bf
+https://ott.zapitv.com/live/eds_c2/GALICIA/dash_live_enc/GALICIA.mpd
+
+#EXTINF:-1 tvg-id="MOTO ADV" group-title="🇪🇸 ESPAÑA " ch-number="95" tvg-logo="https://ver.zapitv.com/images/ch/308/LOGO/m/0",MOTO ADV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=047c8158ba826800c3a4b4607d56cbad:3eb58821118274ecc506a7d4b8343715
+https://ott.zapitv.com/live/eds_c2/moto_adv_hd/dash_live_enc/moto_adv_hd.mpd
+
+#EXTINF:-1 tvg-id="REKTV" group-title="🇪🇸 ESPAÑA " ch-number="96" tvg-logo="https://ver.zapitv.com/images/ch/305/LOGO/m/0",REKTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2e9efdd9a0b933647fb7a46c26e68fc:f45832f2f37e3727b3dec7f66a7166dd
+https://ott.zapitv.com/live/eds_c2/REKTV/dash_live_enc/REKTV.mpd
+
+#EXTINF:-1 tvg-id="TOROLÉ" group-title="🇪🇸 ESPAÑA " ch-number="98" tvg-logo="https://ver.zapitv.com/images/ch/322/LOGO/m/0",TOROLÉ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
+https://ott.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
 
 #EXTINF:-1 tvg-id="Star.TVE.HD.co" tvg-name="Star TVE" group-title="🇪🇸 ESPAÑA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star tve 
 http://168.181.122.234:8000/play/a02v/index.m3u8
