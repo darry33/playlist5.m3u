@@ -3567,7 +3567,210 @@ http://85.209.248.3:8080/Rete4HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mediasetitalia.png" group-title="🇮🇹 Italia ",MEDIASET 20
 http://85.209.248.3:8080/20MediasetHD/index.m3u8
 
-
+#EXTINF:1 tvg-id="Now70s.uk" tvg-chno="67" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1716_w300.webp",Now 70s
+http://malau.hopto.org:35000/api/swc/live/1716.mpd
+#EXTINF:1 tvg-id="Now80s.uk" tvg-chno="68" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1715_w300.webp",Now 80s
+http://malau.hopto.org:35000/api/swc/live/1715.mpd
+#EXTINF:1 tvg-id="94" tvg-chno="69" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/94_w300.webp",Now Rock
+http://malau.hopto.org:35000/api/swc/live/94.mpd
+#EXTINF:1 tvg-id="RTL102.5TV.it" tvg-chno="70" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1489_w300.webp",RTL 102.5 TV
+http://malau.hopto.org:35000/api/swc/live/1489.mpd
+#EXTINF:1 tvg-id="1641" tvg-chno="71" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1641_w300.webp",Deejay TV
+http://malau.hopto.org:35000/api/swc/live/1641.mpd
+#EXTINF:1 tvg-id="308" tvg-chno="72" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/308_w300.webp",Radio Pilatus TV
+http://malau.hopto.org:35000/api/swc/live/308.mpd
+#EXTINF:1 tvg-id="1825" tvg-chno="73" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1825_w300.webp",HitExpress TV
+http://malau.hopto.org:35000/api/swc/live/1825.mpd
+#EXTINF:1 tvg-id="218" tvg-chno="74" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/218_w300.webp",ITV1
+http://malau.hopto.org:35000/api/swc/live/218.mpd
+#EXTINF:1 tvg-id="219" tvg-chno="75" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/219_w300.webp",ITV2
+http://malau.hopto.org:35000/api/swc/live/219.mpd
+#EXTINF:1 tvg-id="220" tvg-chno="76" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/220_w300.webp",ITV3
+http://malau.hopto.org:35000/api/swc/live/220.mpd
+#EXTINF:1 tvg-id="221" tvg-chno="77" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/221_w300.webp",ITV4
+http://malau.hopto.org:35000/api/swc/live/221.mpd
+#EXTINF:1 tvg-id="1400" tvg-chno="78" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1400_w300.webp",ITVBe
+http://malau.hopto.org:35000/api/swc/live/1400.mpd
+#EXTINF:1 tvg-id="BBC1.uk" tvg-chno="79" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/37_w300.webp",BBC One
+http://malau.hopto.org:35000/api/swc/live/37.mpd
+#EXTINF:1 tvg-id="BBC2.uk" tvg-chno="80" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/39_w300.webp",BBC Two
+http://malau.hopto.org:35000/api/swc/live/39.mpd
+#EXTINF:1 tvg-id="85" tvg-chno="81" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/85_w300.webp",BBC Three / CBBC
+http://malau.hopto.org:35000/api/swc/live/85.mpd
+#EXTINF:1 tvg-id="BBC4.uk" tvg-chno="82" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/35_w300.webp",BBC Four
+http://malau.hopto.org:35000/api/swc/live/35.mpd
+#EXTINF:1 tvg-id="Channel4.uk" tvg-chno="83" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/89_w300.webp",Channel 4
+http://malau.hopto.org:35000/api/swc/live/89.mpd
+#EXTINF:1 tvg-id="178" tvg-chno="84" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/178_w300.webp",Channel 5
+http://malau.hopto.org:35000/api/swc/live/178.mpd
+#EXTINF:1 tvg-id="E4.uk" tvg-chno="85" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/146_w300.webp",E4
+http://malau.hopto.org:35000/api/swc/live/146.mpd
+#EXTINF:1 tvg-id="More4.uk" tvg-chno="86" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/262_w300.webp",More 4
+http://malau.hopto.org:35000/api/swc/live/262.mpd
+#EXTINF:1 tvg-id="Film4.uk" tvg-chno="87" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/176_w300.webp",Film Four
+http://malau.hopto.org:35000/api/swc/live/176.mpd
+#EXTINF:1 tvg-id="4Seven.uk" tvg-chno="88" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1678_w300.webp",4Seven
+http://malau.hopto.org:35000/api/swc/live/1678.mpd
+#EXTINF:1 tvg-id="1669" tvg-chno="89" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1669_w300.webp",5Action
+http://malau.hopto.org:35000/api/swc/live/1669.mpd
+#EXTINF:1 tvg-id="Drama.uk" tvg-chno="90" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/902_w300.webp",Drama
+http://malau.hopto.org:35000/api/swc/live/902.mpd
+#EXTINF:1 tvg-id="Dave.uk" tvg-chno="91" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1507_w300.webp",Dave
+http://malau.hopto.org:35000/api/swc/live/1507.mpd
+#EXTINF:1 tvg-id="FiveUSA.uk" tvg-chno="92" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1411_w300.webp",5USA
+http://malau.hopto.org:35000/api/swc/live/1411.mpd
+#EXTINF:1 tvg-id="My5.uk" tvg-chno="93" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1670_w300.webp",5SELECT
+http://malau.hopto.org:35000/api/swc/live/1670.mpd
+#EXTINF:1 tvg-id="1677" tvg-chno="94" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1677_w300.webp",Sky Mix
+http://malau.hopto.org:35000/api/swc/live/1677.mpd
+#EXTINF:1 tvg-id="1809" tvg-chno="95" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1809_w300.webp",Great! movies
+http://malau.hopto.org:35000/api/swc/live/1809.mpd
+#EXTINF:1 tvg-id="1810" tvg-chno="96" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1810_w300.webp",Great! movies action
+http://malau.hopto.org:35000/api/swc/live/1810.mpd
+#EXTINF:1 tvg-id="1805" tvg-chno="97" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1805_w300.webp",Great! Romance
+http://malau.hopto.org:35000/api/swc/live/1805.mpd
+#EXTINF:1 tvg-id="1637" tvg-chno="98" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1637_w300.webp",Voice of America
+http://malau.hopto.org:35000/api/swc/live/1637.mpd
+#EXTINF:1 tvg-id="PBS.uk" tvg-chno="99" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1404_w300.webp",PBS America
+http://malau.hopto.org:35000/api/swc/live/1404.mpd
+#EXTINF:1 tvg-id="Yesterday.uk" tvg-chno="100" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1674_w300.webp",Yesterday
+http://malau.hopto.org:35000/api/swc/live/1674.mpd
+#EXTINF:1 tvg-id="CBSReality.uk" tvg-chno="101" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1717_w300.webp",CBS Reality
+http://malau.hopto.org:35000/api/swc/live/1717.mpd
+#EXTINF:1 tvg-id="FoodNetwork.uk" tvg-chno="102" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1292_w300.webp",Food Network E
+http://malau.hopto.org:35000/api/swc/live/1292.mpd
+#EXTINF:1 tvg-id="Quest.uk" tvg-chno="103" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1604_w300.webp",Quest
+http://malau.hopto.org:35000/api/swc/live/1604.mpd
+#EXTINF:1 tvg-id="Challenge.uk" tvg-chno="104" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1682_w300.webp",Challenge
+http://malau.hopto.org:35000/api/swc/live/1682.mpd
+#EXTINF:1 tvg-id="5star.uk" tvg-chno="105" group-title="🇬🇧 United Kingdom" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1652_w300.webp",5Star
+http://malau.hopto.org:35000/api/swc/live/1652.mpd
+#EXTINF:1 tvg-id="ARD.de" tvg-chno="1" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/25_w300.webp",Das Erste
+http://malau.hopto.org:35000/api/swc/live/25.mpd
+#EXTINF:1 tvg-id="ZDF.de" tvg-chno="2" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/656_w300.webp",ZDF
+http://malau.hopto.org:35000/api/swc/live/656.mpd
+#EXTINF:1 tvg-id="MDRSachsen.de" tvg-chno="3" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/256_w300.webp",MDR
+http://malau.hopto.org:35000/api/swc/live/256.mpd
+#EXTINF:1 tvg-id="Sat1.ch" tvg-chno="4" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/375_w300.webp",SAT.1
+http://malau.hopto.org:35000/api/swc/live/375.mpd
+#EXTINF:1 tvg-id="Pro7.ch" tvg-chno="5" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/322_w300.webp",ProSieben
+http://malau.hopto.org:35000/api/swc/live/322.mpd
+#EXTINF:1 tvg-id="Kabel.ch" tvg-chno="6" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/226_w300.webp",Kabel eins
+http://malau.hopto.org:35000/api/swc/live/226.mpd
+#EXTINF:1 tvg-id="VOXup.de" tvg-chno="17" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1612_w300.webp",VOXup
+http://malau.hopto.org:35000/api/swc/live/1612.mpd
+#EXTINF:1 tvg-id="Sat1Gold.ch" tvg-chno="18" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/377_w300.webp",SAT.1 GOLD
+http://malau.hopto.org:35000/api/swc/live/377.mpd
+#EXTINF:1 tvg-id="Sixx.ch" tvg-chno="19" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/385_w300.webp",sixx
+http://malau.hopto.org:35000/api/swc/live/385.mpd
+#EXTINF:1 tvg-id="24" tvg-chno="20" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/24_w300.webp",Anixe Serie
+http://malau.hopto.org:35000/api/swc/live/24.mpd
+#EXTINF:1 tvg-id="ZDFneo.de" tvg-chno="21" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/659_w300.webp",ZDFneo
+http://malau.hopto.org:35000/api/swc/live/659.mpd
+#EXTINF:1 tvg-id="919" tvg-chno="24" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/919_w300.webp",RTLup
+http://malau.hopto.org:35000/api/swc/live/919.mpd
+#EXTINF:1 tvg-id="ProSiebenMaxx.ch" tvg-chno="25" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/323_w300.webp",ProSieben MAXX
+http://malau.hopto.org:35000/api/swc/live/323.mpd
+#EXTINF:1 tvg-id="One.de" tvg-chno="26" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/147_w300.webp",One
+http://malau.hopto.org:35000/api/swc/live/147.mpd
+#EXTINF:1 tvg-id="ZDFinfo.de" tvg-chno="29" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/658_w300.webp",ZDFinfo
+http://malau.hopto.org:35000/api/swc/live/658.mpd
+#EXTINF:1 tvg-id="ARTE.de" tvg-chno="30" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/27_w300.webp",Arte Deutsch
+http://malau.hopto.org:35000/api/swc/live/27.mpd
+#EXTINF:1 tvg-id="3sat.ch" tvg-chno="31" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/6_w300.webp",3sat
+http://malau.hopto.org:35000/api/swc/live/6.mpd
+#EXTINF:1 tvg-id="HGTV.de" tvg-chno="32" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1510_w300.webp",Home & Garden TV
+http://malau.hopto.org:35000/api/swc/live/1510.mpd
+#EXTINF:1 tvg-id="disneychannel.de" tvg-chno="33" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/128_w300.webp",Disney Channel D
+http://malau.hopto.org:35000/api/swc/live/128.mpd
+#EXTINF:1 tvg-id="Kika.de" tvg-chno="34" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/228_w300.webp",KiKa
+http://malau.hopto.org:35000/api/swc/live/228.mpd
+#EXTINF:1 tvg-id="289" tvg-chno="35" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/289_w300.webp",7+ / Nickelodeon
+http://malau.hopto.org:35000/api/swc/live/289.mpd
+#EXTINF:1 tvg-id="TOOGOplus.de" tvg-chno="36" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/918_w300.webp",Toggo Plus
+http://malau.hopto.org:35000/api/swc/live/918.mpd
+#EXTINF:1 tvg-id="RiC.de" tvg-chno="37" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/350_w300.webp",RIC TV
+http://malau.hopto.org:35000/api/swc/live/350.mpd
+#EXTINF:1 tvg-id="Sport1HD.ch" tvg-chno="38" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/398_w300.webp",Sport1
+http://malau.hopto.org:35000/api/swc/live/398.mpd
+#EXTINF:1 tvg-id="EuronewsDE.nws" tvg-chno="44" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/163_w300.webp",Euronews D
+http://malau.hopto.org:35000/api/swc/live/163.mpd
+#EXTINF:1 tvg-id="phoenix.de" tvg-chno="45" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/307_w300.webp",Phoenix TV
+http://malau.hopto.org:35000/api/swc/live/307.mpd
+#EXTINF:1 tvg-id="WeltDerWunder.de" tvg-chno="46" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/655_w300.webp",Welt der Wunder TV
+http://malau.hopto.org:35000/api/swc/live/655.mpd
+#EXTINF:1 tvg-id="N24Doku.de" tvg-chno="47" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1030_w300.webp",N24 Doku
+http://malau.hopto.org:35000/api/swc/live/1030.mpd
+#EXTINF:1 tvg-id="SWR.de" tvg-chno="48" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/414_w300.webp",SWR
+http://malau.hopto.org:35000/api/swc/live/414.mpd
+#EXTINF:1 tvg-id="WDR.de" tvg-chno="49" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/654_w300.webp",WDR
+http://malau.hopto.org:35000/api/swc/live/654.mpd
+#EXTINF:1 tvg-id="BR.de" tvg-chno="50" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/55_w300.webp",BR
+http://malau.hopto.org:35000/api/swc/live/55.mpd
+#EXTINF:1 tvg-id="ndr.de" tvg-chno="51" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/286_w300.webp",NDR
+http://malau.hopto.org:35000/api/swc/live/286.mpd
+#EXTINF:1 tvg-id="HR.de" tvg-chno="52" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/205_w300.webp",HR
+http://malau.hopto.org:35000/api/swc/live/205.mpd
+#EXTINF:1 tvg-id="rbbBerlin.de" tvg-chno="53" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/342_w300.webp",RBB
+http://malau.hopto.org:35000/api/swc/live/342.mpd
+#EXTINF:1 tvg-id="SRFernsehen.de" tvg-chno="54" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1502_w300.webp",SR Fernsehen
+http://malau.hopto.org:35000/api/swc/live/1502.mpd
+#EXTINF:1 tvg-id="ARD-alpha.de" tvg-chno="55" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/26_w300.webp",ARD-alpha
+http://malau.hopto.org:35000/api/swc/live/26.mpd
+#EXTINF:1 tvg-id="AuftankenTV.ch" tvg-chno="56" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1216_w300.webp",Auftanken TV
+http://malau.hopto.org:35000/api/swc/live/1216.mpd
+#EXTINF:1 tvg-id="Wetterfernsehen.ch" tvg-chno="57" group-title="🇩🇪 Germany" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1272_w300.webp",Wetter.TV
+http://malau.hopto.org:35000/api/swc/live/1272.mpd
+#EXTINF:1 tvg-id="3plus.ch" tvg-chno="8" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/4_w300.webp",3+
+http://malau.hopto.org:35000/api/swc/live/4.mpd
+#EXTINF:1 tvg-id="4plus.ch" tvg-chno="9" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/7_w300.webp",4+
+http://malau.hopto.org:35000/api/swc/live/7.mpd
+#EXTINF:1 tvg-id="5plus.ch" tvg-chno="10" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/8_w300.webp",5+
+http://malau.hopto.org:35000/api/swc/live/8.mpd
+#EXTINF:1 tvg-id="6plus.ch" tvg-chno="11" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1469_w300.webp",6+
+http://malau.hopto.org:35000/api/swc/live/1469.mpd
+#EXTINF:1 tvg-id="SRF1.ch" tvg-chno="12" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/399_w300.webp",SRF 1
+http://malau.hopto.org:35000/api/swc/live/399.mpd
+#EXTINF:1 tvg-id="SRF2.ch" tvg-chno="13" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/401_w300.webp",SRF zwei
+http://malau.hopto.org:35000/api/swc/live/401.mpd
+#EXTINF:1 tvg-id="Kanal9.ch" tvg-chno="58" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/227_w300.webp",Kanal 9
+http://malau.hopto.org:35000/api/swc/live/227.mpd
+#EXTINF:1 tvg-id="Televista.ch" tvg-chno="59" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1468_w300.webp",Televista
+http://malau.hopto.org:35000/api/swc/live/1468.mpd
+#EXTINF:1 tvg-id="1801" tvg-chno="60" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1801_w300.webp",Marco Polo
+http://malau.hopto.org:35000/api/swc/live/1801.mpd
+#EXTINF:1 tvg-id="1914" tvg-chno="61" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1914_w300.webp",Lilo TV
+http://malau.hopto.org:35000/api/swc/live/1914.mpd
+#EXTINF:1 tvg-id="StarTV.ch" tvg-chno="62" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/405_w300.webp",Star TV
+http://malau.hopto.org:35000/api/swc/live/405.mpd
+#EXTINF:1 tvg-id="GameTV.ch" tvg-chno="63" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1224_w300.webp",Game TV
+http://malau.hopto.org:35000/api/swc/live/1224.mpd
+#EXTINF:1 tvg-id="1790" tvg-chno="64" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1790_w300.webp",One Music Television
+http://malau.hopto.org:35000/api/swc/live/1790.mpd
+#EXTINF:1 tvg-id="1791" tvg-chno="65" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1791_w300.webp",Zwei Music Television
+http://malau.hopto.org:35000/api/swc/live/1791.mpd
+#EXTINF:1 tvg-id="blueZoom.ch" tvg-chno="39" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1221_w300.webp",blue Zoom D
+http://malau.hopto.org:35000/api/swc/live/1221.mpd
+#EXTINF:1 tvg-id="1254" tvg-chno="40" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1254_w300.webp",More Than Sports TV
+http://malau.hopto.org:35000/api/swc/live/1254.mpd
+#EXTINF:1 tvg-id="1601" tvg-chno="41" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1601_w300.webp",Swiss Sport TV
+http://malau.hopto.org:35000/api/swc/live/1601.mpd
+#EXTINF:1 tvg-id="S1.ch" tvg-chno="22" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/374_w300.webp",S1
+http://malau.hopto.org:35000/api/swc/live/374.mpd
+#EXTINF:1 tvg-id="Swiss1.ch" tvg-chno="23" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1223_w300.webp",SWISS1
+http://malau.hopto.org:35000/api/swc/live/1223.mpd
+#EXTINF:1 tvg-id="Puls8.ch" tvg-chno="14" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/325_w300.webp",Puls 8
+http://malau.hopto.org:35000/api/swc/live/325.mpd
+#EXTINF:1 tvg-id="TV24.ch" tvg-chno="15" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/634_w300.webp",TV24
+http://malau.hopto.org:35000/api/swc/live/634.mpd
+#EXTINF:1 tvg-id="TV25.ch" tvg-chno="16" group-title="🇨🇭 Switzerland" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/665_w300.webp",TV25
+http://malau.hopto.org:35000/api/swc/live/665.mpd
+#EXTINF:1 tvg-id="ORF1.at" tvg-chno="7" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 1
+http://malau.hopto.org:35000/api/swc/live/303.mpd
+#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1889_w300.webp",ORF Sport +
+http://malau.hopto.org:35000/api/swc/live/1889.mpd
+#EXTINF:1 tvg-id="1889" tvg-chno="42" group-title="🇦🇹 Austria" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/303_w300.webp",ORF 2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
 
 
 
