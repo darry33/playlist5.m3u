@@ -3496,6 +3496,78 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="20240319T052336SQUARE" tvg-name="" group-title="🇫🇷 France " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png",RMC TALK SPORT 
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 
+#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
+http://85.209.248.3:8080/Rai1HD/index.m3u8
+#EXTINF:-1 tvg-id="Rai.1.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 
+http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64045.m3u8
+
+#EXTINF:-1 tvg-id="Rai.2.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 
+http://85.209.248.3:8080/Rai2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 
+http://85.209.248.3:8080/Rai3HD/index.m3u8
+#EXTINF:-1 tvg-id="Rai.3.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp",Rai 3 🇩🇪
+https://bit.ly/3OyVjNs?profile=inspirationLivetv.m3u8
+
+#EXTINF:-1 tvg-id="Rai.4.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai4.webp",Rai 4 
+http://85.209.248.3:8080/Rai4HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
+http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64050.m3u8
+#EXTINF:-1 tvg-id="Rai.5.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp",Rai 5 
+http://85.209.248.3:8080/Rai5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai.Storia.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiStoria.webp",Rai Storia 
+http://85.209.248.3:8080/RaiStoriaHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai.Italia.pt" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp",RAI Italia 
+http://181.209.114.13:8000/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 
+http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68346.m3u8
+#EXTINF:-1 tvg-id="Rai.Movie.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp",Rai Movie 
+http://45.65.112.49:8000/play/a07c
+
+#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
+http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68345.m3u8
+#EXTINF:-1 tvg-id="Rai.Premium.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp",Rai Premium 
+http://85.209.248.3:8080/RaiPremiumHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RAI.Sport..it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 
+http://85.209.248.3:8080/RaiSportHD/index.m3u8
+
+#EXTINF:-1 tvg-id="LA7.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="LA7.HD.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LA7.webp",La7 
+http://45.65.112.49:8000/play/a0n2
+
+#EXTINF:-1 tvg-id="LA7D.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="LA7D.it" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp",La7d 
+http://45.65.112.49:8000/play/a0n1
+
+#EXTINF:-1 tvg-id="TG.NORBA.24.it" tvg-name="TG Norba24 IT" group-title="🇮🇹 Italia " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",TG Norba24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rtpitalia.webp",Rtp Italia 
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇹 Italia " tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV 
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCOULA" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiscuola.png" group-title="🇮🇹 Italia ",RAI SCOULA
+http://85.209.248.3:8080/RaiScuolaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiyoyo.png" group-title="🇮🇹 Italia ",RAI YOYO
+http://85.209.248.3:8080/RaiYoyoHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/italiaunohd.png" group-title="🇮🇹 Italia ",ITALIA 1
+http://85.209.248.3:8080/Italia1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 5" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canale5hd.png" group-title="🇮🇹 Italia ",CANALE 5
+http://85.209.248.3:8080/Canale5HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETE 4" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rete4hd.png" group-title="🇮🇹 Italia ",RETE 4
+http://85.209.248.3:8080/Rete4HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20" live="1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mediasetitalia.png" group-title="🇮🇹 Italia ",MEDIASET 20
+http://85.209.248.3:8080/20MediasetHD/index.m3u8
+
+
 
 
 
