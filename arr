@@ -931,6 +931,8 @@ https://edge.taghtia.com/sa/12.m3u8
 http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/3996
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="🇸🇦 SAUDI ARABIA",Al Saudiya Alaan (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="saudi_tv.sa" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/saudi/saudi_1.jpg?v=6" group-title="🇸🇦 SAUDI ARABIA",Al Saudiya 1 (1080p) [Not 24/7]
+https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="🇸🇦 SAUDI ARABIA",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="🇸🇦 SAUDI ARABIA",Asharq Discovery (1080p) [Geo-blocked]
@@ -949,7 +951,9 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="Channel24Saudi.sa" tvg-logo="https://i.imgur.com/gns6lgs.png" group-title="🇸🇦 SAUDI ARABIA",Channel 24 Saudi (720p)
 https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
 #EXTINF:-1 tvg-id="Channel24SAUDI.sa" tvg-logo="https://i.imgur.com/Wob8bz1.png" group-title="🇸🇦 SAUDI ARABIA",Channel 24 SAUDI (720p)
-https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8
+https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u
+#EXTINF:-1 tvg-id="thikrayat_tv.sa" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg?v=6" group-title="🇸🇦 SAUDI ARABIA",thikrayat tv
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
 #EXTINF:-1 tvg-id="ENTV.sa" tvg-logo="https://i.imgur.com/KnKTjev.png" group-title="🇸🇦 SAUDI ARABIA",EN TV
 http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="🇸🇦 SAUDI ARABIA",Iqraa (576p) [Not 24/7]
@@ -995,7 +999,7 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 #EXTINF:-1 tvg-id="SaudiaRadio.sa" tvg-logo="https://i.imgur.com/CvrR7wW.png" group-title="🇸🇦 SAUDI ARABIA",Saudia Radio (720p)
 https://edge.taghtia.com/sa/11.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="🇸🇦 SAUDI ARABIA",SBC (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/1.m3u8
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1 tvg-name="Universal Kids USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="👶 KIDS",Universal Kids USA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1180,19 +1184,19 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC International 4K" tvg-name="AR | [LIB] LBCi" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/LDC.png" group-title="🇱🇧 LEBANON",AR | [LIB] LBCi
 http://apontv.net:80/270223522003493/1593574628/93654
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/OTV.png" group-title="🇱🇧 LEBANON",AR | [LIB] OTV 
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/3751
+http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/LBCSAT.png" group-title="🇱🇧 LEBANON",AR | [LIB] LBC 
 http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="🇱🇧 LEBANON",LB: LBC 2
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/297107
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/ALJADED.png" group-title="🇱🇧 LEBANON",AR | [LIB] AL JADEED HD
-http://apontv.net:80/270223522003493/1593574628/38157
+http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/MTVLEBANON.png" group-title="🇱🇧 LEBANON",AR | [LIB] MTV 
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 tvg-id="almanar.lb" tvg-name="AR | [LIB] ALMANAR TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/ALMANARTV.png" group-title="🇱🇧 LEBANON",AR | [LIB] ALMANAR TV 
 http://95.216.180.111:1935/live/43/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | [LIB] NBN " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/NBN.png" group-title="🇱🇧 LEBANON",AR | [LIB] NBN 
-http://apontv.net:80/270223522003493/1593574628/38161
+http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HAWACOM" live="1" tvg-logo="http://teledunet.com/logos/hawacom.png" group-title="🇱🇧 LEBANON",HAWACOM
 http://www.teledunet.com:8080/tdn/tdn/306.ts
 #EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="🇱🇧 LEBANON",ONE LEBANON
