@@ -6986,66 +6986,56 @@ http://85.209.248.3:6500/ant1hd
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="StarChannel.gr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/star.png",STAR
 http://85.209.248.3:6500/starhd
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="" tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR INTERNATIONAL
-https://tinyurl.com/dd5fp323
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="MegaTV.gr" tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/mega.png",MEGA
 http://85.209.248.3:6500/megahd
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="SKAI.gr" tvg-name="SKAI" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/skai.png",SKAI
 http://85.209.248.3:6500/skaihd
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="GROOVY.gr" tvg-name="GROOVY" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/groovy.png",GROOVY
 https://web.onair-radio.eu/groovytv/groovytv/chunklist_w1859804103.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="SuperB.gr" tvg-name="SUPER B" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/superb.png",SUPER B
+#EXTINF:-1 group-title="🇬🇷 Greece" tvg-id="SuperB.gr" tvg-name="SUPER B" tvg-logo="https://raw.githubusercontent.com/tninis/stremio-greek-tv/master/stremio-greek-tv/Resources/Images/superb.png",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id=4e"" tvg-logo="https://i.ibb.co/tYqqKR5/4E.png",4E
-https://tinyurl.com/33as9u5u
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="action24" tvg-logo="https://i.ibb.co/NFM2rC9/ACTION-24.png",ACTION 24
-https://tinyurl.com/bddnr4s4
-#EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="aeolos" tvg-logo="https://i.ibb.co/mGfdN0Z/AEOLOS.png",AEOLOS
-https://tinyurl.com/yxbf628x
-#EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="axelwostv" tvg-logo="https://i.ibb.co/jZjc6y6/ACHELOOS.png",ACHELOOS
-https://tinyurl.com/3d7jvrsc
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="alert" tvg-logo="https://i.ibb.co/mTT22Rf/ALERT.png",ALERT
-https://tinyurl.com/3wk2dayh
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="atticatv" tvg-logo="https://i.ibb.co/VJ4xL5X/ATTICA.png",ATTICA
-https://tinyurl.com/4cwt2wsd
+https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="bluesky" tvg-logo="https://i.ibb.co/2yCqzZt/BLUE-SKY.png",BLUE SKY
-https://tinyurl.com/46xy6xkf
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="creta" tvg-logo="https://i.ibb.co/DMtTXZJ/CRETA.png",CRETA
-https://tinyurl.com/3wd9hjex
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="egnatia" tvg-logo="https://i.ibb.co/pdTsRjS/EGNATIA.png",EGNATIA
-https://tinyurl.com/y3aehdv4
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="epirustv1" tvg-logo="https://i.ibb.co/xLfvDqP/EPIRUS-TV-1.png",EPIRUS TV 1
-https://tinyurl.com/ykk9cnrt
+https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="epsilonthess" tvg-logo="https://i.ibb.co/hg5pnxd/EPSILON.png",EPSILON
-https://tinyurl.com/2us36an6
+https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="FAROS" tvg-logo="https://i.ibb.co/Qr182kk/FAROS.png",FAROS
-https://tinyurl.com/f4b4rc3u
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="gnomitv" tvg-logo="https://i.ibb.co/yn5wBYN/GNOMI.png",GNOMI
-https://tinyurl.com/3wrybjhd
+https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="hightv" tvg-logo="https://i.ibb.co/zG4vF85/HIGH.png",HIGH
-https://tinyurl.com/5y6njb2x
+https://live.streams.ovh/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="ionian" tvg-logo="https://i.ibb.co/PMpBp5f/IONIAN.png",IONIAN
-https://tinyurl.com/3mwfpmmm
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="mesogeiostv" tvg-logo="https://i.ibb.co/9Hq29WB/MESOGEIOS.png",MESOGEIOS
-https://tinyurl.com/s5kx4x88
+https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="Naftemporikitv" tvg-logo="https://i.ibb.co/JqQN0S7/NAFTEMPORIKI.png",NAFTEMPORIKI
-https://tinyurl.com/37j5bakf
+https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="neatvcrete" tvg-logo="https://i.ibb.co/n0k34c2/NEA-THLEORASH-KRHTHS.png",NEA THLEORASH KRHTHS
-https://tinyurl.com/5e2wst98
+https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="smileplus" tvg-logo="https://i.ibb.co/ZXgNTCq/SMILE.png",SMILE
-https://tinyurl.com/tfkyxvef
-#EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="star" tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR
-https://tinyurl.com/2yrxd8zd
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="thlekriti" tvg-logo="https://i.ibb.co/nfMhdB9/TELE-KRHTH.png",TELE KRHTH
-https://tinyurl.com/cxs73px7
+https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="thrakinet" tvg-logo="https://i.ibb.co/m4qtwYB/THRAKH-NET.png",THRAKH NET
-https://tinyurl.com/4z87kzez
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="trt" tvg-logo="https://i.ibb.co/BnLj48G/TRT.png",TRT
-https://tinyurl.com/4fdxvz6j
+https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="tv100" tvg-logo="https://i.ibb.co/CKcjdwG/TV-100.png",TV 100
-https://tinyurl.com/48keut9a
+https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="" tvg-logo="https://i.ibb.co/4g86BZ1/VERGINA.png",VERGINA
-https://tinyurl.com/sb6zpy3v
-#EXTINF:-1 group-title="🇬🇷 Greece"tvg-id="vouli" tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH
-
-
-
+https://fl1004.bozztv.com/ssh101/verginatv/index.m3u8
