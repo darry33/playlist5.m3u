@@ -16,8 +16,9 @@ https://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="RTP.3.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🇵🇹 Portugal ",RTP 3 
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://rtp.pt/
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="RTP.Memória.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="🇵🇹 Portugal ",RTP Memoria  
 #EXTVLCOPT:http-user-agent=Firefox
